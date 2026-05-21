@@ -25,12 +25,15 @@ if not MODEL_PATH or not Path(MODEL_PATH).exists():
 logging.info(f"Modèle utilisé : {MODEL_PATH}")
 
 def read_csv_try(path):
+    last_exc = None
     for enc in ("utf-8", "latin-1", "cp1252"):
         try:
             return pd.read_csv(path, encoding=enc, low_memory=False)
-        except Exception:
+        except Exception as e:
+            last_exc = e
+            logging.debug(f"Lecture avec encodage {enc} a échoué pour {path}: {e}")
             continue
-    raise
+    raise RuntimeError(f"Impossible de lire {path} avec les encodages testés (utf-8, latin-1, cp1252)") from last_exc
 
 template = read_csv_try(MODEL_PATH)
 template_cols = [c.strip() for c in template.columns]
