@@ -1,0 +1,1008 @@
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Starter;A. Peterson;33;3;0,05;33,05;3;10;0,3;1;4;0,25;2;6;0,333333333;5;6;0,833333333;;;;;;;;13;0;3;3;6;1;1;0;1;3;6;4;14;1;A. Peterson
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;Capitaine;Starter;M. Djaldi-Tabdi;19;52;0,87;19,87;2;3;0,666666667;2;2;1;0;1;0;3;4;0,75;;;;;;;;7;2;3;5;1;2;0;0;0;4;2;9;9;14;M. Djaldi-Tabdi(C)
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Starter;L. Geiselsoder;20;38;0,63;20,63;3;3;1;3;3;1;0;0;;0;0;;;;;;;;;6;0;4;4;0;4;1;3;0;3;1;2;10;15;L. Geiselsoder
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Starter;Y. Ewodo;15;4;0,07;15,07;1;6;0,166666667;1;4;0,25;0;2;0;0;0;;;;;;;;;2;1;0;1;4;2;0;0;0;2;0;3;0;16;Y. Ewodo
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Starter;K. Chery;26;15;0,25;26,25;4;7;0,571428571;2;3;0,666666667;2;4;0,5;2;3;0,666666667;;;;;;;;12;1;2;3;2;3;2;1;0;2;3;4;13;97;K. Chery
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;M. Pardon;15;31;0,52;15,52;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;0;0;0;5;3;4;0;0;2;0;3;4;5;M. Pardon
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;A. Salvadores;24;49;0,82;24,82;4;13;0,307692308;3;7;0,428571429;1;6;0,166666667;4;5;0,8;;;;;;;;13;2;3;5;3;1;2;1;0;0;4;-6;13;8;A. Salvadores
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;S. Macquet;9;0;0;9;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;2;0;1;0;-6;5;13;S. Macquet
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;C. Burdick;30;29;0,48;30,48;2;4;0,5;2;4;0,5;0;0;;2;4;0,5;;;;;;;;6;1;7;8;2;1;0;2;0;2;3;-1;13;22;C. Burdick
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;L. Bussiere;5;19;0,32;5,32;1;3;0,333333333;1;2;0,5;0;1;0;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;2;0;-2;0;28;L. Bussiere
+23-24;1/4 de finale;Coupe de France;Exterieur;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;22;56;0,392857143;17;35;0,485714286;5;21;0,238095238;16;22;0,727272727;18;24;10;11;25;9;10;65;10;27;37;24;19;10;9;1;21;19;0;86;;TOTAUX EQUIPE
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Starter;A. Peterson;35;0;0;35;2;11;0,181818182;1;4;0,25;1;7;0,142857143;9;10;0,9;;;;;;;;14;2;4;6;4;2;2;0;1;4;8;16;14;1;A. Peterson
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Starter;M. Pardon;14;33;0,55;14,55;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;2;0;2;2;1;1;0;2;0;1;-22;2;5;M. Pardon
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi;24;11;0,18;24,18;2;6;0,333333333;2;5;0,4;0;1;0;2;2;1;;;;;;;;6;2;5;7;0;0;1;2;0;4;1;0;12;14;M. Djaldi-Tabdi(C)
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Starter;L. Geiselsoder;28;3;0,05;28,05;7;15;0,466666667;4;10;0,4;3;5;0,6;0;0;;;;;;;;;17;1;7;8;2;2;1;1;1;3;0;9;19;15;L. Geiselsoder
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Starter;K. Chery;26;18;0,3;26,3;3;10;0,3;2;7;0,285714286;1;3;0,333333333;0;0;;;;;;;;;7;4;0;4;2;1;2;4;2;1;2;10;11;97;K. Chery
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;S. Fuehring;34;14;0,23;34,23;5;11;0,454545455;3;5;0,6;2;6;0,333333333;3;4;0,75;;;;;;;;15;2;8;10;3;2;0;1;0;2;6;11;20;3;S. Fuehring
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;A. Salvadores;32;10;0,17;32,17;7;17;0,411764706;4;9;0,444444444;3;8;0,375;1;3;0,333333333;;;;;;;;18;1;3;4;8;2;2;0;0;3;3;17;18;8;A. Salvadores
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;S. Macquet;3;32;0,53;3,53;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;2;0;-8;2;13;S. Macquet
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;Y. Ewodo;16;38;0,63;16,63;3;8;0,375;3;7;0,428571429;0;1;0;0;0;;;;;;;;;6;0;0;0;1;1;0;0;0;2;1;-5;1;16;Y. Ewodo
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;L. Bussiere;10;21;0,35;10,35;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;2;3;5;2;0;0;0;0;1;1;2;4;28;L. Bussiere
+23-24;Demi-finale;Coupe de France;Domicile;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;31;87;0,356321839;21;52;0,403846154;10;35;0,285714286;15;19;0,789473684;23;36;22;11;41;7;15;87;17;34;51;24;11;9;8;6;22;23;0;108;;TOTAUX EQUIPE
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Starter;A. Peterson;28;26;0,43;28,43;9;13;0,692307692;9;12;0,75;0;1;0;5;6;0,833333333;;;;;;;;23;1;2;3;3;4;1;0;0;0;8;-9;21;1;A. Peterson
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Starter;A. Salvadores;23;32;0,53;23,53;2;12;0,166666667;2;9;0,222222222;0;3;0;0;0;;;;;;;;;4;0;3;3;4;0;0;0;0;0;1;-16;1;8;A. Salvadores
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;Capitaine;Starter;M. Djaldi-Tabdi;9;55;0,92;9,92;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;2;2;0;1;0;1;0;4;0;-10;0;14;M. Djaldi-Tabdi(C)
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Starter;L. Geiselsoder;28;58;0,97;28,97;3;8;0,375;2;4;0,5;1;4;0,25;2;2;1;;;;;;;;9;0;5;5;2;2;0;0;0;3;2;-6;9;15;L. Geiselsoder
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Starter;K. Chery;23;41;0,68;23,68;2;5;0,4;1;2;0,5;1;3;0,333333333;1;2;0,5;;;;;;;;6;1;3;4;0;2;2;1;0;3;1;-7;7;97;K. Chery
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;S. Fuehring;30;5;0,08;30,08;4;8;0,5;4;6;0,666666667;0;2;0;3;4;0,75;;;;;;;;11;2;6;8;0;2;0;0;0;5;3;-3;12;3;S. Fuehring
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;M. Pardon;23;5;0,08;23,08;1;5;0,2;1;4;0,25;0;1;0;1;6;0,166666667;;;;;;;;3;1;3;4;5;0;2;0;0;3;5;-5;5;5;M. Pardon
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;S. Macquet;11;2;0,03;11,03;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;2;3;0;0;0;0;0;2;0;-7;2;13;S. Macquet
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;Y. Ewodo;19;9;0,15;19,15;3;8;0,375;3;8;0,375;0;0;;1;3;0,333333333;;;;;;;;7;2;0;2;0;1;1;1;0;1;2;-2;3;16;Y. Ewodo
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;L. Bussiere;2;7;0,12;2,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;0;1;28;L. Bussiere
+23-24;Finale;Coupe de France;Exterieur;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;24;62;0,387096774;22;48;0,458333333;2;14;0,142857143;13;23;0,565217391;17;36;5;12;21;3;6;63;10;26;36;15;15;6;3;0;22;22;0;60;;TOTAUX EQUIPE
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Starter;A. Peterson;26;51;0,85;26,85;2;8;0,25;2;7;0,285714286;0;1;0;2;2;1;;;;;;;;6;0;4;4;3;4;0;0;1;2;6;-22;3;1;A. Peterson
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Starter;S. Fuehring;29;33;0,55;29,55;5;9;0,555555556;4;6;0,666666667;1;3;0,333333333;4;4;1;;;;;;;;15;2;1;3;0;1;3;0;0;0;5;-24;16;3;S. Fuehring
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Starter;A. Salvadores;24;11;0,18;24,18;4;12;0,333333333;3;8;0,375;1;4;0,25;0;0;;;;;;;;;9;0;1;1;0;2;1;0;0;0;1;-8;1;8;A. Salvadores
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Starter;L. Geiselsoder;23;5;0,08;23,08;2;6;0,333333333;1;4;0,25;1;2;0,5;2;2;1;;;;;;;;7;2;1;3;2;1;0;1;0;2;2;-12;8;15;L. Geiselsoder
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Starter;K. Chery;21;10;0,17;21,17;3;7;0,428571429;2;5;0,4;1;2;0,5;0;0;;;;;;;;;7;3;3;6;0;2;2;0;0;3;0;0;9;97;K. Chery
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Banc;M. Pardon;23;44;0,73;23,73;2;7;0,285714286;1;5;0,2;1;2;0,5;0;0;;;;;;;;;5;1;1;2;3;3;2;1;0;0;1;-9;5;5;M. Pardon
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Banc;S. Macquet;8;50;0,83;8,83;0;1;0;0;0;;0;1;0;4;4;1;;;;;;;;4;1;0;1;0;1;1;0;0;0;2;-2;4;13;S. Macquet
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;Capitaine;Banc;M. Djaldi-Tabdi;14;45;0,75;14,75;2;5;0,4;2;5;0,4;0;0;;0;0;;;;;;;;;4;1;3;4;1;3;3;1;0;4;0;0;7;14;M. Djaldi-Tabdi(C)
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Banc;Y. Ewodo;18;25;0,42;18,42;4;7;0,571428571;4;6;0,666666667;0;1;0;2;2;1;;;;;;;;10;0;2;2;1;3;3;0;0;1;2;-15;10;16;Y. Ewodo
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Banc;L. Bussiere;6;28;0,47;6,47;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;0;0;1;0;0;0;0;2;0;-1;4;28;L. Bussiere
+23-24;1;Championat de France;Exterieur;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;25;63;0,396825397;19;46;0,413043478;6;17;0,352941176;14;14;1;30;36;4;10;26;2;6;70;11;16;27;11;21;15;3;1;14;19;0;67;;TOTAUX EQUIPE
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;A. Peterson;23;16;0,27;23,27;6;10;0,6;5;7;0,714285714;1;3;0,333333333;4;6;0,666666667;;;;;;;;17;0;1;1;5;2;2;0;0;1;3;28;17;1;A. Peterson
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;S. Fuehring;23;18;0,3;23,3;5;6;0,833333333;4;4;1;1;2;0,5;5;6;0,833333333;;;;;;;;16;4;3;7;1;2;0;0;0;2;4;21;20;3;S. Fuehring
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;A. Salvadores;16;27;0,45;16,45;1;6;0,166666667;1;4;0,25;0;2;0;2;2;1;;;;;;;;4;3;1;4;1;2;1;0;1;1;4;4;3;8;A. Salvadores
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;L. Geiselsoder;20;59;0,98;20,98;2;6;0,333333333;2;5;0,4;0;1;0;0;0;;;;;;;;;4;1;4;5;2;0;1;0;0;2;1;4;8;15;L. Geiselsoder
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;K. Chery;23;49;0,82;23,82;5;10;0,5;3;6;0,5;2;4;0,5;1;1;1;;;;;;;;13;3;8;11;2;1;3;1;0;1;1;25;24;97;K. Chery
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;M. Pardon;21;41;0,68;21,68;5;12;0,416666667;4;6;0,666666667;1;6;0,166666667;0;0;;;;;;;;;11;1;2;3;5;4;3;0;0;1;0;14;11;5;M. Pardon
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;S. Macquet;17;1;0,02;17,02;2;3;0,666666667;2;3;0,666666667;0;0;;1;1;1;;;;;;;;5;0;5;5;2;2;1;1;0;1;3;26;11;13;S. Macquet
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;Capitaine;Banc;M. Djaldi-Tabdi;18;42;0,7;18,7;4;10;0,4;4;8;0,5;0;2;0;0;0;;;;;;;;;8;2;2;4;0;1;1;1;1;1;1;23;7;14;M. Djaldi-Tabdi(C)
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;Y. Ewodo;18;41;0,68;18,68;1;4;0,25;0;2;0;1;2;0,5;0;0;;;;;;;;;3;1;1;2;1;1;0;0;1;1;1;16;2;16;Y. Ewodo
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;L. Bussiere;16;6;0,1;16,1;3;5;0,6;2;2;1;1;3;0,333333333;1;2;0,5;;;;;;;;8;1;1;2;2;1;2;0;0;0;1;24;10;28;L. Bussiere
+23-24;2;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;34;72;0,472222222;27;47;0,574468085;7;25;0,28;14;18;0,777777778;30;48;17;25;35;38;13;89;19;31;50;21;17;14;3;3;11;19;0;118;;TOTAUX EQUIPE
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Starter;A. Peterson;28;29;0,48;28,48;5;10;0,5;3;8;0,375;2;2;1;9;11;0,818181818;;;;;;;;21;0;4;4;3;0;2;0;0;3;12;15;23;1;A. Peterson
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Starter;S. Fuehring;35;44;0,73;35,73;3;6;0,5;3;4;0,75;0;2;0;3;3;1;;;;;;;;9;2;14;16;2;3;1;0;0;1;4;17;22;3;S. Fuehring
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Starter;L. Geiselsoder;24;26;0,43;24,43;2;7;0,285714286;2;3;0,666666667;0;4;0;2;2;1;;;;;;;;6;1;4;5;1;4;0;0;0;4;2;12;3;15;L. Geiselsoder
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Starter;Y. Ewodo;21;40;0,67;21,67;3;4;0,75;3;3;1;0;1;0;0;0;;;;;;;;;6;1;1;2;1;1;0;0;0;2;2;19;7;16;Y. Ewodo
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Starter;K. Chery;21;41;0,68;21,68;2;5;0,4;2;4;0,5;0;1;0;0;0;;;;;;;;;4;1;3;4;2;0;0;0;0;0;1;1;7;97;K. Chery
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Banc;M. Pardon;23;28;0,47;23,47;3;6;0,5;3;4;0,75;0;2;0;0;0;;;;;;;;;6;1;1;2;4;2;0;0;0;0;1;3;7;5;M. Pardon
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Banc;A. Salvadores;24;42;0,7;24,7;5;8;0,625;3;4;0,75;2;4;0,5;4;4;1;;;;;;;;16;1;1;2;2;4;0;0;0;3;2;1;13;8;A. Salvadores
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Banc;S. Macquet;3;60;1;4;0;0;;0;0;;0;0;;2;2;1;;;;;;;;2;0;0;0;1;0;1;0;0;2;1;3;4;13;S. Macquet
+23-24;3;Championat de France;Exterieur;Victoire;Angers;Capitaine;Banc;M. Djaldi-Tabdi;15;50;0,83;15,83;0;6;0;0;5;0;0;1;0;1;2;0,5;;;;;;;;1;1;1;2;0;2;0;0;2;5;1;-6;-6;14;M. Djaldi-Tabdi(C)
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Banc;L. Bussiere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;L. Bussiere
+23-24;3;Championat de France;Exterieur;Victoire;Angers;;Banc;TOTAUX EQUIPE;;;;;23;52;0,442307692;19;35;0,542857143;4;17;0,235294118;21;24;0,875;18;24;14;11;25;13;12;71;10;31;41;16;19;4;0;2;20;26;0;81;;TOTAUX EQUIPE
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;A. Peterson;24;54;0,9;24,9;4;7;0,571428571;2;2;1;2;5;0,4;2;3;0,666666667;;;;;;;;12;1;2;3;6;2;2;0;0;1;5;27;17;1;A. Peterson
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;S. Fuehring;23;30;0,5;23,5;4;8;0,5;4;6;0,666666667;0;2;0;5;7;0,714285714;;;;;;;;13;2;5;7;3;3;2;0;0;0;4;23;16;3;S. Fuehring
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;A. Salvadores;19;33;0,55;19,55;3;7;0,428571429;3;3;1;0;4;0;0;0;;;;;;;;;6;0;1;1;0;1;1;0;0;0;0;4;3;8;A. Salvadores
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;L. Geiselsoder;21;39;0,65;21,65;2;6;0,333333333;2;5;0,4;0;1;0;0;0;;;;;;;;;4;4;6;10;3;2;0;1;0;1;1;17;12;15;L. Geiselsoder
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;K. Chery;19;47;0,78;19,78;3;7;0,428571429;3;5;0,6;0;2;0;1;2;0,5;;;;;;;;7;2;3;5;0;2;1;2;1;0;2;17;8;97;K. Chery
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;C. Latil;2;6;0,1;2,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Latil
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;M. Pardon;20;22;0,37;20,37;2;4;0,5;1;3;0,333333333;1;1;1;1;2;0,5;;;;;;;;6;0;2;2;3;2;0;0;0;2;2;18;6;5;M. Pardon
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;C. Wade Gisse;2;22;0,37;2,37;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;-1;11;C. Wade Gisse
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;S. Macquet;13;23;0,38;13,38;1;1;1;1;1;1;0;0;;2;2;1;;;;;;;;4;0;2;2;1;2;0;0;0;2;1;2;5;13;S. Macquet
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;Capitaine;Banc;M. Djaldi-Tabdi;19;22;0,37;19,37;4;8;0,5;4;5;0,8;0;3;0;3;4;0,75;;;;;;;;11;1;0;1;1;2;4;0;0;3;2;18;10;14;M. Djaldi-Tabdi(C)
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;Y. Ewodo;20;13;0,22;20,22;3;6;0,5;2;4;0,5;1;2;0,5;2;3;0,666666667;;;;;;;;9;0;2;2;2;2;0;0;0;2;2;13;7;16;Y. Ewodo
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;L. Bussiere;12;49;0,82;12,82;1;3;0,333333333;0;1;0;1;2;0,5;0;0;;;;;;;;;3;0;2;2;0;1;2;0;0;0;0;11;4;28;L. Bussiere
+23-24;4;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;27;57;0,473684211;22;35;0,628571429;5;22;0,227272727;16;23;0,695652174;23;34;6;5;33;33;12;75;12;28;40;19;20;12;3;1;11;19;0;92;;TOTAUX EQUIPE
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Starter;A. Peterson;31;22;0,37;31,37;4;13;0,307692308;1;6;0,166666667;3;7;0,428571429;5;6;0,833333333;;;;;;;;16;1;3;4;2;3;0;0;0;3;5;2;9;1;A. Peterson
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Starter;S. Fuehring;30;56;0,93;30,93;2;6;0,333333333;1;4;0,25;1;2;0,5;1;2;0,5;;;;;;;;6;2;6;8;3;1;2;0;0;4;3;14;13;3;S. Fuehring
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Starter;M. Pardon;30;47;0,78;30,78;1;8;0,125;1;6;0,166666667;0;2;0;0;0;;;;;;;;;2;0;0;0;8;3;0;0;0;1;3;12;0;5;M. Pardon
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Starter;L. Geiselsoder;22;5;0,08;22,08;4;14;0,285714286;3;9;0,333333333;1;5;0,2;0;0;;;;;;;;;9;2;6;8;0;1;2;1;2;2;0;-16;9;15;L. Geiselsoder
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Starter;K. Chery;23;7;0,12;23,12;4;8;0,5;3;6;0,5;1;2;0,5;1;2;0,5;;;;;;;;10;2;5;7;0;1;1;0;1;2;2;14;12;97;K. Chery
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Banc;A. Salvadores;15;49;0,82;15,82;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;0;1;1;1;2;1;0;0;2;2;-9;-1;8;A. Salvadores
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Banc;S. Macquet;6;53;0,88;6,88;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;1;0;0;0;-5;1;13;S. Macquet
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;Capitaine;Banc;M. Djaldi-Tabdi;20;6;0,1;20,1;2;7;0,285714286;1;5;0,2;1;2;0,5;0;0;;;;;;;;;5;1;2;3;0;1;1;0;1;3;0;11;3;14;M. Djaldi-Tabdi(C)
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Banc;Y. Ewodo;16;36;0,6;16,6;3;3;1;1;1;1;2;2;1;0;0;;;;;;;;;8;0;0;0;1;0;0;0;0;0;0;-13;9;16;Y. Ewodo
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Banc;L. Bussiere;2;19;0,32;2,32;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;1;28;L. Bussiere
+23-24;5;Championat de France;Exterieur;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;21;65;0,323076923;12;42;0,285714286;9;23;0,391304348;7;10;0,7;15;20;8;4;15;12;15;58;12;29;41;15;14;7;2;4;17;15;0;62;;TOTAUX EQUIPE
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;S. Fuehring;27;41;0,68;27,68;5;7;0,714285714;2;2;1;3;5;0,6;0;0;;;;;;;;;13;1;3;4;1;1;3;0;0;1;2;6;18;3;S. Fuehring
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;M. Pardon;26;26;0,43;26,43;3;9;0,333333333;2;8;0,25;1;1;1;0;0;;;;;;;;;7;0;3;3;4;3;0;0;0;0;1;6;5;5;M. Pardon
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;A. Salvadores;25;44;0,73;25,73;4;12;0,333333333;4;9;0,444444444;0;3;0;1;1;1;;;;;;;;9;1;2;3;2;1;0;0;1;2;2;8;5;8;A. Salvadores
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;L. Geiselsoder;23;34;0,57;23,57;3;4;0,75;2;3;0,666666667;1;1;1;0;0;;;;;;;;;7;0;0;0;2;1;0;3;1;4;0;10;10;15;L. Geiselsoder
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;K. Chery;27;18;0,3;27,3;3;6;0,5;1;1;1;2;5;0,4;7;8;0,875;;;;;;;;15;1;7;8;0;1;1;0;0;2;4;11;19;97;K. Chery
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;A. Peterson;18;1;0,02;18,02;2;2;1;1;1;1;1;1;1;1;1;1;;;;;;;;6;0;3;3;6;3;1;0;0;3;3;13;13;1;A. Peterson
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;A. Diallo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;A. Diallo
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;S. Macquet;3;40;0,67;3,67;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;1;0;1;0;1;0;0;0;0;0;-2;2;13;S. Macquet
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;Capitaine;Banc;M. Djaldi-Tabdi;23;51;0,85;23,85;7;11;0,636363636;5;8;0,625;2;3;0,666666667;1;1;1;;;;;;;;17;0;2;2;2;3;0;1;0;2;2;17;15;14;M. Djaldi-Tabdi(C)
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;Y. Ewodo;23;45;0,75;23,75;3;7;0,428571429;1;1;1;2;6;0,333333333;1;2;0,5;;;;;;;;9;2;1;3;2;1;0;0;0;0;1;6;8;16;Y. Ewodo
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;L. Bussiere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;L. Bussiere
+23-24;6;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;31;59;0,525423729;19;34;0,558823529;12;25;0,48;11;13;0,846153846;19;22;8;6;34;17;7;85;6;23;29;19;16;5;4;2;14;15;0;96;;TOTAUX EQUIPE
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;A. Peterson;35;30;0,5;35,5;5;13;0,384615385;4;9;0,444444444;1;4;0,25;7;10;0,7;;;;;;;;18;1;1;2;5;6;3;0;0;1;10;-2;11;1;A. Peterson
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;M. Pardon;32;19;0,32;32,32;5;11;0,454545455;5;9;0,555555556;0;2;0;5;10;0,5;;;;;;;;15;0;3;3;5;4;2;0;1;0;7;-10;10;5;M. Pardon
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;Capitaine;Starter;M. Djaldi-Tabdi;20;2;0,03;20,03;3;5;0,6;2;3;0,666666667;1;2;0,5;2;2;1;;;;;;;;9;2;3;5;1;2;0;0;0;5;1;9;11;14;M. Djaldi-Tabdi(C)
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;L. Geiselsoder;26;8;0,13;26,13;5;7;0,714285714;3;5;0,6;2;2;1;3;6;0,5;;;;;;;;15;0;7;7;1;0;1;1;0;4;4;7;20;15;L. Geiselsoder
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;K. Chery;35;25;0,42;35,42;5;11;0,454545455;3;5;0,6;2;6;0,333333333;3;4;0,75;;;;;;;;15;2;4;6;3;0;3;0;0;2;2;-5;20;97;K. Chery
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;A. Salvadores;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;A. Salvadores
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;S. Macquet;13;44;0,73;13,73;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;2;3;5;1;1;0;0;0;2;0;-9;3;13;S. Macquet
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;Y. Ewodo;25;41;0,68;25,68;1;6;0,166666667;1;5;0,2;0;1;0;2;4;0,5;;;;;;;;4;0;1;1;2;4;0;0;2;2;3;-11;-4;16;Y. Ewodo
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;C. Burdick;29;24;0,4;29,4;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;3;2;5;0;6;0;0;0;5;1;-17;1;22;C. Burdick
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;L. Bussiere;6;45;0,75;6,75;1;3;0,333333333;0;0;;1;3;0,333333333;0;0;;;;;;;;;3;0;0;0;0;1;3;0;0;1;0;3;3;28;L. Bussiere
+23-24;7;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;27;62;0,435483871;20;42;0,476190476;7;20;0,35;22;36;0,611111111;19;32;12;10;11;16;12;83;12;26;38;18;24;12;1;3;22;28;0;79;;TOTAUX EQUIPE
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;A. Peterson;23;58;0,97;23,97;4;7;0,571428571;2;4;0,5;2;3;0,666666667;6;6;1;;;;;;;;16;0;2;2;8;2;1;0;0;0;3;17;22;1;A. Peterson
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;Capitaine;Starter;M. Djaldi-Tabdi;21;53;0,88;21,88;3;4;0,75;2;2;1;1;2;0,5;0;0;;;;;;;;;7;1;2;3;2;1;1;0;0;2;2;9;11;14;M. Djaldi-Tabdi(C)
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;L. Geiselsoder;26;1;0,02;26,02;10;11;0,909090909;8;8;1;2;3;0,666666667;1;2;0,5;;;;;;;;23;1;6;7;3;0;2;1;0;0;2;29;34;15;L. Geiselsoder
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;Y. Ewodo;14;38;0,63;14,63;1;8;0,125;1;6;0,166666667;0;2;0;0;0;;;;;;;;;2;2;0;2;2;2;2;0;0;0;0;-5;-1;16;Y. Ewodo
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;K. Chery;21;10;0,17;21,17;1;5;0,2;1;2;0,5;0;3;0;1;2;0,5;;;;;;;;3;0;4;4;1;1;0;0;0;2;2;12;2;97;K. Chery
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;M. Pardon;20;7;0,12;20,12;1;5;0,2;1;4;0,25;0;1;0;0;2;0;;;;;;;;2;0;0;0;3;1;0;1;0;1;2;22;-1;5;M. Pardon
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;A. Salvadores;24;17;0,28;24,28;4;6;0,666666667;3;3;1;1;3;0,333333333;3;4;0,75;;;;;;;;12;0;5;5;5;1;0;0;0;0;3;20;18;8;A. Salvadores
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;S. Macquet;13;11;0,18;13,18;0;5;0;0;5;0;0;0;;6;6;1;;;;;;;;6;2;3;5;1;0;0;0;0;2;4;2;7;13;S. Macquet
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;C. Burdick;18;55;0,92;18,92;2;3;0,666666667;2;3;0,666666667;0;0;;1;2;0,5;;;;;;;;5;2;7;9;1;2;0;1;0;4;2;18;12;22;C. Burdick
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;L. Bussiere;15;50;0,83;15,83;3;7;0,428571429;3;3;1;0;4;0;0;0;;;;;;;;;6;3;1;4;0;1;1;0;0;1;0;21;6;28;L. Bussiere
+23-24;8;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;29;61;0,475409836;23;40;0,575;6;21;0,285714286;18;24;0,75;21;38;12;16;31;29;16;82;12;32;44;26;12;7;3;0;12;20;0;112;;TOTAUX EQUIPE
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Starter;A. Peterson;26;7;0,12;26,12;1;7;0,142857143;0;3;0;1;4;0,25;2;2;1;;;;;;;;5;0;2;2;3;3;2;0;1;2;3;-12;3;1;A. Peterson
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Starter;A. Salvadores;28;40;0,67;28,67;4;10;0,4;3;6;0,5;1;4;0,25;0;0;;;;;;;;;9;2;5;7;2;4;2;1;0;1;1;-6;11;8;A. Salvadores
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;Capitaine;Starter;M. Djaldi-Tabdi;30;31;0,52;30,52;5;10;0,5;5;8;0,625;0;2;0;0;0;;;;;;;;;10;1;3;4;1;3;1;2;1;1;1;3;10;14;M. Djaldi-Tabdi(C)
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Starter;L. Geiselsoder;26;2;0,03;26,03;4;9;0,444444444;3;7;0,428571429;1;2;0,5;0;0;;;;;;;;;9;1;5;6;2;4;0;0;0;3;0;-1;8;15;L. Geiselsoder
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Starter;K. Chery;23;40;0,67;23,67;2;5;0,4;2;4;0,5;0;1;0;3;3;1;;;;;;;;7;1;2;3;1;3;0;1;0;3;2;5;6;97;K. Chery
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;M. Pardon;20;7;0,12;20,12;1;5;0,2;1;2;0,5;0;3;0;3;3;1;;;;;;;;5;0;0;0;4;2;1;0;1;1;2;1;4;5;M. Pardon
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;S. Macquet;8;10;0,17;8,17;0;1;0;0;1;0;0;0;;1;2;0,5;;;;;;;;1;0;1;1;0;3;0;0;0;3;1;-11;-3;13;S. Macquet
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;Y. Ewodo;16;54;0,9;16,9;1;4;0,25;1;1;1;0;3;0;2;2;1;;;;;;;;4;0;3;3;0;0;0;0;0;0;1;-18;4;16;Y. Ewodo
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;C. Burdick;15;9;0,15;15,15;0;1;0;0;1;0;0;0;;2;2;1;;;;;;;;2;2;5;7;1;0;1;0;0;0;2;-13;10;22;C. Burdick
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;L. Bussiere;4;40;0,67;4,67;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-3;1;28;L. Bussiere
+23-24;9;Championat de France;Exterieur;Defaite;Charnay;;Banc;TOTAUX EQUIPE;;;;;18;52;0,346153846;15;33;0,454545455;3;19;0,157894737;13;14;0,928571429;13;22;4;20;12;4;7;52;9;29;38;14;23;7;4;3;14;13;0;57;;TOTAUX EQUIPE
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;A. Peterson;29;38;0,63;29,63;6;13;0,461538462;3;9;0,333333333;3;4;0,75;3;5;0,6;;;;;;;;18;0;2;2;5;1;3;1;0;2;5;-2;19;1;A. Peterson
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;L. Geiselsoder;26;4;0,07;26,07;6;13;0,461538462;6;12;0,5;0;1;0;1;2;0,5;;;;;;;;13;1;11;12;3;0;2;1;0;3;2;8;23;15;L. Geiselsoder
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;Y. Ewodo;19;23;0,38;19,38;2;5;0,4;1;3;0,333333333;1;2;0,5;0;0;;;;;;;;;5;1;0;1;0;3;1;0;0;3;1;-1;1;16;Y. Ewodo
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;C. Burdick;18;17;0,28;18,28;0;2;0;0;2;0;0;0;;2;2;1;;;;;;;;2;3;6;9;0;2;1;0;0;2;2;-8;8;22;C. Burdick
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;K. Chery;29;8;0,13;29,13;2;10;0,2;2;6;0,333333333;0;4;0;1;2;0,5;;;;;;;;5;1;4;5;0;1;0;1;0;1;1;1;1;97;K. Chery
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;M. Pardon;21;8;0,13;21,13;1;7;0,142857143;1;7;0,142857143;0;0;;0;0;;;;;;;;;2;0;2;2;3;1;1;0;0;2;1;12;1;5;M. Pardon
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;M. N'diaye;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. N'diaye
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;A. Salvadores;12;39;0,65;12,65;1;7;0,142857143;1;6;0,166666667;0;1;0;1;2;0,5;;;;;;;;3;0;1;1;1;0;0;0;0;1;3;-6;-2;8;A. Salvadores
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;S. Macquet;9;16;0,27;9,27;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;1;0;1;0;1;1;1;0;3;0;-5;3;13;S. Macquet
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;Capitaine;Banc;M. Djaldi-Tabdi;26;23;0,38;26,38;6;10;0,6;6;10;0,6;0;0;;1;2;0,5;;;;;;;;13;2;2;4;2;1;2;1;1;4;2;8;16;14;M. Djaldi-Tabdi(C)
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;L. Bussiere;8;4;0,07;8,07;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;0;0;1;1;0;0;0;0;0;3;3;28;L. Bussiere
+23-24;10;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;26;70;0,371428571;21;57;0,368421053;5;13;0,384615385;9;15;0,6;18;36;8;12;23;10;11;66;13;28;41;15;14;11;5;1;21;17;0;74;;TOTAUX EQUIPE
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Starter;M. Pardon;29;17;0,28;29,28;2;7;0,285714286;2;4;0,5;0;3;0;0;0;;;;;;;;;4;1;3;4;6;2;1;0;0;0;1;2;8;5;M. Pardon
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;Capitaine;Starter;M. Djaldi-Tabdi;20;24;0,4;20,4;4;10;0,4;4;7;0,571428571;0;3;0;0;0;;;;;;;;;8;1;7;8;1;1;0;1;0;1;2;6;11;14;M. Djaldi-Tabdi(C)
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Starter;L. Geiselsoder;23;24;0,4;23,4;6;12;0,5;4;7;0,571428571;2;5;0,4;0;0;;;;;;;;;14;1;7;8;0;1;0;1;0;4;1;-3;16;15;L. Geiselsoder
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Starter;Y. Ewodo;21;25;0,42;21,42;1;5;0,2;1;5;0,2;0;0;;0;0;;;;;;;;;2;0;2;2;1;3;1;0;0;0;0;13;-1;16;Y. Ewodo
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Starter;K. Chery;26;20;0,33;26,33;0;4;0;0;2;0;0;2;0;0;0;;;;;;;;;0;1;4;5;2;2;1;0;0;1;2;7;2;97;K. Chery
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Banc;A. Salvadores;25;53;0,88;25,88;7;11;0,636363636;5;9;0,555555556;2;2;1;3;4;0,75;;;;;;;;19;2;6;8;6;5;1;0;0;1;3;12;24;8;A. Salvadores
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Banc;S. Macquet;13;9;0,15;13,15;1;4;0,25;1;3;0,333333333;0;1;0;0;0;;;;;;;;;2;2;3;5;1;1;0;1;0;4;0;16;5;13;S. Macquet
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Banc;C. Burdick;23;3;0,05;23,05;1;1;1;1;1;1;0;0;;1;2;0,5;;;;;;;;3;1;9;10;0;2;0;0;0;2;2;19;10;22;C. Burdick
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Banc;L. Bussiere;17;5;0,08;17,08;5;7;0,714285714;3;4;0,75;2;3;0,666666667;0;0;;;;;;;;;12;0;2;2;2;1;0;0;0;1;1;23;13;28;L. Bussiere
+23-24;11;Championat de France;Exterieur;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;27;61;0,442622951;21;42;0,5;6;19;0,315789474;4;6;0,666666667;12;34;7;8;36;19;11;64;9;44;53;19;18;4;3;0;14;12;0;89;;TOTAUX EQUIPE
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Starter;A. Peterson;29;20;0,33;29,33;2;9;0,222222222;2;5;0,4;0;4;0;4;4;1;;;;;;;;8;0;6;6;4;1;2;0;0;1;8;8;12;1;A. Peterson
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Starter;M. Pardon;23;18;0,3;23,3;1;4;0,25;1;3;0,333333333;0;1;0;0;0;;;;;;;;;2;0;2;2;4;1;2;0;0;2;0;25;6;5;M. Pardon
+23-24;12;Championat de France;Domicile;Victoire;Bourges;Capitaine;Starter;M. Djaldi-Tabdi;19;39;0,65;19,65;4;6;0,666666667;2;4;0,5;2;2;1;7;7;1;;;;;;;;17;2;3;5;0;1;0;0;0;5;3;21;19;14;M. Djaldi-Tabdi(C)
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Starter;L. Geiselsoder;29;40;0,67;29,67;2;8;0,25;1;5;0,2;1;3;0,333333333;2;2;1;;;;;;;;7;2;5;7;2;0;3;4;0;3;2;7;17;15;L. Geiselsoder
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Starter;K. Chery;24;21;0,35;24,35;7;13;0,538461538;6;8;0,75;1;5;0,2;1;4;0,25;;;;;;;;16;3;1;4;2;0;0;1;0;2;6;4;14;97;K. Chery
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;C. Latil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Latil
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;A. Salvadores;17;3;0,05;17,05;5;9;0,555555556;4;4;1;1;5;0,2;0;0;;;;;;;;;11;1;1;2;2;3;0;0;0;0;1;0;8;8;A. Salvadores
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;S. Macquet;4;32;0,53;4,53;0;0;;0;0;;0;0;;2;2;1;;;;;;;;2;0;0;0;0;0;1;0;0;1;1;-8;3;13;S. Macquet
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;Y. Ewodo;16;45;0,75;16,75;5;6;0,833333333;4;4;1;1;2;0,5;0;0;;;;;;;;;11;3;1;4;1;1;0;0;0;0;2;6;14;16;Y. Ewodo
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;C. Burdick;26;9;0,15;26,15;2;6;0,333333333;2;6;0,333333333;0;0;;1;2;0,5;;;;;;;;5;2;5;7;1;2;0;2;1;2;1;8;8;22;C. Burdick
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;L. Bussiere;9;13;0,22;9,22;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;0;0;1;1;1;1;0;0;0;-1;-1;28;L. Bussiere
+23-24;12;Championat de France;Domicile;Victoire;Bourges;;Banc;TOTAUX EQUIPE;;;;;28;64;0,4375;22;41;0,536585366;6;23;0,260869565;17;21;0,80952381;15;38;13;15;29;14;9;79;14;27;41;17;12;9;8;1;16;24;0;102;;TOTAUX EQUIPE
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;A. Peterson;27;13;0,22;27,22;1;5;0,2;1;4;0,25;0;1;0;2;2;1;;;;;;;;4;1;2;3;5;2;0;0;0;0;6;20;6;1;A. Peterson
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;A. Salvadores;18;36;0,6;18,6;2;7;0,285714286;1;3;0,333333333;1;4;0,25;2;2;1;;;;;;;;7;0;3;3;3;3;0;0;0;1;1;13;5;8;A. Salvadores
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;Capitaine;Starter;M. Djaldi-Tabdi;23;44;0,73;23,73;5;9;0,555555556;5;7;0,714285714;0;2;0;1;2;0,5;;;;;;;;11;3;0;3;1;3;1;1;0;2;1;6;9;14;M. Djaldi-Tabdi(C)
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;L. Geiselsoder;20;56;0,93;20,93;6;11;0,545454545;5;8;0,625;1;3;0,333333333;0;0;;;;;;;;;13;0;6;6;1;0;0;1;0;4;0;4;16;15;L. Geiselsoder
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;K. Chery;21;7;0,12;21,12;3;6;0,5;3;6;0,5;0;0;;3;4;0,75;;;;;;;;9;3;3;6;1;0;0;1;0;3;3;8;13;97;K. Chery
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;M. Pardon;21;24;0,4;21,4;1;5;0,2;1;3;0,333333333;0;2;0;0;0;;;;;;;;;2;1;3;4;1;1;2;0;0;0;0;-6;4;5;M. Pardon
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;S. Macquet;15;19;0,32;15,32;1;7;0,142857143;1;4;0,25;0;3;0;0;0;;;;;;;;;2;0;4;4;0;0;1;1;0;1;2;-2;2;13;S. Macquet
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;Y. Ewodo;18;1;0,02;18,02;4;9;0,444444444;3;4;0,75;1;5;0,2;0;0;;;;;;;;;9;1;0;1;1;1;1;0;0;0;0;-4;6;16;Y. Ewodo
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;C. Burdick;20;1;0,02;20,02;1;2;0,5;1;2;0,5;0;0;;2;2;1;;;;;;;;4;0;8;8;5;2;0;0;0;3;1;12;14;22;C. Burdick
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;L. Bussiere;13;39;0,65;13,65;2;6;0,333333333;1;2;0,5;1;4;0,25;0;0;;;;;;;;;5;1;0;1;0;0;0;2;0;0;0;-1;4;28;L. Bussiere
+23-24;13;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;26;67;0,388059701;22;43;0,511627907;4;24;0,166666667;10;12;0,833333333;21;36;11;5;22;18;12;66;12;30;42;18;13;5;6;0;14;14;0;81;;TOTAUX EQUIPE
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Starter;A. Peterson;30;25;0,42;30,42;8;14;0,571428571;6;9;0,666666667;2;5;0,4;2;2;1;;;;;;;;20;0;3;3;3;2;2;0;0;0;5;13;20;1;A. Peterson
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Starter;A. Salvadores;21;4;0,07;21,07;3;8;0,375;2;3;0,666666667;1;5;0,2;3;4;0,75;;;;;;;;10;0;4;4;3;1;1;0;0;1;2;9;11;8;A. Salvadores
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Starter;L. Geiselsoder;26;51;0,85;26,85;5;8;0,625;5;8;0,625;0;0;;5;8;0,625;;;;;;;;15;0;9;9;1;3;2;0;0;1;6;13;18;15;L. Geiselsoder
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Starter;C. Burdick;23;16;0,27;23,27;4;7;0,571428571;4;7;0,571428571;0;0;;0;0;;;;;;;;;8;1;3;4;2;1;1;1;0;4;0;9;12;22;C. Burdick
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Starter;K. Chery;30;18;0,3;30,3;6;14;0,428571429;3;9;0,333333333;3;5;0,6;0;0;;;;;;;;;15;4;3;7;3;1;0;3;0;0;0;6;19;97;K. Chery
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;C. Latil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Latil
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;M. Pardon;14;27;0,45;14,45;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;5;1;1;0;0;0;2;11;5;5;M. Pardon
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;S. Macquet;9;14;0,23;9,23;3;3;1;2;2;1;1;1;1;2;3;0,666666667;;;;;;;;9;0;2;2;1;0;0;0;0;3;2;-3;11;13;S. Macquet
+23-24;14;Championat de France;Domicile;Victoire;Angers;Capitaine;Banc;M. Djaldi-Tabdi;20;41;0,68;20,68;2;3;0,666666667;2;2;1;0;1;0;0;0;;;;;;;;;4;0;2;2;1;2;2;0;0;2;0;5;6;14;M. Djaldi-Tabdi(C)
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;Y. Ewodo;17;18;0,3;17,3;1;4;0,25;0;2;0;1;2;0,5;0;0;;;;;;;;;3;0;0;0;2;1;1;0;0;3;0;6;2;16;Y. Ewodo
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;L. Bussiere;6;26;0,43;6,43;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;-4;-1;28;L. Bussiere
+23-24;14;Championat de France;Domicile;Victoire;Angers;;Banc;TOTAUX EQUIPE;;;;;32;64;0,5;24;43;0,558139535;8;21;0,380952381;12;17;0,705882353;22;38;7;9;16;19;12;84;6;28;34;22;12;10;4;0;14;17;0;105;;TOTAUX EQUIPE
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;A. Peterson;31;5;0,08;31,08;6;12;0,5;5;7;0,714285714;1;5;0,2;6;6;1;;;;;;;;19;0;5;5;5;6;5;0;0;2;9;-1;22;1;A. Peterson
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;A. Salvadores;26;21;0,35;26,35;5;10;0,5;4;7;0,571428571;1;3;0,333333333;2;4;0,5;;;;;;;;13;0;1;1;2;2;0;0;0;1;5;2;7;8;A. Salvadores
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;Capitaine;Starter;M. Djaldi-Tabdi;27;38;0,63;27,63;5;10;0,5;4;6;0,666666667;1;4;0,25;4;4;1;;;;;;;;15;0;1;1;1;1;3;0;0;4;2;1;14;14;M. Djaldi-Tabdi(C)
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;L. Geiselsoder;27;16;0,27;27,27;3;7;0,428571429;2;5;0,4;1;2;0,5;0;0;;;;;;;;;7;3;8;11;0;1;0;0;0;2;0;-2;13;15;L. Geiselsoder
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;K. Chery;20;28;0,47;20,47;2;5;0,4;1;2;0,5;1;3;0,333333333;0;0;;;;;;;;;5;1;0;1;1;1;1;0;0;3;0;-8;4;97;K. Chery
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;M. Pardon;20;39;0,65;20,65;3;5;0,6;2;2;1;1;3;0,333333333;2;2;1;;;;;;;;9;1;2;3;2;0;1;0;0;1;1;-5;13;5;M. Pardon
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;S. Macquet;4;14;0,23;4,23;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;1;1;-3;2;13;S. Macquet
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;Y. Ewodo;21;28;0,47;21,47;2;9;0,222222222;2;7;0,285714286;0;2;0;1;2;0,5;;;;;;;;5;0;0;0;3;1;0;0;0;0;1;5;-1;16;Y. Ewodo
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;C. Burdick;20;51;0,85;20,85;0;2;0;0;2;0;0;0;;2;2;1;;;;;;;;2;0;2;2;2;0;0;1;0;4;1;-4;5;22;C. Burdick
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;L. Bussiere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;L. Bussiere
+23-24;15;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;27;61;0,442622951;21;39;0,538461538;6;22;0,272727273;17;20;0,85;14;34;3;26;18;;10;77;8;20;28;16;14;10;1;0;18;20;0;81;;TOTAUX EQUIPE
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Starter;A. Peterson;23;31;0,52;23,52;3;8;0,375;3;7;0,428571429;0;1;0;5;6;0,833333333;;;;;;;;11;0;2;2;1;2;1;0;0;3;4;3;7;1;A. Peterson
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Starter;M. Pardon;29;21;0,35;29,35;0;4;0;0;3;0;0;1;0;4;4;1;;;;;;;;4;1;1;2;8;4;3;1;0;1;3;17;10;5;M. Pardon
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi;23;56;0,93;23,93;2;7;0,285714286;2;5;0,4;0;2;0;2;2;1;;;;;;;;6;3;2;5;4;4;0;0;0;3;3;5;6;14;M. Djaldi-Tabdi(C)
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Starter;L. Geiselsoder;27;48;0,8;27,8;8;15;0,533333333;7;12;0,583333333;1;3;0,333333333;2;2;1;;;;;;;;19;2;8;10;0;2;0;0;0;1;1;19;20;15;L. Geiselsoder
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Starter;K. Chery;27;9;0,15;27,15;9;12;0,75;7;10;0,7;2;2;1;1;2;0,5;;;;;;;;21;3;2;5;0;1;3;3;0;2;2;24;27;97;K. Chery
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;S. Fuehring;18;39;0,65;18,65;0;2;0;0;1;0;0;1;0;2;6;0,333333333;;;;;;;;2;1;1;2;1;0;0;2;0;0;5;8;1;3;S. Fuehring
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;T. Heleno;0;22;0,37;0,37;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;-1;7;T. Heleno
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;A. Salvadores;19;31;0,52;19,52;2;8;0,25;2;6;0,333333333;0;2;0;4;4;1;;;;;;;;8;0;1;1;4;1;2;0;0;1;3;1;8;8;A. Salvadores
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;C. Wade Gisse;0;48;0,8;0,8;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;11;C. Wade Gisse
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;S. Macquet;8;49;0,82;8,82;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;2;0;-2;1;13;S. Macquet
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;Y. Ewodo;11;26;0,43;11,43;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;0;0;0;1;1;2;0;0;0;1;-4;3;16;Y. Ewodo
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;L. Bussiere;8;40;0,67;8,67;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;1;-1;28;L. Bussiere
+23-24;16;Championat de France;Domicile;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;26;62;0,419354839;23;48;0,479166667;3;14;0,214285714;20;26;0,769230769;27;40;9;10;14;18;9;75;12;25;37;20;16;11;6;0;13;22;0;91;;TOTAUX EQUIPE
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;A. Peterson;27;30;0,5;27,5;3;6;0,5;3;5;0,6;0;1;0;0;0;;;;;;;;;6;1;3;4;5;4;2;0;1;0;3;3;10;1;A. Peterson
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;A. Salvadores;19;59;0,98;19,98;5;10;0,5;5;9;0,555555556;0;1;0;0;0;;;;;;;;;10;1;3;4;4;2;2;0;0;3;3;-17;13;8;A. Salvadores
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;Capitaine;Starter;M. Djaldi-Tabdi;19;5;0,08;19,08;2;7;0,285714286;2;5;0,4;0;2;0;0;0;;;;;;;;;4;1;1;2;1;2;1;0;0;5;0;-9;1;14;M. Djaldi-Tabdi(C)
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;L. Geiselsoder;29;32;0,53;29,53;4;10;0,4;4;7;0,571428571;0;3;0;0;0;;;;;;;;;8;3;7;10;2;2;2;0;0;2;0;-18;14;15;L. Geiselsoder
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;K. Chery;31;19;0,32;31,32;3;8;0,375;2;6;0,333333333;1;2;0,5;2;4;0,5;;;;;;;;9;2;3;5;0;2;0;1;0;2;3;10;6;97;K. Chery
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;S. Fuehring;35;13;0,22;35,22;6;11;0,545454545;5;8;0,625;1;3;0,333333333;3;4;0,75;;;;;;;;16;1;8;9;1;2;1;0;1;2;4;13;19;3;S. Fuehring
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;M. Pardon;25;58;0,97;25,97;3;7;0,428571429;2;3;0,666666667;1;4;0,25;1;2;0,5;;;;;;;;8;0;3;3;3;6;2;0;0;1;3;2;5;5;M. Pardon
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;S. Macquet;6;10;0,17;6,17;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;2;2;1;0;0;0;0;2;1;4;6;13;S. Macquet
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;Y. Ewodo;18;58;0,97;18,97;4;7;0,571428571;4;7;0,571428571;0;0;;0;0;;;;;;;;;8;0;2;2;2;3;2;0;0;0;0;-15;8;16;Y. Ewodo
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;L. Bussiere;11;16;0,27;11,27;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;2;2;1;0;1;0;0;0;0;2;3;28;L. Bussiere
+23-24;17;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;31;68;0,455882353;27;51;0,529411765;4;17;0,235294118;6;10;0,6;24;34;9;15;35;10;11;72;10;36;46;20;24;13;1;2;17;17;0;87;;TOTAUX EQUIPE
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;S. Gruda;22;57;0,95;22,95;4;9;0,444444444;4;9;0,444444444;0;0;;1;2;0,5;;;;;;;;9;3;4;7;4;1;2;1;1;0;1;-8;16;7;S. Gruda
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;L. Quevedo Canizares;32;8;0,13;32,13;0;9;0;0;3;0;0;6;0;1;2;0,5;;;;;;;;1;1;3;4;2;2;1;0;1;2;1;-18;-4;9;L. Quevedo Canizares
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;Capitaine;Starter;A. Chery;31;19;0,32;31,32;5;8;0,625;2;3;0,666666667;3;5;0,6;0;0;;;;;;;;;13;0;9;9;3;2;0;1;1;1;1;-14;21;12;A. Chery(C)
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;J. Allemand;30;13;0,22;30,22;7;10;0,7;7;7;1;0;3;0;1;1;1;;;;;;;;15;0;3;3;5;4;0;1;0;0;2;-6;17;22;J. Allemand
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;M. Johannes;22;38;0,63;22,63;4;8;0,5;2;2;1;2;6;0,333333333;3;3;1;;;;;;;;13;1;5;6;1;5;1;0;0;3;2;-13;12;23;M. Johannes
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;G. Williams;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;G. Williams
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;H. Ciak;17;3;0,05;17,05;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;3;1;0;0;3;1;-5;-4;16;H. Ciak
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;J. Mouyokolo;20;57;0,95;20,95;1;4;0,25;1;4;0,25;0;0;;0;0;;;;;;;;;2;0;1;1;2;3;0;0;2;1;0;-5;-1;20;J. Mouyokolo
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;M. Faurat;2;49;0,82;2,82;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;1;0;0;0;0;1;3;0;21;M. Faurat
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;N. Miyem;19;56;0,93;19,93;4;7;0,571428571;3;6;0,5;1;1;1;3;4;0,75;;;;;;;;12;0;3;3;1;1;1;0;0;0;2;1;12;77;N. Miyem
+23-24;18;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;25;57;0,438596491;19;36;0,527777778;6;21;0,285714286;9;12;0,75;10;38;12;11;14;8;6;65;7;30;37;19;22;6;3;5;11;11;0;73;;TOTAUX EQUIPE
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;A. Peterson;30;14;0,23;30,23;4;9;0,444444444;1;4;0,25;3;5;0,6;7;9;0,777777778;;;;;;;;18;0;2;2;3;1;0;0;0;1;8;6;15;1;A. Peterson
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;S. Fuehring;32;14;0,23;32,23;4;9;0,444444444;3;5;0,6;1;4;0,25;2;2;1;;;;;;;;11;1;8;9;2;2;1;0;2;4;4;5;16;3;S. Fuehring
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;A. Salvadores;22;13;0,22;22,22;4;9;0,444444444;3;6;0,5;1;3;0,333333333;2;2;1;;;;;;;;11;0;1;1;3;2;1;0;1;2;6;1;9;8;A. Salvadores
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;Capitaine;Starter;M. Djaldi-Tabdi;23;8;0,13;23,13;4;10;0,4;4;9;0,444444444;0;1;0;0;0;;;;;;;;;8;1;6;7;2;1;0;0;2;3;0;9;10;14;M. Djaldi-Tabdi(C)
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;K. Chery;26;25;0,42;26,42;3;5;0,6;3;4;0,75;0;1;0;0;4;0;;;;;;;;6;1;4;5;2;2;1;4;0;2;2;7;10;97;K. Chery
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;M. Pardon;27;43;0,72;27,72;2;8;0,25;2;6;0,333333333;0;2;0;0;0;;;;;;;;;4;1;5;6;5;2;2;0;0;1;1;7;9;5;M. Pardon
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;S. Macquet;24;37;0,62;24,62;0;4;0;0;3;0;0;1;0;2;2;1;;;;;;;;2;0;5;5;0;4;0;1;0;2;2;0;0;13;S. Macquet
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;L. Geiselsoder;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;L. Geiselsoder
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;L. Bussiere;13;25;0,42;13,42;0;4;0;0;1;0;0;3;0;0;2;0;;;;;;;;0;2;0;2;1;0;1;0;0;0;1;0;-2;28;L. Bussiere
+23-24;19;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;21;58;0,362068966;16;38;0,421052632;5;20;0,25;13;21;0,619047619;10;22;6;2;6;9;9;60;10;33;43;18;14;6;5;5;15;24;0;73;;TOTAUX EQUIPE
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Starter;M. Pardon;19;23;0,38;19,38;0;5;0;0;5;0;0;0;;2;2;1;;;;;;;;2;0;1;1;7;2;1;1;0;1;1;8;5;5;M. Pardon
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Starter;A. Salvadores;22;13;0,22;22,22;4;11;0,363636364;1;4;0,25;3;7;0,428571429;2;2;1;;;;;;;;13;0;2;2;0;3;1;0;1;2;1;-1;6;8;A. Salvadores
+23-24;20;Championat de France;Domicile;Victoire;Charnay;Capitaine;Starter;M. Djaldi-Tabdi;21;58;0,97;21,97;4;7;0,571428571;4;7;0,571428571;0;0;;3;3;1;;;;;;;;11;4;8;12;0;1;1;1;0;3;2;13;21;14;M. Djaldi-Tabdi(C)
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Starter;L. Geiselsoder;17;33;0,55;17,55;5;7;0,714285714;4;6;0,666666667;1;1;1;2;2;1;;;;;;;;13;2;5;7;1;0;1;1;0;2;2;-1;21;15;L. Geiselsoder
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Starter;K. Chery;21;15;0,25;21,25;2;8;0,25;2;5;0,4;0;3;0;2;2;1;;;;;;;;6;3;0;3;1;1;2;0;0;2;1;14;5;97;K. Chery
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;A. Peterson;20;37;0,62;20,62;2;4;0,5;1;3;0,333333333;1;1;1;4;5;0,8;;;;;;;;9;1;1;2;6;0;1;0;0;0;4;8;15;1;A. Peterson
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;S. Fuehring;26;39;0,65;26,65;6;9;0,666666667;6;8;0,75;0;1;0;5;7;0,714285714;;;;;;;;17;4;4;8;3;1;0;0;0;2;5;24;22;3;S. Fuehring
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;S. Macquet;13;50;0,83;13,83;1;3;0,333333333;1;2;0,5;0;1;0;3;4;0,75;;;;;;;;5;1;0;1;1;1;0;1;0;3;4;-4;4;13;S. Macquet
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;Y. Ewodo;19;29;0,48;19,48;5;11;0,454545455;5;9;0,555555556;0;2;0;1;1;1;;;;;;;;11;3;0;3;2;3;0;0;1;0;2;5;7;16;Y. Ewodo
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;L. Bussiere;17;3;0,05;17,05;2;8;0,25;1;1;1;1;7;0,142857143;0;0;;;;;;;;;5;4;2;6;4;0;1;0;0;0;0;14;10;28;L. Bussiere
+23-24;20;Championat de France;Domicile;Victoire;Charnay;;Banc;TOTAUX EQUIPE;;;;;31;73;0,424657534;25;50;0,5;6;23;0,260869565;24;28;0,857142857;21;44;28;16;47;20;10;92;24;25;49;25;14;8;4;2;15;22;0;118;;TOTAUX EQUIPE
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Peterson;10;16;0,27;10,27;1;1;1;1;1;1;0;0;;3;3;1;;;;;;;;5;0;1;1;2;1;0;0;0;4;1;-10;7;1;A. Peterson
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;S. Fuehring;18;27;0,45;18,45;3;10;0,3;2;6;0,333333333;1;4;0,25;4;5;0,8;;;;;;;;11;1;1;2;2;2;0;0;2;1;3;-7;5;3;S. Fuehring
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Salvadores;30;9;0,15;30,15;6;9;0,666666667;6;8;0,75;0;1;0;0;1;0;;;;;;;;12;0;3;3;4;2;1;0;0;1;5;5;14;8;A. Salvadores
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;L. Geiselsoder;30;11;0,18;30,18;10;15;0,666666667;9;11;0,818181818;1;4;0,25;2;2;1;;;;;;;;23;1;8;9;3;1;0;0;0;4;1;-4;29;15;L. Geiselsoder
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;K. Chery;27;14;0,23;27,23;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;1;0;1;0;1;2;0;0;3;0;-8;2;97;K. Chery
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;M. Pardon;26;17;0,28;26,28;2;8;0,25;2;6;0,333333333;0;2;0;0;1;0;;;;;;;;4;0;4;4;10;1;0;0;1;1;1;4;10;5;M. Pardon
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Macquet;6;51;0,85;6,85;2;2;1;2;2;1;0;0;;0;0;;;;;;;;;4;0;1;1;1;0;1;1;0;2;1;4;8;13;S. Macquet
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;Capitaine;Banc;M. Djaldi-Tabdi;20;46;0,77;20,77;4;7;0,571428571;3;5;0,6;1;2;0,5;2;2;1;;;;;;;;11;1;0;1;0;2;0;1;0;5;1;0;8;14;M. Djaldi-Tabdi(C)
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;Y. Ewodo;24;12;0,2;24,2;3;7;0,428571429;1;2;0,5;2;5;0,4;1;2;0,5;;;;;;;;9;1;1;2;1;2;1;0;0;4;1;2;6;16;Y. Ewodo
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;L. Bussiere;5;38;0,63;5,63;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;1;1;0;1;1;0;0;0;0;-1;-1;28;L. Bussiere
+23-24;21;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;32;64;0,5;27;44;0,613636364;5;20;0,25;12;16;0,75;17;36;5;6;28;9;7;81;8;23;31;23;14;6;2;3;25;14;0;93;;TOTAUX EQUIPE
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Starter;A. Peterson;23;15;0,25;23,25;7;11;0,636363636;5;8;0,625;2;3;0,666666667;2;2;1;;;;;;;;18;0;2;2;5;0;1;0;1;0;3;19;22;1;A. Peterson
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Starter;A. Salvadores;16;56;0,93;16,93;1;7;0,142857143;1;4;0,25;0;3;0;1;4;0,25;;;;;;;;3;0;3;3;3;0;2;0;0;1;2;9;2;8;A. Salvadores
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;Capitaine;Starter;M. Djaldi-Tabdi;18;16;0,27;18,27;4;6;0,666666667;4;6;0,666666667;0;0;;0;0;;;;;;;;;8;1;4;5;0;2;0;2;0;2;0;20;11;14;M. Djaldi-Tabdi(C)
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Starter;L. Geiselsoder;18;32;0,53;18,53;5;9;0,555555556;5;8;0,625;0;1;0;1;1;1;;;;;;;;11;3;5;8;2;1;0;0;0;3;3;19;16;15;L. Geiselsoder
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Starter;K. Chery;19;10;0,17;19,17;3;7;0,428571429;2;4;0,5;1;3;0,333333333;2;2;1;;;;;;;;9;2;2;4;1;0;0;1;0;0;1;17;11;97;K. Chery
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Fuehring;20;7;0,12;20,12;7;10;0,7;6;8;0,75;1;2;0,5;5;5;1;;;;;;;;20;2;3;5;0;0;0;0;0;0;4;13;22;3;S. Fuehring
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;C. Latil;1;37;0,62;1,62;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;4;C. Latil
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;M. Pardon;15;26;0,43;15,43;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;3;4;7;6;3;0;1;0;2;0;14;12;5;M. Pardon
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;T. Heleno;3;54;0,9;3,9;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;7;T. Heleno
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Macquet;21;28;0,47;21,47;2;4;0,5;2;2;1;0;2;0;2;4;0,5;;;;;;;;6;0;8;8;0;0;0;0;0;3;2;15;10;13;S. Macquet
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;Y. Ewodo;20;50;0,83;20,83;2;6;0,333333333;2;4;0,5;0;2;0;0;0;;;;;;;;;4;0;2;2;3;3;2;0;0;1;1;17;4;16;Y. Ewodo
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;L. Bussiere;20;29;0,48;20,48;5;6;0,833333333;2;3;0,666666667;3;3;1;0;1;0;;;;;;;;13;1;1;2;0;2;1;0;0;1;1;28;12;28;L. Bussiere
+23-24;22;Championat de France;Domicile;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;37;69;0,536231884;30;49;0,612244898;7;20;0,35;13;19;0,684210526;18;52;18;8;45;39;11;94;14;36;50;20;13;6;4;1;13;17;0;123;;TOTAUX EQUIPE
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;A. Peterson;20;47;0,78;20,78;4;5;0,8;2;2;1;2;3;0,666666667;3;3;1;;;;;;;;13;1;0;1;2;2;0;0;0;2;3;16;13;1;A. Peterson
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;A. Salvadores;20;40;0,67;20,67;1;8;0,125;1;7;0,142857143;0;1;0;0;0;;;;;;;;;2;1;6;7;2;0;0;1;1;0;1;0;5;8;A. Salvadores
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;Capitaine;Starter;M. Djaldi-Tabdi;16;3;0,05;16,05;3;8;0,375;2;6;0,333333333;1;2;0,5;4;4;1;;;;;;;;11;2;0;2;0;0;2;3;0;3;2;24;13;14;M. Djaldi-Tabdi(C)
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;L. Geiselsoder;24;50;0,83;24,83;2;10;0,2;1;6;0,166666667;1;4;0,25;0;0;;;;;;;;;5;3;3;6;1;2;0;2;0;1;0;21;4;15;L. Geiselsoder
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;K. Chery;18;31;0,52;18,52;4;6;0,666666667;2;3;0,666666667;2;3;0,666666667;0;0;;;;;;;;;10;2;5;7;0;1;1;0;0;2;1;12;15;97;K. Chery
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;S. Fuehring;26;24;0,4;26,4;4;10;0,4;4;7;0,571428571;0;3;0;4;4;1;;;;;;;;12;0;5;5;2;1;1;0;0;2;4;3;13;3;S. Fuehring
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;M. Pardon;21;39;0,65;21,65;6;6;1;6;6;1;0;0;;4;5;0,8;;;;;;;;16;0;3;3;7;1;1;1;0;3;4;10;26;5;M. Pardon
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;S. Macquet;12;43;0,72;12,72;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;1;0;1;1;2;0;0;0;1;0;-4;0;13;S. Macquet
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;Y. Ewodo;22;10;0,17;22,17;3;6;0,5;2;2;1;1;4;0,25;0;0;;;;;;;;;7;1;1;2;4;1;0;0;0;3;2;12;9;16;Y. Ewodo
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;L. Bussiere;16;13;0,22;16,22;4;4;1;1;1;1;3;3;1;0;0;;;;;;;;;11;0;1;1;0;3;1;0;0;0;0;16;10;28;L. Bussiere
+23-24;1/4 finale Aller;Playoff;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;32;66;0,484848485;22;43;0,511627907;10;23;0,434782609;15;16;0,9375;13;30;18;10;48;26;18;89;13;28;41;19;14;6;7;1;17;17;0;113;;TOTAUX EQUIPE
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Starter;A. Peterson;22;26;0,43;22,43;7;11;0,636363636;5;5;1;2;6;0,333333333;2;2;1;;;;;;;;18;2;0;2;6;1;0;0;0;0;5;21;21;1;A. Peterson
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Starter;A. Salvadores;19;47;0,78;19,78;3;7;0,428571429;3;3;1;0;4;0;0;0;;;;;;;;;6;2;3;5;2;2;2;0;0;1;0;0;9;8;A. Salvadores
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;Capitaine;Starter;M. Djaldi-Tabdi;22;40;0,67;22,67;4;7;0,571428571;4;4;1;0;3;0;0;0;;;;;;;;;8;2;2;4;1;1;0;1;0;2;2;18;10;14;M. Djaldi-Tabdi(C)
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Starter;L. Geiselsoder;20;34;0,57;20,57;4;6;0,666666667;4;6;0,666666667;0;0;;0;2;0;;;;;;;;8;0;6;6;3;2;1;0;0;2;1;16;12;15;L. Geiselsoder
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Starter;K. Chery;19;2;0,03;19,03;2;7;0,285714286;1;3;0,333333333;1;4;0,25;2;2;1;;;;;;;;7;3;4;7;4;0;1;0;1;1;1;32;14;97;K. Chery
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Fuehring;18;57;0,95;18,95;5;6;0,833333333;3;4;0,75;2;2;1;1;2;0,5;;;;;;;;13;1;0;1;0;2;1;0;0;1;2;5;11;3;S. Fuehring
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;M. Pardon;22;20;0,33;22,33;1;7;0,142857143;1;4;0,25;0;3;0;0;0;;;;;;;;;2;0;1;1;5;1;3;0;0;0;0;-1;4;5;M. Pardon
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Macquet;17;49;0,82;17,82;2;7;0,285714286;2;7;0,285714286;0;0;;3;3;1;;;;;;;;7;2;2;4;0;2;0;0;0;0;3;-1;4;13;S. Macquet
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;Y. Ewodo;16;40;0,67;16,67;0;4;0;0;2;0;0;2;0;0;0;;;;;;;;;0;0;1;1;2;3;2;0;0;1;1;-10;-2;16;Y. Ewodo
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;L. Bussiere;19;45;0,75;19,75;5;10;0,5;5;6;0,833333333;0;4;0;0;0;;;;;;;;;10;3;3;6;5;3;1;0;0;1;0;15;14;28;L. Bussiere
+23-24;1/4 finale Retour;Playoff;Domicile;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;33;72;0,458333333;28;44;0,636363636;5;28;0,178571429;8;11;0,727272727;28;46;14;8;32;24;14;79;17;25;42;28;19;11;1;1;9;15;0;100;;TOTAUX EQUIPE
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Starter;A. Peterson;28;11;0,18;28,18;4;7;0,571428571;4;7;0,571428571;0;0;;5;5;1;;;;;;;;13;0;3;3;1;4;1;0;0;2;5;-9;11;1;A. Peterson
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi;21;25;0,42;21,42;4;7;0,571428571;4;5;0,8;0;2;0;2;3;0,666666667;;;;;;;;10;1;5;6;0;4;2;0;0;3;2;0;10;14;M. Djaldi-Tabdi(C)
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Starter;L. Geiselsoder;23;19;0,32;23,32;4;10;0,4;4;8;0,5;0;2;0;0;0;;;;;;;;;8;2;4;6;2;1;1;2;0;2;0;-16;12;15;L. Geiselsoder
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Starter;Y. Ewodo;23;14;0,23;23,23;4;5;0,8;2;2;1;2;3;0,666666667;0;0;;;;;;;;;10;1;1;2;0;3;0;0;0;3;0;2;8;16;Y. Ewodo
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Starter;K. Chery;24;22;0,37;24,37;2;3;0,666666667;2;2;1;0;1;0;1;4;0,25;;;;;;;;5;3;2;5;2;1;1;0;0;0;2;-11;8;97;K. Chery
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;S. Fuehring;28;9;0,15;28,15;2;8;0,25;2;5;0,4;0;3;0;0;0;;;;;;;;;4;0;7;7;2;0;0;0;0;2;3;8;7;3;S. Fuehring
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;M. Pardon;24;20;0,33;24,33;1;10;0,1;1;9;0,111111111;0;1;0;1;2;0,5;;;;;;;;3;0;2;2;3;2;0;0;1;0;1;-15;-4;5;M. Pardon
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;A. Salvadores;1;40;0,67;1,67;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-1;-2;8;A. Salvadores
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;S. Macquet;7;7;0,12;7,12;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;2;0;1;0;0;0;-2;-3;13;S. Macquet
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;L. Bussiere;18;13;0,22;18,22;4;8;0,5;3;4;0,75;1;4;0,25;0;0;;;;;;;;;9;2;4;6;1;0;2;0;1;1;0;19;14;28;L. Bussiere
+23-24;1/2 finale Aller;Playoff;Exterieur;Defaite;Tarbes;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;25;61;0,409836066;22;45;0,488888889;3;16;0,1875;9;14;0,642857143;10;38;17;8;16;6;15;62;12;30;42;11;19;7;3;2;13;13;0;65;;TOTAUX EQUIPE
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Starter;A. Peterson;28;20;0,33;28,33;7;14;0,5;7;12;0,583333333;0;2;0;3;3;1;;;;;;;;17;0;6;6;4;3;0;0;1;0;7;18;17;1;A. Peterson
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Starter;A. Salvadores;26;15;0,25;26,25;4;11;0,363636364;2;7;0,285714286;2;4;0,5;0;0;;;;;;;;;10;1;4;5;2;2;1;0;0;4;3;21;9;8;A. Salvadores
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi;29;44;0,73;29,73;3;10;0,3;3;6;0,5;0;4;0;0;0;;;;;;;;;6;2;1;3;1;1;1;1;0;3;0;10;4;14;M. Djaldi-Tabdi(C)
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Starter;L. Geiselsoder;29;19;0,32;29,32;4;8;0,5;4;7;0,571428571;0;1;0;4;5;0,8;;;;;;;;12;1;9;10;4;4;3;1;0;3;4;15;21;15;L. Geiselsoder
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Starter;K. Chery;28;13;0,22;28,22;2;7;0,285714286;0;4;0;2;3;0,666666667;2;2;1;;;;;;;;8;4;7;11;2;2;0;1;0;1;2;14;15;97;K. Chery
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;S. Fuehring;18;36;0,6;18,6;1;7;0,142857143;1;6;0,166666667;0;1;0;0;2;0;;;;;;;;2;1;0;1;3;1;0;0;0;1;2;-1;-3;3;S. Fuehring
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;C. Latil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Latil
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;M. Pardon;13;13;0,22;13,22;2;5;0,4;2;4;0,5;0;1;0;0;0;;;;;;;;;4;2;1;3;1;1;0;0;0;0;0;-5;4;5;M. Pardon
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;S. Macquet;2;21;0,35;2,35;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;-2;1;13;S. Macquet
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;Y. Ewodo;16;41;0,68;16,68;0;2;0;0;1;0;0;1;0;4;4;1;;;;;;;;4;0;2;2;1;0;0;0;0;1;2;-6;5;16;Y. Ewodo
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;L. Bussiere;7;19;0,32;7,32;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;1;0;1;0;1;2;0;0;0;1;-9;1;28;L. Bussiere
+23-24;1/2 finale Retour;Playoff;Domicile;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;24;69;0,347826087;20;50;0,4;4;19;0,210526316;13;16;0,8125;22;32;12;7;12;11;12;65;15;33;48;18;15;7;3;1;13;21;0;78;;TOTAUX EQUIPE
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Peterson;29;2;0,03;29,03;1;6;0,166666667;0;5;0;1;1;1;5;5;1;;;;;;;;8;0;5;5;4;4;0;0;1;1;4;-4;8;1;A. Peterson
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Salvadores;26;19;0,32;26,32;4;7;0,571428571;1;3;0,333333333;3;4;0,75;3;4;0,75;;;;;;;;14;0;4;4;2;3;1;0;0;3;5;-2;14;8;A. Salvadores
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;Capitaine;Starter;M. Djaldi-Tabdi;25;15;0,25;25,25;5;11;0,454545455;3;7;0,428571429;2;4;0,5;0;0;;;;;;;;;12;2;3;5;1;1;0;0;0;3;1;-10;11;14;M. Djaldi-Tabdi(C)
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;L. Geiselsoder;29;10;0,17;29,17;4;6;0,666666667;4;4;1;0;2;0;0;0;;;;;;;;;8;0;8;8;4;2;1;0;0;3;0;-4;17;15;L. Geiselsoder
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;K. Chery;31;56;0,93;31,93;1;6;0,166666667;1;2;0,5;0;4;0;2;4;0,5;;;;;;;;4;1;3;4;2;1;0;1;0;3;2;-3;3;97;K. Chery
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;S. Fuehring;19;54;0,9;19,9;2;5;0,4;1;3;0,333333333;1;2;0,5;1;2;0,5;;;;;;;;6;1;4;5;1;2;0;0;0;2;4;3;6;3;S. Fuehring
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;M. Pardon;17;60;1;18;3;7;0,428571429;3;7;0,428571429;0;0;;2;4;0,5;;;;;;;;8;0;0;0;3;1;1;0;0;0;2;-3;5;5;M. Pardon
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;S. Macquet;5;41;0,68;5,68;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;1;1;0;1;1;0;1;3;1;13;S. Macquet
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;Y. Ewodo;14;36;0,6;14,6;2;5;0,4;0;1;0;2;4;0,5;0;0;;;;;;;;;6;1;1;2;1;0;0;0;0;3;0;0;6;16;Y. Ewodo
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;L. Bussiere;0;6;0,1;0,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;L. Bussiere
+23-24;Finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;22;54;0,407407407;13;33;0,393939394;9;21;0,428571429;13;19;0,684210526;5;20;4;10;20;14;9;66;7;33;40;19;16;3;2;2;18;19;0;76;;TOTAUX EQUIPE
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Peterson;25;55;0,92;25,92;4;14;0,285714286;3;9;0,333333333;1;5;0,2;5;6;0,833333333;;;;;;;;14;2;4;6;8;4;2;0;1;1;5;-13;15;1;A. Peterson
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Salvadores;19;51;0,85;19,85;2;5;0,4;1;1;1;1;4;0,25;0;1;0;;;;;;;;5;0;1;1;1;1;0;0;0;2;2;-33;2;8;A. Salvadores
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;Capitaine;Starter;M. Djaldi-Tabdi;11;20;0,33;11,33;3;3;1;3;3;1;0;0;;4;4;1;;;;;;;;10;0;2;2;0;0;0;1;0;5;3;-19;13;14;M. Djaldi-Tabdi(C)
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;L. Geiselsoder;21;25;0,42;21,42;1;6;0,166666667;1;3;0,333333333;0;3;0;3;4;0,75;;;;;;;;5;1;1;2;2;0;0;2;0;4;2;-24;5;15;L. Geiselsoder
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;K. Chery;23;22;0,37;23,37;3;12;0,25;3;9;0,333333333;0;3;0;5;6;0,833333333;;;;;;;;11;1;2;3;2;0;0;0;0;2;4;-15;6;97;K. Chery
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Fuehring;25;23;0,38;25,38;4;7;0,571428571;3;5;0,6;1;2;0,5;2;2;1;;;;;;;;11;2;2;4;2;1;0;0;0;4;5;-6;13;3;S. Fuehring
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;M. Pardon;19;31;0,52;19,52;4;7;0,571428571;4;7;0,571428571;0;0;;0;0;;;;;;;;;8;0;2;2;6;6;1;0;0;2;0;-9;8;5;M. Pardon
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Macquet;17;51;0,85;17,85;3;4;0,75;1;1;1;2;3;0,666666667;3;4;0,75;;;;;;;;11;1;6;7;1;1;0;0;1;3;2;-4;16;13;S. Macquet
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;Y. Ewodo;18;26;0,43;18,43;3;7;0,428571429;2;5;0,4;1;2;0,5;0;0;;;;;;;;;7;0;1;1;2;3;0;0;0;2;0;-9;3;16;Y. Ewodo
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;L. Bussiere;16;56;0,93;16,93;2;5;0,4;0;1;0;2;4;0,5;0;0;;;;;;;;;6;1;1;2;2;2;0;0;0;2;0;2;5;28;L. Bussiere
+23-24;Finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;29;70;0,414285714;21;44;0,477272727;8;26;0,307692308;22;27;0,814814815;9;32;12;14;43;;9;88;12;24;36;26;19;3;3;2;27;23;0;91;;TOTAUX EQUIPE
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;A. Peterson;24;14;0,23;24,23;3;9;0,333333333;1;2;0,5;2;7;0,285714286;4;6;0,666666667;;;;;;;;12;0;2;2;6;1;2;0;0;1;6;11;13;1;A. Peterson
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;S. Fuehring;28;40;0,67;28,67;5;8;0,625;3;5;0,6;2;3;0,666666667;0;0;;;;;;;;;12;2;4;6;0;0;1;0;0;0;2;11;16;3;S. Fuehring
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;A. Salvadores;26;48;0,8;26,8;7;15;0,466666667;6;11;0,545454545;1;4;0,25;3;3;1;;;;;;;;18;0;2;2;6;1;1;0;0;0;2;14;18;8;A. Salvadores
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;L. Geiselsöder;21;35;0,58;21,58;4;6;0,666666667;3;4;0,75;1;2;0,5;0;0;;;;;;;;;9;4;2;6;1;1;1;2;0;3;0;12;16;15;L. Geiselsöder
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Starter;K. Chery;17;30;0,5;17,5;0;4;0;0;2;0;0;2;0;0;0;;;;;;;;;0;0;1;1;0;0;0;1;1;2;0;5;-2;97;K. Chery
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;M. Pardon;24;21;0,35;24,35;2;9;0,222222222;0;4;0;2;5;0,4;3;4;0,75;;;;;;;;9;0;1;1;2;4;1;0;0;1;2;12;1;5;M. Pardon
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;A. Diallo;8;12;0,2;8,2;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;1;0;-2;-1;10;A. Diallo
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;S. Macquet;13;5;0,08;13,08;2;2;1;2;2;1;0;0;;0;0;;;;;;;;;4;3;3;6;0;1;0;1;0;4;0;6;10;13;S. Macquet
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;Capitaine;Banc;C. Djaldi-Tabdi;16;40;0,67;16,67;3;7;0,428571429;2;5;0,4;1;2;0,5;1;1;1;;;;;;;;8;5;1;6;0;1;0;0;1;4;2;5;9;14;C. Djaldi-Tabdi(C)
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;Y. Ewodo;18;55;0,92;18,92;2;8;0,25;1;6;0,166666667;1;2;0,5;0;0;;;;;;;;;5;3;3;6;2;0;1;0;1;1;0;11;8;16;Y. Ewodo
+23-24;1;Match des champions;Exterieur;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;28;71;0,394366197;18;42;0,428571429;10;29;0,344827586;11;14;0,785714286;15;30;16;4;26;20;9;77;19;22;41;18;9;7;4;3;17;14;0;92;;TOTAUX EQUIPE
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;M. Djekoundade;24;43;0,72;43,72;5;5;1;5;5;1;0;0;;1;2;0,5;;;;;;;;11;0;4;4;2;2;0;2;0;0;1;23;16;9;M. Djekoundade
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;Capitaine;Starter;M. Djaldi-Tabdi(C);18;38;0,63;38,63;3;7;0,43;3;6;0,5;0;1;0;2;2;1;;;;;;;;8;1;3;4;0;3;1;0;0;1;1;1;6;14;M. Djaldi-Tabdi(C)
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;L. Geiselsoder;19;58;0,97;58,97;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;1;6;7;3;1;1;1;0;1;1;22;13;15;L. Geiselsoder
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;D. Slocum;19;40;0,67;40,67;2;5;0,4;0;0;;2;5;0,4;1;2;0,5;;;;;;;;7;0;2;2;3;2;1;0;0;3;3;11;7;24;D. Slocum
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;L. Lacan;18;31;0,52;31,52;3;9;0,33;0;2;0;3;7;0,43;2;2;1;;;;;;;;11;0;0;0;7;1;3;0;0;1;3;29;14;32;L. Lacan
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;S. Fuehring;23;6;0,1;6,1;3;3;1;0;0;;3;3;1;2;2;1;;;;;;;;11;1;5;6;1;4;1;0;0;1;3;36;15;3;S. Fuehring
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;A. Diallo;10;23;0,38;23,38;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;4;3;0;0;0;2;0;8;1;10;A. Diallo
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;S. Macquet;18;18;0,3;18,3;2;5;0,4;2;4;0,5;0;1;0;1;1;1;;;;;;;;5;3;2;5;0;2;0;0;1;3;1;7;5;13;S. Macquet
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;Y. Ewodo;17;14;0,23;14,23;4;8;0,5;3;5;0,6;1;3;0,33;3;3;1;;;;;;;;12;0;2;2;2;3;1;0;1;1;3;6;10;16;Y. Ewodo
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;L. Bussiere;29;30;0,5;30,5;10;14;0,71;3;4;0,75;7;10;0,7;0;0;;;;;;;;;27;2;6;8;3;1;5;0;0;1;0;22;38;28;L. Bussiere
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;1;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;33;57;0,58;17;27;0,63;16;30;0,53;12;14;0,86;25;30;23;20;55;40;24;94;12;33;45;25;24;13;3;2;14;16;0;130;0;TOTAUX EQUIPE
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Starter;S. Fuehring;23;33;0,55;33,55;4;7;0,57;4;6;0,67;0;1;0;1;3;0,33;;;;;;;;9;0;8;8;0;3;2;1;0;3;5;0;12;3;S. Fuehring
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Starter;M. Djekoundade;30;32;0,53;32,53;1;3;0,33;1;1;1;0;2;0;2;2;1;;;;;;;;4;2;7;9;4;2;0;1;0;1;2;11;14;9;M. Djekoundade
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Starter;L. Geiselsoder;29;4;0,07;4,07;6;12;0,5;5;11;0,45;1;1;1;2;2;1;;;;;;;;15;2;8;10;5;1;0;2;0;2;4;21;25;15;L. Geiselsoder
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Starter;D. Slocum;29;43;0,72;43,72;3;11;0,27;2;4;0,5;1;7;0,14;2;4;0,5;;;;;;;;9;1;6;7;3;3;0;0;0;3;4;10;6;24;D. Slocum
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Starter;L. Lacan;16;0;0;0;2;4;0,5;2;3;0,67;0;1;0;0;0;;;;;;;;;4;0;1;1;0;2;1;0;0;5;2;6;2;32;L. Lacan
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;M. N'diaye;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. N'diaye
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;A. Diallo;2;6;0,1;6,1;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;1;-1;10;A. Diallo
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;Z. Uriarte;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;Z. Uriarte
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;S. Macquet;6;4;0,07;4,07;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;1;0;1;0;2;0;-6;2;13;S. Macquet
+24-25;2;Championat de France;Domicile;Victoire;Bourges;Capitaine;Banc;M. Djaldi-Tabdi(C);21;9;0,15;9,15;4;7;0,57;4;6;0,67;0;1;0;2;2;1;;;;;;;;10;1;1;2;1;1;0;2;0;1;2;11;11;14;M. Djaldi-Tabdi(C)
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;Y. Ewodo;14;40;0,67;40,67;2;4;0,5;2;3;0,67;0;1;0;1;2;0,5;;;;;;;;5;1;0;1;1;1;1;0;1;2;3;-3;4;16;Y. Ewodo
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;L. Bussiere;26;59;0,98;59,98;4;8;0,5;1;2;0,5;3;6;0,5;1;2;0,5;;;;;;;;12;1;3;4;1;3;0;0;0;1;2;14;9;28;L. Bussiere
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;2;Championat de France;Domicile;Victoire;Bourges;;Banc;TOTAUX EQUIPE;;;;;26;57;0,46;21;36;0,58;5;21;0,24;11;17;0,65;12;40;10;10;27;15;11;68;9;38;47;16;19;4;7;1;21;24;0;86;0;TOTAUX EQUIPE
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Starter;S. Fuehring;27;50;0,83;50,83;4;8;0,5;4;5;0,8;0;3;0;6;7;0,86;;;;;;;;14;0;5;5;0;1;1;0;0;2;5;-5;14;3;S. Fuehring
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Starter;M. Djekoundade;24;13;0,22;13,22;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;0;3;3;1;2;0;0;0;1;1;-1;1;9;M. Djekoundade
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Starter;L. Geiselsoder;26;58;0,97;58,97;3;12;0,25;3;12;0,25;0;0;;0;0;;;;;;;;;6;5;5;10;1;0;1;0;1;1;5;-6;9;15;L. Geiselsoder
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Starter;D. Slocum;22;10;0,17;10,17;2;9;0,22;0;3;0;2;6;0,33;2;2;1;;;;;;;;8;1;2;3;6;1;1;0;1;3;4;1;10;24;D. Slocum
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Starter;L. Lacan;25;33;0,55;33,55;3;9;0,33;3;9;0,33;0;0;;3;5;0,6;;;;;;;;9;2;1;3;1;3;5;0;0;3;3;-11;7;32;L. Lacan
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;M. Pardon;16;18;0,3;18,3;2;2;1;2;2;1;0;0;;0;0;;;;;;;;;4;0;1;1;4;2;1;0;0;1;0;1;8;5;M. Pardon
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;S. Macquet;7;8;0,13;8,13;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;2;2;1;0;0;0;0;0;0;4;5;13;S. Macquet
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;Capitaine;Banc;M. Djaldi-Tabdi(C);18;4;0,07;4,07;4;6;0,67;4;6;0,67;0;0;;4;4;1;;;;;;;;12;2;2;4;0;4;0;2;1;1;1;3;12;14;M. Djaldi-Tabdi(C)
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;Y. Ewodo;18;35;0,58;35,58;4;7;0,57;3;6;0,5;1;1;1;1;2;0,5;;;;;;;;10;1;1;2;1;1;1;0;1;1;1;-4;9;16;Y. Ewodo
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;L. Bussiere;13;11;0,18;11,18;1;2;0,5;0;0;;1;2;0,5;0;0;;;;;;;;;3;0;0;0;2;3;0;0;0;1;0;8;1;28;L. Bussiere
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;3;Championat de France;Exterieur;Defaite;Charnay;;Banc;TOTAUX EQUIPE;;;;;25;60;0,42;21;46;0,46;4;14;0,29;16;20;0,8;14;32;10;6;31;14;9;70;13;24;37;17;18;10;2;4;14;20;0;79;0;TOTAUX EQUIPE
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;Capitaine;Starter;M. Djaldi-Tabdi(C);23;49;0,82;49,82;4;7;0,57;2;5;0,4;2;2;1;0;0;;;;;;;;;10;1;1;2;0;0;2;1;1;1;0;14;12;14;M. Djaldi-Tabdi(C)
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Starter;L. Geiselsoder;25;24;0,4;24,4;6;12;0,5;6;10;0,6;0;2;0;2;2;1;;;;;;;;14;0;8;8;5;1;1;1;0;0;2;13;22;15;L. Geiselsoder
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Starter;Y. Ewodo;26;13;0,22;13,22;4;8;0,5;4;6;0,67;0;2;0;3;5;0,6;;;;;;;;11;1;2;3;2;1;1;0;0;1;3;15;10;16;Y. Ewodo
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Starter;D. Slocum;20;0;0;0;4;12;0,33;3;7;0,43;1;5;0,2;0;0;;;;;;;;;9;3;5;8;2;2;1;0;0;3;3;8;10;24;D. Slocum
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Starter;L. Lacan;18;44;0,73;44,73;2;6;0,33;1;2;0,5;1;4;0,25;0;0;;;;;;;;;5;0;2;2;1;3;0;0;0;3;1;18;1;32;L. Lacan
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Fuehring;16;11;0,18;11,18;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;3;4;3;4;0;0;0;3;3;5;2;3;S. Fuehring
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;M. Pardon;24;47;0,78;47,78;3;5;0,6;3;5;0,6;0;0;;0;0;;;;;;;;;6;0;3;3;4;0;1;0;0;1;0;9;12;5;M. Pardon
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;M. Djekoundade;13;47;0,78;47,78;0;1;0;0;1;0;0;0;;1;2;0,5;;;;;;;;1;0;1;1;1;0;0;0;0;2;1;4;1;9;M. Djekoundade
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Macquet;14;36;0,6;36,6;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;2;3;5;1;2;1;1;1;1;0;6;8;13;S. Macquet
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;L. Bussiere;16;29;0,48;29,48;3;7;0,43;1;2;0,5;2;5;0,4;0;2;0;;;;;;;;8;3;0;3;1;2;0;0;0;0;1;3;4;28;L. Bussiere
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;4;Championat de France;Domicile;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;28;63;0,44;22;43;0,51;6;20;0,3;6;11;0,55;21;38;7;8;19;20;10;68;11;31;42;20;16;7;3;2;15;14;0;84;0;TOTAUX EQUIPE
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;M. Pardon;20;25;0,42;25,42;0;5;0;0;5;0;0;0;;0;0;;;;;;;;;0;1;2;3;3;5;1;0;0;2;0;-10;-3;5;M. Pardon
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;M. Djekoundade;28;32;0,53;32,53;2;7;0,29;2;7;0,29;0;0;;0;2;0;;;;;;;;4;0;3;3;4;4;1;2;0;2;4;5;3;9;M. Djekoundade
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;Capitaine;Starter;M. Djaldi-Tabdi(C);17;18;0,3;18,3;4;8;0,5;4;7;0,57;0;1;0;2;3;0,67;;;;;;;;10;3;1;4;2;3;1;1;0;2;2;-9;10;14;M. Djaldi-Tabdi(C)
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;L. Geiselsoder;32;12;0,2;12,2;5;12;0,42;4;11;0,36;1;1;1;2;2;1;;;;;;;;13;5;6;11;4;2;1;2;1;3;2;2;22;15;L. Geiselsoder
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;D. Slocum;24;6;0,1;6,1;2;5;0,4;1;2;0,5;1;3;0,33;2;2;1;;;;;;;;7;0;1;1;3;0;1;0;0;5;1;2;9;24;D. Slocum
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;S. Fuehring;32;38;0,63;38,63;6;14;0,43;4;8;0,5;2;6;0,33;4;5;0,8;;;;;;;;18;2;8;10;1;3;2;1;0;3;3;4;20;3;S. Fuehring
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;S. Macquet;9;8;0,13;8,13;3;3;1;3;3;1;0;0;;0;0;;;;;;;;;6;0;0;0;1;2;0;0;0;3;0;-7;5;13;S. Macquet
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;Y. Ewodo;7;2;0,03;2,03;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;0;1;0;1;1;0;0;1;0;-4;0;16;Y. Ewodo
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;L. Bussiere;18;52;0,87;52,87;1;4;0,25;0;0;;1;4;0,25;0;0;;;;;;;;;3;1;2;3;2;1;0;0;0;2;1;-7;4;28;L. Bussiere
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;L. Lacan;34;48;0,8;48,8;8;15;0,53;4;7;0,57;4;8;0,5;4;4;1;;;;;;;;24;0;2;2;3;0;6;0;0;3;3;4;28;32;L. Lacan
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;5;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;31;74;0,42;22;51;0,43;9;23;0,39;14;18;0,78;22;42;15;8;51;5;8;85;16;25;41;23;22;14;6;1;26;16;0;100;0;TOTAUX EQUIPE
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Starter;M. Djekoundade;29;34;0,57;34,57;5;6;0,83;4;5;0,8;1;1;1;3;5;0,6;;;;;;;;14;0;6;6;5;0;3;1;0;1;3;15;26;9;M. Djekoundade
+24-25;6;Championat de France;Domicile;Victoire;Angers;Capitaine;Starter;M. Djaldi-Tabdi(C);14;56;0,93;56,93;2;5;0,4;2;4;0,5;0;1;0;2;5;0,4;;;;;;;;6;1;1;2;1;1;2;0;0;5;4;6;4;14;M. Djaldi-Tabdi(C)
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Starter;L. Geiselsoder;22;1;0,02;1,02;8;13;0,62;7;9;0,78;1;4;0,25;1;1;1;;;;;;;;18;1;1;2;3;2;0;1;0;2;3;8;17;15;L. Geiselsoder
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Starter;D. Slocum;24;12;0,2;12,2;5;8;0,63;2;2;1;3;6;0,5;0;0;;;;;;;;;13;0;2;2;1;1;0;0;0;1;1;20;12;24;D. Slocum
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Starter;L. Lacan;24;5;0,08;5,08;4;7;0,57;3;5;0,6;1;2;0,5;2;4;0,5;;;;;;;;11;0;0;0;4;3;2;0;0;3;4;8;9;32;L. Lacan
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;S. Fuehring;26;44;0,73;44,73;2;3;0,67;2;2;1;0;1;0;0;2;0;;;;;;;;4;0;5;5;0;2;0;0;0;3;5;13;4;3;S. Fuehring
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;M. Pardon;17;15;0,25;15,25;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;1;1;2;0;0;1;0;1;0;-2;2;5;M. Pardon
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;M. N'diaye;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. N'diaye
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;T. Heleno;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;T. Heleno
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;S. Macquet;18;20;0,33;20,33;3;4;0,75;3;4;0,75;0;0;;0;0;;;;;;;;;6;0;4;4;0;3;0;1;0;3;1;8;7;13;S. Macquet
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;Y. Ewodo;10;37;0,62;37,62;2;4;0,5;1;3;0,33;1;1;1;0;0;;;;;;;;;5;0;2;2;0;0;1;0;0;0;0;-1;6;16;Y. Ewodo
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;L. Bussiere;12;16;0,27;16,27;1;4;0,25;0;0;;1;4;0,25;1;2;0,5;;;;;;;;4;0;2;2;4;1;0;0;0;0;2;5;5;28;L. Bussiere
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;0;0;0;0;1;0;0;0;0;Team / Coach
+24-25;6;Championat de France;Domicile;Victoire;Angers;;Banc;TOTAUX EQUIPE;;;;;32;56;0,57;24;36;0,67;8;20;0,4;9;19;0,47;22;40;9;11;19;19;9;81;4;28;32;20;13;8;4;0;20;23;0;98;0;TOTAUX EQUIPE
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Starter;M. Djekoundade;28;51;0,85;51,85;1;3;0,33;0;2;0;1;1;1;2;2;1;;;;;;;;5;1;4;5;0;1;2;0;0;1;1;12;9;9;M. Djekoundade
+24-25;7;Championat de France;Domicile;Victoire;Chartres;Capitaine;Starter;M. Djaldi-Tabdi(C);26;34;0,57;34,57;5;12;0,42;4;9;0,44;1;3;0,33;2;2;1;;;;;;;;13;4;4;8;1;1;1;1;1;3;1;-2;16;14;M. Djaldi-Tabdi(C)
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Starter;L. Geiselsoder;29;12;0,2;12,2;9;13;0,69;8;10;0,8;1;3;0,33;2;3;0,67;;;;;;;;21;2;9;11;5;1;0;1;1;0;6;19;32;15;L. Geiselsoder
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Starter;D. Slocum;22;6;0,1;6,1;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;0;0;0;5;3;3;0;0;1;1;2;4;24;D. Slocum
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Starter;L. Lacan;22;56;0,93;56,93;6;13;0,46;6;9;0,67;0;4;0;1;1;1;;;;;;;;13;0;1;1;1;2;4;0;0;2;2;9;10;32;L. Lacan
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;M. Pardon;18;26;0,43;26,43;0;6;0;0;6;0;0;0;;0;0;;;;;;;;;0;0;1;1;4;2;0;0;0;3;1;1;-3;5;M. Pardon
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;M. N'diaye;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. N'diaye
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;Z. Uriarte;0;6;0,1;6,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;12;Z. Uriarte
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;S. Macquet;15;11;0,18;11,18;3;6;0,5;2;3;0,67;1;3;0,33;0;0;;;;;;;;;7;0;1;1;0;1;1;0;0;1;0;5;5;13;S. Macquet
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;Y. Ewodo;17;6;0,1;6,1;1;3;0,33;1;1;1;0;2;0;1;2;0,5;;;;;;;;3;0;1;1;1;1;1;0;0;0;2;11;2;16;Y. Ewodo
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;L. Bussiere;10;19;0,32;19,32;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;2;0;2;1;1;1;0;0;0;0;-4;0;28;L. Bussiere
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;K. Treffers;9;3;0,05;3,05;2;5;0,4;2;4;0,5;0;1;0;1;2;0,5;;;;;;;;5;1;2;3;0;0;1;0;1;0;1;0;5;42;K. Treffers
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;7;Championat de France;Domicile;Victoire;Chartres;;Banc;TOTAUX EQUIPE;;;;;28;68;0,41;24;46;0,52;4;22;0,18;9;12;0,75;18;34;11;7;15;15;12;69;12;24;36;18;14;14;2;3;11;15;0;82;0;TOTAUX EQUIPE
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;M. Djekoundade;20;0;0;0;0;7;0;0;3;0;0;4;0;4;4;1;;;;;;;;4;1;4;5;1;2;2;2;1;0;3;-19;5;9;M. Djekoundade
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;Capitaine;Starter;M. Djaldi-Tabdi(C);25;32;0,53;32,53;3;8;0,38;1;3;0,33;2;5;0,4;2;2;1;;;;;;;;10;3;2;5;2;2;0;0;0;3;4;-3;10;14;M. Djaldi-Tabdi(C)
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;L. Geiselsoder;21;46;0,77;46,77;1;7;0,14;1;5;0,2;0;2;0;0;0;;;;;;;;;2;0;6;6;0;3;0;0;0;4;1;-19;-1;15;L. Geiselsoder
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;D. Slocum;15;45;0,75;45,75;0;4;0;0;2;0;0;2;0;0;0;;;;;;;;;0;1;2;3;0;0;0;0;0;2;2;-11;-1;24;D. Slocum
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Starter;L. Lacan;24;54;0,9;54,9;0;6;0;0;3;0;0;3;0;5;6;0,83;;;;;;;;5;1;2;3;7;1;3;2;0;3;4;-6;12;32;L. Lacan
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;M. Pardon;18;48;0,8;48,8;2;7;0,29;2;7;0,29;0;0;;0;0;;;;;;;;;4;0;2;2;2;3;0;0;0;2;1;-7;0;5;M. Pardon
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;S. Macquet;19;57;0,95;57,95;2;7;0,29;1;4;0,25;1;3;0,33;0;0;;;;;;;;;5;2;3;5;0;1;0;2;0;2;0;-5;6;13;S. Macquet
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;Y. Ewodo;22;47;0,78;47,78;1;4;0,25;1;3;0,33;0;1;0;0;0;;;;;;;;;2;1;0;1;0;2;2;0;0;0;1;-4;0;16;Y. Ewodo
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;L. Bussiere;18;32;0,53;32,53;2;7;0,29;1;2;0,5;1;5;0,2;0;0;;;;;;;;;5;1;8;9;0;3;1;0;0;0;0;5;7;28;L. Bussiere
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;K. Treffers;11;59;0,98;59,98;1;2;0,5;1;2;0,5;0;0;;0;4;0;;;;;;;;2;0;1;1;1;0;0;0;0;3;2;4;-1;42;K. Treffers
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;8;Championat de France;Exterieur;Defaite;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;12;59;0,2;8;34;0,24;4;25;0,16;11;16;0,69;6;10;6;8;18;;14;39;10;33;43;13;19;8;6;1;19;18;0;38;0;TOTAUX EQUIPE
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;M. Djekoundade;26;19;0,32;19,32;3;7;0,43;1;3;0,33;2;4;0,5;3;4;0,75;;;;;;;;11;1;5;6;2;2;0;0;0;1;3;13;12;9;M. Djekoundade
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;Capitaine;Starter;M. Djaldi-Tabdi(C);27;41;0,68;41,68;9;14;0,64;8;13;0,62;1;1;1;2;2;1;;;;;;;;21;3;0;3;2;2;1;1;1;3;1;19;21;14;M. Djaldi-Tabdi(C)
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;L. Geiselsoder;29;38;0,63;38,63;5;9;0,56;4;8;0,5;1;1;1;1;2;0,5;;;;;;;;12;4;6;10;2;0;0;2;0;1;2;13;21;15;L. Geiselsoder
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;D. Slocum;25;26;0,43;26,43;3;7;0,43;2;4;0,5;1;3;0,33;1;1;1;;;;;;;;8;0;2;2;2;3;0;1;0;1;1;16;6;24;D. Slocum
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Starter;L. Lacan;17;58;0,97;58,97;3;8;0,38;1;4;0,25;2;4;0,5;1;2;0,5;;;;;;;;9;0;3;3;2;2;1;0;0;3;4;6;7;32;L. Lacan
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;M. Pardon;17;23;0,38;23,38;2;6;0,33;2;5;0,4;0;1;0;1;2;0,5;;;;;;;;5;0;2;2;1;1;1;0;0;2;1;-6;3;5;M. Pardon
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;M. N'diaye;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. N'diaye
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;A. Diallo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;A. Diallo
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;S. Macquet;11;13;0,22;13,22;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;1;0;0;1;3;-8;4;13;S. Macquet
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;Y. Ewodo;19;39;0,65;39,65;1;5;0,2;0;3;0;1;2;0,5;2;2;1;;;;;;;;5;2;1;3;3;0;2;0;0;1;2;7;9;16;Y. Ewodo
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;L. Bussiere;14;2;0,03;2,03;3;6;0,5;1;2;0,5;2;4;0,5;0;0;;;;;;;;;8;1;0;1;3;1;1;0;0;0;1;0;9;28;L. Bussiere
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;K. Treffers;10;41;0,68;41,68;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;1;2;3;2;2;0;0;0;3;1;-5;2;42;K. Treffers
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;9;Championat de France;Domicile;Victoire;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;30;65;0,46;20;44;0,45;10;21;0,48;11;15;0,73;24;32;12;8;20;21;14;81;16;26;42;19;15;7;4;1;16;19;0;99;0;TOTAUX EQUIPE
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Starter;M. Pardon;28;41;0,68;41,68;2;8;0,25;2;8;0,25;0;0;;0;0;;;;;;;;;4;0;1;1;4;1;4;0;0;1;0;0;6;5;M. Pardon
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Starter;M. Djekoundade;22;52;0,87;52,87;1;1;1;1;1;1;0;0;;1;1;1;;;;;;;;3;0;1;1;4;1;0;5;0;2;3;-15;12;9;M. Djekoundade
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi(C);18;29;0,48;29,48;3;7;0,43;3;7;0,43;0;0;;2;2;1;;;;;;;;8;1;3;4;0;1;1;1;1;3;1;-20;9;14;M. Djaldi-Tabdi(C)
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Starter;L. Geiselsoder;30;49;0,82;49,82;8;14;0,57;5;9;0,56;3;5;0,6;5;5;1;;;;;;;;24;1;3;4;2;1;0;1;1;1;2;-6;24;15;L. Geiselsoder
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Starter;D. Slocum;20;15;0,25;15,25;1;5;0,2;0;1;0;1;4;0,25;0;0;;;;;;;;;3;1;2;3;1;3;1;0;0;3;0;-18;1;24;D. Slocum
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;S. Macquet;19;38;0,63;38,63;1;7;0,14;1;5;0,2;0;2;0;2;3;0,67;;;;;;;;4;0;1;1;2;1;0;0;1;4;4;-2;-1;13;S. Macquet
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;Y. Ewodo;16;48;0,8;48,8;3;3;1;2;2;1;1;1;1;2;2;1;;;;;;;;9;1;0;1;0;3;3;0;0;1;1;0;10;16;Y. Ewodo
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;L. Bussiere;19;2;0,03;2,03;2;8;0,25;1;2;0,5;1;6;0,17;1;2;0,5;;;;;;;;6;1;3;4;2;2;2;1;0;0;1;8;6;28;L. Bussiere
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;L. Lacan;12;23;0,38;23,38;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;2;2;-8;-2;32;L. Lacan
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;K. Treffers;11;4;0,07;4,07;1;3;0,33;1;3;0,33;0;0;;0;0;;;;;;;;;2;2;3;5;0;1;0;0;0;3;0;6;4;42;K. Treffers
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;10;Championat de France;Exterieur;Defaite;Tarbes;;Banc;TOTAUX EQUIPE;;;;;22;58;0,38;16;39;0,41;6;19;0,32;13;15;0,87;16;26;5;11;21;;9;63;9;19;28;15;16;12;8;3;20;14;0;72;0;TOTAUX EQUIPE
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;M. Djekoundade;23;56;0,93;56,93;3;5;0,6;3;5;0,6;0;0;;0;0;;;;;;;;;6;3;4;7;3;1;3;0;0;0;1;9;16;9;M. Djekoundade
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;Capitaine;Starter;M. Djaldi-Tabdi(C);24;45;0,75;45,75;2;8;0,25;2;5;0,4;0;3;0;0;0;;;;;;;;;4;4;1;5;1;2;1;1;0;2;1;10;4;14;M. Djaldi-Tabdi(C)
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;L. Geiselsoder;27;34;0,57;34,57;5;13;0,38;4;10;0,4;1;3;0,33;2;2;1;;;;;;;;13;2;11;13;1;1;1;1;0;2;3;-2;20;15;L. Geiselsoder
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;D. Slocum;22;40;0,67;40,67;2;7;0,29;1;5;0,2;1;2;0,5;0;0;;;;;;;;;5;0;3;3;4;1;2;0;0;3;2;0;8;24;D. Slocum
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Starter;L. Lacan;21;10;0,17;10,17;5;11;0,45;4;8;0,5;1;3;0,33;5;5;1;;;;;;;;16;1;1;2;3;3;1;0;0;4;3;9;13;32;L. Lacan
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;M. Pardon;12;12;0,2;12,2;2;6;0,33;2;6;0,33;0;0;;0;0;;;;;;;;;4;0;0;0;3;0;0;0;0;0;1;6;3;5;M. Pardon
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;S. Macquet;15;37;0,62;37,62;2;4;0,5;2;3;0,67;0;1;0;0;0;;;;;;;;;4;0;4;4;1;0;0;1;0;1;0;6;8;13;S. Macquet
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;Y. Ewodo;14;29;0,48;29,48;2;5;0,4;1;3;0,33;1;2;0,5;2;2;1;;;;;;;;7;0;0;0;2;1;0;0;0;0;2;-6;5;16;Y. Ewodo
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;L. Bussiere;25;33;0,55;33,55;3;6;0,5;2;2;1;1;4;0,25;0;2;0;;;;;;;;7;1;3;4;3;1;4;0;0;0;1;-9;12;28;L. Bussiere
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;K. Treffers;12;4;0,07;4,07;2;5;0,4;2;5;0,4;0;0;;0;0;;;;;;;;;4;2;0;2;0;3;0;0;1;1;0;-8;0;42;K. Treffers
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;11;Championat de France;Domicile;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;28;70;0,4;23;52;0,44;5;18;0,28;9;11;0,82;17;42;4;13;26;23;8;70;14;28;42;21;14;12;3;1;13;14;0;90;0;TOTAUX EQUIPE
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;M. Djekoundade;27;33;0,55;33,55;3;5;0,6;3;4;0,75;0;1;0;4;4;1;;;;;;;;10;0;1;1;2;3;3;0;0;2;2;-8;11;9;M. Djekoundade
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;Capitaine;Starter;M. Djaldi-Tabdi(C);18;23;0,38;23,38;3;8;0,38;3;6;0,5;0;2;0;0;1;0;;;;;;;;6;1;2;3;0;4;2;0;0;4;1;-12;1;14;M. Djaldi-Tabdi(C)
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;L. Geiselsoder;30;43;0,72;43,72;3;9;0,33;2;6;0,33;1;3;0,33;2;2;1;;;;;;;;9;1;7;8;2;2;1;0;0;0;3;-2;12;15;L. Geiselsoder
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;D. Slocum;18;12;0,2;12,2;0;6;0;0;2;0;0;4;0;1;2;0,5;;;;;;;;1;0;0;0;1;2;1;0;0;3;5;-12;-6;24;D. Slocum
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;L. Lacan;24;53;0,88;53,88;8;10;0,8;5;6;0,83;3;4;0,75;1;1;1;;;;;;;;20;2;3;5;4;2;1;0;0;3;3;10;26;32;L. Lacan
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;M. Pardon;21;48;0,8;48,8;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;0;1;1;7;2;0;0;0;2;3;-8;8;5;M. Pardon
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;A. Diallo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;A. Diallo
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;C. Chemin;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;C. Chemin
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;S. Macquet;13;0;0;0;1;3;0,33;1;3;0,33;0;0;;0;0;;;;;;;;;2;1;2;3;0;2;1;0;0;4;0;5;2;13;S. Macquet
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;Y. Ewodo;12;43;0,72;43,72;3;6;0,5;3;5;0,6;0;1;0;0;0;;;;;;;;;6;1;2;3;0;1;1;0;0;0;0;7;6;16;Y. Ewodo
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;L. Bussiere;15;7;0,12;7,12;1;6;0,17;0;0;;1;6;0,17;0;0;;;;;;;;;3;0;3;3;1;0;0;0;0;0;0;8;2;28;L. Bussiere
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;K. Treffers;17;38;0,63;38,63;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;1;0;1;1;3;0;0;0;1;0;7;0;42;K. Treffers
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
+24-25;12;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;25;59;0,42;20;38;0,53;5;21;0,24;8;10;0,8;22;26;6;7;17;13;14;63;9;22;31;18;21;10;0;0;19;17;0;65;0;TOTAUX EQUIPE
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Starter;M. Djekoundade;22;31;0,52;31,52;3;7;0,43;3;6;0,5;0;1;0;2;2;1;;;;;;;;8;1;3;4;2;2;1;0;0;2;5;-22;9;9;M. Djekoundade
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;Capitaine;Starter;M. Djaldi-Tabdi(C);25;8;0,13;8,13;2;6;0,33;1;2;0,5;1;4;0,25;3;4;0,75;;;;;;;;8;1;3;4;0;1;1;0;0;2;2;-38;7;14;M. Djaldi-Tabdi(C)
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Starter;L. Geiselsoder;26;38;0,63;38,63;2;4;0,5;2;2;1;0;2;0;1;1;1;;;;;;;;5;2;5;7;3;4;1;1;0;2;1;-17;11;15;L. Geiselsoder
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Starter;D. Slocum;23;23;0,38;23,38;4;11;0,36;3;7;0,43;1;4;0,25;0;0;;;;;;;;;9;0;2;2;0;0;1;0;1;2;0;-37;5;24;D. Slocum
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Starter;L. Lacan;22;18;0,3;18,3;5;14;0,36;3;7;0,43;2;7;0,29;3;4;0,75;;;;;;;;15;0;0;0;1;2;0;0;0;3;2;-9;4;32;L. Lacan
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;M. Pardon;20;2;0,03;2,03;2;5;0,4;2;4;0,5;0;1;0;0;0;;;;;;;;;4;1;0;1;3;4;1;0;1;0;2;-20;2;5;M. Pardon
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;S. Macquet;7;2;0,03;2,03;1;3;0,33;1;2;0,5;0;1;0;1;2;0,5;;;;;;;;3;0;1;1;1;2;0;0;0;3;1;-6;0;13;S. Macquet
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;L. Bussiere;13;60;1;61;0;5;0;0;0;;0;5;0;0;0;;;;;;;;;0;0;1;1;1;0;1;1;0;1;2;-14;-1;28;L. Bussiere
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;Y. Ewodo;17;45;0,75;45,75;0;3;0;0;3;0;0;0;;0;2;0;;;;;;;;0;2;2;4;0;0;1;1;0;0;1;-18;1;40;Y. Ewodo
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;K. Treffers;20;52;0,87;52,87;0;3;0;0;2;0;0;1;0;1;2;0,5;;;;;;;;1;0;4;4;0;2;0;0;1;4;1;-19;-1;42;K. Treffers
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;13;Championat de France;Exterieur;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;19;61;0,31;15;35;0,43;4;26;0,15;11;17;0,65;10;24;3;9;8;1;5;53;8;22;30;11;18;7;3;3;19;17;0;38;0;TOTAUX EQUIPE
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Starter;M. Djekoundade;33;18;0,3;18,3;2;6;0,33;2;3;0,67;0;3;0;2;2;1;;;;;;;;6;1;4;5;2;1;3;2;0;0;3;-1;13;9;M. Djekoundade
+24-25;14;Championat de France;Domicile;Victoire;Charnay;Capitaine;Starter;M. Djaldi-Tabdi(C);31;48;0,8;48,8;1;8;0,13;0;3;0;1;5;0,2;0;0;;;;;;;;;3;1;2;3;1;1;1;0;0;3;0;8;0;14;M. Djaldi-Tabdi(C)
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Starter;L. Geiselsoder;37;11;0,18;11,18;4;11;0,36;2;5;0,4;2;6;0,33;0;1;0;;;;;;;;10;0;6;6;7;1;0;1;0;3;4;8;15;15;L. Geiselsoder
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Starter;D. Slocum;36;1;0,02;1,02;6;15;0,4;0;2;0;6;13;0,46;4;4;1;;;;;;;;22;0;2;2;0;2;0;1;0;1;2;10;14;24;D. Slocum
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Starter;L. Lacan;30;28;0,47;28,47;7;14;0,5;4;6;0,67;3;8;0,38;7;9;0,78;;;;;;;;24;0;4;4;3;2;5;0;0;2;7;1;25;32;L. Lacan
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;M. Pardon;20;30;0,5;30,5;1;5;0,2;1;5;0,2;0;0;;0;0;;;;;;;;;2;0;0;0;6;2;0;0;1;3;0;4;2;5;M. Pardon
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;S. Macquet;11;3;0,05;3,05;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;1;1;0;2;1;1;0;2;1;4;-1;13;S. Macquet
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;Y. Ewodo;16;42;0,7;42,7;1;4;0,25;1;4;0,25;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;0;0;1;0;10;0;16;Y. Ewodo
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;L. Bussiere;13;1;0,02;1,02;2;5;0,4;1;2;0,5;1;3;0,33;0;0;;;;;;;;;5;0;1;1;1;0;1;0;1;0;0;3;5;28;L. Bussiere
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;K. Treffers;19;58;0,97;58,97;1;4;0,25;0;2;0;1;2;0,5;1;2;0,5;;;;;;;;4;1;8;9;0;1;1;0;0;2;1;-2;9;42;K. Treffers
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
+24-25;14;Championat de France;Domicile;Victoire;Charnay;;Banc;TOTAUX EQUIPE;;;;;25;74;0,34;11;33;0,33;14;41;0,34;14;18;0,78;23;20;9;14;13;10;13;78;8;30;38;20;12;12;5;2;17;18;0;88;0;TOTAUX EQUIPE
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Starter;M. Djekoundade;29;23;0,38;23,38;5;8;0,63;4;6;0,67;1;2;0,5;1;2;0,5;;;;;;;;12;0;3;3;3;2;2;1;0;2;2;-3;15;9;M. Djekoundade
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;Capitaine;Starter;M. Djaldi-Tabdi(C);26;25;0,42;25,42;3;9;0,33;3;9;0,33;0;0;;1;2;0,5;;;;;;;;7;2;2;4;0;0;1;0;1;1;1;-11;5;14;M. Djaldi-Tabdi(C)
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Starter;L. Geiselsoder;31;23;0,38;23,38;1;9;0,11;0;6;0;1;3;0,33;0;0;;;;;;;;;3;1;5;6;2;2;2;3;1;2;2;11;6;15;L. Geiselsoder
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Starter;D. Slocum;33;49;0,82;49,82;3;7;0,43;2;4;0,5;1;3;0,33;0;0;;;;;;;;;7;0;3;3;5;3;0;0;0;1;0;11;8;24;D. Slocum
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Starter;L. Lacan;33;50;0,83;50,83;9;17;0,53;4;7;0,57;5;10;0,5;3;4;0,75;;;;;;;;26;0;4;4;4;2;1;1;0;1;4;10;25;32;L. Lacan
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;M. Pardon;14;13;0,22;13,22;0;3;0;0;3;0;0;0;;0;0;;;;;;;;;0;1;1;2;5;0;0;0;0;1;0;-3;4;5;M. Pardon
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;S. Macquet;9;2;0,03;2,03;0;0;;0;0;;0;0;;1;2;0,5;;;;;;;;1;0;1;1;0;0;0;0;0;4;2;2;1;13;S. Macquet
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;Y. Ewodo;23;50;0,83;50,83;4;8;0,5;3;6;0,5;1;2;0,5;5;5;1;;;;;;;;14;1;2;3;1;1;2;0;1;2;3;12;15;16;Y. Ewodo
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;L. Bussiere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;L. Bussiere
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;K. Treffers;22;15;0,25;15,25;2;5;0,4;1;2;0,5;1;3;0,33;1;2;0,5;;;;;;;;6;0;4;4;1;1;1;0;1;2;2;16;7;42;K. Treffers
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;15;Championat de France;Exterieur;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;27;66;0,41;17;43;0,4;10;23;0,43;12;17;0,71;29;30;7;16;21;9;12;76;7;27;34;21;13;9;5;4;16;16;0;88;0;TOTAUX EQUIPE
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;M. Djekoundade;19;56;0,93;56,93;2;6;0,33;2;4;0,5;0;2;0;2;3;0,67;;;;;;;;6;1;5;6;2;1;1;0;0;4;3;-2;9;9;M. Djekoundade
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;Capitaine;Starter;M. Djaldi-Tabdi(C);11;19;0,32;19,32;2;4;0,5;1;1;1;1;3;0,33;0;0;;;;;;;;;5;0;1;1;0;0;0;0;0;5;0;14;4;14;M. Djaldi-Tabdi(C)
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;L. Geiselsoder;33;15;0,25;15,25;5;11;0,45;3;5;0,6;2;6;0,33;4;5;0,8;;;;;;;;16;3;9;12;3;3;2;2;0;3;5;-1;25;15;L. Geiselsoder
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;D. Slocum;28;27;0,45;27,45;3;9;0,33;1;4;0,25;2;5;0,4;0;0;;;;;;;;;8;0;2;2;2;3;1;0;0;2;1;-1;4;24;D. Slocum
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;L. Lacan;28;42;0,7;42,7;4;7;0,57;2;3;0,67;2;4;0,5;17;17;1;;;;;;;;27;0;4;4;2;1;4;1;0;2;11;11;34;32;L. Lacan
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;M. Pardon;19;14;0,23;14,23;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;2;0;2;1;1;0;0;0;2;1;-4;4;5;M. Pardon
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;Z. Uriarte;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;Z. Uriarte
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Macquet;6;5;0,08;5,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;3;3;0;1;0;1;0;4;0;6;3;13;S. Macquet
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;Y. Ewodo;20;20;0,33;20,33;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;0;1;1;1;4;1;0;0;1;0;-5;-5;16;Y. Ewodo
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;L. Bussiere;12;56;0,93;56,93;2;4;0,5;0;0;;2;4;0,5;0;0;;;;;;;;;6;0;0;0;1;0;0;0;0;0;0;7;5;28;L. Bussiere
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;K. Treffers;19;7;0,12;7,12;2;6;0,33;2;4;0,5;0;2;0;3;5;0,6;;;;;;;;7;2;5;7;0;2;0;0;1;4;4;0;6;42;K. Treffers
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;0;1;0;2;0;0;0;0;0;0;0;0;Team / Coach
+24-25;16;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;22;55;0,4;13;26;0,5;9;29;0,31;26;30;0,87;21;22;11;17;17;13;14;79;9;30;39;12;18;9;4;1;27;25;0;88;0;TOTAUX EQUIPE
+24-25;17;Championat de France;Exterieur;Defaite;Angers;Capitaine;Starter;M. Djaldi-Tabdi(C);20;49;0,82;49,82;1;3;0,33;1;3;0,33;0;0;;0;0;;;;;;;;;2;1;2;3;2;1;2;0;0;1;0;-9;6;14;M. Djaldi-Tabdi(C)
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Starter;L. Geiselsoder;26;21;0,35;21,35;4;9;0,44;3;6;0,5;1;3;0,33;2;2;1;;;;;;;;11;2;3;5;1;1;1;1;0;2;3;-16;13;15;L. Geiselsoder
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Starter;Y. Ewodo;23;52;0,87;52,87;3;9;0,33;3;7;0,43;0;2;0;1;1;1;;;;;;;;7;3;1;4;4;2;1;0;0;2;1;10;8;16;Y. Ewodo
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Starter;D. Slocum;30;14;0,23;14,23;4;10;0,4;2;6;0,33;2;4;0,5;1;1;1;;;;;;;;11;0;1;1;4;0;0;0;0;0;3;-2;10;24;D. Slocum
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Starter;L. Lacan;26;10;0,17;10,17;10;16;0,63;6;9;0,67;4;7;0,57;5;6;0,83;;;;;;;;29;0;3;3;3;3;0;1;1;2;4;5;26;32;L. Lacan
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;M. Pardon;17;5;0,08;5,08;1;3;0,33;1;3;0,33;0;0;;0;0;;;;;;;;;2;1;1;2;2;3;1;0;1;1;0;-5;2;5;M. Pardon
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;M. Djekoundade;16;32;0,53;32,53;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;1;2;0;1;0;3;1;-6;0;9;M. Djekoundade
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;S. Macquet;14;21;0,35;21,35;3;7;0,43;3;5;0,6;0;2;0;1;2;0,5;;;;;;;;7;2;5;7;1;0;0;0;0;4;1;6;10;13;S. Macquet
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;L. Bussiere;8;1;0,02;1,02;1;4;0,25;0;0;;1;4;0,25;0;0;;;;;;;;;3;0;0;0;0;0;1;0;0;0;0;-10;1;28;L. Bussiere
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;K. Treffers;16;15;0,25;15,25;4;7;0,57;4;5;0,8;0;2;0;0;0;;;;;;;;;8;1;2;3;1;0;1;0;0;2;2;2;10;42;K. Treffers
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
+24-25;17;Championat de France;Exterieur;Defaite;Angers;;Banc;TOTAUX EQUIPE;;;;;31;69;0,45;23;45;0,51;8;24;0,33;10;12;0,83;27;40;13;11;20;4;10;80;12;20;32;19;12;7;3;2;17;15;0;89;0;TOTAUX EQUIPE
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Starter;M. Djekoundade;23;10;0,17;10,17;2;4;0,5;2;3;0,67;0;1;0;1;2;0,5;;;;;;;;5;0;0;0;3;1;0;1;0;3;2;-1;5;9;M. Djekoundade
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;Capitaine;Starter;M. Djaldi-Tabdi(C);25;6;0,1;6,1;4;7;0,57;3;6;0,5;1;1;1;2;2;1;;;;;;;;11;1;1;2;1;1;1;1;0;4;1;14;12;14;M. Djaldi-Tabdi(C)
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Starter;L. Geiselsoder;15;16;0,27;16,27;5;8;0,63;5;8;0,63;0;0;;2;4;0,5;;;;;;;;12;1;4;5;2;0;1;0;0;4;7;8;15;15;L. Geiselsoder
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Starter;D. Slocum;29;31;0,52;31,52;3;15;0,2;1;7;0,14;2;8;0,25;3;3;1;;;;;;;;11;2;5;7;6;2;0;0;0;4;3;-3;10;24;D. Slocum
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Starter;L. Lacan;24;15;0,25;15,25;2;11;0,18;2;6;0,33;0;5;0;2;2;1;;;;;;;;6;0;2;2;4;5;3;1;0;2;3;12;2;32;L. Lacan
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;M. Pardon;23;24;0,4;24,4;1;3;0,33;1;3;0,33;0;0;;1;2;0,5;;;;;;;;3;0;1;1;0;1;1;1;0;1;3;4;2;5;M. Pardon
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;S. Macquet;20;25;0,42;25,42;5;7;0,71;3;4;0,75;2;3;0,67;4;5;0,8;;;;;;;;16;1;7;8;0;1;1;0;0;2;4;-5;21;13;S. Macquet
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;Y. Ewodo;22;36;0,6;36,6;2;4;0,5;2;3;0,67;0;1;0;0;0;;;;;;;;;4;2;0;2;1;1;1;0;0;1;0;5;5;16;Y. Ewodo
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;L. Bussiere;3;5;0,08;5,08;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;0;0;1;1;0;0;0;1;0;-1;-2;28;L. Bussiere
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;K. Treffers;13;3;0,05;3,05;1;2;0,5;1;2;0,5;0;0;;1;1;1;;;;;;;;3;0;2;2;1;1;1;0;0;3;2;2;5;42;K. Treffers
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;1;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;18;Championat de France;Exterieur;Victoire;Chartres;;Banc;TOTAUX EQUIPE;;;;;25;63;0,4;20;42;0,48;5;21;0,24;16;21;0,76;28;36;8;9;26;14;14;71;11;23;34;19;15;9;4;0;25;25;0;79;0;TOTAUX EQUIPE
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;M. Djekoundade;23;28;0,47;28,47;5;8;0,63;4;6;0,67;1;2;0,5;0;0;;;;;;;;;11;1;5;6;1;4;2;1;0;3;1;7;14;9;M. Djekoundade
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;Capitaine;Starter;M. Djaldi-Tabdi(C);28;58;0,97;58,97;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;2;1;3;0;2;0;1;0;2;1;19;1;14;M. Djaldi-Tabdi(C)
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;L. Geiselsoder;22;13;0,22;13,22;3;7;0,43;2;5;0,4;1;2;0,5;3;3;1;;;;;;;;10;0;4;4;2;2;0;2;0;1;3;18;12;15;L. Geiselsoder
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;Y. Ewodo;29;41;0,68;41,68;3;5;0,6;1;3;0,33;2;2;1;4;8;0,5;;;;;;;;12;0;3;3;1;0;1;0;0;2;4;25;11;16;Y. Ewodo
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Starter;L. Lacan;27;36;0,6;36,6;4;7;0,57;3;5;0,6;1;2;0,5;4;7;0,57;;;;;;;;13;0;5;5;7;5;3;0;0;0;7;20;17;32;L. Lacan
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;M. Pardon;15;5;0,08;5,08;1;4;0,25;1;4;0,25;0;0;;3;4;0,75;;;;;;;;5;0;1;1;5;0;0;0;0;0;2;19;7;5;M. Pardon
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;M. N'diaye;0;7;0,12;7,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;6;M. N'diaye
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;A. Diallo;2;7;0,12;7,12;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;6;-1;10;A. Diallo
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;Z. Uriarte;0;7;0,12;7,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;2;1;12;Z. Uriarte
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;S. Macquet;16;45;0,75;45,75;2;5;0,4;1;1;1;1;4;0,25;0;0;;;;;;;;;5;2;4;6;0;4;1;0;0;4;1;13;5;13;S. Macquet
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;L. Bussiere;21;37;0,62;37,62;5;9;0,56;2;2;1;3;7;0,43;0;0;;;;;;;;;13;0;5;5;3;0;1;0;0;1;0;14;18;28;L. Bussiere
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;K. Treffers;11;47;0,78;47,78;1;2;0,5;0;1;0;1;1;1;2;2;1;;;;;;;;5;1;0;1;0;2;0;0;0;4;2;10;3;42;K. Treffers
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;4;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;19;Championat de France;Domicile;Victoire;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;25;52;0,48;15;29;0,52;10;23;0,43;16;24;0,67;18;22;6;14;28;31;10;76;6;33;39;19;20;8;4;0;17;21;0;91;0;TOTAUX EQUIPE
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Starter;M. Djekoundade;24;5;0,08;5,08;0;4;0;0;3;0;0;1;0;1;2;0,5;;;;;;;;1;1;4;5;2;1;0;1;0;3;2;-5;3;9;M. Djekoundade
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;Capitaine;Starter;M. Djaldi-Tabdi(C);29;5;0,08;5,08;1;5;0,2;1;3;0,33;0;2;0;2;2;1;;;;;;;;4;2;3;5;0;6;0;0;0;3;2;6;-1;14;M. Djaldi-Tabdi(C)
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Starter;L. Geiselsoder;17;4;0,07;4,07;4;5;0,8;3;3;1;1;2;0,5;2;4;0,5;;;;;;;;11;0;3;3;1;1;0;0;0;4;4;18;11;15;L. Geiselsoder
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Starter;Y. Ewodo;26;19;0,32;19,32;4;8;0,5;3;7;0,43;1;1;1;0;0;;;;;;;;;9;1;3;4;4;3;1;0;1;0;2;11;11;16;Y. Ewodo
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Starter;L. Lacan;22;35;0,58;35,58;2;7;0,29;0;2;0;2;5;0,4;6;7;0,86;;;;;;;;12;0;3;3;1;4;1;0;0;3;5;11;7;32;L. Lacan
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;M. Pardon;17;10;0,17;10,17;0;4;0;0;4;0;0;0;;0;0;;;;;;;;;0;2;3;5;3;1;2;0;0;2;0;-1;5;5;M. Pardon
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;S. Macquet;20;43;0,72;43,72;1;6;0,17;1;3;0,33;0;3;0;0;0;;;;;;;;;2;1;3;4;1;4;0;1;0;1;0;-10;-1;13;S. Macquet
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;L. Bussiere;29;51;0,85;51,85;5;9;0,56;3;4;0,75;2;5;0,4;0;0;;;;;;;;;12;0;7;7;1;3;2;0;0;1;2;-4;15;28;L. Bussiere
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;K. Treffers;13;7;0,12;7,12;2;8;0,25;2;7;0,29;0;1;0;0;0;;;;;;;;;4;1;3;4;0;3;0;0;0;2;2;-6;-1;42;K. Treffers
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;6;9;0;1;0;0;0;0;0;0;0;0;Team / Coach
+24-25;20;Championat de France;Exterieur;Victoire;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;19;56;0,34;13;36;0,36;6;20;0,3;11;15;0,73;12;26;13;4;18;8;14;55;11;38;49;13;27;6;2;1;19;19;0;57;0;TOTAUX EQUIPE
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Starter;M. Djekoundade;24;45;0,75;45,75;3;3;1;2;2;1;1;1;1;0;0;;;;;;;;;7;0;2;2;3;0;1;0;0;2;3;22;13;9;M. Djekoundade
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;Capitaine;Starter;M. Djaldi-Tabdi(C);23;17;0,28;17,28;3;5;0,6;3;4;0,75;0;1;0;0;0;;;;;;;;;6;0;3;3;1;3;0;0;0;2;1;14;5;14;M. Djaldi-Tabdi(C)
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Starter;L. Geiselsoder;26;9;0,15;9,15;4;6;0,67;4;5;0,8;0;1;0;3;4;0,75;;;;;;;;11;0;5;5;2;2;0;0;0;1;4;13;13;15;L. Geiselsoder
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Starter;Y. Ewodo;19;55;0,92;55,92;2;5;0,4;2;3;0,67;0;2;0;0;0;;;;;;;;;4;0;2;2;1;1;0;0;0;2;0;-6;3;16;Y. Ewodo
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Starter;L. Lacan;22;8;0,13;8,13;11;13;0,85;9;10;0,9;2;3;0,67;2;2;1;;;;;;;;26;0;5;5;3;2;3;0;0;0;3;17;33;32;L. Lacan
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;M. Pardon;17;52;0,87;52,87;3;6;0,5;3;6;0,5;0;0;;2;2;1;;;;;;;;8;0;1;1;5;3;1;0;0;3;1;9;9;5;M. Pardon
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;M. N'diaye;0;7;0,12;7,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-2;1;10;M. N'diaye
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;S. Macquet;13;51;0,85;51,85;3;4;0,75;2;3;0,67;1;1;1;0;0;;;;;;;;;7;2;0;2;1;3;1;2;0;4;1;13;9;13;S. Macquet
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;D. Slocum;15;56;0,93;56,93;4;5;0,8;1;2;0,5;3;3;1;0;0;;;;;;;;;11;0;0;0;1;1;0;0;1;2;3;23;10;24;D. Slocum
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;L. Bussiere;19;24;0,4;24,4;1;4;0,25;1;1;1;0;3;0;0;0;;;;;;;;;2;1;5;6;3;0;0;0;0;0;0;13;8;28;L. Bussiere
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;K. Treffers;15;56;0,93;56,93;3;3;1;3;3;1;0;0;;2;5;0,4;;;;;;;;8;0;2;2;0;1;0;0;0;2;3;14;6;42;K. Treffers
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;5;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
+24-25;21;Championat de France;Domicile;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;37;54;0,69;30;39;0,77;7;15;0,47;9;13;0,69;19;52;4;15;36;28;11;90;4;31;35;20;16;6;2;1;18;19;0;116;0;TOTAUX EQUIPE
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;M. Djekoundade;28;20;0,33;20,33;5;7;0,71;5;7;0,71;0;0;;0;0;;;;;;;;;10;2;4;6;3;0;1;1;0;3;1;18;19;9;M. Djekoundade
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;Capitaine;Starter;M. Djaldi-Tabdi(C);26;16;0,27;16,27;4;10;0,4;3;5;0,6;1;5;0,2;0;0;;;;;;;;;9;0;3;3;1;0;1;0;0;4;2;6;8;14;M. Djaldi-Tabdi(C)
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;L. Geiselsoder;30;23;0,38;23,38;6;13;0,46;5;9;0,56;1;4;0,25;1;1;1;;;;;;;;14;0;7;7;5;2;1;1;1;2;0;5;19;15;L. Geiselsoder
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;Y. Ewodo;10;48;0,8;48,8;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;1;0;0;1;2;0;-5;-1;16;Y. Ewodo
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;L. Lacan;26;43;0,72;43,72;6;12;0,5;6;10;0,6;0;2;0;0;0;;;;;;;;;12;1;4;5;2;1;3;0;0;1;4;3;15;32;L. Lacan
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;M. Pardon;13;54;0,9;54,9;0;2;0;0;2;0;0;0;;2;2;1;;;;;;;;2;0;3;3;1;2;0;0;0;0;2;3;2;5;M. Pardon
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;S. Macquet;5;3;0,05;3,05;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;2;3;2;0;0;0;0;2;0;6;4;13;S. Macquet
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;D. Slocum;25;19;0,32;19,32;5;7;0,71;3;3;1;2;4;0,5;2;3;0,67;;;;;;;;14;0;2;2;1;1;0;0;0;2;3;7;13;24;D. Slocum
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;L. Bussiere;14;56;0,93;56,93;1;4;0,25;1;2;0,5;0;2;0;0;2;0;;;;;;;;2;1;1;2;0;1;1;0;0;0;1;-8;-1;28;L. Bussiere
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;K. Treffers;17;28;0,47;28,47;4;6;0,67;4;5;0,8;0;1;0;0;2;0;;;;;;;;8;2;2;4;1;5;1;0;0;2;2;-5;5;42;K. Treffers
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;4;5;0;3;0;0;0;0;0;0;0;0;Team / Coach
+24-25;22;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;31;64;0,48;27;46;0,59;4;18;0,22;5;10;0,5;11;42;4;10;26;18;9;71;9;33;42;16;16;8;2;2;18;15;0;85;0;TOTAUX EQUIPE
+25-26;1;Championat de France;Domicile;;Landerneau;;Starter;J. Wojta;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;2;7;9;1;1;0;1;0;1;1;7;9;2;J. Wojta
+25-26;1;Championat de France;Domicile;;Landerneau;;Starter;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;4;6;4;3;0;0;0;1;1;19;3;5;M. Pardon
+25-26;1;Championat de France;Domicile;;Landerneau;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;;;;;;;;;;;10;2;3;5;4;4;1;0;0;1;5;0;10;7;C. Droguet(C)
+25-26;1;Championat de France;Domicile;;Landerneau;;Starter;M. Djekoundade;;;;;;;;;;;0;0;;;;;;;;;;;;11;0;4;4;3;0;1;0;0;1;6;19;14;9;M. Djekoundade
+25-26;1;Championat de France;Domicile;;Landerneau;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;17;2;4;6;2;0;1;1;1;3;2;13;21;11;M. Musa
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;N. Caille--Allah-Rabaye;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;N. Caille--Allah-Rabaye
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;Z. Uriarte;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;Z. Uriarte
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;S. Macquet;;;;;0;8;0,00;0;8;0,00;0;0;;0;0;;;;;;;;;0;3;3;6;1;1;0;2;0;3;0;2;0;13;S. Macquet
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;E. Dechanoz;;;;;0;0;;0;0;;0;0;;;;;;;;;;;;1;0;0;0;0;0;0;0;0;1;1;1;0;14;E. Dechanoz
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;Y. Ewodo;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;8;0;4;4;0;1;0;0;0;2;0;2;4;16;Y. Ewodo
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;B. Massey;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;2;3;5;5;2;0;0;0;3;1;10;8;25;B. Massey
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;L. Bussiere;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;1;2;1;0;2;0;0;0;2;7;7;28;L. Bussiere
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;5;3;8;0;2;0;0;0;0;0;0;0;0;Team / Coach
+25-26;1;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;26;71;0,37;25;61;0,41;;;;;;;20;32;8;12;15;18;14;59;19;36;55;21;14;5;4;1;16;19;0;82;0;TOTAUX EQUIPE
+25-26;2;Championat de France;Exterieur;;Bourges;;Starter;J. Wojta;;;;;;;;;;;;;;;;;;;;;;;;16;3;1;4;2;3;1;0;0;2;2;20;15;2;J. Wojta
+25-26;2;Championat de France;Exterieur;;Bourges;;Starter;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;2;0;2;3;2;4;0;0;1;3;12;4;5;M. Pardon
+25-26;2;Championat de France;Exterieur;;Bourges;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;7;4;2;6;4;3;2;0;0;0;1;5;12;7;C. Droguet(C)
+25-26;2;Championat de France;Exterieur;;Bourges;;Starter;M. Djekoundade;;;;;;;;;;;0;2;0,00;;;;;;;;;;;5;1;5;6;1;1;0;2;1;2;3;-2;8;9;M. Djekoundade
+25-26;2;Championat de France;Exterieur;;Bourges;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;9;10;1;0;1;0;0;2;1;5;7;11;M. Musa
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;S. Macquet;;;;;;;;;;;0;0;;;;;;;;;;;;6;0;1;1;0;0;1;0;0;3;2;2;6;13;S. Macquet
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;E. Dechanoz;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;14;E. Dechanoz
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;Y. Ewodo;;;;;0;4;0,00;0;4;0,00;0;0;;;;;;;;;;;;5;0;1;1;1;3;0;0;0;1;3;-1;-1;16;Y. Ewodo
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;B. Massey;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;6;1;1;2;0;1;1;0;0;0;0;-17;7;25;B. Massey
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;5;3;1;4;0;1;1;0;0;1;0;1;2;28;L. Bussiere
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;5;6;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;2;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;22;65;0,34;18;49;0,37;;;;;;;10;28;12;4;22;5;9;58;16;26;42;12;15;11;2;1;12;15;0;65;0;TOTAUX EQUIPE
+25-26;3;Championat de France;Exterieur;;Angers;;Starter;M. Pardon;;;;;;;;;;;0;0;;;;;;;;;;;;11;0;2;2;2;5;1;0;0;1;2;6;9;5;M. Pardon
+25-26;3;Championat de France;Exterieur;;Angers;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;0;0;0;3;0;1;0;1;1;0;13;9;7;C. Droguet(C)
+25-26;3;Championat de France;Exterieur;;Angers;;Starter;M. Djekoundade;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;1;2;3;1;0;0;2;1;2;0;13;4;9;M. Djekoundade
+25-26;3;Championat de France;Exterieur;;Angers;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;3;6;9;2;0;2;0;0;2;0;14;16;11;M. Musa
+25-26;3;Championat de France;Exterieur;;Angers;;Starter;B. Massey;;;;;;;;;;;0;4;0,00;;;;;;;;;;;5;2;2;4;2;0;0;0;0;0;4;13;0;25;B. Massey
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;J. Wojta;;;;;;;;;;;0;0;;;;;;;;;;;;6;1;2;3;3;1;0;0;1;1;2;11;9;2;J. Wojta
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;C. Chemin;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;4;C. Chemin
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;Z. Uriarte;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-2;-1;12;Z. Uriarte
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;S. Macquet;;;;;;;;;;;0;0;;;;;;;;;;;;6;0;4;4;0;2;0;4;1;3;2;8;9;13;S. Macquet
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;Y. Ewodo;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;5;6;3;1;1;1;0;0;2;9;14;16;Y. Ewodo
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;5;5;1;2;0;1;0;1;0;11;11;28;L. Bussiere
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;L. Lacan;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;2;2;2;3;3;0;1;1;2;16;7;42;L. Lacan
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;3;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;63;0,44;24;45;0,53;;;;;;;20;40;15;12;35;28;14;68;12;33;45;19;15;8;8;5;12;14;0;92;0;TOTAUX EQUIPE
+25-26;4;Championat de France;Exterieur;;Angers;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;2;3;5;4;3;1;0;1;3;3;-8;6;7;C. Droguet(C)
+25-26;4;Championat de France;Exterieur;;Angers;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;18;0;3;3;1;0;0;0;0;0;2;-11;15;11;M. Musa
+25-26;4;Championat de France;Exterieur;;Angers;;Starter;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;9;1;2;3;2;1;0;0;0;1;2;-6;5;16;Y. Ewodo
+25-26;4;Championat de France;Exterieur;;Angers;;Starter;B. Massey;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;3;3;6;3;1;0;0;1;4;1;9;12;25;B. Massey
+25-26;4;Championat de France;Exterieur;;Angers;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;16;0;3;3;5;1;3;1;0;4;5;2;23;42;L. Lacan
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;J. Wojta;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;8;10;2;1;1;0;0;0;0;-5;7;2;J. Wojta
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;M. Djekoundade;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;2;3;0;1;0;1;0;0;2;-10;1;9;M. Djekoundade
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;S. Macquet;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;4;4;1;0;0;1;0;0;1;9;12;13;S. Macquet
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;L. Bussiere;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;4;0;0;0;0;0;1;10;8;28;L. Bussiere
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;4;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;29;70;0,41;25;58;0,43;;;;;;;10;46;4;15;19;10;14;73;11;29;40;22;8;5;3;2;12;17;0;92;0;TOTAUX EQUIPE
+25-26;5;Championat de France;Domicile;;Toulouse;;Starter;J. Wojta;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;5;6;3;0;0;0;0;0;0;4;8;2;J. Wojta
+25-26;5;Championat de France;Domicile;;Toulouse;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;0;5;5;3;1;1;0;0;2;3;8;16;7;C. Droguet(C)
+25-26;5;Championat de France;Domicile;;Toulouse;;Starter;M. Djekoundade;;;;;0;6;0,00;0;3;0,00;0;3;0,00;;;;;;;;;;;3;0;2;2;1;0;4;1;0;3;3;1;4;9;M. Djekoundade
+25-26;5;Championat de France;Domicile;;Toulouse;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;5;5;0;0;1;0;0;0;1;-1;5;11;M. Musa
+25-26;5;Championat de France;Domicile;;Toulouse;;Starter;L. Lacan;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;0;0;2;4;2;0;0;0;1;15;6;42;L. Lacan
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;M. Pardon;;;;;0;1;0,00;0;0;;0;1;0,00;;;;;;;;;;;1;0;2;2;3;0;0;0;0;1;2;9;4;5;M. Pardon
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;16;0;3;3;1;2;1;0;1;3;3;18;16;13;S. Macquet
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;Y. Ewodo;;;;;;;;;;;0;1;0,00;0;1;0,00;;;;;;;;10;3;2;5;5;2;0;0;0;2;1;16;12;16;Y. Ewodo
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;10;2;2;4;0;2;0;0;0;1;4;19;8;25;B. Massey
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;2;3;2;0;0;0;0;0;0;11;10;28;L. Bussiere
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;5;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;29;65;0,45;23;42;0,55;;;;13;19;0,68;11;34;11;11;45;23;10;77;10;31;41;20;11;9;1;1;12;18;0;95;0;TOTAUX EQUIPE
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Starter;J. Wojta;;;;;;;;;;;;;;0;0;;;;;;;;;16;1;5;6;3;0;1;1;0;2;3;1;21;2;J. Wojta
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;12;1;4;5;1;3;2;1;0;4;0;1;15;7;C. Droguet(C)
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Djekoundade;;;;;;;;;;;;;;;;;;;;;;;;10;2;2;4;4;2;0;0;0;1;2;-2;10;9;M. Djekoundade
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;1;6;7;0;3;0;1;0;1;0;5;8;11;M. Musa
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Lacan;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;3;2;3;0;0;5;3;1;7;42;L. Lacan
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Pardon;;;;;;;;;;;0;0;;;;;;;;;;;;7;0;3;3;1;1;1;0;0;2;3;1;7;5;M. Pardon
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;S. Macquet;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;0;2;2;1;0;0;0;0;0;2;-4;0;13;S. Macquet
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Y. Ewodo;;;;;;;;;;;;;;0;0;;;;;;;;;9;2;1;3;3;1;1;0;0;2;1;4;9;16;Y. Ewodo
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;B. Massey;;;;;;;;0;0;;;;;;;;;;;;;;;4;2;1;3;3;1;1;0;0;2;3;0;6;25;B. Massey
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Bussiere;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;1;0;0;0;1;1;-2;1;28;L. Bussiere
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;1;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;6;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;30;71;0,42;22;51;0,43;;;;;;;23;28;11;6;25;13;10;76;14;25;39;19;14;9;3;0;20;18;0;88;0;TOTAUX EQUIPE
+25-26;7;Championat de France;Exterieur;;Chartres;;Starter;J. Wojta;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;6;1;4;5;1;1;5;0;0;2;1;3;13;2;J. Wojta
+25-26;7;Championat de France;Exterieur;;Chartres;;Starter;M. Pardon;;;;;0;7;0,00;0;5;0,00;0;2;0,00;;;;;;;;;;;2;3;1;4;6;1;2;0;2;0;4;30;4;5;M. Pardon
+25-26;7;Championat de France;Exterieur;;Chartres;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;16;1;2;3;6;1;0;0;1;5;1;19;17;7;C. Droguet(C)
+25-26;7;Championat de France;Exterieur;;Chartres;;Starter;M. Djekoundade;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;8;1;2;3;3;2;1;1;0;0;1;7;12;9;M. Djekoundade
+25-26;7;Championat de France;Exterieur;;Chartres;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;12;7;6;13;1;3;1;1;1;1;0;16;19;11;M. Musa
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;S. Macquet;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;2;2;0;3;0;0;0;3;0;3;-1;13;S. Macquet
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;Y. Ewodo;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;0;0;2;0;-2;0;16;Y. Ewodo
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;10;3;2;5;1;3;3;0;1;2;3;16;14;25;B. Massey
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;L. Bussiere;;;;;;;;;;;0;5;0,00;0;0;;;;;;;;;2;1;2;3;0;1;2;0;0;1;0;4;1;28;L. Bussiere
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;17;2;2;4;3;2;3;0;0;2;5;-1;21;42;L. Lacan
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;2;0;0;0;1;0;0;0;0;Team / Coach
+25-26;7;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;32;73;0,44;24;50;0,48;;;;;;;23;36;19;6;33;19;10;77;22;25;47;21;19;17;2;5;19;15;0;102;0;TOTAUX EQUIPE
+25-26;8;Championat de France;Exterieur;;Chartres;;Starter;J. Wojta;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;4;5;5;10;6;0;1;0;1;2;0;8;11;2;J. Wojta
+25-26;8;Championat de France;Exterieur;;Chartres;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;2;2;0;0;2;2;1;16;10;7;C. Droguet(C)
+25-26;8;Championat de France;Exterieur;;Chartres;;Starter;M. Djekoundade;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;0;0;0;1;0;1;0;0;1;2;11;4;9;M. Djekoundade
+25-26;8;Championat de France;Exterieur;;Chartres;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;16;2;6;8;2;0;1;0;1;0;0;19;21;11;M. Musa
+25-26;8;Championat de France;Exterieur;;Chartres;;Starter;L. Lacan;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;0;1;1;4;1;1;0;0;1;2;15;3;42;L. Lacan
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;M. Pardon;;;;;;;;;;;0;0;;0;4;0,00;;;;;;;;2;1;1;2;3;2;4;0;0;2;5;11;0;5;M. Pardon
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;A. Diagne;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;0;2;0;0;0;0;0;2;2;10;A. Diagne
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;Z. Uriarte;;;;;0;0;;0;0;;0;0;;;;;;;;;;;;2;0;0;0;0;1;0;0;0;1;1;4;1;12;Z. Uriarte
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;S. Macquet;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;2;0;1;0;1;5;0;5;5;13;S. Macquet
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;Y. Ewodo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;1;5;1;16;Y. Ewodo
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;B. Massey;;;;;;;;;;;0;0;;;;;;;;;;;;12;3;2;5;2;0;1;0;0;1;5;16;18;25;B. Massey
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;L. Bussiere;;;;;;;;;;;0;6;0,00;0;0;;;;;;;;;8;1;4;5;1;0;2;0;0;1;2;13;9;28;L. Bussiere
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;1;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;8;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;30;74;0,41;27;59;0,46;;;;;;;28;42;12;16;32;25;7;72;17;23;40;24;9;12;0;5;16;19;0;89;0;TOTAUX EQUIPE
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;J. Wojta;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;1;7;8;1;1;1;0;0;0;2;2;14;2;J. Wojta
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;;;;;;;;;;;16;2;3;5;2;2;1;0;0;3;4;13;15;7;C. Droguet(C)
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Djekoundade;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;2;1;3;4;1;2;0;0;2;2;3;6;9;M. Djekoundade
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;8;2;4;6;1;1;1;1;0;2;2;1;7;11;M. Musa
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;12;1;1;2;5;2;1;0;0;2;2;2;12;42;L. Lacan
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Pardon;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;1;2;3;5;1;0;0;0;0;3;5;6;5;M. Pardon
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;S. Macquet;;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;0;2;2;1;0;0;0;0;2;1;4;11;13;S. Macquet
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;V. Mercier;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;V. Mercier
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Y. Ewodo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;2;0;0;0;0;0;2;-1;16;Y. Ewodo
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;B. Massey;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;10;1;2;3;1;1;0;0;0;1;1;9;9;25;B. Massey
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;L. Bussiere;;;;;;;;0;0;;;;;;;;;;;;;;;7;2;1;3;2;1;0;0;0;1;1;-1;8;28;L. Bussiere
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;9;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;29;63;0,46;24;39;0,62;;;;;;;19;38;16;14;30;8;10;75;14;25;39;23;12;6;1;0;13;18;0;91;0;TOTAUX EQUIPE
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;12;2;2;4;7;0;3;1;1;1;3;6;22;7;C. Droguet(C)
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Djekoundade;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;0;3;3;2;2;0;1;0;2;0;-10;11;9;M. Djekoundade
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;11;1;2;3;0;1;1;0;0;2;2;-12;9;11;M. Musa
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;B. Massey;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;0;1;1;1;1;0;0;0;3;3;-12;-2;25;B. Massey
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;11;0;0;0;4;2;0;0;0;2;3;-17;9;42;L. Lacan
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;J. Wojta;;;;;;;;;;;;;;;;;;;;;;;;10;2;2;4;2;3;0;0;0;1;1;-1;9;2;J. Wojta
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Pardon;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;2;3;3;1;2;0;0;3;1;7;10;5;M. Pardon
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;S. Macquet;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;2;2;0;1;1;1;0;3;0;15;9;13;S. Macquet
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;1;1;2;1;1;1;0;0;1;2;9;3;16;Y. Ewodo
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;L. Bussiere;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;0;2;0;0;2;0;-10;1;28;L. Bussiere
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;3;0;0;0;0;0;0;0;0;Team / Coach
+25-26;10;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;29;59;0,49;23;42;0,55;;;;;;;18;32;7;17;26;3;7;72;7;16;23;20;15;10;3;1;20;15;0;79;0;TOTAUX EQUIPE
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;J. Wojta;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;6;1;6;7;0;1;1;0;0;3;0;3;6;2;J. Wojta
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;;;;;;;;;;;19;1;3;4;5;1;3;0;0;3;3;7;22;7;C. Droguet(C)
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;M. Djekoundade;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;2;3;0;2;0;0;0;1;1;-1;1;9;M. Djekoundade
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;3;3;6;2;3;0;0;0;2;2;11;4;11;M. Musa
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;12;0;0;0;7;3;3;0;0;4;7;13;14;42;L. Lacan
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;M. Pardon;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;0;1;0;5;0;0;0;2;1;-13;-3;5;M. Pardon
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;S. Macquet;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;0;1;1;0;0;1;0;-4;3;13;S. Macquet
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;V. Mercier;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;V. Mercier
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;Y. Ewodo;;;;;;;;;;;0;3;0,00;;;;;;;;;;;7;2;1;3;4;3;2;1;1;1;2;3;6;16;Y. Ewodo
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;6;0;4;4;0;1;0;0;0;4;2;-4;4;25;B. Massey
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;5;4;9;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;11;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;25;62;0,40;18;41;0,44;;;;;;;20;26;15;28;23;9;10;64;14;24;38;18;20;10;1;1;21;18;0;66;0;TOTAUX EQUIPE
+25-26;12;Championat de France;Exterieur;;Landerneau;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;3;3;3;1;0;0;0;3;0;-1;5;7;C. Droguet(C)
+25-26;12;Championat de France;Exterieur;;Landerneau;;Starter;M. Djekoundade;;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;1;3;4;1;1;0;1;1;0;1;-1;2;9;M. Djekoundade
+25-26;12;Championat de France;Exterieur;;Landerneau;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;4;5;0;2;1;0;0;4;2;8;-2;11;M. Musa
+25-26;12;Championat de France;Exterieur;;Landerneau;;Starter;B. Massey;;;;;0;3;0,00;0;2;0,00;0;1;0,00;;;;;;;;;;;2;2;2;4;0;2;1;0;0;3;1;7;2;25;B. Massey
+25-26;12;Championat de France;Exterieur;;Landerneau;;Starter;L. Lacan;;;;;;;;;;;;;;0;0;;;;;;;;;23;0;5;5;4;1;0;0;0;1;4;6;26;42;L. Lacan
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;J. Wojta;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;2;3;0;2;0;0;0;1;1;-6;7;2;J. Wojta
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;M. Pardon;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;6;1;1;0;0;1;1;16;18;5;M. Pardon
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;A. Diagne;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;A. Diagne
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;S. Macquet;;;;;;;;;;;0;2;0,00;;;;;;;;;;;12;1;2;3;1;1;0;0;0;4;1;11;10;13;S. Macquet
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;Y. Ewodo;;;;;;;;0;2;0,00;;;;;;;;;;;;;;4;0;4;4;3;2;0;1;0;1;2;10;6;16;Y. Ewodo
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;12;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;26;59;0,44;18;38;0,47;;;;;;;5;24;7;6;34;13;12;66;9;29;38;18;13;3;2;1;18;13;0;79;0;TOTAUX EQUIPE
+25-26;13;Championat de France;Domicile;;Bourges;;Starter;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;6;1;2;3;6;2;1;0;0;3;3;6;9;5;M. Pardon
+25-26;13;Championat de France;Domicile;;Bourges;Capitaine;Starter;C. Droguet(C);;;;;0;8;0,00;0;3;0,00;0;5;0,00;;;;;;;;;;;2;0;2;2;3;3;2;0;1;2;6;-18;-2;7;C. Droguet(C)
+25-26;13;Championat de France;Domicile;;Bourges;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;12;1;7;8;1;2;1;0;0;0;3;0;13;11;M. Musa
+25-26;13;Championat de France;Domicile;;Bourges;;Starter;Y. Ewodo;;;;;;;;;;;;;;;;;;;;;;;;11;0;0;0;1;1;0;1;1;3;4;-3;7;16;Y. Ewodo
+25-26;13;Championat de France;Domicile;;Bourges;;Starter;B. Massey;;;;;;;;0;4;0,00;;;;;;;;;;;;;;5;0;4;4;1;0;1;1;0;3;1;-7;7;25;B. Massey
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;J. Wojta;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;3;4;3;3;0;0;0;3;2;-7;6;2;J. Wojta
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;C. Chemin;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Chemin
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;A. Diagne;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;10;A. Diagne
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;S. Macquet;;;;;;;;;;;0;4;0,00;;;;;;;;;;;6;1;1;2;0;0;1;2;0;3;2;-19;4;13;S. Macquet
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;V. Mercier;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;0;1;0;1;0;0;0;1;0;-2;-1;15;V. Mercier
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;L. Bussiere;;;;;;;;;;;;;;;;;;;;;;;;11;1;1;2;0;1;0;0;0;0;1;3;10;28;L. Bussiere
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;5;5;10;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;13;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;20;64;0,31;15;45;0,33;;;;15;16;0,94;17;20;10;10;24;;11;60;11;25;36;15;14;6;4;2;18;22;0;62;0;TOTAUX EQUIPE
+25-26;14;Championat de France;Exterieur;;Charnay;;Starter;J. Wojta;;;;;;;;;;;;;;0;0;;;;;;;;;10;2;0;2;1;2;1;0;1;0;1;-13;6;2;J. Wojta
+25-26;14;Championat de France;Exterieur;;Charnay;;Starter;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;0;1;6;3;2;0;0;2;2;2;4;5;M. Pardon
+25-26;14;Championat de France;Exterieur;;Charnay;Capitaine;Starter;C. Droguet(C);;;;;;;;0;4;0,00;;;;;;;;;;;;;;6;1;3;4;4;2;0;0;1;4;3;-8;6;7;C. Droguet(C)
+25-26;14;Championat de France;Exterieur;;Charnay;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;4;5;9;0;2;2;0;0;1;2;9;12;11;M. Musa
+25-26;14;Championat de France;Exterieur;;Charnay;;Starter;Y. Ewodo;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;10;1;2;3;1;1;1;0;1;3;0;-5;11;16;Y. Ewodo
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;S. Macquet;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;6;6;1;1;0;1;0;2;0;10;12;13;S. Macquet
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;B. Massey;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;6;1;1;2;2;1;3;1;0;1;0;17;8;25;B. Massey
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;2;3;2;0;0;0;0;2;1;14;11;28;L. Bussiere
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;24;1;1;2;2;2;2;0;0;4;4;14;22;42;L. Lacan
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;4;8;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;14;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;31;72;0,43;20;45;0,44;;;;;;;17;18;11;4;46;14;11;84;16;24;40;19;15;11;2;3;19;13;0;99;0;TOTAUX EQUIPE
+25-26;15;Championat de France;Domicile;;Angers;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;0;1;1;4;2;0;0;0;2;3;-1;7;7;C. Droguet(C)
+25-26;15;Championat de France;Domicile;;Angers;;Starter;M. Musa;;;;;;;;;;;0;0;;0;3;0,00;;;;;;;;12;1;4;5;1;0;1;3;0;1;5;-6;14;11;M. Musa
+25-26;15;Championat de France;Domicile;;Angers;;Starter;Y. Ewodo;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;0;1;2;0;0;0;0;2;3;4;9;16;Y. Ewodo
+25-26;15;Championat de France;Domicile;;Angers;;Starter;B. Massey;;;;;;;;0;4;0,00;;;;;;;;;;;;;;4;2;4;6;3;0;0;0;0;0;2;5;7;25;B. Massey
+25-26;15;Championat de France;Domicile;;Angers;;Starter;L. Lacan;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;4;0;3;3;2;5;2;0;1;1;1;11;0;42;L. Lacan
+25-26;15;Championat de France;Domicile;;Angers;;Banc;J. Wojta;;;;;;;;;;;;;;;;;;;;;;;;10;2;7;9;1;2;2;0;0;1;1;3;14;2;J. Wojta
+25-26;15;Championat de France;Domicile;;Angers;;Banc;M. Pardon;;;;;0;2;0,00;0;2;0,00;0;0;;;;;;;;;;;;2;0;3;3;9;2;2;0;0;1;2;6;12;5;M. Pardon
+25-26;15;Championat de France;Domicile;;Angers;;Banc;M. Djekoundade;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;1;0;1;1;0;0;0;0;1;1;7;1;9;M. Djekoundade
+25-26;15;Championat de France;Domicile;;Angers;;Banc;S. Macquet;;;;;;;;;;;0;0;;0;0;;;;;;;;;12;2;2;4;0;0;0;2;0;3;1;20;17;13;S. Macquet
+25-26;15;Championat de France;Domicile;;Angers;;Banc;E. Dechanoz;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;14;E. Dechanoz
+25-26;15;Championat de France;Domicile;;Angers;;Banc;L. Bussiere;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;2;4;6;0;3;1;1;0;0;2;6;10;28;L. Bussiere
+25-26;15;Championat de France;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;4;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;15;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;26;57;0,46;22;44;0,50;;;;;;;19;34;6;10;33;17;8;66;11;32;43;23;15;8;6;1;12;21;0;94;0;TOTAUX EQUIPE
+25-26;16;Championat de France;Exterieur;;Toulouse;;Starter;M. Pardon;;;;;0;7;0,00;0;5;0,00;0;2;0,00;0;0;;;;;;;;;0;2;4;6;5;2;1;1;0;1;0;24;4;5;M. Pardon
+25-26;16;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;7;1;2;3;5;0;2;1;0;1;2;29;15;7;C. Droguet(C)
+25-26;16;Championat de France;Exterieur;;Toulouse;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;13;5;6;11;1;4;3;1;0;1;2;21;20;11;M. Musa
+25-26;16;Championat de France;Exterieur;;Toulouse;;Starter;Y. Ewodo;;;;;;;;;;;;;;;;;;;;;;;;12;1;2;3;0;2;0;1;0;1;2;25;11;16;Y. Ewodo
+25-26;16;Championat de France;Exterieur;;Toulouse;;Starter;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;19;2;3;5;2;1;3;1;0;0;1;30;26;25;B. Massey
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;J. Wojta;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;0;0;3;0;0;0;0;0;0;5;5;2;J. Wojta
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;M. Djekoundade;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;3;0;3;0;1;2;0;0;0;2;13;10;9;M. Djekoundade
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;9;1;2;3;0;1;1;2;0;2;1;8;13;13;S. Macquet
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;3;3;3;3;2;1;0;2;0;5;6;28;L. Bussiere
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;L. Lacan;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;1;1;3;0;0;0;0;2;0;10;9;42;L. Lacan
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;16;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;34;70;0,49;25;44;0,57;;;;;;;26;44;21;19;37;34;20;88;15;25;40;22;14;14;8;0;10;10;0;121;0;TOTAUX EQUIPE
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Starter;J. Wojta;;;;;;;;0;1;0,00;;;;;;;;;;;;;;10;0;2;2;0;1;2;0;0;1;1;8;9;2;J. Wojta
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;;;;;;;;;;;13;1;2;3;0;2;2;0;1;2;2;-3;9;7;C. Droguet(C)
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Djekoundade;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;0;3;3;3;1;0;0;0;1;2;-2;3;9;M. Djekoundade
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;18;2;7;9;2;3;0;3;0;2;4;28;26;11;M. Musa
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Starter;L. Lacan;;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;0;4;4;2;4;1;0;0;3;6;27;10;42;L. Lacan
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Pardon;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;2;2;4;5;1;1;0;0;2;0;-4;3;5;M. Pardon
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;Z. Uriarte;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-2;-1;12;Z. Uriarte
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;S. Macquet;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;2;3;0;0;0;1;0;1;0;-18;4;13;S. Macquet
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Dechanoz;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-10;0;14;E. Dechanoz
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;Y. Ewodo;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;0;1;1;0;1;3;1;10;4;16;Y. Ewodo
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;B. Massey;;;;;;;;;;;;;;0;0;;;;;;;;;5;2;3;5;3;2;1;0;0;0;2;8;9;25;B. Massey
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Bussiere;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;2;1;0;0;0;0;18;-2;28;L. Bussiere
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;17;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;24;58;0,41;17;38;0,45;;;;13;18;0,72;16;24;9;11;13;23;10;68;8;27;35;15;18;9;4;2;15;18;0;74;0;TOTAUX EQUIPE
+25-26;18;Championat de France;Domicile;;Chartres;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;;;;;;;;;;;6;1;3;4;3;2;1;1;0;1;4;14;9;7;C. Droguet(C)
+25-26;18;Championat de France;Domicile;;Chartres;;Starter;M. Djekoundade;;;;;;;;;;;;;;;;;;;;;;;;6;1;2;3;1;0;0;0;0;2;2;20;5;9;M. Djekoundade
+25-26;18;Championat de France;Domicile;;Chartres;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;5;0;0;0;0;1;1;1;0;3;2;8;5;11;M. Musa
+25-26;18;Championat de France;Domicile;;Chartres;;Starter;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;7;2;1;3;1;0;0;0;0;1;1;8;10;25;B. Massey
+25-26;18;Championat de France;Domicile;;Chartres;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;15;0;0;0;6;1;2;0;0;3;4;6;13;42;L. Lacan
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;J. Wojta;;;;;;;;;;;;;;;;;;;;;;;;20;3;4;7;2;1;3;0;0;3;5;17;27;2;J. Wojta
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;M. Pardon;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;0;0;0;6;1;1;0;0;1;2;12;2;5;M. Pardon
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;Z. Uriarte;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;12;Z. Uriarte
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;S. Macquet;;;;;0;6;0,00;0;5;0,00;0;1;0,00;0;0;;;;;;;;;0;4;4;8;1;1;2;1;0;1;0;5;5;13;S. Macquet
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;E. Dechanoz;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;14;E. Dechanoz
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;0;1;1;1;3;1;0;0;4;2;0;1;16;Y. Ewodo
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;1;1;0;0;0;1;2;6;8;28;L. Bussiere
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;18;Championat de France;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;28;66;0,42;19;36;0,53;;;;13;23;0,57;34;28;18;16;39;20;12;78;15;20;35;22;12;11;3;0;20;24;0;89;0;TOTAUX EQUIPE
+25-26;19;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;1;0,00;;;;;;;;11;0;2;2;3;1;2;0;0;4;1;3;12;7;C. Droguet(C)
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Djekoundade;;;;;;;;;;;0;0;;;;;;;;;;;;4;1;1;2;2;0;1;0;0;4;4;8;2;9;M. Djekoundade
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;12;2;1;3;1;1;1;2;0;3;1;17;16;11;M. Musa
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Starter;B. Massey;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;2;2;4;1;1;0;0;1;1;0;15;8;25;B. Massey
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;11;1;0;1;2;1;1;0;0;2;4;11;11;42;L. Lacan
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;J. Wojta;;;;;;;;;;;;;;;;;;;;;;;;10;1;5;6;0;0;0;0;1;1;2;-3;6;2;J. Wojta
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;1;3;3;0;1;1;0;0;1;5;7;5;M. Pardon
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;S. Macquet;;;;;0;6;0,00;0;5;0,00;0;1;0,00;;;;;;;;;;;1;1;3;4;2;2;1;0;2;5;3;-5;-1;13;S. Macquet
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;12;0;2;2;2;3;1;0;0;0;2;4;9;16;Y. Ewodo
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Bussiere;;;;;;;;0;3;0,00;;;;;;;;;;;;;;8;5;4;9;0;0;0;0;0;1;2;5;13;28;L. Bussiere
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;19;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;30;70;0,43;25;58;0,43;;;;14;24;0,58;24;36;12;8;35;18;8;79;16;24;40;16;9;8;3;4;21;20;0;87;0;TOTAUX EQUIPE
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Pardon;;;;;0;5;0,00;0;3;0,00;0;2;0,00;0;0;;;;;;;;;0;0;1;1;5;2;0;1;0;3;1;7;0;5;M. Pardon
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;18;0;7;7;2;1;3;0;0;0;2;8;24;11;M. Musa
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Starter;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;3;1;4;2;3;0;0;2;1;2;9;5;16;Y. Ewodo
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Starter;B. Massey;;;;;;;;;;;0;3;0,00;;;;;;;;;;;9;1;2;3;0;0;0;0;0;0;4;3;5;25;B. Massey
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;16;3;0;3;6;1;1;0;1;4;4;5;13;42;L. Lacan
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Banc;J. Wojta(C);;;;;;;;;;;;;;;;;;;;;;;;11;2;6;8;0;3;2;1;0;2;1;9;16;2;J. Wojta(C)
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Banc;M. Djekoundade;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;4;4;0;1;0;1;0;2;2;4;2;9;M. Djekoundade
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Banc;S. Macquet;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;1;3;4;0;1;0;0;0;4;2;-2;6;13;S. Macquet
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Banc;L. Bussiere;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;2;5;7;2;1;0;0;0;0;0;2;5;28;L. Bussiere
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;20;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;22;63;0,35;16;42;0,38;;;;18;23;0,78;17;28;11;10;19;17;13;68;14;32;46;17;13;6;3;3;16;18;0;81;0;TOTAUX EQUIPE
+25-26;21;Championat de France;Exterieur;;Bourges;Capitaine;Starter;J. Wojta(C);;;;;;;;;;;;;;0;0;;;;;;;;;18;2;4;6;1;1;1;0;0;0;0;23;22;2;J. Wojta(C)
+25-26;21;Championat de France;Exterieur;;Bourges;;Starter;M. Pardon;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;11;0;0;0;0;1;0;21;14;5;M. Pardon
+25-26;21;Championat de France;Exterieur;;Bourges;;Starter;M. Djekoundade;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;1;2;3;2;0;0;2;0;0;1;6;10;9;M. Djekoundade
+25-26;21;Championat de France;Exterieur;;Bourges;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;15;1;5;6;0;1;3;0;0;2;2;17;18;11;M. Musa
+25-26;21;Championat de France;Exterieur;;Bourges;;Starter;L. Lacan;;;;;;;;;;;0;4;0,00;;;;;;;;;;;12;0;1;1;4;1;3;0;0;2;8;14;13;42;L. Lacan
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;A. Diagne;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;0;0;0;0;10;A. Diagne
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;Z. Uriarte;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;2;0;3;-2;12;Z. Uriarte
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;8;3;2;5;1;0;1;0;0;5;3;11;12;13;S. Macquet
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;E. Dechanoz;;;;;;;;;;;0;0;;;;;;;;;;;;4;0;0;0;2;1;0;0;0;0;1;1;5;14;E. Dechanoz
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;Y. Ewodo;;;;;;;;;;;;;;0;2;0,00;;;;;;;;7;0;4;4;1;0;2;1;0;2;2;16;12;16;Y. Ewodo
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;D. Littleton;;;;;;;;;;;;;;;;;;;;;;;;9;0;1;1;0;1;0;0;0;1;1;6;6;24;D. Littleton
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;L. Bussiere;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;1;1;3;0;0;0;0;22;5;28;L. Bussiere
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;2;0;0;0;0;0;0;0;0;Team / Coach
+25-26;21;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;33;64;0,52;26;43;0,60;;;;16;22;0,73;26;44;12;18;33;28;9;89;8;24;32;23;9;13;3;0;15;18;0;114;0;TOTAUX EQUIPE
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;J. Wojta(C);;;;;;;;0;3;0,00;;;;;;;;;;;;;;4;2;6;8;5;1;2;0;0;2;3;-4;12;2;J. Wojta(C)
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Pardon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;8;1;3;4;2;1;1;0;0;1;0;3;10;5;M. Pardon
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Djekoundade;;;;;;;;;;;0;2;0,00;0;1;0,00;;;;;;;;8;0;2;2;3;0;2;1;0;1;3;9;12;9;M. Djekoundade
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Musa;;;;;;;;;;;0;0;;;;;;;;;;;;15;1;2;3;1;2;2;1;1;2;1;7;17;11;M. Musa
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;L. Lacan;;;;;0;5;0,00;0;3;0,00;0;2;0,00;;;;;;;;;;;3;1;2;3;4;3;2;0;0;1;6;-3;3;42;L. Lacan
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;10;2;2;4;1;1;0;1;0;3;3;-2;13;13;S. Macquet
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Y. Ewodo;;;;;;;;;;;;;;;;;;;;;;;;11;1;1;2;2;1;1;0;0;1;2;5;9;16;Y. Ewodo
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;D. Littleton;;;;;0;6;0,00;0;2;0,00;0;4;0,00;0;0;;;;;;;;;0;1;3;4;2;3;0;1;0;1;0;5;-2;24;D. Littleton
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;B. Massey;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;2;2;0;1;0;0;0;0;0;5;1;25;B. Massey
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Bussiere;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;1;0;1;2;0;1;0;0;1;1;-5;7;28;L. Bussiere
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;4;7;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;22;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;26;64;0,41;21;41;0,51;;;;;;;18;32;9;17;29;16;12;67;13;27;40;22;13;11;4;1;13;19;0;89;0;TOTAUX EQUIPE
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;Capitaine;Starter;J. Wojta(C);;;;;;;;;;;;;;0;0;;;;;;;;;8;1;4;5;1;4;1;0;0;2;2;10;9;2;J. Wojta(C)
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Starter;M. Djekoundade;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;3;4;2;3;1;1;0;1;1;19;11;9;M. Djekoundade
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Starter;M. Musa;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;12;2;3;5;1;1;0;1;1;3;1;-1;13;11;M. Musa
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Starter;D. Littleton;;;;;;;;;;;;;;;;;;;;;;;;10;0;3;3;2;0;0;0;0;2;1;12;13;24;D. Littleton
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;26;0;2;2;1;1;2;1;0;2;6;17;25;42;L. Lacan
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;M. Pardon;;;;;;;;;;;;;;;;;;;;;;;;9;1;3;4;4;3;1;0;0;3;4;-2;10;5;M. Pardon
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;7;0;5;5;0;0;0;3;0;2;2;18;13;13;S. Macquet
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;Y. Ewodo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;9;1;0;1;0;0;1;0;0;2;2;-7;3;16;Y. Ewodo
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;B. Massey;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;1;4;5;3;1;1;0;0;1;0;3;8;25;B. Massey
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;L. Bussiere;;;;;;;;0;1;0,00;;;;;;;;;;;;;;7;0;1;1;5;1;1;0;0;2;1;6;7;28;L. Bussiere
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;1/4 finale Aller;Playoff;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;35;64;0,55;23;36;0,64;;;;15;25;0,60;15;34;11;16;34;20;8;97;7;28;35;19;15;8;6;1;20;20;0;111;0;TOTAUX EQUIPE
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Starter;M. Djekoundade;;;;;;;;;;;;;;;;;;;;;;;;6;1;2;3;0;1;3;0;0;0;1;14;9;9;M. Djekoundade
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Starter;M. Musa;;;;;;;;;;;;;;;;;;;;;;;;15;0;5;5;0;2;2;0;0;1;3;30;16;11;M. Musa
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Starter;D. Littleton;;;;;;;;;;;;;;;;;;;;;;;;7;0;2;2;2;1;0;0;0;1;1;27;7;24;D. Littleton
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Starter;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;16;2;3;5;3;2;1;0;0;1;5;22;22;25;B. Massey
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Starter;L. Lacan;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;1;1;5;5;3;0;1;2;3;12;2;42;L. Lacan
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;Capitaine;Banc;J. Wojta(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;1;2;3;1;0;0;0;0;1;2;14;5;2;J. Wojta(C)
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;M. Pardon;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;13;1;2;0;0;1;0;26;21;5;M. Pardon
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;S. Macquet;;;;;;;;;;;0;3;0,00;;;;;;;;;;;4;0;5;5;0;3;1;0;0;4;1;12;2;13;S. Macquet
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;E. Dechanoz;;;;;;;;0;0;;;;;;;;;;;;;;;5;0;0;0;0;0;0;0;0;0;1;-2;5;14;E. Dechanoz
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;Y. Ewodo;;;;;;;;;;;0;0;;;;;;;;;;;;8;0;2;2;1;2;1;0;1;1;2;10;7;16;Y. Ewodo
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;L. Bussiere;;;;;;;;;;;;;;;;;;;;;;;;7;0;4;4;2;1;0;0;0;0;1;20;9;28;L. Bussiere
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;5;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;1/4 finale Retour;Playoff;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;28;57;0,49;18;34;0,53;;;;18;22;0,82;31;30;6;16;37;40;10;84;5;33;38;27;18;13;0;2;12;20;0;111;0;TOTAUX EQUIPE
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;M. Djekoundade;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;3;1;4;2;1;1;0;0;1;3;4;4;9;M. Djekoundade
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;3;8;11;0;2;2;0;0;4;0;-7;13;11;M. Musa
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;D. Littleton;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;0;2;2;2;3;2;0;0;3;2;5;3;24;D. Littleton
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;B. Massey;;;;;;;;;;;;;;;;;;;;;;;;10;1;3;4;2;1;0;0;0;1;3;3;9;25;B. Massey
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;18;0;2;2;1;3;1;1;0;1;3;11;13;42;L. Lacan
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;BENCH;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;BENCH
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;J. WojtaCAPTAIN_ABBREV;;;;;;;;;;;0;1;0,00;0;2;0,00;;;;;;;;2;1;4;5;1;1;1;0;0;1;1;-1;0;2;J. WojtaCAPTAIN_ABBREV
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;M. Pardon;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;6;2;1;3;1;0;3;0;0;1;2;-7;9;5;M. Pardon
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;S. Macquet;;;;;0;1;0,00;0;0;;0;1;0,00;;;;;;;;;;;2;0;1;1;1;1;2;1;0;2;1;11;5;13;S. Macquet
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;Y. Ewodo;;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;2;1;3;0;1;0;0;0;0;3;-5;-1;16;Y. Ewodo
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;L. Bussiere;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;2;0;1;0;0;2;0;1;6;28;L. Bussiere
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;1/2 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;22;66;0,33;16;41;0,39;;;;;;;16;24;18;7;17;7;11;60;15;25;40;12;13;13;2;0;16;18;0;64;0;TOTAUX EQUIPE
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;M. Djekoundade;;;;;;;;;;;0;1;0,00;0;1;0,00;;;;;;;;10;0;2;2;3;0;1;0;0;1;1;-8;11;9;M. Djekoundade
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;16;3;6;9;2;0;1;0;0;1;4;-4;22;11;M. Musa
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;D. Littleton;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;0;1;0;2;0;1;0;0;1;-14;-1;24;D. Littleton
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;B. Massey;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;0;0;1;1;1;0;0;2;1;-12;6;25;B. Massey
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;9;0;2;2;2;1;0;0;0;2;4;-1;6;42;L. Lacan
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;Capitaine;Banc;J. Wojta(C);;;;;;;;;;;;;;;;;;;;;;;;14;0;4;4;1;4;1;0;0;2;4;10;9;2;J. Wojta(C)
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;M. Pardon;;;;;0;5;0,00;0;4;0,00;0;1;0,00;;;;;;;;;;;1;1;1;2;10;1;3;1;0;1;2;14;8;5;M. Pardon
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;Z. Uriarte;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;Z. Uriarte
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;S. Macquet;;;;;;;;;;;;;;;;;;;;;;;;13;0;2;2;0;0;0;0;0;3;4;8;14;13;S. Macquet
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;E. Dechanoz;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;14;E. Dechanoz
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;Y. Ewodo;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;1;1;2;1;0;1;0;0;3;1;7;10;16;Y. Ewodo
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;L. Bussiere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;2;3;0;1;0;0;0;1;0;5;2;28;L. Bussiere
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
+25-26;1/2 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;27;62;0,44;21;42;0,50;;;;21;27;0,78;17;34;13;9;38;1;10;81;9;21;30;20;10;8;2;0;16;22;0;90;0;TOTAUX EQUIPE
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;Capitaine;Starter;C. Droguet(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;1;1;0;1;0;2;1;-12;3;7;C. Droguet(C)
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Starter;M. Djekoundade;;;;;0;2;0,00;0;2;0,00;0;0;;;;;;;;;;;;2;1;2;3;3;0;0;2;0;0;1;2;8;9;M. Djekoundade
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Starter;M. Musa;;;;;;;;;;;0;2;0,00;0;2;0,00;;;;;;;;8;1;2;3;1;2;0;1;1;1;4;-16;-1;11;M. Musa
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Starter;B. Massey;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;2;2;0;0;0;0;0;4;0;-19;5;25;B. Massey
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;9;1;2;3;3;1;2;0;0;1;5;-10;12;42;L. Lacan
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;J. Wojta;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;10;11;2;5;0;0;0;1;1;1;10;2;J. Wojta
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;M. Pardon;;;;;;;;0;7;0,00;;;;0;0;;;;;;;;;3;0;2;2;6;1;3;1;1;1;2;-8;7;5;M. Pardon
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;S. Macquet;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;1;2;0;1;0;1;0;4;2;-2;5;13;S. Macquet
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;Y. Ewodo;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;2;0;0;0;2;0;-19;0;16;Y. Ewodo
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;L. Bussiere;;;;;0;3;0,00;0;0;;0;3;0,00;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-7;-2;28;L. Bussiere
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;Finale Aller;Playoff;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;18;60;0,30;;;;;;;;;;14;18;8;6;17;3;10;49;7;26;33;16;14;5;6;2;16;16;0;50;0;TOTAUX EQUIPE
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;0;1;0,00;0;1;0,00;;;;;;;;2;1;3;4;1;2;0;1;0;2;2;4;-1;7;C. Droguet(C)
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Musa;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;4;5;9;0;1;2;1;0;4;1;7;14;11;M. Musa
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;Y. Ewodo;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;1;3;1;2;0;0;0;2;1;6;1;16;Y. Ewodo
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;B. Massey;;;;;0;8;0,00;0;6;0,00;0;2;0,00;0;0;;;;;;;;;0;1;4;5;3;1;1;0;1;2;0;10;0;25;B. Massey
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;L. Lacan;;;;;;;;;;;;;;;;;;;;;;;;20;0;2;2;3;2;4;0;0;2;4;9;21;42;L. Lacan
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;J. Wojta;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;0;0;0;1;1;0;0;0;4;3;-5;0;2;J. Wojta
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Pardon;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;0;3;3;6;1;0;1;0;1;3;0;11;5;M. Pardon
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Djekoundade;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;6;7;0;1;1;0;0;0;5;1;11;9;M. Djekoundade
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;S. Macquet;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;4;4;0;0;0;1;0;2;0;-2;9;13;S. Macquet
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;L. Bussiere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;2;0;0;0;0;0;-5;-1;28;L. Bussiere
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;6;8;0;1;0;0;0;0;0;0;0;0;Team / Coach
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;23;64;0,36;20;50;0,40;;;;;;;7;28;9;17;25;19;8;59;11;35;46;15;14;8;4;1;19;19;0;72;0;TOTAUX EQUIPE
+25-26;Finale Belle;Playoff;Domicile;;Bourges;Capitaine;Starter;C. Droguet(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;0;2;0;1;0;4;2;1;4;7;C. Droguet(C)
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Starter;M. Musa;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;8;9;2;1;0;1;0;0;1;-2;10;11;M. Musa
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Starter;Y. Ewodo;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;0;1;1;2;2;0;0;4;0;-11;-1;16;Y. Ewodo
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Starter;B. Massey;;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;0;1;1;1;2;1;0;0;3;0;-6;-2;25;B. Massey
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Starter;L. Lacan;;;;;;;;;;;0;2;0,00;;;;;;;;;;;19;0;2;2;6;3;3;1;0;3;6;7;22;42;L. Lacan
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;J. Wojta;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;2;4;6;1;2;0;0;0;1;4;4;5;2;J. Wojta
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;M. Pardon;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;1;2;1;0;0;1;2;9;3;5;M. Pardon
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;M. Djekoundade;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;5;5;1;2;1;4;0;1;1;10;12;9;M. Djekoundade
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;S. Macquet;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;3;3;0;0;0;0;0;1;2;5;5;13;S. Macquet
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;L. Bussiere;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;1;0;0;0;0;1;0;-2;4;28;L. Bussiere
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;2;0;0;0;0;0;0;0;0;Team / Coach
+25-26;Finale Belle;Playoff;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;19;56;0,34;14;42;0,33;;;;;;;13;16;2;4;19;4;8;53;5;30;35;14;18;8;7;0;19;18;0;61;0;TOTAUX EQUIPE
