@@ -10,7 +10,6 @@ from pathlib import Path
 
 
 WORKBOOK_NAME = "Calendrier et resultat.xlsx"
-OUTPUT_NAME = "calendrier_resultat_fusionne.csv"
 
 OUTPUT_HEADERS = [
     "Saison",
@@ -170,14 +169,13 @@ def merge_calendar_workbook(workbook_path: Path, output_csv: Path) -> None:
                     writer.writerow(output_row)
 
 
-def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    workbook_path = script_dir.parent / "donnée prof" / WORKBOOK_NAME
-    output_csv = script_dir / OUTPUT_NAME
-
-    merge_calendar_workbook(workbook_path, output_csv)
-    print(f"Fusion terminee: {output_csv}")
+def main(output_path: Path) -> None:
+    workbook_path = Path(__file__).resolve().parent.parent.parent / "donnée prof" / WORKBOOK_NAME
+    merge_calendar_workbook(workbook_path, output_path)
+    print(f"[modules/fusion_calendrier_resultat.py] Fusion terminee: {output_path}")
 
 
 if __name__ == "__main__":
-    main()
+    script_dir = Path(__file__).resolve().parent.parent
+    output_csv = script_dir / "data_intermediaire" / "calendrier_resultat_fusionne.csv"
+    main(output_csv)

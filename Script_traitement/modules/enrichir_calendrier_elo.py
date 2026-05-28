@@ -224,20 +224,19 @@ def write_enriched_csv(output_csv: Path, rows: list[dict[str, str]]) -> None:
     temp_csv.replace(output_csv)
 
 
-def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    workbook_path = script_dir.parent / "donnée prof" / WORKBOOK_NAME
-    input_csv = script_dir / INPUT_CSV_NAME
-    output_csv = script_dir / OUTPUT_CSV_NAME
-
+def main(input_path: Path, output_path: Path) -> None:
+    workbook_path = Path(__file__).resolve().parent.parent.parent / "donnée prof" / WORKBOOK_NAME
     rankings = load_elo_rankings(workbook_path)
-    calendar_rows = load_calendar_rows(input_csv)
+    calendar_rows = load_calendar_rows(input_path)
     enriched_rows, seeded_teams = enrich_calendar_rows(calendar_rows, rankings)
-    write_enriched_csv(output_csv, enriched_rows)
+    write_enriched_csv(output_path, enriched_rows)
 
-    print(f"Fusion ELO terminee: {output_csv}")
-    print(f"- Equipes initialisées en 24-25: {len(seeded_teams)}")
+    print(f"[modules/enrichir_calendrier_elo.py] Fusion terminee: {output_path}")
+    print(f"  -> Equipes initialisees en 24-25: {len(seeded_teams)}")
 
 
 if __name__ == "__main__":
-    main()
+    script_dir = Path(__file__).resolve().parent.parent
+    input_csv = script_dir / "data_intermediaire" / INPUT_CSV_NAME
+    output_csv = script_dir / "data_intermediaire" / OUTPUT_CSV_NAME
+    main(input_csv, output_csv)

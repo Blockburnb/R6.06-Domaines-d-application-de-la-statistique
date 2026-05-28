@@ -4,6 +4,12 @@ from __future__ import annotations
 import csv
 from collections import Counter
 from pathlib import Path
+import sys
+import zipfile
+import xml.etree.ElementTree as ET
+
+# Ajouter le répertoire parent au path pour accéder aux modules
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "modules"))
 
 from fusion_calendrier_resultat import (
     OUTPUT_HEADERS,
@@ -13,10 +19,6 @@ from fusion_calendrier_resultat import (
     normalize_text,
     read_sheet_rows,
 )
-
-import zipfile
-import xml.etree.ElementTree as ET
-
 
 NS = {
     "a": "http://schemas.openxmlformats.org/spreadsheetml/2006/main",
@@ -135,12 +137,12 @@ def print_counter_diff(expected: Counter, actual: Counter, label: str, max_items
 
 def main() -> int:
     script_dir = Path(__file__).resolve().parent
-    workbook_path = script_dir.parent / "donnée prof" / WORKBOOK_NAME
-    merged_csv = script_dir / "calendrier_resultat_fusionne.csv"
+    workbook_path = script_dir.parent.parent / "donnée prof" / WORKBOOK_NAME
+    merged_csv = script_dir.parent / "data_intermediaire" / "calendrier_resultat_fusionne.csv"
 
     if not merged_csv.exists():
         print(f"ERREUR: fichier fusionne introuvable: {merged_csv}")
-        print("Lance d'abord fusion_calendrier_resultat.py pour generer le fichier.")
+        print("Lance d'abord le pipeline pour generer le fichier.")
         return 1
 
     expected_rows, expected_per_season, expected_total = load_expected_rows(workbook_path)

@@ -4,12 +4,14 @@ from __future__ import annotations
 import csv
 from collections import Counter
 from pathlib import Path
+import sys
+
+# Ajouter le répertoire parent au path pour accéder aux modules
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "modules"))
 
 from enrichir_calendrier_elo import (
     BASE_HEADERS,
     ELO_HEADERS,
-    INPUT_CSV_NAME,
-    OUTPUT_CSV_NAME,
     WORKBOOK_NAME,
     enrich_calendar_rows,
     load_calendar_rows,
@@ -76,13 +78,13 @@ def print_counter_diff(expected: Counter, actual: Counter, label: str, max_items
 
 def main() -> int:
     script_dir = Path(__file__).resolve().parent
-    workbook_path = script_dir.parent / "donnée prof" / WORKBOOK_NAME
-    input_csv = script_dir / INPUT_CSV_NAME
-    enriched_csv = script_dir / OUTPUT_CSV_NAME
+    workbook_path = script_dir.parent.parent / "donnée prof" / WORKBOOK_NAME
+    input_csv = script_dir.parent / "data_intermediaire" / "calendrier_resultat_fusionne.csv"
+    enriched_csv = script_dir.parent / "data_intermediaire" / "calendrier_resultat_fusionne_elo.csv"
 
     if not enriched_csv.exists():
         print(f"ERREUR: fichier enrichi introuvable: {enriched_csv}")
-        print("Lance d'abord enrichir_calendrier_elo.py pour generer le fichier.")
+        print("Lance d'abord le pipeline pour generer le fichier.")
         return 1
 
     rankings = load_elo_rankings(workbook_path)

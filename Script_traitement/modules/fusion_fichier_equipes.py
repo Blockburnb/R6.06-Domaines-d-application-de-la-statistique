@@ -125,14 +125,13 @@ def merge_team_csvs(source_dir: Path, output_csv: Path) -> None:
                     writer.writerow(build_output_row(row, team_name))
 
 
-def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    source_dir = script_dir.parent / "donnée prof" / "Fichier Equipe"
-    output_csv = script_dir / "equipes_fusionnees.csv"
-
-    merge_team_csvs(source_dir, output_csv)
-    print(f"Fusion terminee: {output_csv}")
+def main(output_path: Path) -> None:
+    source_dir = Path(__file__).resolve().parent.parent.parent / "donnée prof" / "Fichier Equipe"
+    merge_team_csvs(source_dir, output_path)
+    print(f"[modules/fusion_fichier_equipes.py] Fusion terminee: {output_path}")
 
 
 if __name__ == "__main__":
-    main()
+    script_dir = Path(__file__).resolve().parent.parent
+    output_csv = script_dir / "data_intermediaire" / "equipes_fusionnees.csv"
+    main(output_csv)

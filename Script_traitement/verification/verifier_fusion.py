@@ -4,6 +4,10 @@ from __future__ import annotations
 import csv
 from collections import Counter
 from pathlib import Path
+import sys
+
+# Ajouter le répertoire parent au path pour accéder aux modules
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "modules"))
 
 from fusion_fichier_equipes import OUTPUT_HEADERS, build_output_row, open_csv_with_fallback
 
@@ -92,12 +96,12 @@ def print_counter_diff(expected: Counter, actual: Counter, label: str, max_items
 
 def main() -> int:
     script_dir = Path(__file__).resolve().parent
-    source_dir = script_dir.parent / "donnée prof" / "Fichier Equipe"
-    merged_csv = script_dir / "equipes_fusionnees.csv"
+    source_dir = script_dir.parent.parent / "donnée prof" / "Fichier Equipe"
+    merged_csv = script_dir.parent / "data_intermediaire" / "equipes_fusionnees.csv"
 
     if not merged_csv.exists():
         print(f"ERREUR: fichier fusionne introuvable: {merged_csv}")
-        print("Lance d'abord fusion_fichier_equipes.py pour generer le fichier.")
+        print("Lance d'abord le pipeline pour generer le fichier.")
         return 1
 
     expected_rows, expected_per_team, expected_total = load_expected_rows(source_dir)
