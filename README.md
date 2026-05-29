@@ -4,6 +4,7 @@
 
 Ce projet traite et analyse les données statistiques du basketball féminin français (LFB - Ligue de Basketball Féminin).
 
+Sujet : Quels sont les facteurs qui pèsent le plus pour gagner un match ?
 ---
 
 ## 🚀 Démarrage rapide
