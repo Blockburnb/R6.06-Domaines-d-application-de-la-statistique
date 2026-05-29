@@ -1,4 +1,4 @@
-Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adversaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Chartres;;Starter;N. Brochant;37;9;0,15;37,15;10;14;0,714285714;9;13;0,692307692;1;1;1;1;3;0,333333333;;;;;;;;22;0;9;9;2;2;2;3;0;1;3;4;30;1;N. Brochant
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Chartres;Capitaine;Starter;A. Bouderra;21;13;0,22;21,22;1;6;0,166666667;1;3;0,333333333;0;3;0;0;0;;;;;;;;;2;1;1;2;5;5;2;0;0;2;0;-11;1;4;A. Bouderra(C)
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Chartres;;Starter;K. Sissoko;18;6;0,1;18,1;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;1;0;1;2;2;0;0;0;1;1;3;-1;30;K. Sissoko
@@ -602,314 +602,314 @@ Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/b
 24-25;22;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;O. Chidom;17;32;0,53;32,53;0;3;0;0;3;0;0;0;;0;0;;;;;;;;;0;0;1;1;1;1;0;0;1;2;0;1;-2;22;O. Chidom
 24-25;22;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
 24-25;22;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;29;65;0,45;23;46;0,5;6;19;0,32;14;17;0,82;28;34;9;23;25;3;9;78;7;20;27;19;16;12;1;2;25;13;0;82;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;8;0;4;4;3;3;3;1;0;1;0;1;13;1;N. Brochant(C)
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Franchelin;;;;;;;;0;2;0,00;;;;;;;;;;;;;;7;1;1;2;8;5;2;0;0;2;5;-3;9;2;C. Franchelin
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;18;2;5;7;1;1;3;0;0;3;1;-2;25;20;E. Dixon
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Joens;;;;;;;;;;;;;;;;;;;;;;;;6;2;0;2;3;2;1;0;0;0;4;1;6;24;A. Joens
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;2;5;7;0;0;0;0;0;0;4;-2;16;34;T. Clarke
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;T. Magassa;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;2;2;2;0;0;1;0;0;0;1;4;6;T. Magassa
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Jerome;;;;;;;;;;;0;2;0,00;0;2;0,00;;;;;;;;2;1;0;1;5;3;1;0;0;0;1;2;-1;7;L. Jerome
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;I. Strunc;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;0;0;1;0;0;1;0;-3;9;8;I. Strunc
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Hirsch;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;2;2;4;2;1;0;0;0;1;1;1;7;33;M. Hirsch
-25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;V. Gomis;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;1;0;1;1;3;0;0;0;0;1;-1;-3;75;V. Gomis
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;N. Brochant(C);34;16;0,27;34,27;;;;;;;;;;0;0;;;;;;;;;8;0;4;4;3;3;3;1;0;1;0;1;13;1;N. Brochant(C)
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Franchelin;22;10;0,17;22,17;;;;0;2;0;;;;;;;;;;;;;;7;1;1;2;8;5;2;0;0;2;5;-3;9;2;C. Franchelin
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;E. Dixon;33;53;0,88;33,88;;;;;;;0;0;;;;;;;;;;;;18;2;5;7;1;1;3;0;0;3;1;-2;25;20;E. Dixon
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Joens;14;29;0,48;14,48;;;;;;;;;;;;;;;;;;;;6;2;0;2;3;2;1;0;0;0;4;1;6;24;A. Joens
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Starter;T. Clarke;22;30;0,5;22,5;;;;;;;0;0;;;;;;;;;;;;13;2;5;7;0;0;0;0;0;0;4;-2;16;34;T. Clarke
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;T. Magassa;6;7;0,12;6,12;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;2;2;2;0;0;1;0;0;0;1;4;6;T. Magassa
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Jerome;17;50;0,83;17,83;;;;;;;0;2;0;0;2;0;;;;;;;;2;1;0;1;5;3;1;0;0;0;1;2;-1;7;L. Jerome
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;I. Strunc;14;18;0,3;14,3;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;0;0;1;0;0;1;0;-3;9;8;I. Strunc
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;D. Madjo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Hirsch;17;20;0,33;17,33;;;;;;;0;2;0;;;;;;;;;;;6;2;2;4;2;1;0;0;0;1;1;1;7;33;M. Hirsch
+25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;V. Gomis;16;57;0,95;16,95;;;;;;;0;2;0;;;;;;;;;;;3;1;0;1;1;3;0;0;0;0;1;-1;-3;75;V. Gomis
 25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;26;56;0,46;21;39;0,54;;;;13;19;0,68;18;38;13;11;18;7;7;70;12;23;35;25;20;11;2;0;8;17;0;87;0;TOTAUX EQUIPE
-25-26;2;Championat de France;Exterieur;;Landerneau;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;0;5;5;3;2;3;1;2;3;0;2;12;1;N. Brochant(C)
-25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;12;0;0;0;4;6;4;0;0;1;4;0;9;2;C. Franchelin
-25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;E. Dixon;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;7;8;2;0;0;0;1;3;1;-7;10;20;E. Dixon
-25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;1;3;0;2;0;4;5;3;10;34;T. Clarke
-25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;V. Gomis;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;2;0;0;0;3;3;1;0;0;1;0;-9;-3;75;V. Gomis
-25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;T. Magassa;;;;;0;0;;0;0;;0;0;;;;;;;;;;;;2;0;3;3;0;0;0;0;0;0;2;9;5;6;T. Magassa
-25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;17;0;1;1;4;1;0;0;0;2;3;-4;17;7;L. Jerome
-25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;I. Strunc;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;4;4;2;0;2;0;1;1;0;-3;11;8;I. Strunc
-25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;J. Ashley;;;;;;;;;;;0;2;0,00;;;;;;;;;;;5;4;4;8;0;1;1;0;1;0;3;2;6;24;J. Ashley
-25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;M. Hirsch;;;;;;;;;;;;;;;;;;;;;;;;13;1;2;3;0;1;0;0;0;1;1;-13;15;33;M. Hirsch
+25-26;2;Championat de France;Exterieur;;Landerneau;Capitaine;Starter;N. Brochant(C);34;45;0,75;34,75;;;;;;;;;;0;0;;;;;;;;;11;0;5;5;3;2;3;1;2;3;0;2;12;1;N. Brochant(C)
+25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;C. Franchelin;22;28;0,47;22,47;;;;;;;;;;;;;;;;;;;;12;0;0;0;4;6;4;0;0;1;4;0;9;2;C. Franchelin
+25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;E. Dixon;21;33;0,55;21,55;;;;;;;0;0;;0;0;;;;;;;;;2;1;7;8;2;0;0;0;1;3;1;-7;10;20;E. Dixon
+25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;T. Clarke;35;8;0,13;35,13;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;1;3;0;2;0;4;5;3;10;34;T. Clarke
+25-26;2;Championat de France;Exterieur;;Landerneau;;Starter;V. Gomis;16;45;0,75;16,75;;;;;;;0;4;0;0;0;;;;;;;;;2;0;0;0;3;3;1;0;0;1;0;-9;-3;75;V. Gomis
+25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;T. Magassa;9;4;0,07;9,07;0;0;;0;0;;0;0;;;;;;;;;;;;2;0;3;3;0;0;0;0;0;0;2;9;5;6;T. Magassa
+25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;L. Jerome;22;32;0,53;22,53;;;;;;;;;;;;;;;;;;;;17;0;1;1;4;1;0;0;0;2;3;-4;17;7;L. Jerome
+25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;I. Strunc;16;38;0,63;16,63;;;;;;;;;;0;0;;;;;;;;;8;0;4;4;2;0;2;0;1;1;0;-3;11;8;I. Strunc
+25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;J. Ashley;21;53;0,88;21,88;;;;;;;0;2;0;;;;;;;;;;;5;4;4;8;0;1;1;0;1;0;3;2;6;24;J. Ashley
+25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;M. Hirsch;23;44;0,73;23,73;;;;;;;;;;;;;;;;;;;;13;1;2;3;0;1;0;0;0;1;1;-13;15;33;M. Hirsch
 25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;2;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;18;40;0,45;;;;15;16;0,94;22;32;7;7;45;5;8;81;9;30;39;19;19;11;3;5;16;19;0;94;0;TOTAUX EQUIPE
-25-26;3;Championat de France;Domicile;;Bourges;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;10;3;3;6;5;3;1;0;0;3;1;13;15;1;N. Brochant(C)
-25-26;3;Championat de France;Domicile;;Bourges;;Starter;C. Franchelin;;;;;;;;;;;0;4;0,00;;;;;;;;;;;12;0;5;5;13;5;6;0;0;3;4;17;23;2;C. Franchelin
-25-26;3;Championat de France;Domicile;;Bourges;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;8;2;0;2;3;1;0;1;0;3;1;2;10;20;E. Dixon
-25-26;3;Championat de France;Domicile;;Bourges;;Starter;A. Joens;;;;;;;;;;;;;;;;;;;;;;;;14;0;1;1;1;1;2;1;0;1;2;14;13;24;A. Joens
-25-26;3;Championat de France;Domicile;;Bourges;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;0;2;2;2;1;4;2;0;3;5;15;18;34;T. Clarke
-25-26;3;Championat de France;Domicile;;Bourges;;Banc;L. Jerome;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;1;3;0;0;0;1;1;-2;2;7;L. Jerome
-25-26;3;Championat de France;Domicile;;Bourges;;Banc;I. Strunc;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;1;1;1;1;0;0;0;0;0;3;-1;8;I. Strunc
-25-26;3;Championat de France;Domicile;;Bourges;;Banc;D. Madjo;;;;;;;;;;;0;0;;;;;;;;;;;;6;1;2;3;0;1;0;0;0;1;2;8;8;32;D. Madjo
-25-26;3;Championat de France;Domicile;;Bourges;;Banc;M. Hirsch;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;5;-1;33;M. Hirsch
-25-26;3;Championat de France;Domicile;;Bourges;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;9;1;1;2;1;0;1;0;0;3;5;0;11;75;V. Gomis
+25-26;3;Championat de France;Domicile;;Bourges;Capitaine;Starter;N. Brochant(C);36;13;0,22;36,22;;;;;;;;;;0;0;;;;;;;;;10;3;3;6;5;3;1;0;0;3;1;13;15;1;N. Brochant(C)
+25-26;3;Championat de France;Domicile;;Bourges;;Starter;C. Franchelin;31;53;0,88;31,88;;;;;;;0;4;0;;;;;;;;;;;12;0;5;5;13;5;6;0;0;3;4;17;23;2;C. Franchelin
+25-26;3;Championat de France;Domicile;;Bourges;;Starter;E. Dixon;22;39;0,65;22,65;;;;;;;0;0;;;;;;;;;;;;8;2;0;2;3;1;0;1;0;3;1;2;10;20;E. Dixon
+25-26;3;Championat de France;Domicile;;Bourges;;Starter;A. Joens;21;47;0,78;21,78;;;;;;;;;;;;;;;;;;;;14;0;1;1;1;1;2;1;0;1;2;14;13;24;A. Joens
+25-26;3;Championat de France;Domicile;;Bourges;;Starter;T. Clarke;35;55;0,92;35,92;;;;;;;0;0;;;;;;;;;;;;13;0;2;2;2;1;4;2;0;3;5;15;18;34;T. Clarke
+25-26;3;Championat de France;Domicile;;Bourges;;Banc;L. Jerome;8;8;0,13;8,13;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;1;3;0;0;0;1;1;-2;2;7;L. Jerome
+25-26;3;Championat de France;Domicile;;Bourges;;Banc;I. Strunc;7;7;0,12;7,12;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;1;1;1;1;0;0;0;0;0;3;-1;8;I. Strunc
+25-26;3;Championat de France;Domicile;;Bourges;;Banc;D. Madjo;13;59;0,98;13,98;;;;;;;0;0;;;;;;;;;;;;6;1;2;3;0;1;0;0;0;1;2;8;8;32;D. Madjo
+25-26;3;Championat de France;Domicile;;Bourges;;Banc;M. Hirsch;7;7;0,12;7,12;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;5;-1;33;M. Hirsch
+25-26;3;Championat de France;Domicile;;Bourges;;Banc;V. Gomis;14;2;0,03;14,03;;;;;;;;;;;;;;;;;;;;9;1;1;2;1;0;1;0;0;3;5;0;11;75;V. Gomis
 25-26;3;Championat de France;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;4;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;3;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;29;59;0,49;23;39;0,59;;;;13;16;0,81;24;42;5;11;20;16;16;77;8;22;30;27;17;14;4;0;18;21;0;102;0;TOTAUX EQUIPE
-25-26;4;Championat de France;Exterieur;;Charnay;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;21;3;4;7;5;2;3;0;0;4;0;12;30;1;N. Brochant(C)
-25-26;4;Championat de France;Exterieur;;Charnay;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;11;0;1;1;7;5;2;0;0;5;2;-1;7;2;C. Franchelin
-25-26;4;Championat de France;Exterieur;;Charnay;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;3;2;6;8;0;1;0;0;0;3;3;-4;6;20;E. Dixon
-25-26;4;Championat de France;Exterieur;;Charnay;;Starter;A. Joens;;;;;;;;;;;;;;;;;;;;;;;;8;1;3;4;0;1;2;0;0;0;2;-16;8;24;A. Joens
-25-26;4;Championat de France;Exterieur;;Charnay;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;1;4;5;2;0;2;1;1;3;3;-4;19;34;T. Clarke
-25-26;4;Championat de France;Exterieur;;Charnay;;Banc;L. Jerome;;;;;;;;0;2;0,00;;;;;;;;;;;;;;6;1;4;5;4;0;0;0;0;1;3;0;11;7;L. Jerome
-25-26;4;Championat de France;Exterieur;;Charnay;;Banc;I. Strunc;;;;;0;3;0,00;0;0;;0;3;0,00;0;0;;;;;;;;;0;0;1;1;0;2;0;0;0;0;1;11;-4;8;I. Strunc
-25-26;4;Championat de France;Exterieur;;Charnay;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;1;-5;-1;32;D. Madjo
-25-26;4;Championat de France;Exterieur;;Charnay;;Banc;M. Hirsch;;;;;;;;;;;;;;;;;;;;;;;;13;0;2;2;1;0;0;0;1;2;1;11;11;33;M. Hirsch
-25-26;4;Championat de France;Exterieur;;Charnay;;Banc;V. Gomis;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;0;1;1;2;1;0;0;0;1;-9;0;75;V. Gomis
+25-26;4;Championat de France;Exterieur;;Charnay;Capitaine;Starter;N. Brochant(C);36;6;0,1;36,1;;;;;;;;;;0;0;;;;;;;;;21;3;4;7;5;2;3;0;0;4;0;12;30;1;N. Brochant(C)
+25-26;4;Championat de France;Exterieur;;Charnay;;Starter;C. Franchelin;23;21;0,35;23,35;;;;;;;;;;;;;;;;;;;;11;0;1;1;7;5;2;0;0;5;2;-1;7;2;C. Franchelin
+25-26;4;Championat de France;Exterieur;;Charnay;;Starter;E. Dixon;16;14;0,23;16,23;;;;;;;0;0;;;;;;;;;;;;3;2;6;8;0;1;0;0;0;3;3;-4;6;20;E. Dixon
+25-26;4;Championat de France;Exterieur;;Charnay;;Starter;A. Joens;20;36;0,6;20,6;;;;;;;;;;;;;;;;;;;;8;1;3;4;0;1;2;0;0;0;2;-16;8;24;A. Joens
+25-26;4;Championat de France;Exterieur;;Charnay;;Starter;T. Clarke;31;16;0,27;31,27;;;;;;;0;0;;;;;;;;;;;;13;1;4;5;2;0;2;1;1;3;3;-4;19;34;T. Clarke
+25-26;4;Championat de France;Exterieur;;Charnay;;Banc;L. Jerome;16;39;0,65;16,65;;;;0;2;0;;;;;;;;;;;;;;6;1;4;5;4;0;0;0;0;1;3;0;11;7;L. Jerome
+25-26;4;Championat de France;Exterieur;;Charnay;;Banc;I. Strunc;10;1;0,02;10,02;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;0;1;1;0;2;0;0;0;0;1;11;-4;8;I. Strunc
+25-26;4;Championat de France;Exterieur;;Charnay;;Banc;D. Madjo;2;3;0,05;2,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;1;-5;-1;32;D. Madjo
+25-26;4;Championat de France;Exterieur;;Charnay;;Banc;M. Hirsch;30;27;0,45;30,45;;;;;;;;;;;;;;;;;;;;13;0;2;2;1;0;0;0;1;2;1;11;11;33;M. Hirsch
+25-26;4;Championat de France;Exterieur;;Charnay;;Banc;V. Gomis;13;17;0,28;13,28;;;;;;;0;1;0;0;0;;;;;;;;;2;1;0;1;1;2;1;0;0;0;1;-9;0;75;V. Gomis
 25-26;4;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;4;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;29;64;0,45;20;42;0,48;;;;;;;18;40;3;4;21;3;9;77;9;26;35;20;15;10;1;2;18;17;0;87;0;TOTAUX EQUIPE
-25-26;5;Championat de France;Exterieur;;Landerneau;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;6;1;0;0;1;2;0;26;13;1;N. Brochant(C)
-25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;8;2;0;2;12;3;3;0;0;2;3;27;16;2;C. Franchelin
-25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;E. Dixon;;;;;;;;;;;0;0;;0;0;;;;;;;;;14;3;4;7;0;1;0;0;1;1;3;14;16;20;E. Dixon
-25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;A. Joens;;;;;;;;0;2;0,00;;;;;;;;;;;;;;10;0;4;4;0;1;0;0;0;1;2;16;9;24;A. Joens
-25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;14;2;4;6;3;0;2;1;0;1;6;26;23;34;T. Clarke
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;L. Jerome;;;;;0;5;0,00;0;3;0,00;0;2;0,00;0;0;;;;;;;;;0;0;1;1;2;4;0;0;0;1;0;4;-6;7;L. Jerome
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;I. Strunc;;;;;;;;0;3;0,00;;;;;;;;;;;;;;5;0;3;3;0;0;0;0;0;1;1;12;2;8;I. Strunc
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;1;1;0;0;0;0;6;2;32;D. Madjo
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;M. Hirsch;;;;;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;1;0;0;0;0;3;2;16;13;33;M. Hirsch
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;V. Gomis;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;5;6;2;0;2;0;0;3;3;8;17;75;V. Gomis
+25-26;5;Championat de France;Exterieur;;Landerneau;Capitaine;Starter;N. Brochant(C);20;32;0,53;20,53;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;6;1;0;0;1;2;0;26;13;1;N. Brochant(C)
+25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;C. Franchelin;30;45;0,75;30,75;;;;;;;;;;;;;;;;;;;;8;2;0;2;12;3;3;0;0;2;3;27;16;2;C. Franchelin
+25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;E. Dixon;24;26;0,43;24,43;;;;;;;0;0;;0;0;;;;;;;;;14;3;4;7;0;1;0;0;1;1;3;14;16;20;E. Dixon
+25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;A. Joens;18;21;0,35;18,35;;;;0;2;0;;;;;;;;;;;;;;10;0;4;4;0;1;0;0;0;1;2;16;9;24;A. Joens
+25-26;5;Championat de France;Exterieur;;Landerneau;;Starter;T. Clarke;29;29;0,48;29,48;;;;;;;0;0;;;;;;;;;;;;14;2;4;6;3;0;2;1;0;1;6;26;23;34;T. Clarke
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;L. Jerome;9;5;0,08;9,08;0;5;0;0;3;0;0;2;0;0;0;;;;;;;;;0;0;1;1;2;4;0;0;0;1;0;4;-6;7;L. Jerome
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;I. Strunc;18;43;0,72;18,72;;;;0;3;0;;;;;;;;;;;;;;5;0;3;3;0;0;0;0;0;1;1;12;2;8;I. Strunc
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;D. Madjo;6;0;0;6;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;1;1;0;0;0;0;6;2;32;D. Madjo
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;M. Hirsch;19;15;0,25;19,25;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;1;0;0;0;0;3;2;16;13;33;M. Hirsch
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;V. Gomis;22;24;0,4;22,4;;;;;;;0;1;0;;;;;;;;;;;8;1;5;6;2;0;2;0;0;3;3;8;17;75;V. Gomis
 25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;22;41;0,54;;;;19;21;0,90;15;44;8;4;23;35;9;78;13;30;43;27;12;8;1;2;15;20;0;109;0;TOTAUX EQUIPE
-25-26;6;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;4;0;5;5;3;0;1;0;0;1;1;13;7;1;N. Brochant(C)
-25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;C. Franchelin;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;6;3;0;0;0;2;2;23;6;2;C. Franchelin
-25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;15;4;6;10;0;2;0;0;0;2;2;18;20;20;E. Dixon
-25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;A. Joens;;;;;;;;0;0;;;;;;;;;;;;;;;4;1;2;3;1;0;1;0;0;1;1;6;8;24;A. Joens
-25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;T. Clarke;;;;;;;;;;;;;;0;2;0,00;;;;;;;;13;1;2;3;0;2;1;0;0;1;2;10;11;34;T. Clarke
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;T. Magassa;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;2;-1;6;T. Magassa
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;L. Jerome;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;3;3;5;1;0;0;0;0;0;5;9;7;L. Jerome
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;I. Strunc;;;;;;;;;;;;;;;;;;;;;;;;8;3;4;7;4;0;0;0;0;0;2;17;13;8;I. Strunc
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;;;;;;;;;;;3;0;0;0;0;0;0;0;0;0;2;4;2;32;D. Madjo
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;13;0;3;3;0;1;0;1;0;0;1;12;15;33;M. Hirsch
-25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;V. Gomis;;;;;;;;0;0;;;;;;;;;;;;;;;4;0;2;2;1;2;2;1;0;0;1;10;7;75;V. Gomis
+25-26;5;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;22;41;0,54;;;;19;21;0,9;15;44;8;4;23;35;9;78;13;30;43;27;12;8;1;2;15;20;0;109;0;TOTAUX EQUIPE
+25-26;6;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;N. Brochant(C);22;41;0,68;22,68;;;;;;;0;3;0;0;0;;;;;;;;;4;0;5;5;3;0;1;0;0;1;1;13;7;1;N. Brochant(C)
+25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;C. Franchelin;30;8;0,13;30,13;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;6;3;0;0;0;2;2;23;6;2;C. Franchelin
+25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;E. Dixon;21;15;0,25;21,25;;;;;;;0;0;;;;;;;;;;;;15;4;6;10;0;2;0;0;0;2;2;18;20;20;E. Dixon
+25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;A. Joens;15;3;0,05;15,05;;;;0;0;;;;;;;;;;;;;;;4;1;2;3;1;0;1;0;0;1;1;6;8;24;A. Joens
+25-26;6;Championat de France;Exterieur;;Toulouse;;Starter;T. Clarke;21;38;0,63;21,63;;;;;;;;;;0;2;0;;;;;;;;13;1;2;3;0;2;1;0;0;1;2;10;11;34;T. Clarke
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;T. Magassa;4;8;0,13;4,13;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;2;-1;6;T. Magassa
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;L. Jerome;11;19;0,32;11,32;;;;;;;0;1;0;0;0;;;;;;;;;4;0;3;3;5;1;0;0;0;0;0;5;9;7;L. Jerome
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;I. Strunc;26;5;0,08;26,08;;;;;;;;;;;;;;;;;;;;8;3;4;7;4;0;0;0;0;0;2;17;13;8;I. Strunc
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;D. Madjo;5;2;0,03;5,03;0;0;;0;0;;0;0;;;;;;;;;;;;3;0;0;0;0;0;0;0;0;0;2;4;2;32;D. Madjo
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;M. Hirsch;24;48;0,8;24,8;;;;;;;;;;0;0;;;;;;;;;13;0;3;3;0;1;0;1;0;0;1;12;15;33;M. Hirsch
+25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;V. Gomis;16;54;0,9;16,9;;;;0;0;;;;;;;;;;;;;;;4;0;2;2;1;2;2;1;0;0;1;10;7;75;V. Gomis
 25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;6;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;29;55;0,53;23;36;0,64;;;;;;;8;40;2;4;32;27;14;73;9;35;44;20;12;5;2;0;7;14;0;102;0;TOTAUX EQUIPE
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;14;0;2;2;6;3;2;0;0;1;0;20;15;1;N. Brochant(C)
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;17;0;1;1;8;4;2;0;0;3;3;23;16;2;C. Franchelin
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;16;3;4;7;3;1;2;0;1;2;6;9;24;20;E. Dixon
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Joens;;;;;0;3;0,00;0;0;;0;3;0,00;;;;;;;;;;;2;0;1;1;2;0;0;0;0;1;1;0;2;24;A. Joens
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;2;1;2;1;0;3;4;15;13;34;T. Clarke
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Jerome;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;2;4;0;0;0;2;0;-9;-1;7;L. Jerome
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Strunc;;;;;;;;0;1;0,00;;;;;;;;;;;;;;7;1;3;4;3;0;1;1;0;0;1;9;13;8;I. Strunc
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;D. Madjo;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-6;0;32;D. Madjo
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;15;1;3;4;0;0;0;1;0;2;0;10;17;33;M. Hirsch
-25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;V. Gomis;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;2;3;0;2;1;0;0;2;0;-1;2;75;V. Gomis
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);33;14;0,23;33,23;;;;;;;;;;0;0;;;;;;;;;14;0;2;2;6;3;2;0;0;1;0;20;15;1;N. Brochant(C)
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Franchelin;33;15;0,25;33,25;;;;;;;;;;;;;;;;;;;;17;0;1;1;8;4;2;0;0;3;3;23;16;2;C. Franchelin
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Dixon;28;20;0,33;28,33;;;;;;;0;0;;;;;;;;;;;;16;3;4;7;3;1;2;0;1;2;6;9;24;20;E. Dixon
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Joens;12;40;0,67;12,67;0;3;0;0;0;;0;3;0;;;;;;;;;;;2;0;1;1;2;0;0;0;0;1;1;0;2;24;A. Joens
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Clarke;24;47;0,78;24,78;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;2;1;2;1;0;3;4;15;13;34;T. Clarke
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Jerome;6;5;0,08;6,08;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;2;4;0;0;0;2;0;-9;-1;7;L. Jerome
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Strunc;21;49;0,82;21,82;;;;0;1;0;;;;;;;;;;;;;;7;1;3;4;3;0;1;1;0;0;1;9;13;8;I. Strunc
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;D. Madjo;1;0;0;1;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-6;0;32;D. Madjo
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Hirsch;25;3;0,05;25,05;;;;;;;;;;0;0;;;;;;;;;15;1;3;4;0;0;0;1;0;2;0;10;17;33;M. Hirsch
+25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;V. Gomis;12;17;0,28;12,28;;;;;;;0;0;;0;0;;;;;;;;;2;1;2;3;0;2;1;0;0;2;0;-1;2;75;V. Gomis
 25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;7;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;26;58;0,45;14;30;0,47;;;;20;22;0,91;16;26;7;9;26;14;8;84;8;22;30;26;16;10;3;1;16;15;0;103;0;TOTAUX EQUIPE
-25-26;8;Championat de France;Domicile;;Chartres;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;0;3;3;3;0;0;0;0;1;0;24;13;1;N. Brochant(C)
-25-26;8;Championat de France;Domicile;;Chartres;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;20;1;1;2;9;4;0;0;0;3;4;17;23;2;C. Franchelin
-25-26;8;Championat de France;Domicile;;Chartres;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;13;4;6;10;1;1;2;0;2;5;3;8;21;20;E. Dixon
-25-26;8;Championat de France;Domicile;;Chartres;;Starter;A. Joens;;;;;;;;0;1;0,00;;;;;;;;;;;;;;8;0;3;3;0;1;0;0;1;1;1;6;5;24;A. Joens
-25-26;8;Championat de France;Domicile;;Chartres;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;1;5;6;3;1;2;4;0;3;5;17;23;34;T. Clarke
-25-26;8;Championat de France;Domicile;;Chartres;;Banc;L. Jerome;;;;;;;;;;;0;3;0,00;;;;;;;;;;;7;0;1;1;3;2;2;0;0;2;3;-1;6;7;L. Jerome
-25-26;8;Championat de France;Domicile;;Chartres;;Banc;I. Strunc;;;;;;;;0;1;0,00;;;;;;;;;;;;;;5;1;1;2;1;1;2;0;0;1;1;-4;5;8;I. Strunc
-25-26;8;Championat de France;Domicile;;Chartres;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
-25-26;8;Championat de France;Domicile;;Chartres;;Banc;M. Hirsch;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;1;2;1;1;1;0;0;2;0;8;7;33;M. Hirsch
-25-26;8;Championat de France;Domicile;;Chartres;;Banc;V. Gomis;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;1;1;1;0;1;0;0;1;0;5;1;75;V. Gomis
+25-26;8;Championat de France;Domicile;;Chartres;Capitaine;Starter;N. Brochant(C);32;44;0,73;32,73;;;;;;;;;;0;0;;;;;;;;;11;0;3;3;3;0;0;0;0;1;0;24;13;1;N. Brochant(C)
+25-26;8;Championat de France;Domicile;;Chartres;;Starter;C. Franchelin;25;55;0,92;25,92;;;;;;;;;;;;;;;;;;;;20;1;1;2;9;4;0;0;0;3;4;17;23;2;C. Franchelin
+25-26;8;Championat de France;Domicile;;Chartres;;Starter;E. Dixon;27;28;0,47;27,47;;;;;;;0;0;;;;;;;;;;;;13;4;6;10;1;1;2;0;2;5;3;8;21;20;E. Dixon
+25-26;8;Championat de France;Domicile;;Chartres;;Starter;A. Joens;17;38;0,63;17,63;;;;0;1;0;;;;;;;;;;;;;;8;0;3;3;0;1;0;0;1;1;1;6;5;24;A. Joens
+25-26;8;Championat de France;Domicile;;Chartres;;Starter;T. Clarke;35;30;0,5;35,5;;;;;;;0;0;;;;;;;;;;;;13;1;5;6;3;1;2;4;0;3;5;17;23;34;T. Clarke
+25-26;8;Championat de France;Domicile;;Chartres;;Banc;L. Jerome;14;5;0,08;14,08;;;;;;;0;3;0;;;;;;;;;;;7;0;1;1;3;2;2;0;0;2;3;-1;6;7;L. Jerome
+25-26;8;Championat de France;Domicile;;Chartres;;Banc;I. Strunc;22;28;0,47;22,47;;;;0;1;0;;;;;;;;;;;;;;5;1;1;2;1;1;2;0;0;1;1;-4;5;8;I. Strunc
+25-26;8;Championat de France;Domicile;;Chartres;;Banc;D. Madjo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
+25-26;8;Championat de France;Domicile;;Chartres;;Banc;M. Hirsch;12;35;0,58;12,58;;;;;;;0;0;;0;0;;;;;;;;;6;1;1;2;1;1;1;0;0;2;0;8;7;33;M. Hirsch
+25-26;8;Championat de France;Domicile;;Chartres;;Banc;V. Gomis;11;37;0,62;11,62;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;1;1;1;0;1;0;0;1;0;5;1;75;V. Gomis
 25-26;8;Championat de France;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;0;1;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;8;Championat de France;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;30;62;0,48;23;39;0,59;;;;16;18;0,89;29;38;10;15;18;23;11;83;9;22;31;22;14;10;4;3;19;17;0;102;0;TOTAUX EQUIPE
-25-26;9;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;1;4;5;3;5;0;0;0;4;0;-11;4;1;N. Brochant(C)
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;C. Franchelin;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;3;3;7;1;4;0;0;1;2;-12;16;2;C. Franchelin
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;15;2;7;9;1;1;1;0;0;2;5;-12;20;20;E. Dixon
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;A. Joens;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;3;4;1;1;2;0;1;2;2;-4;7;24;A. Joens
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;T. Clarke;;;;;;;;;;;0;0;;0;0;;;;;;;;;16;2;2;4;1;0;0;0;0;5;3;-3;16;34;T. Clarke
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;9;1;0;1;1;1;0;0;0;0;1;4;8;7;L. Jerome
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;I. Strunc;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;2;2;0;2;1;0;0;0;0;1;-2;8;I. Strunc
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
-25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;V. Gomis;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;1;1;1;0;0;4;0;-3;4;75;V. Gomis
+25-26;9;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;N. Brochant(C);34;59;0,98;34,98;;;;;;;;;;0;0;;;;;;;;;5;1;4;5;3;5;0;0;0;4;0;-11;4;1;N. Brochant(C)
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;C. Franchelin;31;37;0,62;31,62;;;;;;;;;;0;0;;;;;;;;;10;0;3;3;7;1;4;0;0;1;2;-12;16;2;C. Franchelin
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;E. Dixon;32;38;0,63;32,63;;;;;;;0;0;;;;;;;;;;;;15;2;7;9;1;1;1;0;0;2;5;-12;20;20;E. Dixon
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;A. Joens;24;22;0,37;24,37;;;;;;;;;;0;0;;;;;;;;;7;1;3;4;1;1;2;0;1;2;2;-4;7;24;A. Joens
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Starter;T. Clarke;33;58;0,97;33,97;;;;;;;0;0;;0;0;;;;;;;;;16;2;2;4;1;0;0;0;0;5;3;-3;16;34;T. Clarke
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;L. Jerome;8;3;0,05;8,05;;;;;;;;;;;;;;;;;;;;9;1;0;1;1;1;0;0;0;0;1;4;8;7;L. Jerome
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;I. Strunc;20;34;0,57;20,57;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;2;2;0;2;1;0;0;0;0;1;-2;8;I. Strunc
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;D. Madjo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
+25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;V. Gomis;13;29;0,48;13,48;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;1;1;1;0;0;4;0;-3;4;75;V. Gomis
 25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;9;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;21;41;0,51;;;;;;;13;38;8;10;14;6;8;67;8;24;32;15;14;9;0;1;18;13;0;75;0;TOTAUX EQUIPE
-25-26;10;Championat de France;Exterieur;;Chartres;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;;;;;;;;;;;12;1;6;7;7;5;4;0;0;2;1;9;19;1;N. Brochant(C)
-25-26;10;Championat de France;Exterieur;;Chartres;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;14;0;2;2;8;7;1;0;0;1;5;11;12;2;C. Franchelin
-25-26;10;Championat de France;Exterieur;;Chartres;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;6;5;4;9;1;6;0;0;0;2;1;-4;6;20;E. Dixon
-25-26;10;Championat de France;Exterieur;;Chartres;;Starter;A. Joens;;;;;;;;0;1;0,00;;;;;;;;;;;;;;5;0;4;4;1;2;1;0;0;3;2;10;7;24;A. Joens
-25-26;10;Championat de France;Exterieur;;Chartres;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;17;1;6;7;3;3;2;0;1;4;5;9;24;34;T. Clarke
-25-26;10;Championat de France;Exterieur;;Chartres;;Banc;L. Jerome;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;1;0;1;0;0;0;1;-6;4;7;L. Jerome
-25-26;10;Championat de France;Exterieur;;Chartres;;Banc;I. Strunc;;;;;;;;0;0;;;;;;;;;;;;;;;5;1;2;3;0;1;2;0;0;1;1;-6;4;8;I. Strunc
-25-26;10;Championat de France;Exterieur;;Chartres;;Banc;M. Raimbault;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;M. Raimbault
-25-26;10;Championat de France;Exterieur;;Chartres;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
-25-26;10;Championat de France;Exterieur;;Chartres;;Banc;V. Gomis;;;;;;;;;;;0;0;;;;;;;;;;;;6;1;1;2;1;0;1;0;0;3;4;2;7;75;V. Gomis
+25-26;10;Championat de France;Exterieur;;Chartres;Capitaine;Starter;N. Brochant(C);38;31;0,52;38,52;;;;;;;;;;;;;;;;;;;;12;1;6;7;7;5;4;0;0;2;1;9;19;1;N. Brochant(C)
+25-26;10;Championat de France;Exterieur;;Chartres;;Starter;C. Franchelin;28;14;0,23;28,23;;;;;;;;;;;;;;;;;;;;14;0;2;2;8;7;1;0;0;1;5;11;12;2;C. Franchelin
+25-26;10;Championat de France;Exterieur;;Chartres;;Starter;E. Dixon;32;26;0,43;32,43;;;;;;;0;0;;;;;;;;;;;;6;5;4;9;1;6;0;0;0;2;1;-4;6;20;E. Dixon
+25-26;10;Championat de France;Exterieur;;Chartres;;Starter;A. Joens;16;24;0,4;16,4;;;;0;1;0;;;;;;;;;;;;;;5;0;4;4;1;2;1;0;0;3;2;10;7;24;A. Joens
+25-26;10;Championat de France;Exterieur;;Chartres;;Starter;T. Clarke;35;46;0,77;35,77;;;;;;;0;0;;;;;;;;;;;;17;1;6;7;3;3;2;0;1;4;5;9;24;34;T. Clarke
+25-26;10;Championat de France;Exterieur;;Chartres;;Banc;L. Jerome;11;46;0,77;11,77;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;1;0;1;0;0;0;1;-6;4;7;L. Jerome
+25-26;10;Championat de France;Exterieur;;Chartres;;Banc;I. Strunc;16;45;0,75;16,75;;;;0;0;;;;;;;;;;;;;;;5;1;2;3;0;1;2;0;0;1;1;-6;4;8;I. Strunc
+25-26;10;Championat de France;Exterieur;;Chartres;;Banc;M. Raimbault;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;M. Raimbault
+25-26;10;Championat de France;Exterieur;;Chartres;;Banc;D. Madjo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
+25-26;10;Championat de France;Exterieur;;Chartres;;Banc;V. Gomis;20;8;0,13;20,13;;;;;;;0;0;;;;;;;;;;;;6;1;1;2;1;0;1;0;0;3;4;2;7;75;V. Gomis
 25-26;10;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;10;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;22;53;0,42;16;31;0,52;;;;22;25;0,88;16;26;0;17;18;16;8;72;9;31;40;22;24;12;0;1;16;20;0;88;0;TOTAUX EQUIPE
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;;;;;;;;;;;20;1;5;6;4;3;2;0;0;2;3;9;26;1;N. Brochant(C)
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;10;0;4;4;11;4;0;1;0;3;7;17;14;2;C. Franchelin
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Dixon;;;;;;;;;;;;;;0;0;;;;;;;;;15;1;3;4;0;2;1;0;0;2;0;-13;12;20;E. Dixon
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Joens;;;;;;;;0;0;;;;;;;;;;;;;;;10;0;4;4;1;0;0;0;0;3;4;5;14;24;A. Joens
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Clarke;;;;;;;;;;;;;;;;;;;;;;;;17;2;4;6;4;2;1;1;0;1;4;10;23;34;T. Clarke
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Jerome;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;1;2;1;0;1;2;1;-9;-3;7;L. Jerome
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Strunc;;;;;0;3;0,00;0;0;;0;3;0,00;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;1;0;-9;-1;8;I. Strunc
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Raimbault;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;M. Raimbault
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;1;0;1;0;0;3;1;19;5;32;D. Madjo
-25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;7;1;0;1;3;0;0;0;0;1;3;11;7;75;V. Gomis
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);31;50;0,83;31,83;;;;;;;;;;;;;;;;;;;;20;1;5;6;4;3;2;0;0;2;3;9;26;1;N. Brochant(C)
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Franchelin;32;18;0,3;32,3;;;;;;;;;;;;;;;;;;;;10;0;4;4;11;4;0;1;0;3;7;17;14;2;C. Franchelin
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Dixon;29;31;0,52;29,52;;;;;;;;;;0;0;;;;;;;;;15;1;3;4;0;2;1;0;0;2;0;-13;12;20;E. Dixon
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Joens;19;26;0,43;19,43;;;;0;0;;;;;;;;;;;;;;;10;0;4;4;1;0;0;0;0;3;4;5;14;24;A. Joens
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Clarke;38;9;0,15;38,15;;;;;;;;;;;;;;;;;;;;17;2;4;6;4;2;1;1;0;1;4;10;23;34;T. Clarke
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Jerome;7;2;0,03;7,03;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;0;0;1;2;1;0;1;2;1;-9;-3;7;L. Jerome
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Strunc;8;0;0;8;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;1;0;-9;-1;8;I. Strunc
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Raimbault;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;M. Raimbault
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;D. Madjo;12;20;0,33;12,33;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;1;0;1;0;0;3;1;19;5;32;D. Madjo
+25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;V. Gomis;20;4;0,07;20,07;;;;;;;;;;;;;;;;;;;;7;1;0;1;3;0;0;0;0;1;3;11;7;75;V. Gomis
 25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;11;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;29;57;0,51;18;32;0,56;;;;14;19;0,74;23;30;5;15;11;8;7;83;5;21;26;26;16;6;2;1;18;23;0;94;0;TOTAUX EQUIPE
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;N. Brochant(C);;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;0;5;5;0;1;3;2;0;1;0;-2;10;1;N. Brochant(C)
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Franchelin;;;;;;;;0;1;0,00;;;;;;;;;;;;;;8;1;1;2;6;4;0;0;0;3;1;-10;11;2;C. Franchelin
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Banaszak;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;2;4;0;0;0;3;1;-2;2;15;L. Banaszak
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;10;2;8;10;1;0;2;0;0;1;1;2;18;20;E. Dixon
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;14;1;0;1;3;1;0;0;0;2;5;-12;10;34;T. Clarke
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Jerome;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;6;0;1;1;2;1;1;0;0;1;0;2;2;7;L. Jerome
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;I. Strunc;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;1;0;1;0;0;3;1;-5;1;8;I. Strunc
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;0;2;0;1;0;0;0;0;0;0;1;32;D. Madjo
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Hirsch;;;;;0;5;0,00;0;1;0,00;0;4;0,00;0;0;;;;;;;;;0;0;3;3;1;0;1;0;0;0;1;-6;0;33;M. Hirsch
-25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;7;0;1;1;1;2;0;0;0;0;4;-7;3;75;V. Gomis
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;N. Brochant(C);35;42;0,7;35,7;;;;0;1;0;;;;0;0;;;;;;;;;6;0;5;5;0;1;3;2;0;1;0;-2;10;1;N. Brochant(C)
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Franchelin;25;2;0,03;25,03;;;;0;1;0;;;;;;;;;;;;;;8;1;1;2;6;4;0;0;0;3;1;-10;11;2;C. Franchelin
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Banaszak;14;24;0,4;14,4;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;2;4;0;0;0;3;1;-2;2;15;L. Banaszak
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Dixon;31;21;0,35;31,35;;;;;;;0;0;;;;;;;;;;;;10;2;8;10;1;0;2;0;0;1;1;2;18;20;E. Dixon
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Starter;T. Clarke;30;56;0,93;30,93;;;;;;;0;0;;;;;;;;;;;;14;1;0;1;3;1;0;0;0;2;5;-12;10;34;T. Clarke
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Jerome;14;58;0,97;14,97;;;;0;2;0;;;;0;0;;;;;;;;;6;0;1;1;2;1;1;0;0;1;0;2;2;7;L. Jerome
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;I. Strunc;14;5;0,08;14,08;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;1;0;1;0;0;3;1;-5;1;8;I. Strunc
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;D. Madjo;4;3;0,05;4,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;0;2;0;1;0;0;0;0;0;0;1;32;D. Madjo
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Hirsch;12;50;0,83;12,83;0;5;0;0;1;0;0;4;0;0;0;;;;;;;;;0;0;3;3;1;0;1;0;0;0;1;-6;0;33;M. Hirsch
+25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;V. Gomis;15;49;0,82;15,82;;;;;;;;;;;;;;;;;;;;7;0;1;1;1;2;0;0;0;0;4;-7;3;75;V. Gomis
 25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;12;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;20;60;0,33;;;;;;;;;;12;18;11;7;16;2;8;59;8;19;27;17;14;8;2;0;14;14;0;59;0;TOTAUX EQUIPE
-25-26;13;Championat de France;Domicile;;Landerneau;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;;;;;;;;;;;16;0;6;6;5;0;4;0;0;0;1;25;25;1;N. Brochant(C)
-25-26;13;Championat de France;Domicile;;Landerneau;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;7;0;2;2;9;3;3;0;0;3;1;10;11;2;C. Franchelin
-25-26;13;Championat de France;Domicile;;Landerneau;;Starter;L. Banaszak;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;2;3;1;1;3;0;0;3;1;0;6;15;L. Banaszak
-25-26;13;Championat de France;Domicile;;Landerneau;;Starter;E. Dixon;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;2;2;4;1;2;0;0;0;2;0;6;8;20;E. Dixon
-25-26;13;Championat de France;Domicile;;Landerneau;;Starter;T. Clarke;;;;;;;;;;;;;;;;;;;;;;;;22;2;4;6;2;1;5;1;0;1;2;24;27;34;T. Clarke
-25-26;13;Championat de France;Domicile;;Landerneau;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;7;2;2;4;6;5;1;0;0;1;3;6;10;7;L. Jerome
-25-26;13;Championat de France;Domicile;;Landerneau;;Banc;I. Strunc;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;0;2;0;0;0;2;0;-5;0;8;I. Strunc
-25-26;13;Championat de France;Domicile;;Landerneau;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;;;;;;;;;;;3;0;1;1;0;0;0;0;0;1;2;-9;3;32;D. Madjo
-25-26;13;Championat de France;Domicile;;Landerneau;;Banc;M. Hirsch;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;3;3;1;0;0;0;0;0;0;11;6;33;M. Hirsch
-25-26;13;Championat de France;Domicile;;Landerneau;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;6;1;2;3;3;0;0;0;1;2;2;12;6;75;V. Gomis
+25-26;13;Championat de France;Domicile;;Landerneau;Capitaine;Starter;N. Brochant(C);33;27;0,45;33,45;;;;;;;;;;;;;;;;;;;;16;0;6;6;5;0;4;0;0;0;1;25;25;1;N. Brochant(C)
+25-26;13;Championat de France;Domicile;;Landerneau;;Starter;C. Franchelin;27;11;0,18;27,18;;;;;;;;;;;;;;;;;;;;7;0;2;2;9;3;3;0;0;3;1;10;11;2;C. Franchelin
+25-26;13;Championat de France;Domicile;;Landerneau;;Starter;L. Banaszak;18;36;0,6;18,6;;;;;;;0;1;0;0;0;;;;;;;;;2;1;2;3;1;1;3;0;0;3;1;0;6;15;L. Banaszak
+25-26;13;Championat de France;Domicile;;Landerneau;;Starter;E. Dixon;20;15;0,25;20,25;;;;;;;0;0;;0;0;;;;;;;;;6;2;2;4;1;2;0;0;0;2;0;6;8;20;E. Dixon
+25-26;13;Championat de France;Domicile;;Landerneau;;Starter;T. Clarke;35;0;0;35;;;;;;;;;;;;;;;;;;;;22;2;4;6;2;1;5;1;0;1;2;24;27;34;T. Clarke
+25-26;13;Championat de France;Domicile;;Landerneau;;Banc;L. Jerome;12;49;0,82;12,82;;;;;;;;;;;;;;;;;;;;7;2;2;4;6;5;1;0;0;1;3;6;10;7;L. Jerome
+25-26;13;Championat de France;Domicile;;Landerneau;;Banc;I. Strunc;6;7;0,12;6,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;0;2;0;0;0;2;0;-5;0;8;I. Strunc
+25-26;13;Championat de France;Domicile;;Landerneau;;Banc;D. Madjo;6;2;0,03;6,03;0;0;;0;0;;0;0;;;;;;;;;;;;3;0;1;1;0;0;0;0;0;1;2;-9;3;32;D. Madjo
+25-26;13;Championat de France;Domicile;;Landerneau;;Banc;M. Hirsch;18;3;0,05;18,05;;;;0;1;0;;;;0;0;;;;;;;;;3;0;3;3;1;0;0;0;0;0;0;11;6;33;M. Hirsch
+25-26;13;Championat de France;Domicile;;Landerneau;;Banc;V. Gomis;21;11;0,18;21,18;;;;;;;;;;;;;;;;;;;;6;1;2;3;3;0;0;0;1;2;2;12;6;75;V. Gomis
 25-26;13;Championat de France;Domicile;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;0;1;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;13;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;26;58;0,45;17;35;0,49;;;;;;;36;34;10;18;19;20;13;72;9;26;35;28;17;16;1;1;15;12;0;100;0;TOTAUX EQUIPE
-25-26;14;Championat de France;Exterieur;;Bourges;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;14;3;1;4;1;3;3;0;0;2;2;-9;14;1;N. Brochant(C)
-25-26;14;Championat de France;Exterieur;;Bourges;;Starter;C. Franchelin;;;;;;;;;;;0;4;0,00;;;;;;;;;;;14;1;3;4;13;5;4;0;0;0;7;-3;23;2;C. Franchelin
-25-26;14;Championat de France;Exterieur;;Bourges;;Starter;L. Banaszak;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;2;2;2;1;0;0;0;4;0;-2;4;15;L. Banaszak
-25-26;14;Championat de France;Exterieur;;Bourges;;Starter;E. Dixon;;;;;;;;;;;;;;;;;;;;;;;;14;2;7;9;1;1;0;2;0;4;4;5;24;20;E. Dixon
-25-26;14;Championat de France;Exterieur;;Bourges;;Starter;T. Clarke;;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;0;2;2;0;4;2;0;1;1;7;-14;1;34;T. Clarke
-25-26;14;Championat de France;Exterieur;;Bourges;;Banc;L. Jerome;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;2;0;0;0;0;0;0;-11;-1;7;L. Jerome
-25-26;14;Championat de France;Exterieur;;Bourges;;Banc;I. Strunc;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;2;2;1;0;0;1;0;1;0;-8;4;8;I. Strunc
-25-26;14;Championat de France;Exterieur;;Bourges;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
-25-26;14;Championat de France;Exterieur;;Bourges;;Banc;M. Hirsch;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;0;1;1;0;1;0;0;1;0;2;-19;0;33;M. Hirsch
-25-26;14;Championat de France;Exterieur;;Bourges;;Banc;V. Gomis;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;1;1;0;2;2;1;0;3;0;-9;3;75;V. Gomis
+25-26;14;Championat de France;Exterieur;;Bourges;Capitaine;Starter;N. Brochant(C);37;24;0,4;37,4;;;;;;;;;;0;0;;;;;;;;;14;3;1;4;1;3;3;0;0;2;2;-9;14;1;N. Brochant(C)
+25-26;14;Championat de France;Exterieur;;Bourges;;Starter;C. Franchelin;34;21;0,35;34,35;;;;;;;0;4;0;;;;;;;;;;;14;1;3;4;13;5;4;0;0;0;7;-3;23;2;C. Franchelin
+25-26;14;Championat de France;Exterieur;;Bourges;;Starter;L. Banaszak;16;52;0,87;16,87;;;;;;;0;1;0;0;0;;;;;;;;;2;0;2;2;2;1;0;0;0;4;0;-2;4;15;L. Banaszak
+25-26;14;Championat de France;Exterieur;;Bourges;;Starter;E. Dixon;31;19;0,32;31,32;;;;;;;;;;;;;;;;;;;;14;2;7;9;1;1;0;2;0;4;4;5;24;20;E. Dixon
+25-26;14;Championat de France;Exterieur;;Bourges;;Starter;T. Clarke;32;33;0,55;32,55;;;;;;;0;1;0;;;;;;;;;;;10;0;2;2;0;4;2;0;1;1;7;-14;1;34;T. Clarke
+25-26;14;Championat de France;Exterieur;;Bourges;;Banc;L. Jerome;5;9;0,15;5,15;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;0;0;2;0;0;0;0;0;0;-11;-1;7;L. Jerome
+25-26;14;Championat de France;Exterieur;;Bourges;;Banc;I. Strunc;15;54;0,9;15,9;;;;0;1;0;;;;0;0;;;;;;;;;3;0;2;2;1;0;0;1;0;1;0;-8;4;8;I. Strunc
+25-26;14;Championat de France;Exterieur;;Bourges;;Banc;D. Madjo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;D. Madjo
+25-26;14;Championat de France;Exterieur;;Bourges;;Banc;M. Hirsch;16;8;0,13;16,13;;;;;;;0;2;0;;;;;;;;;;;6;0;1;1;0;1;0;0;1;0;2;-19;0;33;M. Hirsch
+25-26;14;Championat de France;Exterieur;;Bourges;;Banc;V. Gomis;9;0;0;9;;;;0;1;0;;;;0;0;;;;;;;;;3;0;1;1;0;2;2;1;0;3;0;-9;3;75;V. Gomis
 25-26;14;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;14;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;18;51;0,35;;;;;;;23;27;0,85;25;16;6;10;12;5;7;66;7;20;27;20;17;11;4;2;15;22;0;74;0;TOTAUX EQUIPE
-25-26;15;Championat de France;Domicile;;Charnay;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;4;4;4;1;0;3;0;11;6;1;N. Brochant(C)
-25-26;15;Championat de France;Domicile;;Charnay;;Starter;C. Franchelin;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;6;3;1;0;0;2;1;10;5;2;C. Franchelin
-25-26;15;Championat de France;Domicile;;Charnay;;Starter;I. Strunc;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;1;4;5;1;0;2;0;0;0;1;9;7;8;I. Strunc
-25-26;15;Championat de France;Domicile;;Charnay;;Starter;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;0;1;0;0;0;3;0;18;9;33;M. Hirsch
-25-26;15;Championat de France;Domicile;;Charnay;;Starter;T. Clarke;;;;;;;;;;;0;0;;0;0;;;;;;;;;18;6;1;7;2;1;6;1;0;1;2;16;29;34;T. Clarke
-25-26;15;Championat de France;Domicile;;Charnay;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;13;1;1;2;5;3;0;0;0;1;3;26;12;7;L. Jerome
-25-26;15;Championat de France;Domicile;;Charnay;;Banc;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;10;0;7;7;0;0;0;2;1;2;3;12;15;20;E. Dixon
-25-26;15;Championat de France;Domicile;;Charnay;;Banc;L. Banaszak;;;;;;;;;;;;;;;;;;;;;;;;11;1;6;7;0;1;2;0;0;3;3;35;18;22;L. Banaszak
-25-26;15;Championat de France;Domicile;;Charnay;;Banc;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;0;1;1;0;1;0;1;1;0;26;8;32;D. Madjo
-25-26;15;Championat de France;Domicile;;Charnay;;Banc;V. Gomis;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;0;1;1;5;1;2;0;0;1;2;17;4;75;V. Gomis
+25-26;15;Championat de France;Domicile;;Charnay;Capitaine;Starter;N. Brochant(C);23;0;0;23;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;4;4;4;1;0;3;0;11;6;1;N. Brochant(C)
+25-26;15;Championat de France;Domicile;;Charnay;;Starter;C. Franchelin;23;38;0,63;23,63;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;6;3;1;0;0;2;1;10;5;2;C. Franchelin
+25-26;15;Championat de France;Domicile;;Charnay;;Starter;I. Strunc;18;51;0,85;18,85;;;;0;1;0;;;;0;0;;;;;;;;;3;1;4;5;1;0;2;0;0;0;1;9;7;8;I. Strunc
+25-26;15;Championat de France;Domicile;;Charnay;;Starter;M. Hirsch;18;20;0,33;18,33;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;0;1;0;0;0;3;0;18;9;33;M. Hirsch
+25-26;15;Championat de France;Domicile;;Charnay;;Starter;T. Clarke;29;10;0,17;29,17;;;;;;;0;0;;0;0;;;;;;;;;18;6;1;7;2;1;6;1;0;1;2;16;29;34;T. Clarke
+25-26;15;Championat de France;Domicile;;Charnay;;Banc;L. Jerome;16;22;0,37;16,37;;;;;;;;;;;;;;;;;;;;13;1;1;2;5;3;0;0;0;1;3;26;12;7;L. Jerome
+25-26;15;Championat de France;Domicile;;Charnay;;Banc;E. Dixon;17;41;0,68;17,68;;;;;;;0;0;;;;;;;;;;;;10;0;7;7;0;0;0;2;1;2;3;12;15;20;E. Dixon
+25-26;15;Championat de France;Domicile;;Charnay;;Banc;L. Banaszak;18;42;0,7;18,7;;;;;;;;;;;;;;;;;;;;11;1;6;7;0;1;2;0;0;3;3;35;18;22;L. Banaszak
+25-26;15;Championat de France;Domicile;;Charnay;;Banc;D. Madjo;14;49;0,82;14,82;;;;;;;0;0;;0;0;;;;;;;;;6;1;0;1;1;0;1;0;1;1;0;26;8;32;D. Madjo
+25-26;15;Championat de France;Domicile;;Charnay;;Banc;V. Gomis;19;27;0,45;19,45;;;;;;;0;3;0;0;0;;;;;;;;;2;0;1;1;5;1;2;0;0;1;2;17;4;75;V. Gomis
 25-26;15;Championat de France;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;15;Championat de France;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;33;72;0,46;23;45;0,51;;;;;;;25;44;20;13;42;36;15;84;11;29;40;24;16;18;4;2;17;15;0;114;0;TOTAUX EQUIPE
-25-26;16;Championat de France;Exterieur;;Angers;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;0;5;0,00;;;;;;;;;;;7;0;3;3;5;1;2;0;0;0;2;14;11;1;N. Brochant(C)
-25-26;16;Championat de France;Exterieur;;Angers;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;10;0;2;2;4;4;1;0;0;3;2;17;6;2;C. Franchelin
-25-26;16;Championat de France;Exterieur;;Angers;;Starter;I. Strunc;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;3;4;2;1;0;0;0;0;0;26;11;8;I. Strunc
-25-26;16;Championat de France;Exterieur;;Angers;;Starter;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;1;0;3;1;0;2;3;14;12;20;E. Dixon
-25-26;16;Championat de France;Exterieur;;Angers;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;1;3;4;3;1;1;1;0;2;4;23;18;34;T. Clarke
-25-26;16;Championat de France;Exterieur;;Angers;;Banc;L. Jerome;;;;;;;;;;;0;3;0,00;;;;;;;;;;;3;0;1;1;3;2;1;0;0;1;2;11;1;7;L. Jerome
-25-26;16;Championat de France;Exterieur;;Angers;;Banc;L. Banaszak;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;3;3;2;1;1;0;0;4;0;-1;4;22;L. Banaszak
-25-26;16;Championat de France;Exterieur;;Angers;;Banc;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;2;3;5;1;0;1;0;1;0;0;5;9;32;D. Madjo
-25-26;16;Championat de France;Exterieur;;Angers;;Banc;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;11;2;5;7;0;2;0;1;0;2;1;14;16;33;M. Hirsch
-25-26;16;Championat de France;Exterieur;;Angers;;Banc;V. Gomis;;;;;;;;0;1;0,00;;;;;;;;;;;;;;6;0;0;0;0;0;1;0;0;1;3;17;4;75;V. Gomis
+25-26;16;Championat de France;Exterieur;;Angers;Capitaine;Starter;N. Brochant(C);22;26;0,43;22,43;;;;;;;0;5;0;;;;;;;;;;;7;0;3;3;5;1;2;0;0;0;2;14;11;1;N. Brochant(C)
+25-26;16;Championat de France;Exterieur;;Angers;;Starter;C. Franchelin;24;5;0,08;24,08;;;;;;;;;;;;;;;;;;;;10;0;2;2;4;4;1;0;0;3;2;17;6;2;C. Franchelin
+25-26;16;Championat de France;Exterieur;;Angers;;Starter;I. Strunc;23;8;0,13;23,13;;;;;;;;;;0;0;;;;;;;;;8;1;3;4;2;1;0;0;0;0;0;26;11;8;I. Strunc
+25-26;16;Championat de France;Exterieur;;Angers;;Starter;E. Dixon;19;56;0,93;19,93;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;1;0;3;1;0;2;3;14;12;20;E. Dixon
+25-26;16;Championat de France;Exterieur;;Angers;;Starter;T. Clarke;24;47;0,78;24,78;;;;;;;0;0;;;;;;;;;;;;13;1;3;4;3;1;1;1;0;2;4;23;18;34;T. Clarke
+25-26;16;Championat de France;Exterieur;;Angers;;Banc;L. Jerome;14;0;0;14;;;;;;;0;3;0;;;;;;;;;;;3;0;1;1;3;2;1;0;0;1;2;11;1;7;L. Jerome
+25-26;16;Championat de France;Exterieur;;Angers;;Banc;L. Banaszak;18;8;0,13;18,13;;;;;;;0;1;0;0;0;;;;;;;;;2;0;3;3;2;1;1;0;0;4;0;-1;4;22;L. Banaszak
+25-26;16;Championat de France;Exterieur;;Angers;;Banc;D. Madjo;13;18;0,3;13,3;;;;;;;0;0;;0;0;;;;;;;;;4;2;3;5;1;0;1;0;1;0;0;5;9;32;D. Madjo
+25-26;16;Championat de France;Exterieur;;Angers;;Banc;M. Hirsch;21;59;0,98;21,98;;;;;;;;;;0;0;;;;;;;;;11;2;5;7;0;2;0;1;0;2;1;14;16;33;M. Hirsch
+25-26;16;Championat de France;Exterieur;;Angers;;Banc;V. Gomis;18;13;0,22;18,22;;;;0;1;0;;;;;;;;;;;;;;6;0;0;0;0;0;1;0;0;1;3;17;4;75;V. Gomis
 25-26;16;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;16;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;59;0,47;23;39;0,59;;;;13;19;0,68;24;46;8;8;26;33;14;74;9;29;38;21;13;11;3;1;15;17;0;97;0;TOTAUX EQUIPE
-25-26;17;Championat de France;Domicile;;Toulouse;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;0;3;3;3;2;2;0;1;2;0;9;14;1;N. Brochant(C)
-25-26;17;Championat de France;Domicile;;Toulouse;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;15;0;4;4;6;3;0;0;1;1;5;12;19;2;C. Franchelin
-25-26;17;Championat de France;Domicile;;Toulouse;;Starter;I. Strunc;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;3;3;4;2;0;1;0;1;1;25;12;8;I. Strunc
-25-26;17;Championat de France;Domicile;;Toulouse;;Starter;D. Madjo;;;;;;;;;;;0;0;;;;;;;;;;;;3;2;2;4;0;0;1;1;0;0;1;7;7;32;D. Madjo
-25-26;17;Championat de France;Domicile;;Toulouse;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;10;0;1;1;1;0;0;2;0;1;2;11;10;34;T. Clarke
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;8;0;3;3;3;2;2;0;0;0;3;5;12;7;L. Jerome
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;9;2;5;7;0;4;0;0;0;3;2;2;9;20;E. Dixon
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;L. Banaszak;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;1;2;1;0;0;0;0;1;2;-4;5;22;L. Banaszak
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;M. Hirsch;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;0;3;3;3;1;0;0;0;1;1;14;10;33;M. Hirsch
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;V. Gomis;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;1;1;5;1;1;0;0;3;2;4;10;75;V. Gomis
+25-26;17;Championat de France;Domicile;;Toulouse;Capitaine;Starter;N. Brochant(C);20;7;0,12;20,12;;;;;;;;;;0;0;;;;;;;;;11;0;3;3;3;2;2;0;1;2;0;9;14;1;N. Brochant(C)
+25-26;17;Championat de France;Domicile;;Toulouse;;Starter;C. Franchelin;21;49;0,82;21,82;;;;;;;;;;;;;;;;;;;;15;0;4;4;6;3;0;0;1;1;5;12;19;2;C. Franchelin
+25-26;17;Championat de France;Domicile;;Toulouse;;Starter;I. Strunc;19;34;0,57;19,57;;;;;;;;;;0;0;;;;;;;;;8;0;3;3;4;2;0;1;0;1;1;25;12;8;I. Strunc
+25-26;17;Championat de France;Domicile;;Toulouse;;Starter;D. Madjo;12;2;0,03;12,03;;;;;;;0;0;;;;;;;;;;;;3;2;2;4;0;0;1;1;0;0;1;7;7;32;D. Madjo
+25-26;17;Championat de France;Domicile;;Toulouse;;Starter;T. Clarke;24;37;0,62;24,62;;;;;;;0;0;;;;;;;;;;;;10;0;1;1;1;0;0;2;0;1;2;11;10;34;T. Clarke
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;L. Jerome;18;11;0,18;18,18;;;;;;;;;;;;;;;;;;;;8;0;3;3;3;2;2;0;0;0;3;5;12;7;L. Jerome
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;E. Dixon;21;18;0,3;21,3;;;;;;;0;0;;;;;;;;;;;;9;2;5;7;0;4;0;0;0;3;2;2;9;20;E. Dixon
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;L. Banaszak;16;15;0,25;16,25;;;;;;;0;0;;;;;;;;;;;;5;1;1;2;1;0;0;0;0;1;2;-4;5;22;L. Banaszak
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;M. Hirsch;22;3;0,05;22,05;;;;;;;0;2;0;;;;;;;;;;;10;0;3;3;3;1;0;0;0;1;1;14;10;33;M. Hirsch
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;V. Gomis;24;4;0,07;24,07;;;;;;;;;;0;0;;;;;;;;;8;0;1;1;5;1;1;0;0;3;2;4;10;75;V. Gomis
 25-26;17;Championat de France;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;17;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;30;58;0,52;20;40;0,50;;;;17;20;0,85;17;36;8;21;40;22;13;87;7;27;34;26;15;6;4;2;13;19;0;111;0;TOTAUX EQUIPE
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;;;;;;;;;;;18;0;1;1;4;2;2;0;0;0;2;24;21;1;N. Brochant(C)
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;18;0;4;4;8;4;1;1;1;1;6;25;25;2;C. Franchelin
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;I. Strunc;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;3;2;1;0;1;1;2;3;13;8;I. Strunc
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;E. Dixon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;12;1;5;6;1;1;0;0;0;1;0;28;15;20;E. Dixon
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;3;4;1;2;1;0;0;3;6;13;8;34;T. Clarke
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;6;0;2;2;7;3;0;0;1;3;1;8;7;7;L. Jerome
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Banaszak;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;1;2;0;1;1;0;0;4;0;25;9;22;L. Banaszak
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;1;1;0;0;1;0;8;4;32;D. Madjo
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;4;4;1;1;1;0;0;3;0;17;9;33;M. Hirsch
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;V. Gomis;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;0;0;3;2;0;0;0;3;1;14;2;75;V. Gomis
+25-26;17;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;30;58;0,52;20;40;0,5;;;;17;20;0,85;17;36;8;21;40;22;13;87;7;27;34;26;15;6;4;2;13;19;0;111;0;TOTAUX EQUIPE
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;Capitaine;Starter;N. Brochant(C);22;5;0,08;22,08;;;;;;;;;;;;;;;;;;;;18;0;1;1;4;2;2;0;0;0;2;24;21;1;N. Brochant(C)
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;C. Franchelin;22;56;0,93;22,93;;;;;;;;;;;;;;;;;;;;18;0;4;4;8;4;1;1;1;1;6;25;25;2;C. Franchelin
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;I. Strunc;16;14;0,23;16,23;;;;;;;0;0;;;;;;;;;;;;9;1;2;3;3;2;1;0;1;1;2;3;13;8;I. Strunc
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;E. Dixon;28;6;0,1;28,1;;;;;;;0;1;0;0;0;;;;;;;;;12;1;5;6;1;1;0;0;0;1;0;28;15;20;E. Dixon
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;T. Clarke;19;56;0,93;19,93;;;;;;;0;0;;;;;;;;;;;;9;1;3;4;1;2;1;0;0;3;6;13;8;34;T. Clarke
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Jerome;17;4;0,07;17,07;;;;;;;;;;;;;;;;;;;;6;0;2;2;7;3;0;0;1;3;1;8;7;7;L. Jerome
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Banaszak;20;17;0,28;20,28;;;;;;;;;;0;0;;;;;;;;;8;1;1;2;0;1;1;0;0;4;0;25;9;22;L. Banaszak
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;D. Madjo;10;54;0,9;10,9;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;1;1;0;0;1;0;8;4;32;D. Madjo
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;M. Hirsch;21;4;0,07;21,07;;;;;;;;;;0;0;;;;;;;;;7;0;4;4;1;1;1;0;0;3;0;17;9;33;M. Hirsch
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;V. Gomis;21;24;0,4;21,4;;;;0;1;0;;;;0;0;;;;;;;;;3;0;0;0;3;2;0;0;0;3;1;14;2;75;V. Gomis
 25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;4;8;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;31;51;0,61;21;34;0,62;;;;20;25;0,80;15;34;8;20;26;36;9;92;8;27;35;29;19;8;1;3;20;18;0;121;0;TOTAUX EQUIPE
-25-26;19;Championat de France;Exterieur;;Chartres;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;5;2;0;0;0;1;1;2;10;1;N. Brochant(C)
-25-26;19;Championat de France;Exterieur;;Chartres;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;17;0;7;7;8;2;0;0;0;2;8;0;22;2;C. Franchelin
-25-26;19;Championat de France;Exterieur;;Chartres;;Starter;E. Dixon;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;18;1;10;11;0;2;0;0;1;0;0;4;23;20;E. Dixon
-25-26;19;Championat de France;Exterieur;;Chartres;;Starter;L. Banaszak;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;3;3;1;0;2;0;0;3;0;-13;5;22;L. Banaszak
-25-26;19;Championat de France;Exterieur;;Chartres;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;0;1;4;3;0;0;0;2;5;-3;6;34;T. Clarke
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;L. Jerome;;;;;;;;;;;0;2;0,00;;;;;;;;;;;9;0;1;1;4;3;1;0;0;0;2;3;8;7;L. Jerome
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;I. Strunc;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;1;1;1;0;1;1;0;2;0;9;8;8;I. Strunc
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;D. Madjo;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;0;0;12;1;32;D. Madjo
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;M. Hirsch;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;0;0;0;0;0;2;1;-7;1;33;M. Hirsch
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;14;0;1;1;4;1;2;0;0;3;2;8;15;75;V. Gomis
+25-26;18;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;31;51;0,61;21;34;0,62;;;;20;25;0,8;15;34;8;20;26;36;9;92;8;27;35;29;19;8;1;3;20;18;0;121;0;TOTAUX EQUIPE
+25-26;19;Championat de France;Exterieur;;Chartres;Capitaine;Starter;N. Brochant(C);27;50;0,83;27,83;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;5;2;0;0;0;1;1;2;10;1;N. Brochant(C)
+25-26;19;Championat de France;Exterieur;;Chartres;;Starter;C. Franchelin;26;15;0,25;26,25;;;;;;;;;;;;;;;;;;;;17;0;7;7;8;2;0;0;0;2;8;0;22;2;C. Franchelin
+25-26;19;Championat de France;Exterieur;;Chartres;;Starter;E. Dixon;33;51;0,85;33,85;;;;;;;0;1;0;0;0;;;;;;;;;18;1;10;11;0;2;0;0;1;0;0;4;23;20;E. Dixon
+25-26;19;Championat de France;Exterieur;;Chartres;;Starter;L. Banaszak;14;17;0,28;14,28;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;3;3;1;0;2;0;0;3;0;-13;5;22;L. Banaszak
+25-26;19;Championat de France;Exterieur;;Chartres;;Starter;T. Clarke;27;42;0,7;27,7;;;;;;;0;0;;;;;;;;;;;;7;1;0;1;4;3;0;0;0;2;5;-3;6;34;T. Clarke
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;L. Jerome;13;45;0,75;13,75;;;;;;;0;2;0;;;;;;;;;;;9;0;1;1;4;3;1;0;0;0;2;3;8;7;L. Jerome
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;I. Strunc;14;29;0,48;14,48;;;;0;0;;;;;0;0;;;;;;;;;6;0;1;1;1;0;1;1;0;2;0;9;8;8;I. Strunc
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;D. Madjo;5;1;0,02;5,02;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;0;0;12;1;32;D. Madjo
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;M. Hirsch;13;26;0,43;13,43;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;0;0;0;0;0;2;1;-7;1;33;M. Hirsch
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;V. Gomis;23;24;0,4;23,4;;;;;;;;;;;;;;;;;;;;14;0;1;1;4;1;2;0;0;3;2;8;15;75;V. Gomis
 25-26;19;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;19;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;31;62;0,50;22;41;0,54;;;;14;20;0,70;27;38;7;8;33;19;14;85;3;28;31;27;13;6;1;1;15;19;0;100;0;TOTAUX EQUIPE
-25-26;20;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;21;0;3;3;1;2;0;0;0;2;0;1;18;1;N. Brochant(C)
-25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;C. Franchelin;;;;;;;;;;;0;5;0,00;;;;;;;;;;;7;0;3;3;5;1;1;0;2;3;5;-13;3;2;C. Franchelin
-25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;I. Strunc;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;2;1;1;2;2;0;0;0;0;0;0;-6;1;8;I. Strunc
-25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;D. Madjo;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;1;0;0;0;2;0;-8;-1;32;D. Madjo
-25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;13;1;5;6;2;2;0;1;0;3;5;-12;17;34;T. Clarke
-25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;L. Jerome;;;;;;;;;;;;;;;;;;;;;;;;7;0;2;2;3;2;1;0;1;1;2;4;6;7;L. Jerome
-25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;E. Dixon;;;;;;;;;;;0;0;;;;;;;;;;;;3;0;3;3;2;2;0;1;0;2;1;6;5;20;E. Dixon
-25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;L. Banaszak;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;8;10;2;1;0;1;0;3;2;3;13;22;L. Banaszak
-25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;M. Hirsch;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;2;0;1;0;0;1;0;-4;2;33;M. Hirsch
-25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;V. Gomis;;;;;0;3;0,00;0;2;0,00;0;1;0,00;;;;;;;;;;;2;0;0;0;0;1;0;0;0;1;1;-16;-2;75;V. Gomis
+25-26;19;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;31;62;0,5;22;41;0,54;;;;14;20;0,7;27;38;7;8;33;19;14;85;3;28;31;27;13;6;1;1;15;19;0;100;0;TOTAUX EQUIPE
+25-26;20;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;N. Brochant(C);35;21;0,35;35,35;;;;;;;;;;0;0;;;;;;;;;21;0;3;3;1;2;0;0;0;2;0;1;18;1;N. Brochant(C)
+25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;C. Franchelin;22;6;0,1;22,1;;;;;;;0;5;0;;;;;;;;;;;7;0;3;3;5;1;1;0;2;3;5;-13;3;2;C. Franchelin
+25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;I. Strunc;18;50;0,83;18,83;;;;;;;0;4;0;0;0;;;;;;;;;2;1;1;2;2;0;0;0;0;0;0;-6;1;8;I. Strunc
+25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;D. Madjo;15;49;0,82;15,82;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;1;0;0;0;2;0;-8;-1;32;D. Madjo
+25-26;20;Championat de France;Domicile;;Basket Landes;;Starter;T. Clarke;33;28;0,47;33,47;;;;;;;0;0;;;;;;;;;;;;13;1;5;6;2;2;0;1;0;3;5;-12;17;34;T. Clarke
+25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;L. Jerome;17;54;0,9;17,9;;;;;;;;;;;;;;;;;;;;7;0;2;2;3;2;1;0;1;1;2;4;6;7;L. Jerome
+25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;E. Dixon;16;24;0,4;16,4;;;;;;;0;0;;;;;;;;;;;;3;0;3;3;2;2;0;1;0;2;1;6;5;20;E. Dixon
+25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;L. Banaszak;22;17;0,28;22,28;;;;;;;0;1;0;0;0;;;;;;;;;4;2;8;10;2;1;0;1;0;3;2;3;13;22;L. Banaszak
+25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;M. Hirsch;5;0;0;5;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;2;0;1;0;0;1;0;-4;2;33;M. Hirsch
+25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;V. Gomis;12;21;0,35;12,35;0;3;0;0;2;0;0;1;0;;;;;;;;;;;2;0;0;0;0;1;0;0;0;1;1;-16;-2;75;V. Gomis
 25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;20;Championat de France;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;21;60;0,35;17;40;0,43;;;;13;15;0,87;5;20;0;10;16;5;9;59;6;28;34;19;13;3;3;3;18;16;0;64;0;TOTAUX EQUIPE
-25-26;21;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;12;2;4;6;2;1;1;0;0;2;0;16;12;1;N. Brochant(C)
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;11;3;3;6;8;0;1;0;0;3;4;20;16;2;C. Franchelin
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;I. Strunc;;;;;;;;;;;0;2;0,00;;;;;;;;;;;7;1;1;2;0;2;0;0;0;2;3;12;3;8;I. Strunc
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;L. Banaszak;;;;;;;;;;;;;;;;;;;;;;;;8;1;5;6;3;2;2;1;0;4;2;17;15;22;L. Banaszak
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;14;2;2;4;1;1;0;0;0;4;3;18;17;34;T. Clarke
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Jerome;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;0;2;2;3;2;1;0;0;0;1;-5;5;7;L. Jerome
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;E. Dixon;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;2;0;0;0;0;2;1;-5;4;20;E. Dixon
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;0;0;1;0;-3;3;32;D. Madjo
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Hirsch;;;;;;;;;;;0;1;0,00;;;;;;;;;;;11;5;2;7;2;3;0;0;0;2;2;3;13;33;M. Hirsch
-25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;16;1;0;1;2;2;0;0;0;3;1;2;13;75;V. Gomis
+25-26;21;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;N. Brochant(C);34;22;0,37;34,37;;;;;;;;;;0;0;;;;;;;;;12;2;4;6;2;1;1;0;0;2;0;16;12;1;N. Brochant(C)
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;C. Franchelin;27;9;0,15;27,15;;;;;;;;;;;;;;;;;;;;11;3;3;6;8;0;1;0;0;3;4;20;16;2;C. Franchelin
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;I. Strunc;20;34;0,57;20,57;;;;;;;0;2;0;;;;;;;;;;;7;1;1;2;0;2;0;0;0;2;3;12;3;8;I. Strunc
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;L. Banaszak;16;50;0,83;16,83;;;;;;;;;;;;;;;;;;;;8;1;5;6;3;2;2;1;0;4;2;17;15;22;L. Banaszak
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Clarke;28;7;0,12;28,12;;;;;;;0;0;;;;;;;;;;;;14;2;2;4;1;1;0;0;0;4;3;18;17;34;T. Clarke
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Jerome;12;51;0,85;12,85;;;;;;;0;1;0;;;;;;;;;;;4;0;2;2;3;2;1;0;0;0;1;-5;5;7;L. Jerome
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;E. Dixon;10;26;0,43;10,43;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;2;0;0;0;0;2;1;-5;4;20;E. Dixon
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;D. Madjo;3;2;0,03;3,03;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;0;0;1;0;-3;3;32;D. Madjo
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Hirsch;21;35;0,58;21,58;;;;;;;0;1;0;;;;;;;;;;;11;5;2;7;2;3;0;0;0;2;2;3;13;33;M. Hirsch
+25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;V. Gomis;25;4;0,07;25,07;;;;;;;;;;;;;;;;;;;;16;1;0;1;2;2;0;0;0;3;1;2;13;75;V. Gomis
 25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;21;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;30;63;0,48;23;39;0,59;;;;18;23;0,78;22;32;10;4;33;18;7;85;15;24;39;24;14;5;1;0;23;17;0;102;0;TOTAUX EQUIPE
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;6;1;3;4;6;2;2;0;0;0;1;37;12;1;N. Brochant(C)
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;C. Franchelin;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;1;1;8;4;3;0;0;0;0;28;15;2;C. Franchelin
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;I. Strunc;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;0;0;0;0;0;0;0;0;2;3;9;4;8;I. Strunc
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Banaszak;;;;;;;;0;2;0,00;;;;;;;;;;;;;;7;2;7;9;4;1;5;0;0;1;3;30;20;22;L. Banaszak
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;17;4;5;9;0;4;1;1;0;2;5;22;18;34;T. Clarke
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;L. Jerome;;;;;;;;0;1;0,00;;;;;;;;;;;;;;10;0;3;3;3;4;0;0;0;1;1;5;8;7;L. Jerome
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;D. Madjo;;;;;;;;;;;0;0;;;;;;;;;;;;3;0;1;1;0;0;0;0;0;2;1;1;3;32;D. Madjo
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Hirsch;;;;;;;;;;;;;;;;;;;;;;;;10;0;2;2;0;1;1;0;0;1;3;13;11;33;M. Hirsch
-25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;15;0;1;1;2;3;2;0;0;3;4;20;13;75;V. Gomis
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);26;18;0,3;26,3;;;;0;0;;;;;0;0;;;;;;;;;6;1;3;4;6;2;2;0;0;0;1;37;12;1;N. Brochant(C)
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;C. Franchelin;22;5;0,08;22,08;;;;;;;;;;0;0;;;;;;;;;9;0;1;1;8;4;3;0;0;0;0;28;15;2;C. Franchelin
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;I. Strunc;25;28;0,47;25,47;;;;;;;0;1;0;;;;;;;;;;;7;0;0;0;0;0;0;0;0;2;3;9;4;8;I. Strunc
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Banaszak;24;47;0,78;24,78;;;;0;2;0;;;;;;;;;;;;;;7;2;7;9;4;1;5;0;0;1;3;30;20;22;L. Banaszak
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;T. Clarke;26;13;0,22;26,22;;;;;;;0;0;;;;;;;;;;;;17;4;5;9;0;4;1;1;0;2;5;22;18;34;T. Clarke
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;L. Jerome;17;55;0,92;17,92;;;;0;1;0;;;;;;;;;;;;;;10;0;3;3;3;4;0;0;0;1;1;5;8;7;L. Jerome
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;D. Madjo;3;5;0,08;3,08;;;;;;;0;0;;;;;;;;;;;;3;0;1;1;0;0;0;0;0;2;1;1;3;32;D. Madjo
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Hirsch;25;15;0,25;25,25;;;;;;;;;;;;;;;;;;;;10;0;2;2;0;1;1;0;0;1;3;13;11;33;M. Hirsch
+25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;V. Gomis;28;14;0,23;28,23;;;;;;;;;;;;;;;;;;;;15;0;1;1;2;3;2;0;0;3;4;20;13;75;V. Gomis
 25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;22;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;27;47;0,57;14;22;0,64;13;25;0,52;17;26;0,65;26;28;10;5;38;43;14;84;7;26;33;23;20;14;1;0;12;21;0;106;0;TOTAUX EQUIPE
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;8;1;3;4;3;1;3;0;0;3;1;-22;8;1;N. Brochant(C)
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;C. Franchelin;;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;0;3;3;6;7;1;1;0;4;7;-17;9;2;C. Franchelin
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;I. Strunc;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;4;4;0;0;0;0;0;2;0;-2;6;8;I. Strunc
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;L. Banaszak;;;;;;;;;;;;;;0;0;;;;;;;;;9;1;7;8;3;0;0;0;0;4;0;-2;15;22;L. Banaszak
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;14;0;1;1;0;0;1;2;1;0;6;-22;13;34;T. Clarke
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;L. Jerome;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;1;1;2;2;0;0;0;2;1;-9;0;7;L. Jerome
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;E. Dixon;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;1;2;0;1;0;0;0;3;0;-6;1;20;E. Dixon
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;D. Madjo;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;1;0;0;0;0;4;1;32;D. Madjo
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;M. Hirsch;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;0;1;0;0;0;3;0;-27;-1;33;M. Hirsch
-25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;V. Gomis;;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;0;0;0;2;2;2;0;0;1;4;-27;1;75;V. Gomis
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);34;52;0,87;34,87;;;;;;;0;3;0;0;0;;;;;;;;;8;1;3;4;3;1;3;0;0;3;1;-22;8;1;N. Brochant(C)
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;C. Franchelin;34;28;0,47;34,47;;;;;;;0;2;0;;;;;;;;;;;11;0;3;3;6;7;1;1;0;4;7;-17;9;2;C. Franchelin
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;I. Strunc;18;36;0,6;18,6;;;;;;;;;;0;0;;;;;;;;;5;0;4;4;0;0;0;0;0;2;0;-2;6;8;I. Strunc
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;L. Banaszak;23;29;0,48;23,48;;;;;;;;;;0;0;;;;;;;;;9;1;7;8;3;0;0;0;0;4;0;-2;15;22;L. Banaszak
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Starter;T. Clarke;35;11;0,18;35,18;;;;;;;0;0;;;;;;;;;;;;14;0;1;1;0;0;1;2;1;0;6;-22;13;34;T. Clarke
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;L. Jerome;5;3;0,05;5,05;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;1;1;2;2;0;0;0;2;1;-9;0;7;L. Jerome
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;E. Dixon;6;1;0,02;6,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;1;2;0;1;0;0;0;3;0;-6;1;20;E. Dixon
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;D. Madjo;5;8;0,13;5,13;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;1;0;0;0;0;4;1;32;D. Madjo
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;M. Hirsch;19;1;0,02;19,02;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;0;1;0;0;0;3;0;-27;-1;33;M. Hirsch
+25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;V. Gomis;16;32;0,53;16,53;;;;;;;0;2;0;;;;;;;;;;;4;0;0;0;2;2;2;0;0;1;4;-27;1;75;V. Gomis
 25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1/4 finale Aller;Playoff;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;19;56;0,34;16;37;0,43;;;;15;21;0,71;8;28;4;16;9;5;5;56;4;24;28;16;14;8;3;1;22;19;0;54;0;TOTAUX EQUIPE
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;16;1;3;4;3;0;1;0;0;4;0;25;20;1;N. Brochant(C)
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;19;0;4;4;14;3;2;0;0;1;6;21;30;2;C. Franchelin
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;L. Banaszak;;;;;;;;;;;;;;;;;;;;;;;;12;1;4;5;2;2;2;1;1;3;2;22;19;22;L. Banaszak
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;D. Madjo;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;0;1;1;0;0;0;0;2;1;7;7;32;D. Madjo
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;6;2;3;5;4;1;0;2;0;3;4;22;12;34;T. Clarke
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;L. Jerome;;;;;;;;0;0;;;;;;;;;;;;;;;9;0;3;3;0;1;0;0;0;1;3;6;8;7;L. Jerome
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;I. Strunc;;;;;;;;0;0;;;;;;;;;;;;;;;13;0;3;3;0;1;0;1;0;0;1;14;13;8;I. Strunc
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;E. Dixon;;;;;0;1;0,00;0;1;0,00;0;0;;;;;;;;;;;;4;0;1;1;1;0;0;1;0;2;3;5;4;20;E. Dixon
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;M. Hirsch;;;;;;;;;;;;;;;;;;;;;;;;7;1;1;2;1;1;0;0;0;3;2;-5;4;33;M. Hirsch
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;V. Gomis;;;;;;;;0;0;;;;;;;;;;;;;;;13;1;2;3;4;3;0;0;0;4;6;18;12;75;V. Gomis
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;N. Brochant(C);33;51;0,85;33,85;;;;;;;;;;0;0;;;;;;;;;16;1;3;4;3;0;1;0;0;4;0;25;20;1;N. Brochant(C)
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;C. Franchelin;33;18;0,3;33,3;;;;;;;;;;;;;;;;;;;;19;0;4;4;14;3;2;0;0;1;6;21;30;2;C. Franchelin
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;L. Banaszak;29;2;0,03;29,03;;;;;;;;;;;;;;;;;;;;12;1;4;5;2;2;2;1;1;3;2;22;19;22;L. Banaszak
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;D. Madjo;4;4;0,07;4,07;;;;;;;0;0;;;;;;;;;;;;5;1;0;1;1;0;0;0;0;2;1;7;7;32;D. Madjo
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Starter;T. Clarke;32;10;0,17;32,17;;;;;;;0;0;;;;;;;;;;;;6;2;3;5;4;1;0;2;0;3;4;22;12;34;T. Clarke
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;L. Jerome;6;2;0,03;6,03;;;;0;0;;;;;;;;;;;;;;;9;0;3;3;0;1;0;0;0;1;3;6;8;7;L. Jerome
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;I. Strunc;13;9;0,15;13,15;;;;0;0;;;;;;;;;;;;;;;13;0;3;3;0;1;0;1;0;0;1;14;13;8;I. Strunc
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;E. Dixon;7;0;0;7;0;1;0;0;1;0;0;0;;;;;;;;;;;;4;0;1;1;1;0;0;1;0;2;3;5;4;20;E. Dixon
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;M. Hirsch;12;55;0,92;12,92;;;;;;;;;;;;;;;;;;;;7;1;1;2;1;1;0;0;0;3;2;-5;4;33;M. Hirsch
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;V. Gomis;26;9;0,15;26,15;;;;0;0;;;;;;;;;;;;;;;13;1;2;3;4;3;0;0;0;4;6;18;12;75;V. Gomis
 25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;0;0;0;0;1;0;0;0;0;Team / Coach
-25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;27;47;0,57;;;;17;28;0,61;33;47;0,70;11;18;12;25;46;29;9;104;8;26;34;30;12;5;5;1;24;28;0;132;0;TOTAUX EQUIPE
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;9;0;4;4;3;3;3;1;0;2;0;-19;11;1;N. Brochant(C)
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;15;0;5;5;6;7;0;0;0;1;6;-13;10;2;C. Franchelin
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;L. Banaszak;;;;;;;;0;3;0,00;;;;0;2;0,00;;;;;;;;3;3;1;4;2;1;2;0;1;4;2;-13;3;22;L. Banaszak
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;D. Madjo;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;2;2;4;1;0;0;0;0;2;0;-6;5;32;D. Madjo
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;10;3;2;5;2;2;1;0;0;3;4;-13;13;34;T. Clarke
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Jerome;;;;;;;;0;1;0,00;;;;;;;;;;;;;;5;1;0;1;1;1;0;0;0;1;1;0;4;7;L. Jerome
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;I. Strunc;;;;;;;;0;0;;;;;;;;;;;;;;;5;1;0;1;0;1;0;0;0;1;1;5;2;8;I. Strunc
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Nchamba;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;L. Nchamba
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Hirsch;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;2;2;2;2;0;0;0;3;0;-2;0;33;M. Hirsch
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;V. Gomis;;;;;;;;;;;;;;;;;;;;;;;;15;1;1;2;1;0;1;0;1;0;6;-4;12;75;V. Gomis
+25-26;1/4 finale Retour;Playoff;Domicile;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;27;47;0,57;;;;17;28;0,61;33;47;0,7;11;18;12;25;46;29;9;104;8;26;34;30;12;5;5;1;24;28;0;132;0;TOTAUX EQUIPE
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;Capitaine;Starter;N. Brochant(C);35;4;0,07;35,07;;;;;;;;;;0;0;;;;;;;;;9;0;4;4;3;3;3;1;0;2;0;-19;11;1;N. Brochant(C)
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;C. Franchelin;25;37;0,62;25,62;;;;;;;;;;;;;;;;;;;;15;0;5;5;6;7;0;0;0;1;6;-13;10;2;C. Franchelin
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;L. Banaszak;13;53;0,88;13,88;;;;0;3;0;;;;0;2;0;;;;;;;;3;3;1;4;2;1;2;0;1;4;2;-13;3;22;L. Banaszak
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;D. Madjo;21;31;0,52;21,52;;;;;;;0;0;;0;0;;;;;;;;;2;2;2;4;1;0;0;0;0;2;0;-6;5;32;D. Madjo
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Starter;T. Clarke;32;9;0,15;32,15;;;;;;;0;0;;;;;;;;;;;;10;3;2;5;2;2;1;0;0;3;4;-13;13;34;T. Clarke
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Jerome;14;23;0,38;14,38;;;;0;1;0;;;;;;;;;;;;;;5;1;0;1;1;1;0;0;0;1;1;0;4;7;L. Jerome
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;I. Strunc;15;25;0,42;15,42;;;;0;0;;;;;;;;;;;;;;;5;1;0;1;0;1;0;0;0;1;1;5;2;8;I. Strunc
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Nchamba;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;15;L. Nchamba
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Hirsch;15;37;0,62;15,62;;;;0;2;0;;;;0;0;;;;;;;;;3;0;2;2;2;2;0;0;0;3;0;-2;0;33;M. Hirsch
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;V. Gomis;26;21;0,35;26,35;;;;;;;;;;;;;;;;;;;;15;1;1;2;1;0;1;0;1;0;6;-4;12;75;V. Gomis
 25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1/2 finale Aller;Playoff;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;20;56;0,36;;;;;;;18;26;0,69;13;16;11;7;28;8;8;67;11;20;31;18;17;7;1;2;17;20;0;63;0;TOTAUX EQUIPE
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;Capitaine;Starter;N. Brochant(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;2;4;6;3;2;2;0;0;1;1;6;15;1;N. Brochant(C)
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;C. Franchelin;;;;;;;;;;;;;;;;;;;;;;;;21;0;5;5;8;2;2;0;4;4;4;14;24;2;C. Franchelin
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;L. Banaszak;;;;;;;;;;;;;;;;;;;;;;;;7;1;3;4;1;1;3;0;0;5;2;18;8;22;L. Banaszak
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;T. Clarke;;;;;;;;;;;0;0;;;;;;;;;;;;14;3;12;15;3;3;1;0;0;3;6;11;24;34;T. Clarke
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;V. Gomis;;;;;;;;0;1;0,00;;;;0;2;0,00;;;;;;;;6;0;3;3;6;2;0;0;1;3;2;15;6;75;V. Gomis
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;L. Jerome;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;2;2;0;1;0;0;0;0;0;-6;-1;7;L. Jerome
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;I. Strunc;;;;;0;3;0,00;0;0;;0;3;0,00;0;0;;;;;;;;;0;0;2;2;1;1;0;0;0;1;0;-5;-1;8;I. Strunc
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;D. Madjo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;1;0;-5;0;32;D. Madjo
-25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;M. Hirsch;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;10;0;1;1;0;1;0;0;0;4;0;-8;9;33;M. Hirsch
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;Capitaine;Starter;N. Brochant(C);37;25;0,42;37,42;;;;;;;;;;0;0;;;;;;;;;11;2;4;6;3;2;2;0;0;1;1;6;15;1;N. Brochant(C)
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;C. Franchelin;30;53;0,88;30,88;;;;;;;;;;;;;;;;;;;;21;0;5;5;8;2;2;0;4;4;4;14;24;2;C. Franchelin
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;L. Banaszak;21;58;0,97;21,97;;;;;;;;;;;;;;;;;;;;7;1;3;4;1;1;3;0;0;5;2;18;8;22;L. Banaszak
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;T. Clarke;37;15;0,25;37,25;;;;;;;0;0;;;;;;;;;;;;14;3;12;15;3;3;1;0;0;3;6;11;24;34;T. Clarke
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Starter;V. Gomis;27;57;0,95;27,95;;;;0;1;0;;;;0;2;0;;;;;;;;6;0;3;3;6;2;0;0;1;3;2;15;6;75;V. Gomis
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;L. Jerome;9;0;0;9;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;2;2;0;1;0;0;0;0;0;-6;-1;7;L. Jerome
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;I. Strunc;14;38;0,63;14,63;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;0;2;2;1;1;0;0;0;1;0;-5;-1;8;I. Strunc
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;D. Madjo;4;6;0,1;4,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;1;0;-5;0;32;D. Madjo
+25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;M. Hirsch;16;47;0,78;16,78;;;;;;;0;1;0;0;0;;;;;;;;;10;0;1;1;0;1;0;0;0;4;0;-8;9;33;M. Hirsch
 25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;0;2;0;2;0;0;0;1;0;0;0;0;Team / Coach
 25-26;1/2 finale Retour;Playoff;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;24;57;0,42;16;29;0,55;;;;13;20;0,65;27;28;3;10;10;29;15;69;8;33;41;22;16;8;0;5;23;15;0;84;0;TOTAUX EQUIPE

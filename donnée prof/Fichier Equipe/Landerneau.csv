@@ -1,4 +1,4 @@
-Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adversaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
 23-24;1/16 de finale;Coupe de France;Exterieur;Defaite;Chartres;;Starter;A. Okonkwo;34;29;0,48;34,48;7;18;0,388888889;4;12;0,333333333;3;6;0,5;2;4;0,5;;;;;;;;19;2;7;9;3;3;4;1;2;3;2;8;20;0;A. Okonkwo
 23-24;1/16 de finale;Coupe de France;Exterieur;Defaite;Chartres;Capitaine;Starter;P. Lezin;31;37;0,62;31,62;2;5;0,4;0;1;0;2;4;0,5;5;6;0,833333333;;;;;;;;11;2;1;3;0;2;1;1;0;2;3;-7;10;9;P. Lezin(C)
 23-24;1/16 de finale;Coupe de France;Exterieur;Defaite;Chartres;;Starter;L. Evrard;33;6;0,1;33,1;1;6;0,166666667;0;4;0;1;2;0,5;4;4;1;;;;;;;;7;1;0;1;8;4;1;0;0;3;5;2;8;11;L. Evrard
@@ -550,307 +550,307 @@ Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/b
 24-25;22;Championat de France;Domicile;Defaite;Charnay;;Banc;S. Belabbas;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;21;S. Belabbas
 24-25;22;Championat de France;Domicile;Defaite;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;3;0;0;0;0;0;0;0;0;Team / Coach
 24-25;22;Championat de France;Domicile;Defaite;Charnay;;Banc;TOTAUX EQUIPE;;;;;20;58;0,34;13;37;0,35;7;21;0,33;10;13;0,77;11;22;15;8;19;10;6;57;11;24;35;14;24;6;6;1;13;15;0;53;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;14;1;9;10;0;0;1;0;1;2;2;-16;13;4;E. Balogun
-25-26;1;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;;;;;;;;;;;;;;13;1;3;4;0;4;1;1;1;3;3;-10;4;5;M. Kaba(C)
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;S. Elenga;;;;;0;8;0,00;0;6;0,00;0;2;0,00;0;0;;;;;;;;;0;4;4;8;2;2;0;0;0;2;3;-21;0;6;S. Elenga
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;;;;;0;13;0,00;0;7;0,00;0;6;0,00;;;;;;;;;;;1;1;4;5;1;3;0;0;0;4;3;-3;-10;14;H. Turner
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;2;3;4;2;2;0;1;2;1;-19;8;25;R. Tsobgny
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;C. Fondren;;;;;;;;;;;;;;;;;;;;;;;;11;3;5;8;2;2;0;0;1;5;4;2;14;11;C. Fondren
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;12;E. Hornoy
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-7;0;28;T. Barbosa
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;E. Balogun;33;7;0,12;33,12;;;;;;;;;;;;;;;;;;;;14;1;9;10;0;0;1;0;1;2;2;-16;13;4;E. Balogun
+25-26;1;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;M. Kaba(C);38;39;0,65;38,65;;;;;;;;;;;;;;;;;;;;13;1;3;4;0;4;1;1;1;3;3;-10;4;5;M. Kaba(C)
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;S. Elenga;34;2;0,03;34,03;0;8;0;0;6;0;0;2;0;0;0;;;;;;;;;0;4;4;8;2;2;0;0;0;2;3;-21;0;6;S. Elenga
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;30;37;0,62;30,62;0;13;0;0;7;0;0;6;0;;;;;;;;;;;1;1;4;5;1;3;0;0;0;4;3;-3;-10;14;H. Turner
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;34;56;0,93;34,93;;;;;;;0;1;0;0;0;;;;;;;;;4;1;2;3;4;2;2;0;1;2;1;-19;8;25;R. Tsobgny
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;C. Fondren;23;13;0,22;23,22;;;;;;;;;;;;;;;;;;;;11;3;5;8;2;2;0;0;1;5;4;2;14;11;C. Fondren
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Hornoy;1;1;0,02;1,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;12;E. Hornoy
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;4;4;0,07;4,07;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-7;0;28;T. Barbosa
 25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;1;4;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;16;66;0,24;;;;;;;;;;5;22;17;7;11;2;9;43;15;28;43;9;16;4;1;4;19;16;0;30;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;14;1;9;10;0;0;1;0;1;2;2;-16;13;4;E. Balogun
-25-26;1;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;;;;;;;;;;;;;;13;1;3;4;0;4;1;1;1;3;3;-10;4;5;M. Kaba(C)
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;S. Elenga;;;;;0;8;0,00;0;6;0,00;0;2;0,00;0;0;;;;;;;;;0;4;4;8;2;2;0;0;0;2;3;-21;0;6;S. Elenga
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;;;;;0;13;0,00;0;7;0,00;0;6;0,00;;;;;;;;;;;1;1;4;5;1;3;0;0;0;4;3;-3;-10;14;H. Turner
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;2;3;4;2;2;0;1;2;1;-19;8;25;R. Tsobgny
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;C. Fondren;;;;;;;;;;;;;;;;;;;;;;;;11;3;5;8;2;2;0;0;1;5;4;2;14;11;C. Fondren
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;12;E. Hornoy
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-7;0;28;T. Barbosa
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;E. Balogun;33;7;0,12;33,12;;;;;;;;;;;;;;;;;;;;14;1;9;10;0;0;1;0;1;2;2;-16;13;4;E. Balogun
+25-26;1;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;M. Kaba(C);38;39;0,65;38,65;;;;;;;;;;;;;;;;;;;;13;1;3;4;0;4;1;1;1;3;3;-10;4;5;M. Kaba(C)
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;S. Elenga;34;2;0,03;34,03;0;8;0;0;6;0;0;2;0;0;0;;;;;;;;;0;4;4;8;2;2;0;0;0;2;3;-21;0;6;S. Elenga
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;30;37;0,62;30,62;0;13;0;0;7;0;0;6;0;;;;;;;;;;;1;1;4;5;1;3;0;0;0;4;3;-3;-10;14;H. Turner
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;34;56;0,93;34,93;;;;;;;0;1;0;0;0;;;;;;;;;4;1;2;3;4;2;2;0;1;2;1;-19;8;25;R. Tsobgny
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;C. Fondren;23;13;0,22;23,22;;;;;;;;;;;;;;;;;;;;11;3;5;8;2;2;0;0;1;5;4;2;14;11;C. Fondren
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;E. Hornoy;1;1;0,02;1,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;12;E. Hornoy
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;4;4;0,07;4,07;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-7;0;28;T. Barbosa
 25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;1;4;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;16;66;0,24;;;;;;;;;;5;22;17;7;11;2;9;43;15;28;43;9;16;4;1;4;19;16;0;30;0;TOTAUX EQUIPE
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;16;0;1;1;1;1;2;1;0;4;2;4;11;4;E. Balogun
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Kaba;;;;;;;;;;;0;1;0,00;;;;;;;;;;;9;1;6;7;4;2;1;0;0;5;2;1;14;5;M. Kaba
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Starter;S. Elenga(C);;;;;;;;0;2;0,00;;;;;;;;;;;;;;17;3;7;10;3;3;1;1;0;2;2;6;23;6;S. Elenga(C)
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;21;2;6;8;3;7;1;1;1;0;6;9;8;14;H. Turner
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;R. Tsobgny;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;1;2;3;7;1;4;0;1;5;2;9;15;25;R. Tsobgny
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;0;1;1;E. Cariou
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;C. Fondren;;;;;;;;;;;;;;0;0;;;;;;;;;11;2;3;5;8;4;0;2;1;0;2;-6;21;11;C. Fondren
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;J. Albert;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;0;0;0;0;0;0;4;3;12;J. Albert
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;E. Hornoy
-25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;T. Barbosa;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;1;0;-7;3;28;T. Barbosa
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;E. Balogun;38;33;0,55;38,55;;;;;;;;;;;;;;;;;;;;16;0;1;1;1;1;2;1;0;4;2;4;11;4;E. Balogun
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Kaba;35;45;0,75;35,75;;;;;;;0;1;0;;;;;;;;;;;9;1;6;7;4;2;1;0;0;5;2;1;14;5;M. Kaba
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Starter;S. Elenga(C);44;58;0,97;44,97;;;;0;2;0;;;;;;;;;;;;;;17;3;7;10;3;3;1;1;0;2;2;6;23;6;S. Elenga(C)
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;H. Turner;35;46;0,77;35,77;;;;;;;;;;;;;;;;;;;;21;2;6;8;3;7;1;1;1;0;6;9;8;14;H. Turner
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Starter;R. Tsobgny;27;46;0,77;27,77;;;;;;;0;1;0;;;;;;;;;;;6;1;2;3;7;1;4;0;1;5;2;9;15;25;R. Tsobgny
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Cariou;3;2;0,03;3,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;0;1;1;E. Cariou
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;C. Fondren;28;43;0,72;28,72;;;;;;;;;;0;0;;;;;;;;;11;2;3;5;8;4;0;2;1;0;2;-6;21;11;C. Fondren
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;J. Albert;3;1;0,02;3,02;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;0;0;0;0;0;0;4;3;12;J. Albert
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;E. Hornoy
+25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;T. Barbosa;6;6;0,1;6,1;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;1;0;-7;3;28;T. Barbosa
 25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;2;Championat de France;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;32;73;0,44;19;43;0,44;13;30;0,43;;;;15;34;5;16;16;12;9;85;11;30;41;27;18;9;5;3;19;16;0;105;0;TOTAUX EQUIPE
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;18;3;1;4;2;1;1;1;0;2;3;-9;16;4;E. Balogun
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;0;0;;;;;;;;;12;1;2;3;2;2;0;0;0;4;1;-2;10;5;M. Kaba(C)
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Elenga;;;;;;;;;;;;;;;;;;;;;;;;10;1;2;3;1;2;1;1;0;3;1;-11;9;6;S. Elenga
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;11;7;5;12;3;3;4;0;1;3;2;6;12;14;H. Turner
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;R. Tsobgny;;;;;;;;0;0;;;;;;;;;;;;;;;4;1;0;1;3;1;1;0;0;0;5;-11;5;25;R. Tsobgny
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;C. Fondren;;;;;;;;;;;;;;;;;;;;;;;;10;2;4;6;4;2;2;1;0;3;7;-4;16;11;C. Fondren
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;1;1;0;0;-6;0;17;A. Kane
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;C. Taylor;;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;2;0,00;;;;;;;;0;0;1;1;0;2;0;0;1;5;2;-3;-7;20;C. Taylor
-25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;E. Balogun;32;43;0,72;32,72;;;;;;;;;;;;;;;;;;;;18;3;1;4;2;1;1;1;0;2;3;-9;16;4;E. Balogun
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;M. Kaba(C);28;8;0,13;28,13;;;;;;;0;0;;0;0;;;;;;;;;12;1;2;3;2;2;0;0;0;4;1;-2;10;5;M. Kaba(C)
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Elenga;26;0;0;26;;;;;;;;;;;;;;;;;;;;10;1;2;3;1;2;1;1;0;3;1;-11;9;6;S. Elenga
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;H. Turner;31;47;0,78;31,78;;;;;;;;;;;;;;;;;;;;11;7;5;12;3;3;4;0;1;3;2;6;12;14;H. Turner
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;R. Tsobgny;21;44;0,73;21,73;;;;0;0;;;;;;;;;;;;;;;4;1;0;1;3;1;1;0;0;0;5;-11;5;25;R. Tsobgny
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;C. Fondren;29;55;0,92;29,92;;;;;;;;;;;;;;;;;;;;10;2;4;6;4;2;2;1;0;3;7;-4;16;11;C. Fondren
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Kane;11;52;0,87;11,87;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;1;1;0;0;-6;0;17;A. Kane
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;C. Taylor;17;52;0,87;17,87;0;4;0;0;1;0;0;3;0;0;2;0;;;;;;;;0;0;1;1;0;2;0;0;1;5;2;-3;-7;20;C. Taylor
+25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;6;8;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;3;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;25;67;0,37;18;43;0,42;;;;;;;13;32;13;4;12;1;9;67;18;21;39;15;14;9;4;3;20;21;0;68;0;TOTAUX EQUIPE
-25-26;4;Championat de France;Exterieur;;Chartres;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;9;0;1;1;0;0;1;1;0;2;3;-5;8;4;E. Balogun
-25-26;4;Championat de France;Exterieur;;Chartres;;Starter;M. Kaba;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;12;5;5;10;5;1;2;0;0;3;0;3;24;5;M. Kaba
-25-26;4;Championat de France;Exterieur;;Chartres;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;0;4;0,00;;;;;;;;;;;9;1;4;5;1;2;0;1;0;2;4;1;9;6;S. Elenga(C)
-25-26;4;Championat de France;Exterieur;;Chartres;;Starter;C. Fondren;;;;;;;;;;;0;0;;;;;;;;;;;;15;1;2;3;4;4;2;0;2;5;5;9;15;11;C. Fondren
-25-26;4;Championat de France;Exterieur;;Chartres;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;17;2;5;7;1;2;2;0;0;0;2;0;14;14;H. Turner
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;J. Albert;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;J. Albert
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;A. Kane;;;;;0;3;0,00;0;3;0,00;0;0;;0;0;;;;;;;;;0;3;1;4;1;2;0;0;0;2;0;-2;0;17;A. Kane
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;C. Taylor;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;1;2;0;0;0;4;0;-3;2;20;C. Taylor
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;R. Tsobgny;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;0;0;0;4;1;2;0;0;0;5;2;1;25;R. Tsobgny
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;4;Championat de France;Exterieur;;Chartres;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;4;Championat de France;Exterieur;;Chartres;;Starter;E. Balogun;32;54;0,9;32,9;;;;;;;;;;;;;;;;;;;;9;0;1;1;0;0;1;1;0;2;3;-5;8;4;E. Balogun
+25-26;4;Championat de France;Exterieur;;Chartres;;Starter;M. Kaba;30;29;0,48;30,48;;;;;;;0;1;0;0;0;;;;;;;;;12;5;5;10;5;1;2;0;0;3;0;3;24;5;M. Kaba
+25-26;4;Championat de France;Exterieur;;Chartres;Capitaine;Starter;S. Elenga(C);30;47;0,78;30,78;;;;;;;0;4;0;;;;;;;;;;;9;1;4;5;1;2;0;1;0;2;4;1;9;6;S. Elenga(C)
+25-26;4;Championat de France;Exterieur;;Chartres;;Starter;C. Fondren;25;11;0,18;25,18;;;;;;;0;0;;;;;;;;;;;;15;1;2;3;4;4;2;0;2;5;5;9;15;11;C. Fondren
+25-26;4;Championat de France;Exterieur;;Chartres;;Starter;H. Turner;37;4;0,07;37,07;;;;;;;;;;;;;;;;;;;;17;2;5;7;1;2;2;0;0;0;2;0;14;14;H. Turner
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;J. Albert;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;J. Albert
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;A. Kane;9;1;0,02;9,02;0;3;0;0;3;0;0;0;;0;0;;;;;;;;;0;3;1;4;1;2;0;0;0;2;0;-2;0;17;A. Kane
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;C. Taylor;14;47;0,78;14,78;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;1;2;0;0;0;4;0;-3;2;20;C. Taylor
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;R. Tsobgny;19;17;0,28;19,28;;;;;;;0;1;0;;;;;;;;;;;3;0;0;0;4;1;2;0;0;0;5;2;1;25;R. Tsobgny
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;4;Championat de France;Exterieur;;Chartres;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;4;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;4;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;25;61;0,41;19;40;0,48;;;;14;23;0,61;16;34;17;9;8;5;8;70;16;24;40;17;14;9;2;2;18;19;0;79;0;TOTAUX EQUIPE
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Balogun;;;;;;;;0;5;0,00;;;;;;;;;;;;;;19;3;6;9;1;2;0;2;1;2;4;-9;20;4;E. Balogun
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Kaba;;;;;;;;;;;0;0;;;;;;;;;;;;10;2;2;4;1;2;1;0;0;2;4;-9;8;5;M. Kaba
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;;;;0;0;;;;;;;;;7;2;1;3;0;1;2;0;0;3;2;-5;5;6;S. Elenga(C)
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Fondren;;;;;;;;;;;;;;;;;;;;;;;;10;1;1;2;4;4;1;0;0;3;5;-9;9;11;C. Fondren
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;21;1;4;5;2;3;1;0;0;4;2;-2;18;14;H. Turner
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;A. Kane;;;;;0;2;0,00;0;2;0,00;0;0;;0;0;;;;;;;;;0;0;3;3;0;0;0;0;0;0;0;2;1;17;A. Kane
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;C. Taylor;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;2;0;0;1;4;1;2;-4;20;C. Taylor
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;R. Tsobgny;;;;;;;;;;;;;;;;;;;;;;;;12;0;1;1;7;1;1;0;0;0;2;-5;17;25;R. Tsobgny
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;E. Balogun;37;5;0,08;37,08;;;;0;5;0;;;;;;;;;;;;;;19;3;6;9;1;2;0;2;1;2;4;-9;20;4;E. Balogun
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Kaba;23;58;0,97;23,97;;;;;;;0;0;;;;;;;;;;;;10;2;2;4;1;2;1;0;0;2;4;-9;8;5;M. Kaba
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;S. Elenga(C);34;20;0,33;34,33;;;;;;;;;;0;0;;;;;;;;;7;2;1;3;0;1;2;0;0;3;2;-5;5;6;S. Elenga(C)
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Fondren;23;53;0,88;23,88;;;;;;;;;;;;;;;;;;;;10;1;1;2;4;4;1;0;0;3;5;-9;9;11;C. Fondren
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;H. Turner;32;47;0,78;32,78;;;;;;;;;;;;;;;;;;;;21;1;4;5;2;3;1;0;0;4;2;-2;18;14;H. Turner
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;A. Kane;16;14;0,23;16,23;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;3;3;0;0;0;0;0;0;0;2;1;17;A. Kane
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;C. Taylor;7;6;0,1;7,1;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;1;1;0;2;0;0;1;4;1;2;-4;20;C. Taylor
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;R. Tsobgny;23;47;0,78;23,78;;;;;;;;;;;;;;;;;;;;12;0;1;1;7;1;1;0;0;0;2;-5;17;25;R. Tsobgny
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;17;42;0,40;;;;;;;12;30;12;7;12;5;7;79;12;22;34;15;15;6;2;2;18;20;0;80;0;TOTAUX EQUIPE
-25-26;6;Championat de France;Domicile;;Chartres;;Starter;E. Balogun;;;;;;;;;;;;;;0;0;;;;;;;;;15;2;4;6;2;2;1;1;1;2;1;14;17;4;E. Balogun
-25-26;6;Championat de France;Domicile;;Chartres;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;13;2;6;8;1;3;1;0;0;4;4;13;15;5;M. Kaba(C)
-25-26;6;Championat de France;Domicile;;Chartres;;Starter;S. Elenga;;;;;;;;;;;0;3;0,00;;;;;;;;;;;5;2;3;5;1;1;0;4;0;2;1;1;7;6;S. Elenga
-25-26;6;Championat de France;Domicile;;Chartres;;Starter;C. Fondren;;;;;;;;;;;;;;;;;;;;;;;;14;0;9;9;3;3;2;0;0;1;5;-8;18;11;C. Fondren
-25-26;6;Championat de France;Domicile;;Chartres;;Starter;H. Turner;;;;;;;;;;;;;;0;2;0,00;;;;;;;;10;1;7;8;4;4;2;0;0;3;1;12;10;14;H. Turner
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;J. Albert;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;J. Albert
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;1;2;0;0;0;0;0;1;1;-8;2;17;A. Kane
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;C. Taylor;;;;;0;1;0,00;0;1;0,00;0;0;;;;;;;;;;;;2;1;1;2;0;3;0;0;0;3;1;4;0;20;C. Taylor
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;R. Tsobgny;;;;;;;;;;;0;0;;;;;;;;;;;;6;0;1;1;2;2;1;0;0;2;5;7;3;25;R. Tsobgny
-25-26;6;Championat de France;Domicile;;Chartres;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;5;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;17;42;0,4;;;;;;;12;30;12;7;12;5;7;79;12;22;34;15;15;6;2;2;18;20;0;80;0;TOTAUX EQUIPE
+25-26;6;Championat de France;Domicile;;Chartres;;Starter;E. Balogun;33;57;0,95;33,95;;;;;;;;;;0;0;;;;;;;;;15;2;4;6;2;2;1;1;1;2;1;14;17;4;E. Balogun
+25-26;6;Championat de France;Domicile;;Chartres;Capitaine;Starter;M. Kaba(C);30;53;0,88;30,88;;;;;;;0;0;;;;;;;;;;;;13;2;6;8;1;3;1;0;0;4;4;13;15;5;M. Kaba(C)
+25-26;6;Championat de France;Domicile;;Chartres;;Starter;S. Elenga;37;21;0,35;37,35;;;;;;;0;3;0;;;;;;;;;;;5;2;3;5;1;1;0;4;0;2;1;1;7;6;S. Elenga
+25-26;6;Championat de France;Domicile;;Chartres;;Starter;C. Fondren;28;19;0,32;28,32;;;;;;;;;;;;;;;;;;;;14;0;9;9;3;3;2;0;0;1;5;-8;18;11;C. Fondren
+25-26;6;Championat de France;Domicile;;Chartres;;Starter;H. Turner;27;2;0,03;27,03;;;;;;;;;;0;2;0;;;;;;;;10;1;7;8;4;4;2;0;0;3;1;12;10;14;H. Turner
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;J. Albert;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;12;J. Albert
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;A. Kane;10;57;0,95;10,95;;;;;;;0;0;;0;0;;;;;;;;;2;1;1;2;0;0;0;0;0;1;1;-8;2;17;A. Kane
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;C. Taylor;8;5;0,08;8,08;0;1;0;0;1;0;0;0;;;;;;;;;;;;2;1;1;2;0;3;0;0;0;3;1;4;0;20;C. Taylor
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;R. Tsobgny;22;36;0,6;22,6;;;;;;;0;0;;;;;;;;;;;;6;0;1;1;2;2;1;0;0;2;5;7;3;25;R. Tsobgny
+25-26;6;Championat de France;Domicile;;Chartres;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
 25-26;6;Championat de France;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;6;Championat de France;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;24;59;0,41;20;47;0,43;;;;15;23;0,65;7;38;12;6;10;9;14;67;10;35;45;13;18;7;5;1;18;19;0;76;0;TOTAUX EQUIPE
-25-26;7;Championat de France;Exterieur;;Bourges;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;12;1;5;6;3;0;1;2;1;3;3;-4;14;4;E. Balogun
-25-26;7;Championat de France;Exterieur;;Bourges;;Starter;M. Kaba;;;;;;;;;;;0;0;;;;;;;;;;;;10;3;5;8;2;3;2;0;0;4;2;-2;14;5;M. Kaba
-25-26;7;Championat de France;Exterieur;;Bourges;;Starter;C. Fondren;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;7;8;6;2;3;0;1;2;6;-4;19;11;C. Fondren
-25-26;7;Championat de France;Exterieur;;Bourges;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;18;1;3;4;2;4;2;0;2;2;5;-6;6;14;H. Turner
-25-26;7;Championat de France;Exterieur;;Bourges;;Starter;C. Taylor;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;1;1;0;1;5;1;-4;8;20;C. Taylor
-25-26;7;Championat de France;Exterieur;;Bourges;Capitaine;Banc;S. Elenga(C);;;;;;;;;;;;;;;;;;;;;;;;6;0;1;1;3;2;1;0;0;3;1;-23;4;6;S. Elenga(C)
-25-26;7;Championat de France;Exterieur;;Bourges;;Banc;A. Kane;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;1;2;1;0;0;0;0;0;0;-10;2;17;A. Kane
-25-26;7;Championat de France;Exterieur;;Bourges;;Banc;R. Tsobgny;;;;;0;3;0,00;0;3;0,00;0;0;;;;;;;;;;;;3;1;1;2;1;6;0;0;1;0;3;-14;-4;25;R. Tsobgny
-25-26;7;Championat de France;Exterieur;;Bourges;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;0;26;N. Boudhil
+25-26;7;Championat de France;Exterieur;;Bourges;;Starter;E. Balogun;32;21;0,35;32,35;;;;;;;;;;;;;;;;;;;;12;1;5;6;3;0;1;2;1;3;3;-4;14;4;E. Balogun
+25-26;7;Championat de France;Exterieur;;Bourges;;Starter;M. Kaba;40;20;0,33;40,33;;;;;;;0;0;;;;;;;;;;;;10;3;5;8;2;3;2;0;0;4;2;-2;14;5;M. Kaba
+25-26;7;Championat de France;Exterieur;;Bourges;;Starter;C. Fondren;35;8;0,13;35,13;;;;;;;0;0;;;;;;;;;;;;7;1;7;8;6;2;3;0;1;2;6;-4;19;11;C. Fondren
+25-26;7;Championat de France;Exterieur;;Bourges;;Starter;H. Turner;33;42;0,7;33,7;;;;;;;;;;;;;;;;;;;;18;1;3;4;2;4;2;0;2;2;5;-6;6;14;H. Turner
+25-26;7;Championat de France;Exterieur;;Bourges;;Starter;C. Taylor;24;20;0,33;24,33;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;1;1;0;1;5;1;-4;8;20;C. Taylor
+25-26;7;Championat de France;Exterieur;;Bourges;Capitaine;Banc;S. Elenga(C);27;4;0,07;27,07;;;;;;;;;;;;;;;;;;;;6;0;1;1;3;2;1;0;0;3;1;-23;4;6;S. Elenga(C)
+25-26;7;Championat de France;Exterieur;;Bourges;;Banc;A. Kane;13;50;0,83;13,83;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;1;1;2;1;0;0;0;0;0;0;-10;2;17;A. Kane
+25-26;7;Championat de France;Exterieur;;Bourges;;Banc;R. Tsobgny;17;21;0,35;17,35;0;3;0;0;3;0;0;0;;;;;;;;;;;;3;1;1;2;1;6;0;0;1;0;3;-14;-4;25;R. Tsobgny
+25-26;7;Championat de France;Exterieur;;Bourges;;Banc;N. Boudhil;0;3;0,05;0,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;0;26;N. Boudhil
 25-26;7;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;7;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;23;62;0,37;13;35;0,37;;;;;;;8;20;8;6;9;6;10;68;12;28;40;18;19;10;2;6;19;21;0;69;0;TOTAUX EQUIPE
-25-26;8;Championat de France;Domicile;;Angers;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;8;2;6;8;6;1;1;0;1;0;2;12;13;5;M. Kaba(C)
-25-26;8;Championat de France;Domicile;;Angers;;Starter;C. Heriaud;;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;0;1;1;2;2;0;0;0;2;7;7;2;9;C. Heriaud
-25-26;8;Championat de France;Domicile;;Angers;;Starter;J. Albert;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;0;0;0;0;0;0;0;-4;6;12;J. Albert
-25-26;8;Championat de France;Domicile;;Angers;;Starter;H. Turner;;;;;;;;;;;0;4;0,00;;;;;;;;;;;19;2;6;8;2;1;1;0;0;2;5;12;19;14;H. Turner
-25-26;8;Championat de France;Domicile;;Angers;;Starter;C. Taylor;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;3;0;1;0;1;1;2;11;20;C. Taylor
-25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;14;2;6;8;3;0;1;3;1;3;3;7;23;4;E. Balogun
-25-26;8;Championat de France;Domicile;;Angers;;Banc;A. Kane;;;;;;;;;;;0;0;;;;;;;;;;;;5;0;2;2;0;0;0;1;0;1;2;3;7;17;A. Kane
-25-26;8;Championat de France;Domicile;;Angers;;Banc;R. Tsobgny;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;10;1;1;2;3;3;1;0;0;1;1;1;10;25;R. Tsobgny
-25-26;8;Championat de France;Domicile;;Angers;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;8;Championat de France;Domicile;;Angers;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
-25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
+25-26;8;Championat de France;Domicile;;Angers;Capitaine;Starter;M. Kaba(C);32;42;0,7;32,7;;;;;;;0;0;;0;1;0;;;;;;;;8;2;6;8;6;1;1;0;1;0;2;12;13;5;M. Kaba(C)
+25-26;8;Championat de France;Domicile;;Angers;;Starter;C. Heriaud;33;46;0,77;33,77;;;;;;;0;2;0;;;;;;;;;;;4;0;1;1;2;2;0;0;0;2;7;7;2;9;C. Heriaud
+25-26;8;Championat de France;Domicile;;Angers;;Starter;J. Albert;9;8;0,13;9,13;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;0;0;0;0;0;0;0;-4;6;12;J. Albert
+25-26;8;Championat de France;Domicile;;Angers;;Starter;H. Turner;29;44;0,73;29,73;;;;;;;0;4;0;;;;;;;;;;;19;2;6;8;2;1;1;0;0;2;5;12;19;14;H. Turner
+25-26;8;Championat de France;Domicile;;Angers;;Starter;C. Taylor;19;7;0,12;19,12;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;3;0;1;0;1;1;2;11;20;C. Taylor
+25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Balogun;35;29;0,48;35,48;;;;;;;;;;;;;;;;;;;;14;2;6;8;3;0;1;3;1;3;3;7;23;4;E. Balogun
+25-26;8;Championat de France;Domicile;;Angers;;Banc;A. Kane;18;15;0,25;18,25;;;;;;;0;0;;;;;;;;;;;;5;0;2;2;0;0;0;1;0;1;2;3;7;17;A. Kane
+25-26;8;Championat de France;Domicile;;Angers;;Banc;R. Tsobgny;21;19;0,32;21,32;;;;;;;0;1;0;0;0;;;;;;;;;10;1;1;2;3;3;1;0;0;1;1;1;10;25;R. Tsobgny
+25-26;8;Championat de France;Domicile;;Angers;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;8;Championat de France;Domicile;;Angers;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;8;Championat de France;Domicile;;Angers;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
 25-26;8;Championat de France;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;2;0;0;0;0;0;0;0;0;Team / Coach
-25-26;8;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;30;60;0,50;26;46;0,57;;;;;;;13;48;5;6;29;17;8;75;7;30;37;16;12;4;5;2;10;21;0;91;0;TOTAUX EQUIPE
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;19;2;4;6;1;3;2;1;2;3;3;-1;17;4;E. Balogun
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;17;4;9;13;1;6;0;2;2;2;4;7;21;5;M. Kaba(C)
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Heriaud;;;;;;;;0;2;0,00;;;;;;;;;;;;;;12;0;2;2;7;3;0;0;0;2;3;4;12;9;C. Heriaud
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;J. Albert;;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;1;5;6;2;2;2;0;0;1;3;-6;7;12;J. Albert
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;14;2;3;5;2;1;3;0;0;1;4;6;15;14;H. Turner
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Kane;;;;;;;;;;;0;1;0,00;0;2;0,00;;;;;;;;4;4;5;9;0;3;1;0;0;1;1;11;4;17;A. Kane
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;R. Tsobgny;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;1;1;2;2;0;0;0;0;0;1;-5;1;25;R. Tsobgny
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;4;0;28;T. Barbosa
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
+25-26;8;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;30;60;0,5;26;46;0,57;;;;;;;13;48;5;6;29;17;8;75;7;30;37;16;12;4;5;2;10;21;0;91;0;TOTAUX EQUIPE
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;E. Balogun;38;26;0,43;38,43;;;;;;;;;;;;;;;;;;;;19;2;4;6;1;3;2;1;2;3;3;-1;17;4;E. Balogun
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);34;39;0,65;34,65;;;;;;;0;0;;;;;;;;;;;;17;4;9;13;1;6;0;2;2;2;4;7;21;5;M. Kaba(C)
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Heriaud;33;41;0,68;33,68;;;;0;2;0;;;;;;;;;;;;;;12;0;2;2;7;3;0;0;0;2;3;4;12;9;C. Heriaud
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;J. Albert;17;53;0,88;17,88;;;;;;;0;2;0;;;;;;;;;;;4;1;5;6;2;2;2;0;0;1;3;-6;7;12;J. Albert
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Starter;H. Turner;35;27;0,45;35,45;;;;;;;;;;;;;;;;;;;;14;2;3;5;2;1;3;0;0;1;4;6;15;14;H. Turner
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Kane;27;5;0,08;27,08;;;;;;;0;1;0;0;2;0;;;;;;;;4;4;5;9;0;3;1;0;0;1;1;11;4;17;A. Kane
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;R. Tsobgny;11;37;0,62;11,62;;;;;;;0;2;0;0;0;;;;;;;;;2;1;1;2;2;0;0;0;0;0;1;-5;1;25;R. Tsobgny
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;T. Barbosa;1;2;0,03;1,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;4;0;28;T. Barbosa
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
 25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;25;62;0,40;17;40;0,43;;;;14;23;0,61;15;30;11;9;6;7;10;72;16;31;47;15;19;8;3;4;10;19;0;80;0;TOTAUX EQUIPE
-25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;13;6;7;13;2;3;1;2;0;2;3;8;14;4;E. Balogun
-25-26;10;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;12;2;4;6;3;3;5;0;0;3;5;16;15;5;M. Kaba(C)
-25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;14;0;0;0;3;2;2;0;0;1;2;1;15;9;C. Heriaud
-25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;12;2;5;7;6;2;2;0;0;0;4;16;12;14;H. Turner
-25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;A. Kane;;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;10;2;5;7;1;0;0;2;0;1;2;-6;16;17;A. Kane
-25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;J. Albert;;;;;;;;;;;;;;;;;;;;;;;;15;2;6;8;0;1;0;0;0;3;4;20;18;12;J. Albert
-25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;R. Tsobgny;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;1;1;2;2;1;0;0;0;4;1;17;1;25;R. Tsobgny
-25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-2;0;26;N. Boudhil
-25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;T. Barbosa;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;2;0;0;0;1;0;0;0;0;0;1;0;2;28;T. Barbosa
+25-26;9;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;25;62;0,4;17;40;0,43;;;;14;23;0,61;15;30;11;9;6;7;10;72;16;31;47;15;19;8;3;4;10;19;0;80;0;TOTAUX EQUIPE
+25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;E. Balogun;33;54;0,9;33,9;;;;;;;;;;;;;;;;;;;;13;6;7;13;2;3;1;2;0;2;3;8;14;4;E. Balogun
+25-26;10;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;M. Kaba(C);32;25;0,42;32,42;;;;;;;0;0;;;;;;;;;;;;12;2;4;6;3;3;5;0;0;3;5;16;15;5;M. Kaba(C)
+25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;C. Heriaud;31;12;0,2;31,2;;;;;;;;;;;;;;;;;;;;14;0;0;0;3;2;2;0;0;1;2;1;15;9;C. Heriaud
+25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;H. Turner;37;8;0,13;37,13;;;;;;;;;;;;;;;;;;;;12;2;5;7;6;2;2;0;0;0;4;16;12;14;H. Turner
+25-26;10;Championat de France;Exterieur;;Toulouse;;Starter;A. Kane;24;51;0,85;24,85;;;;;;;0;0;;0;2;0;;;;;;;;10;2;5;7;1;0;0;2;0;1;2;-6;16;17;A. Kane
+25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;J. Albert;21;11;0,18;21,18;;;;;;;;;;;;;;;;;;;;15;2;6;8;0;1;0;0;0;3;4;20;18;12;J. Albert
+25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;R. Tsobgny;16;9;0,15;16,15;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;1;1;2;2;1;0;0;0;4;1;17;1;25;R. Tsobgny
+25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;N. Boudhil;1;3;0,05;1,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-2;0;26;N. Boudhil
+25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;T. Barbosa;1;7;0,12;1,12;;;;;;;0;0;;0;1;0;;;;;;;;2;0;0;0;1;0;0;0;0;0;1;0;2;28;T. Barbosa
 25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;4;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;20;40;0,50;;;;14;23;0,61;11;40;11;6;17;17;8;78;16;32;48;18;12;10;4;0;15;22;0;98;0;TOTAUX EQUIPE
-25-26;11;Championat de France;Domicile;;Charnay;;Starter;E. Balogun;;;;;;;;;;;;;;;;;;;;;;;;13;1;8;9;1;2;3;1;1;2;1;24;16;4;E. Balogun
-25-26;11;Championat de France;Domicile;;Charnay;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;3;5;8;2;2;3;3;1;4;0;27;21;5;M. Kaba(C)
-25-26;11;Championat de France;Domicile;;Charnay;;Starter;C. Heriaud;;;;;;;;0;0;;;;;0;0;;;;;;;;;15;0;2;2;4;3;0;0;0;3;2;1;14;9;C. Heriaud
-25-26;11;Championat de France;Domicile;;Charnay;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;32;2;4;6;9;2;2;0;2;2;9;19;33;14;H. Turner
-25-26;11;Championat de France;Domicile;;Charnay;;Starter;A. Kane;;;;;;;;;;;0;0;;;;;;;;;;;;11;1;3;4;3;1;1;1;0;2;2;16;19;17;A. Kane
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;J. Albert;;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;0;3;3;0;1;0;0;0;1;0;-5;-1;12;J. Albert
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;R. Tsobgny;;;;;0;6;0,00;0;4;0,00;0;2;0,00;0;2;0,00;;;;;;;;0;0;0;0;5;1;0;0;3;2;1;5;-4;25;R. Tsobgny
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;N. Boudhil;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;-1;26;N. Boudhil
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
-25-26;11;Championat de France;Domicile;;Charnay;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
+25-26;10;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;20;40;0,5;;;;14;23;0,61;11;40;11;6;17;17;8;78;16;32;48;18;12;10;4;0;15;22;0;98;0;TOTAUX EQUIPE
+25-26;11;Championat de France;Domicile;;Charnay;;Starter;E. Balogun;34;44;0,73;34,73;;;;;;;;;;;;;;;;;;;;13;1;8;9;1;2;3;1;1;2;1;24;16;4;E. Balogun
+25-26;11;Championat de France;Domicile;;Charnay;Capitaine;Starter;M. Kaba(C);32;11;0,18;32,18;;;;;;;;;;0;0;;;;;;;;;11;3;5;8;2;2;3;3;1;4;0;27;21;5;M. Kaba(C)
+25-26;11;Championat de France;Domicile;;Charnay;;Starter;C. Heriaud;27;48;0,8;27,8;;;;0;0;;;;;0;0;;;;;;;;;15;0;2;2;4;3;0;0;0;3;2;1;14;9;C. Heriaud
+25-26;11;Championat de France;Domicile;;Charnay;;Starter;H. Turner;34;2;0,03;34,03;;;;;;;;;;;;;;;;;;;;32;2;4;6;9;2;2;0;2;2;9;19;33;14;H. Turner
+25-26;11;Championat de France;Domicile;;Charnay;;Starter;A. Kane;33;53;0,88;33,88;;;;;;;0;0;;;;;;;;;;;;11;1;3;4;3;1;1;1;0;2;2;16;19;17;A. Kane
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;J. Albert;11;52;0,87;11,87;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;0;3;3;0;1;0;0;0;1;0;-5;-1;12;J. Albert
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;R. Tsobgny;22;34;0,57;22,57;0;6;0;0;4;0;0;2;0;0;2;0;;;;;;;;0;0;0;0;5;1;0;0;3;2;1;5;-4;25;R. Tsobgny
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;N. Boudhil;2;6;0,1;2,1;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;-1;26;N. Boudhil
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;11;Championat de France;Domicile;;Charnay;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
 25-26;11;Championat de France;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;11;Championat de France;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;28;64;0,44;15;27;0,56;13;37;0,35;13;20;0,65;16;20;13;17;0;28;8;82;9;29;38;24;14;9;5;7;16;15;0;101;0;TOTAUX EQUIPE
-25-26;12;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;19;3;6;9;3;2;1;1;0;0;7;-5;21;5;M. Kaba(C)
-25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;C. Heriaud;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;9;0;2;2;6;3;0;0;0;2;3;-7;10;9;C. Heriaud
-25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;J. Albert;;;;;0;6;0,00;0;1;0,00;0;5;0,00;0;0;;;;;;;;;0;1;2;3;2;1;0;0;0;1;0;-7;-2;12;J. Albert
-25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;13;3;5;8;1;2;1;0;1;2;4;-11;6;14;H. Turner
-25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;4;5;1;1;1;0;0;3;1;-6;11;17;A. Kane
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;S. Elenga;;;;;;;;;;;0;3;0,00;;;;;;;;;;;4;0;3;3;0;0;0;0;0;2;2;-9;3;6;S. Elenga
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;H. Jakovljevic;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;1;0;1;2;0;1;0;1;2;1;5;6;7;H. Jakovljevic
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;R. Tsobgny;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;1;1;2;1;0;0;0;0;1;0;-10;0;25;R. Tsobgny
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
-25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
+25-26;12;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;M. Kaba(C);37;26;0,43;37,43;;;;;;;0;0;;;;;;;;;;;;19;3;6;9;3;2;1;1;0;0;7;-5;21;5;M. Kaba(C)
+25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;C. Heriaud;33;22;0,37;33,37;;;;0;1;0;;;;0;0;;;;;;;;;9;0;2;2;6;3;0;0;0;2;3;-7;10;9;C. Heriaud
+25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;J. Albert;16;20;0,33;16,33;0;6;0;0;1;0;0;5;0;0;0;;;;;;;;;0;1;2;3;2;1;0;0;0;1;0;-7;-2;12;J. Albert
+25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;H. Turner;30;59;0,98;30,98;;;;;;;;;;;;;;;;;;;;13;3;5;8;1;2;1;0;1;2;4;-11;6;14;H. Turner
+25-26;12;Championat de France;Domicile;;Basket Landes;;Starter;A. Kane;28;23;0,38;28,38;;;;;;;0;0;;0;0;;;;;;;;;6;1;4;5;1;1;1;0;0;3;1;-6;11;17;A. Kane
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;E. Cariou;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;S. Elenga;27;4;0,07;27,07;;;;;;;0;3;0;;;;;;;;;;;4;0;3;3;0;0;0;0;0;2;2;-9;3;6;S. Elenga
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;H. Jakovljevic;14;32;0,53;14,53;;;;0;1;0;;;;0;0;;;;;;;;;3;1;0;1;2;0;1;0;1;2;1;5;6;7;H. Jakovljevic
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;R. Tsobgny;11;54;0,9;11,9;;;;;;;0;3;0;0;0;;;;;;;;;2;1;1;2;1;0;0;0;0;1;0;-10;0;25;R. Tsobgny
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
 25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;12;Championat de France;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;19;62;0,31;13;37;0,35;;;;;;;10;22;17;4;9;12;7;56;13;23;36;16;10;4;1;2;13;18;0;57;0;TOTAUX EQUIPE
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;6;6;2;2;1;0;0;4;0;-23;8;5;M. Kaba(C)
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Elenga;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;2;3;5;1;2;0;0;0;2;1;-5;6;6;S. Elenga
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;C. Heriaud;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;9;1;3;4;3;3;2;0;0;2;2;-14;11;9;C. Heriaud
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;26;2;4;6;3;2;1;0;1;2;6;-2;19;14;H. Turner
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Kane;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;6;0;4;4;2;4;2;1;0;1;0;-2;8;17;A. Kane
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;H. Jakovljevic;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;2;2;0;0;0;1;1;-6;2;7;H. Jakovljevic
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;J. Albert;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-13;0;12;J. Albert
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;R. Tsobgny;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;2;4;0;0;0;0;5;-11;1;25;R. Tsobgny
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;T. Barbosa;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;0;0;-4;-2;28;T. Barbosa
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Starter;M. Kaba(C);36;15;0,25;36,25;;;;;;;0;1;0;0;0;;;;;;;;;4;0;6;6;2;2;1;0;0;4;0;-23;8;5;M. Kaba(C)
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Elenga;26;51;0,85;26,85;;;;;;;0;2;0;;;;;;;;;;;6;2;3;5;1;2;0;0;0;2;1;-5;6;6;S. Elenga
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;C. Heriaud;31;37;0,62;31,62;;;;0;1;0;;;;0;0;;;;;;;;;9;1;3;4;3;3;2;0;0;2;2;-14;11;9;C. Heriaud
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;H. Turner;33;29;0,48;33,48;;;;;;;;;;;;;;;;;;;;26;2;4;6;3;2;1;0;1;2;6;-2;19;14;H. Turner
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Kane;30;47;0,78;30,78;;;;;;;0;1;0;0;0;;;;;;;;;6;0;4;4;2;4;2;1;0;1;0;-2;8;17;A. Kane
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;H. Jakovljevic;12;26;0,43;12,43;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;2;2;0;0;0;1;1;-6;2;7;H. Jakovljevic
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;J. Albert;6;3;0,05;6,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-13;0;12;J. Albert
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;R. Tsobgny;17;33;0,55;17,55;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;2;4;0;0;0;0;5;-11;1;25;R. Tsobgny
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;T. Barbosa;4;9;0,15;4,15;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;0;0;-4;-2;28;T. Barbosa
 25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;2;0;0;0;0;0;0;0;0;Team / Coach
-25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;21;52;0,40;14;29;0,48;;;;;;;9;22;5;7;5;4;5;56;5;23;28;15;23;7;1;1;12;15;0;51;0;TOTAUX EQUIPE
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;M. Kaba;;;;;;;;;;;0;0;;;;;;;;;;;;12;5;6;11;2;4;4;0;2;3;6;2;21;5;M. Kaba
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;4;4;8;1;2;1;0;1;3;2;7;9;6;S. Elenga(C)
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;16;0;1;1;3;4;1;0;0;2;7;11;7;9;C. Heriaud
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;J. Albert;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;6;6;4;2;2;0;0;2;1;14;13;12;J. Albert
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;23;4;2;6;4;3;1;0;1;4;4;1;23;14;H. Turner
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Cariou;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;H. Jakovljevic;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;1;1;1;0;0;2;0;-5;4;7;H. Jakovljevic
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;R. Tsobgny;;;;;;;;;;;0;0;;;;;;;;;;;;3;0;0;0;2;2;0;0;0;2;2;-1;3;25;R. Tsobgny
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;1;1;28;T. Barbosa
-25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Hornoy;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
+25-26;13;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;21;52;0,4;14;29;0,48;;;;;;;9;22;5;7;5;4;5;56;5;23;28;15;23;7;1;1;12;15;0;51;0;TOTAUX EQUIPE
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;M. Kaba;38;4;0,07;38,07;;;;;;;0;0;;;;;;;;;;;;12;5;6;11;2;4;4;0;2;3;6;2;21;5;M. Kaba
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;S. Elenga(C);37;3;0,05;37,05;;;;;;;0;1;0;;;;;;;;;;;7;4;4;8;1;2;1;0;1;3;2;7;9;6;S. Elenga(C)
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;C. Heriaud;32;14;0,23;32,23;;;;;;;;;;;;;;;;;;;;16;0;1;1;3;4;1;0;0;2;7;11;7;9;C. Heriaud
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;J. Albert;30;11;0,18;30,18;;;;;;;;;;0;0;;;;;;;;;8;0;6;6;4;2;2;0;0;2;1;14;13;12;J. Albert
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;H. Turner;35;11;0,18;35,18;;;;;;;;;;;;;;;;;;;;23;4;2;6;4;3;1;0;1;4;4;1;23;14;H. Turner
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Cariou;0;2;0,03;0,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;E. Cariou
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;H. Jakovljevic;14;25;0,42;14,42;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;1;1;1;0;0;2;0;-5;4;7;H. Jakovljevic
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;R. Tsobgny;10;7;0,12;10,12;;;;;;;0;0;;;;;;;;;;;;3;0;0;0;2;2;0;0;0;2;2;-1;3;25;R. Tsobgny
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;T. Barbosa;2;3;0,05;2,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;1;1;28;T. Barbosa
+25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Hornoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;32;E. Hornoy
 25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;14;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;24;51;0,47;15;26;0,58;;;;15;22;0,68;11;28;11;4;6;8;6;72;13;21;34;18;19;10;0;4;19;22;0;81;0;TOTAUX EQUIPE
-25-26;15;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;13;0;3;3;0;3;1;0;2;4;2;-6;6;5;M. Kaba(C)
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;S. Elenga;;;;;;;;;;;;;;;;;;;;;;;;11;0;0;0;3;1;2;0;0;4;3;-11;9;6;S. Elenga
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;13;1;0;1;3;3;2;0;0;3;4;-11;12;9;C. Heriaud
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;J. Albert;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;2;4;6;3;0;0;0;0;0;2;-3;14;12;J. Albert
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;H. Turner;;;;;;;;;;;0;8;0,00;;;;;;;;;;;10;0;6;6;3;2;0;0;0;0;3;-11;5;14;H. Turner
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;H. Jakovljevic;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;2;0;2;2;2;3;0;1;0;0;-26;3;7;H. Jakovljevic
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Kane;;;;;;;;;;;0;0;;;;;;;;;;;;10;5;2;7;0;1;0;0;0;4;5;-17;10;17;A. Kane
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;R. Tsobgny;;;;;;;;0;1;0,00;;;;;;;;;;;;;;4;0;0;0;2;0;1;0;0;0;5;-7;2;25;R. Tsobgny
-25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;28;T. Barbosa
+25-26;15;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;M. Kaba(C);26;30;0,5;26,5;;;;;;;0;0;;;;;;;;;;;;13;0;3;3;0;3;1;0;2;4;2;-6;6;5;M. Kaba(C)
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;S. Elenga;28;51;0,85;28,85;;;;;;;;;;;;;;;;;;;;11;0;0;0;3;1;2;0;0;4;3;-11;9;6;S. Elenga
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;C. Heriaud;31;13;0,22;31,22;;;;;;;;;;;;;;;;;;;;13;1;0;1;3;3;2;0;0;3;4;-11;12;9;C. Heriaud
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;J. Albert;21;20;0,33;21,33;;;;0;0;;;;;0;0;;;;;;;;;6;2;4;6;3;0;0;0;0;0;2;-3;14;12;J. Albert
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Starter;H. Turner;32;35;0,58;32,58;;;;;;;0;8;0;;;;;;;;;;;10;0;6;6;3;2;0;0;0;0;3;-11;5;14;H. Turner
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;H. Jakovljevic;15;40;0,67;15,67;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;2;0;2;2;2;3;0;1;0;0;-26;3;7;H. Jakovljevic
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Kane;26;5;0,08;26,08;;;;;;;0;0;;;;;;;;;;;;10;5;2;7;0;1;0;0;0;4;5;-17;10;17;A. Kane
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;R. Tsobgny;15;28;0,47;15,47;;;;0;1;0;;;;;;;;;;;;;;4;0;0;0;2;0;1;0;0;0;5;-7;2;25;R. Tsobgny
+25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;T. Barbosa;2;8;0,13;2,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;28;T. Barbosa
 25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;2;0;0;0;1;0;0;0;0;Team / Coach
 25-26;15;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;19;57;0,33;;;;;;;21;27;0,78;26;18;13;4;14;;9;67;12;17;29;16;14;9;0;3;16;24;0;63;0;TOTAUX EQUIPE
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;M. Kaba;;;;;;;;;;;0;0;;;;;;;;;;;;9;4;4;8;2;2;2;0;1;1;4;15;9;5;M. Kaba
-25-26;16;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;0;3;0,00;;;;;;;;;;;6;0;0;0;0;3;0;0;0;1;1;-13;-2;6;S. Elenga(C)
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;J. Albert;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;4;0;-6;0;12;J. Albert
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;;;;;;;;;;;;;;0;0;;;;;;;;;13;0;6;6;1;4;3;0;0;2;4;17;14;14;H. Turner
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;;;;;;;;;;;;;;0;2;0,00;;;;;;;;12;0;3;3;5;4;1;0;0;0;1;17;12;25;R. Tsobgny
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;H. Jakovljevic;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;1;2;3;1;0;0;0;2;2;1;5;7;H. Jakovljevic
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;18;1;1;2;2;2;2;0;0;2;2;13;19;9;C. Heriaud
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;1;6;7;2;2;2;2;0;2;1;21;13;17;A. Kane
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;0;26;N. Boudhil
-25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-3;-1;28;T. Barbosa
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;M. Kaba;32;36;0,6;32,6;;;;;;;0;0;;;;;;;;;;;;9;4;4;8;2;2;2;0;1;1;4;15;9;5;M. Kaba
+25-26;16;Championat de France;Exterieur;;Basket Landes;Capitaine;Starter;S. Elenga(C);21;16;0,27;21,27;;;;;;;0;3;0;;;;;;;;;;;6;0;0;0;0;3;0;0;0;1;1;-13;-2;6;S. Elenga(C)
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;J. Albert;11;59;0,98;11,98;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;4;0;-6;0;12;J. Albert
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;H. Turner;28;51;0,85;28,85;;;;;;;;;;0;0;;;;;;;;;13;0;6;6;1;4;3;0;0;2;4;17;14;14;H. Turner
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Starter;R. Tsobgny;29;14;0,23;29,23;;;;;;;;;;0;2;0;;;;;;;;12;0;3;3;5;4;1;0;0;0;1;17;12;25;R. Tsobgny
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;H. Jakovljevic;19;46;0,77;19,77;;;;;;;;;;0;0;;;;;;;;;5;1;1;2;3;1;0;0;0;2;2;1;5;7;H. Jakovljevic
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;C. Heriaud;24;50;0,83;24,83;;;;;;;;;;;;;;;;;;;;18;1;1;2;2;2;2;0;0;2;2;13;19;9;C. Heriaud
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;A. Kane;26;19;0,32;26,32;;;;;;;0;0;;0;0;;;;;;;;;4;1;6;7;2;2;2;2;0;2;1;21;13;17;A. Kane
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;N. Boudhil;1;2;0,03;1,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;0;26;N. Boudhil
+25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;T. Barbosa;3;7;0,12;3,12;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-3;-1;28;T. Barbosa
 25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;16;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;26;56;0,46;18;28;0,64;;;;;;;29;34;11;8;27;19;16;67;9;24;33;15;19;10;2;1;15;15;0;71;0;TOTAUX EQUIPE
-25-26;17;Championat de France;Exterieur;;Chartres;;Starter;M. Kaba;;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;3;6;9;2;3;0;0;0;4;3;23;12;5;M. Kaba
-25-26;17;Championat de France;Exterieur;;Chartres;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;1;5;6;0;0;1;0;0;4;1;14;13;6;S. Elenga(C)
-25-26;17;Championat de France;Exterieur;;Chartres;;Starter;J. Albert;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;1;0;1;1;0;2;1;0;1;1;-2;7;12;J. Albert
-25-26;17;Championat de France;Exterieur;;Chartres;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;10;2;4;6;1;2;1;0;0;3;2;11;8;14;H. Turner
-25-26;17;Championat de France;Exterieur;;Chartres;;Starter;R. Tsobgny;;;;;;;;;;;;;;;;;;;;;;;;6;1;0;1;1;4;1;0;0;0;4;13;-2;25;R. Tsobgny
-25-26;17;Championat de France;Exterieur;;Chartres;;Banc;H. Jakovljevic;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;1;1;2;4;1;1;1;0;2;2;0;10;7;H. Jakovljevic
-25-26;17;Championat de France;Exterieur;;Chartres;;Banc;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;17;2;5;7;4;2;2;1;0;1;4;11;21;9;C. Heriaud
-25-26;17;Championat de France;Exterieur;;Chartres;;Banc;A. Kane;;;;;;;;;;;;;;;;;;;;;;;;10;4;4;8;1;0;1;1;1;3;5;15;15;17;A. Kane
-25-26;17;Championat de France;Exterieur;;Chartres;;Banc;T. Barbosa;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;0;0;2;0;5;3;28;T. Barbosa
+25-26;17;Championat de France;Exterieur;;Chartres;;Starter;M. Kaba;34;14;0,23;34,23;;;;;;;0;2;0;;;;;;;;;;;11;3;6;9;2;3;0;0;0;4;3;23;12;5;M. Kaba
+25-26;17;Championat de France;Exterieur;;Chartres;Capitaine;Starter;S. Elenga(C);23;40;0,67;23,67;;;;;;;;;;0;0;;;;;;;;;11;1;5;6;0;0;1;0;0;4;1;14;13;6;S. Elenga(C)
+25-26;17;Championat de France;Exterieur;;Chartres;;Starter;J. Albert;19;21;0,35;19,35;;;;;;;0;2;0;0;0;;;;;;;;;4;1;0;1;1;0;2;1;0;1;1;-2;7;12;J. Albert
+25-26;17;Championat de France;Exterieur;;Chartres;;Starter;H. Turner;21;41;0,68;21,68;;;;;;;;;;;;;;;;;;;;10;2;4;6;1;2;1;0;0;3;2;11;8;14;H. Turner
+25-26;17;Championat de France;Exterieur;;Chartres;;Starter;R. Tsobgny;21;21;0,35;21,35;;;;;;;;;;;;;;;;;;;;6;1;0;1;1;4;1;0;0;0;4;13;-2;25;R. Tsobgny
+25-26;17;Championat de France;Exterieur;;Chartres;;Banc;H. Jakovljevic;20;20;0,33;20,33;;;;;;;0;1;0;;;;;;;;;;;7;1;1;2;4;1;1;1;0;2;2;0;10;7;H. Jakovljevic
+25-26;17;Championat de France;Exterieur;;Chartres;;Banc;C. Heriaud;28;57;0,95;28,95;;;;;;;;;;;;;;;;;;;;17;2;5;7;4;2;2;1;0;1;4;11;21;9;C. Heriaud
+25-26;17;Championat de France;Exterieur;;Chartres;;Banc;A. Kane;26;25;0,42;26,42;;;;;;;;;;;;;;;;;;;;10;4;4;8;1;0;1;1;1;3;5;15;15;17;A. Kane
+25-26;17;Championat de France;Exterieur;;Chartres;;Banc;T. Barbosa;4;1;0,02;4,02;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;0;0;2;0;5;3;28;T. Barbosa
 25-26;17;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;0;0;0;0;1;0;0;0;0;Team / Coach
-25-26;17;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;26;66;0,39;18;36;0,50;;;;18;26;0,69;11;24;20;4;36;19;11;78;16;28;44;14;12;9;4;1;21;22;0;89;0;TOTAUX EQUIPE
-25-26;18;Championat de France;Domicile;;Bourges;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;1;1;2;0;2;2;1;0;1;2;-20;9;5;M. Kaba(C)
-25-26;18;Championat de France;Domicile;;Bourges;;Starter;S. Elenga;;;;;0;5;0,00;0;2;0,00;0;3;0,00;0;0;;;;;;;;;0;0;5;5;1;2;2;0;0;4;2;-3;1;6;S. Elenga
-25-26;18;Championat de France;Domicile;;Bourges;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;15;2;4;6;0;0;0;0;0;0;3;-15;11;14;H. Turner
-25-26;18;Championat de France;Domicile;;Bourges;;Starter;A. Kane;;;;;;;;;;;;;;;;;;;;;;;;13;3;7;10;1;0;0;0;0;3;4;-8;21;17;A. Kane
-25-26;18;Championat de France;Domicile;;Bourges;;Starter;R. Tsobgny;;;;;;;;;;;0;2;0,00;;;;;;;;;;;8;0;1;1;3;1;0;0;1;1;4;-9;5;25;R. Tsobgny
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;H. Jakovljevic;;;;;;;;;;;;;;;;;;;;;;;;9;1;1;2;5;4;0;0;0;3;2;-3;9;7;H. Jakovljevic
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;C. Heriaud;;;;;;;;;;;0;5;0,00;;;;;;;;;;;8;0;0;0;2;1;1;0;0;3;5;-7;3;9;C. Heriaud
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;J. Albert;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;0;0;1;0;4;4;12;J. Albert
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;C. Taylor;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;20;C. Taylor
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;18;Championat de France;Domicile;;Bourges;;Banc;T. Barbosa;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;2;0;3;1;28;T. Barbosa
+25-26;17;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;26;66;0,39;18;36;0,5;;;;18;26;0,69;11;24;20;4;36;19;11;78;16;28;44;14;12;9;4;1;21;22;0;89;0;TOTAUX EQUIPE
+25-26;18;Championat de France;Domicile;;Bourges;Capitaine;Starter;M. Kaba(C);37;14;0,23;37,23;;;;;;;;;;0;0;;;;;;;;;11;1;1;2;0;2;2;1;0;1;2;-20;9;5;M. Kaba(C)
+25-26;18;Championat de France;Domicile;;Bourges;;Starter;S. Elenga;23;37;0,62;23,62;0;5;0;0;2;0;0;3;0;0;0;;;;;;;;;0;0;5;5;1;2;2;0;0;4;2;-3;1;6;S. Elenga
+25-26;18;Championat de France;Domicile;;Bourges;;Starter;H. Turner;24;24;0,4;24,4;;;;;;;;;;;;;;;;;;;;15;2;4;6;0;0;0;0;0;0;3;-15;11;14;H. Turner
+25-26;18;Championat de France;Domicile;;Bourges;;Starter;A. Kane;31;17;0,28;31,28;;;;;;;;;;;;;;;;;;;;13;3;7;10;1;0;0;0;0;3;4;-8;21;17;A. Kane
+25-26;18;Championat de France;Domicile;;Bourges;;Starter;R. Tsobgny;20;48;0,8;20,8;;;;;;;0;2;0;;;;;;;;;;;8;0;1;1;3;1;0;0;1;1;4;-9;5;25;R. Tsobgny
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;H. Jakovljevic;23;14;0,23;23,23;;;;;;;;;;;;;;;;;;;;9;1;1;2;5;4;0;0;0;3;2;-3;9;7;H. Jakovljevic
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;C. Heriaud;22;29;0,48;22,48;;;;;;;0;5;0;;;;;;;;;;;8;0;0;0;2;1;1;0;0;3;5;-7;3;9;C. Heriaud
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;J. Albert;10;54;0,9;10,9;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;0;0;1;0;4;4;12;J. Albert
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;C. Taylor;0;1;0,02;0,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;20;C. Taylor
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;18;Championat de France;Domicile;;Bourges;;Banc;T. Barbosa;5;3;0,05;5,05;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;2;0;3;1;28;T. Barbosa
 25-26;18;Championat de France;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;18;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;20;55;0,36;15;37;0,41;;;;21;26;0,81;14;20;9;9;19;8;8;66;9;22;31;13;12;5;1;1;18;22;0;64;0;TOTAUX EQUIPE
-25-26;19;Championat de France;Exterieur;;Angers;;Starter;E. Balogun;;;;;;;;;;;0;5;0,00;0;0;;;;;;;;;2;0;3;3;2;1;2;2;0;2;1;5;2;4;E. Balogun
-25-26;19;Championat de France;Exterieur;;Angers;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;12;0;6;6;1;4;0;0;0;2;4;10;10;5;M. Kaba(C)
-25-26;19;Championat de France;Exterieur;;Angers;;Starter;H. Turner;;;;;;;;;;;;;;0;0;;;;;;;;;13;1;3;4;3;0;5;0;0;1;4;9;19;14;H. Turner
-25-26;19;Championat de France;Exterieur;;Angers;;Starter;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;5;5;2;1;0;1;0;0;0;6;7;17;A. Kane
-25-26;19;Championat de France;Exterieur;;Angers;;Starter;R. Tsobgny;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;0;0;1;0;0;0;0;0;0;-2;2;25;R. Tsobgny
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;S. Elenga;;;;;0;5;0,00;0;3;0,00;0;2;0,00;0;0;;;;;;;;;0;1;0;1;1;0;0;0;0;0;1;-1;-3;6;S. Elenga
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;H. Jakovljevic;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;4;2;1;0;0;1;0;8;8;7;H. Jakovljevic
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;C. Heriaud;;;;;;;;;;;;;;;;;;;;;;;;12;0;2;2;5;1;0;0;0;2;4;10;11;9;C. Heriaud
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;J. Albert;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;1;12;J. Albert
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;C. Taylor;;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;3;1;4;0;1;1;0;0;3;2;5;10;20;C. Taylor
-25-26;19;Championat de France;Exterieur;;Angers;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;19;Championat de France;Exterieur;;Angers;;Starter;E. Balogun;23;14;0,23;23,23;;;;;;;0;5;0;0;0;;;;;;;;;2;0;3;3;2;1;2;2;0;2;1;5;2;4;E. Balogun
+25-26;19;Championat de France;Exterieur;;Angers;Capitaine;Starter;M. Kaba(C);28;1;0,02;28,02;;;;;;;0;0;;0;2;0;;;;;;;;12;0;6;6;1;4;0;0;0;2;4;10;10;5;M. Kaba(C)
+25-26;19;Championat de France;Exterieur;;Angers;;Starter;H. Turner;27;46;0,77;27,77;;;;;;;;;;0;0;;;;;;;;;13;1;3;4;3;0;5;0;0;1;4;9;19;14;H. Turner
+25-26;19;Championat de France;Exterieur;;Angers;;Starter;A. Kane;28;34;0,57;28,57;;;;;;;0;0;;0;0;;;;;;;;;4;0;5;5;2;1;0;1;0;0;0;6;7;17;A. Kane
+25-26;19;Championat de France;Exterieur;;Angers;;Starter;R. Tsobgny;8;1;0,02;8,02;;;;0;1;0;;;;0;0;;;;;;;;;3;0;0;0;1;0;0;0;0;0;0;-2;2;25;R. Tsobgny
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;S. Elenga;10;11;0,18;10,18;0;5;0;0;3;0;0;2;0;0;0;;;;;;;;;0;1;0;1;1;0;0;0;0;0;1;-1;-3;6;S. Elenga
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;H. Jakovljevic;21;53;0,88;21,88;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;4;2;1;0;0;1;0;8;8;7;H. Jakovljevic
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;C. Heriaud;28;56;0,93;28,93;;;;;;;;;;;;;;;;;;;;12;0;2;2;5;1;0;0;0;2;4;10;11;9;C. Heriaud
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;J. Albert;4;1;0,02;4,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;1;12;J. Albert
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;C. Taylor;16;11;0,18;16,18;;;;;;;0;1;0;;;;;;;;;;;10;3;1;4;0;1;1;0;0;3;2;5;10;20;C. Taylor
+25-26;19;Championat de France;Exterieur;;Angers;;Banc;T. Barbosa;1;1;0,02;1,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;19;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;5;4;9;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;19;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;26;68;0,38;22;45;0,49;;;;;;;13;32;6;4;27;10;8;61;11;27;38;19;11;9;3;0;11;16;0;75;0;TOTAUX EQUIPE
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;;;;;;;;;;;;;;0;0;;;;;;;;;5;2;6;8;1;1;1;1;0;2;3;-2;8;4;E. Balogun
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;8;0;4;4;1;2;0;0;0;4;2;8;7;5;M. Kaba(C)
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;J. Albert;;;;;;;;;;;0;2;0,00;;;;;;;;;;;3;0;4;4;0;0;0;0;1;0;1;-4;3;12;J. Albert
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;9;3;8;11;5;5;3;0;0;3;3;12;18;14;H. Turner
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Tsobgny;;;;;;;;;;;;;;;;;;;;;;;;10;0;1;1;6;2;2;0;0;0;3;20;13;25;R. Tsobgny
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;S. Elenga;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;0;1;2;3;1;0;0;0;0;17;6;6;S. Elenga
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;H. Jakovljevic;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;1;2;3;2;2;1;0;0;1;0;-13;4;7;H. Jakovljevic
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Heriaud;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;1;0;0;0;0;2;2;-11;3;9;C. Heriaud
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Kane;;;;;;;;;;;0;1;0,00;;;;;;;;;;;11;3;4;7;1;4;2;1;0;1;3;6;13;17;A. Kane
-25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;1;2;3;0;2;0;0;0;3;1;-3;5;20;C. Taylor
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;28;17;0,28;28,28;;;;;;;;;;0;0;;;;;;;;;5;2;6;8;1;1;1;1;0;2;3;-2;8;4;E. Balogun
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);27;21;0,35;27,35;;;;;;;0;2;0;0;0;;;;;;;;;8;0;4;4;1;2;0;0;0;4;2;8;7;5;M. Kaba(C)
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;J. Albert;14;6;0,1;14,1;;;;;;;0;2;0;;;;;;;;;;;3;0;4;4;0;0;0;0;1;0;1;-4;3;12;J. Albert
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;H. Turner;25;18;0,3;25,3;;;;;;;;;;;;;;;;;;;;9;3;8;11;5;5;3;0;0;3;3;12;18;14;H. Turner
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Tsobgny;23;27;0,45;23,45;;;;;;;;;;;;;;;;;;;;10;0;1;1;6;2;2;0;0;0;3;20;13;25;R. Tsobgny
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;S. Elenga;18;44;0,73;18,73;;;;;;;;;;0;0;;;;;;;;;8;1;0;1;2;3;1;0;0;0;0;17;6;6;S. Elenga
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;H. Jakovljevic;12;3;0,05;12,05;;;;;;;0;2;0;0;0;;;;;;;;;2;1;2;3;2;2;1;0;0;1;0;-13;4;7;H. Jakovljevic
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Heriaud;16;23;0,38;16,38;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;1;0;0;0;0;2;2;-11;3;9;C. Heriaud
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Kane;26;35;0,58;26,58;;;;;;;0;1;0;;;;;;;;;;;11;3;4;7;1;4;2;1;0;1;3;6;13;17;A. Kane
+25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;7;6;0,1;7,1;;;;;;;0;0;;0;0;;;;;;;;;4;1;2;3;0;2;0;0;0;3;1;-3;5;20;C. Taylor
 25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;3;0;0;0;2;0;0;0;0;Team / Coach
 25-26;20;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;25;60;0,42;18;32;0,56;;;;;;;15;28;11;10;30;9;11;65;13;32;45;19;24;10;2;1;18;18;0;80;0;TOTAUX EQUIPE
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;4;3;1;1;0;2;0;12;10;4;E. Balogun
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Kaba;;;;;;;;;;;0;0;;;;;;;;;;;;6;2;3;5;0;2;1;0;1;1;3;5;0;5;M. Kaba
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Elenga(C);;;;;;;;0;0;;;;;;;;;;;;;;;4;1;5;6;1;0;0;0;0;1;1;8;9;6;S. Elenga(C)
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Heriaud;;;;;;;;0;1;0,00;;;;;;;;;;;;;;13;0;3;3;4;2;0;0;0;1;5;3;12;9;C. Heriaud
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;24;2;3;5;3;2;1;0;0;2;3;3;26;14;H. Turner
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Albert;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-8;-1;12;J. Albert
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Kane;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;0;6;6;1;1;1;2;0;1;3;10;14;17;A. Kane
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;;;;;;;;;;;0;2;0,00;;;;;;;;;;;5;0;0;0;0;1;0;0;0;2;1;-3;-2;20;C. Taylor
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;R. Tsobgny;;;;;;;;;;;0;0;;;;;;;;;;;;3;1;1;2;8;3;2;0;0;0;2;19;12;25;R. Tsobgny
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-3;0;26;N. Boudhil
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;T. Barbosa;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;1;0;0;0;2;1;-1;2;28;T. Barbosa
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;30;31;0,52;30,52;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;4;3;1;1;0;2;0;12;10;4;E. Balogun
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Kaba;20;45;0,75;20,75;;;;;;;0;0;;;;;;;;;;;;6;2;3;5;0;2;1;0;1;1;3;5;0;5;M. Kaba
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Elenga(C);23;10;0,17;23,17;;;;0;0;;;;;;;;;;;;;;;4;1;5;6;1;0;0;0;0;1;1;8;9;6;S. Elenga(C)
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Heriaud;24;11;0,18;24,18;;;;0;1;0;;;;;;;;;;;;;;13;0;3;3;4;2;0;0;0;1;5;3;12;9;C. Heriaud
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Starter;H. Turner;28;56;0,93;28,93;;;;;;;;;;;;;;;;;;;;24;2;3;5;3;2;1;0;0;2;3;3;26;14;H. Turner
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Albert;1;1;0,02;1,02;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-8;-1;12;J. Albert
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Kane;24;31;0,52;24,52;;;;;;;0;1;0;;;;;;;;;;;7;0;6;6;1;1;1;2;0;1;3;10;14;17;A. Kane
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;14;37;0,62;14,62;;;;;;;0;2;0;;;;;;;;;;;5;0;0;0;0;1;0;0;0;2;1;-3;-2;20;C. Taylor
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;R. Tsobgny;25;42;0,7;25,7;;;;;;;0;0;;;;;;;;;;;;3;1;1;2;8;3;2;0;0;0;2;19;12;25;R. Tsobgny
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;N. Boudhil;0;1;0,02;0,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-3;0;26;N. Boudhil
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;T. Barbosa;5;5;0,08;5,08;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;1;0;0;0;2;1;-1;2;28;T. Barbosa
 25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;1;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;22;55;0,40;15;31;0,48;;;;21;26;0,81;6;16;6;6;17;19;11;72;9;29;38;21;17;6;3;1;12;19;0;85;0;TOTAUX EQUIPE
-25-26;22;Championat de France;Exterieur;;Charnay;;Starter;E. Balogun;;;;;;;;;;;;;;0;0;;;;;;;;;13;2;6;8;2;0;0;0;0;3;3;6;18;4;E. Balogun
-25-26;22;Championat de France;Exterieur;;Charnay;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;0;;;;;;;;;;;;8;2;3;5;2;3;2;0;0;2;2;-3;7;5;M. Kaba(C)
-25-26;22;Championat de France;Exterieur;;Charnay;;Starter;S. Elenga;;;;;;;;;;;0;2;0,00;;;;;;;;;;;8;1;2;3;0;1;0;0;1;1;3;6;3;6;S. Elenga
-25-26;22;Championat de France;Exterieur;;Charnay;;Starter;C. Heriaud;;;;;;;;0;2;0,00;;;;0;2;0,00;;;;;;;;3;0;0;0;6;1;0;0;0;1;1;4;2;9;C. Heriaud
-25-26;22;Championat de France;Exterieur;;Charnay;;Starter;H. Turner;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;5;5;3;3;1;0;0;0;2;-3;10;14;H. Turner
-25-26;22;Championat de France;Exterieur;;Charnay;;Banc;A. Kane;;;;;;;;;;;0;0;;;;;;;;;;;;12;3;3;6;0;2;0;1;0;3;1;-9;15;17;A. Kane
-25-26;22;Championat de France;Exterieur;;Charnay;;Banc;C. Taylor;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;5;6;0;2;0;0;0;4;4;7;7;20;C. Taylor
-25-26;22;Championat de France;Exterieur;;Charnay;;Banc;R. Tsobgny;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;6;1;1;2;6;1;1;0;0;1;3;2;10;25;R. Tsobgny
-25-26;22;Championat de France;Exterieur;;Charnay;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;21;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;22;55;0,4;15;31;0,48;;;;21;26;0,81;6;16;6;6;17;19;11;72;9;29;38;21;17;6;3;1;12;19;0;85;0;TOTAUX EQUIPE
+25-26;22;Championat de France;Exterieur;;Charnay;;Starter;E. Balogun;27;33;0,55;27,55;;;;;;;;;;0;0;;;;;;;;;13;2;6;8;2;0;0;0;0;3;3;6;18;4;E. Balogun
+25-26;22;Championat de France;Exterieur;;Charnay;Capitaine;Starter;M. Kaba(C);29;37;0,62;29,62;;;;;;;0;0;;;;;;;;;;;;8;2;3;5;2;3;2;0;0;2;2;-3;7;5;M. Kaba(C)
+25-26;22;Championat de France;Exterieur;;Charnay;;Starter;S. Elenga;21;12;0,2;21,2;;;;;;;0;2;0;;;;;;;;;;;8;1;2;3;0;1;0;0;1;1;3;6;3;6;S. Elenga
+25-26;22;Championat de France;Exterieur;;Charnay;;Starter;C. Heriaud;26;19;0,32;26,32;;;;0;2;0;;;;0;2;0;;;;;;;;3;0;0;0;6;1;0;0;0;1;1;4;2;9;C. Heriaud
+25-26;22;Championat de France;Exterieur;;Charnay;;Starter;H. Turner;27;10;0,17;27,17;;;;;;;;;;0;0;;;;;;;;;12;0;5;5;3;3;1;0;0;0;2;-3;10;14;H. Turner
+25-26;22;Championat de France;Exterieur;;Charnay;;Banc;A. Kane;31;35;0,58;31,58;;;;;;;0;0;;;;;;;;;;;;12;3;3;6;0;2;0;1;0;3;1;-9;15;17;A. Kane
+25-26;22;Championat de France;Exterieur;;Charnay;;Banc;C. Taylor;11;42;0,7;11,7;;;;;;;0;0;;;;;;;;;;;;7;1;5;6;0;2;0;0;0;4;4;7;7;20;C. Taylor
+25-26;22;Championat de France;Exterieur;;Charnay;;Banc;R. Tsobgny;24;41;0,68;24,68;;;;;;;0;2;0;0;0;;;;;;;;;6;1;1;2;6;1;1;0;0;1;3;2;10;25;R. Tsobgny
+25-26;22;Championat de France;Exterieur;;Charnay;;Banc;T. Barbosa;0;1;0,02;0,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;22;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;22;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;63;0,43;21;45;0,47;;;;;;;8;26;15;0;25;11;11;69;12;28;40;19;13;4;1;1;15;19;0;77;0;TOTAUX EQUIPE
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;;;;;;;;;;;0;5;0,00;;;;;;;;;;;11;3;5;8;2;0;4;2;0;3;3;1;18;4;E. Balogun
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;12;3;2;5;3;2;2;1;0;1;2;-5;16;5;M. Kaba(C)
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;S. Elenga;;;;;;;;;;;;;;;;;;;;;;;;15;0;2;2;4;2;1;1;0;0;2;-2;17;6;S. Elenga
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;C. Heriaud;;;;;;;;0;1;0,00;;;;0;1;0,00;;;;;;;;9;0;1;1;4;2;1;0;1;2;4;7;7;9;C. Heriaud
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;10;2;6;8;4;3;1;0;0;1;3;-11;10;14;H. Turner
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;H. Jakovljevic;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;0;0;1;0;-3;3;7;H. Jakovljevic
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;A. Kane;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;4;0;4;0;1;0;0;0;0;2;-13;3;17;A. Kane
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;0;4;4;1;1;0;1;0;3;1;-5;5;20;C. Taylor
-25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;R. Tsobgny;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;0;0;1;3;0;0;0;1;0;-4;-4;25;R. Tsobgny
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;E. Balogun;32;27;0,45;32,45;;;;;;;0;5;0;;;;;;;;;;;11;3;5;8;2;0;4;2;0;3;3;1;18;4;E. Balogun
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;Capitaine;Starter;M. Kaba(C);30;51;0,85;30,85;;;;;;;0;1;0;0;0;;;;;;;;;12;3;2;5;3;2;2;1;0;1;2;-5;16;5;M. Kaba(C)
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;S. Elenga;30;17;0,28;30,28;;;;;;;;;;;;;;;;;;;;15;0;2;2;4;2;1;1;0;0;2;-2;17;6;S. Elenga
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;C. Heriaud;31;41;0,68;31,68;;;;0;1;0;;;;0;1;0;;;;;;;;9;0;1;1;4;2;1;0;1;2;4;7;7;9;C. Heriaud
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Starter;H. Turner;33;30;0,5;33,5;;;;;;;;;;;;;;;;;;;;10;2;6;8;4;3;1;0;0;1;3;-11;10;14;H. Turner
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;H. Jakovljevic;7;2;0,03;7,03;;;;;;;0;0;;0;0;;;;;;;;;2;1;0;1;0;0;0;0;0;1;0;-3;3;7;H. Jakovljevic
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;A. Kane;14;27;0,45;14,45;;;;;;;0;1;0;;;;;;;;;;;4;4;0;4;0;1;0;0;0;0;2;-13;3;17;A. Kane
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;C. Taylor;9;4;0,07;9,07;;;;;;;0;1;0;;;;;;;;;;;3;0;4;4;1;1;0;1;0;3;1;-5;5;20;C. Taylor
+25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;R. Tsobgny;10;0;0;10;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;0;0;1;3;0;0;0;1;0;-4;-4;25;R. Tsobgny
 25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;2;0;0;0;1;0;0;0;0;Team / Coach
 25-26;1/4 finale Aller;Playoff;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;23;63;0,37;17;35;0,49;;;;14;17;0,82;24;24;17;12;9;6;8;66;16;23;39;19;16;9;5;1;13;17;0;79;0;TOTAUX EQUIPE
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;E. Balogun;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;1;2;3;1;1;2;1;4;1;9;5;4;E. Balogun
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;M. Kaba;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;12;1;2;3;3;4;4;0;2;3;0;-1;10;5;M. Kaba
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;Capitaine;Starter;S. Elenga(C);;;;;;;;;;;;;;;;;;;;;;;;16;4;1;5;3;1;1;0;0;3;2;9;19;6;S. Elenga(C)
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;C. Heriaud;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;1;2;3;3;2;0;0;0;3;4;5;1;9;C. Heriaud
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;H. Turner;;;;;;;;;;;;;;;;;;;;;;;;18;1;5;6;2;0;2;0;0;4;6;4;22;14;H. Turner
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;J. Albert;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-1;0;12;J. Albert
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;A. Kane;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;3;4;4;1;0;1;0;1;0;9;9;17;A. Kane
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;C. Taylor;;;;;;;;0;1;0,00;;;;;;;;;;;;;;5;0;0;0;0;0;1;0;0;1;4;-8;3;20;C. Taylor
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;R. Tsobgny;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;1;0;1;1;1;0;0;0;0;0;4;4;25;R. Tsobgny
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;N. Boudhil;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
-25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;T. Barbosa;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;E. Balogun;37;42;0,7;37,7;;;;;;;;;;0;0;;;;;;;;;8;1;1;2;3;1;1;2;1;4;1;9;5;4;E. Balogun
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;M. Kaba;28;39;0,65;28,65;;;;;;;0;2;0;0;0;;;;;;;;;12;1;2;3;3;4;4;0;2;3;0;-1;10;5;M. Kaba
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;Capitaine;Starter;S. Elenga(C);35;2;0,03;35,03;;;;;;;;;;;;;;;;;;;;16;4;1;5;3;1;1;0;0;3;2;9;19;6;S. Elenga(C)
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;C. Heriaud;31;6;0,1;31,1;;;;0;2;0;;;;0;0;;;;;;;;;3;1;2;3;3;2;0;0;0;3;4;5;1;9;C. Heriaud
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Starter;H. Turner;28;45;0,75;28,75;;;;;;;;;;;;;;;;;;;;18;1;5;6;2;0;2;0;0;4;6;4;22;14;H. Turner
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;J. Albert;1;8;0,13;1,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-1;0;12;J. Albert
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;A. Kane;15;31;0,52;15,52;;;;;;;0;0;;0;0;;;;;;;;;2;1;3;4;4;1;0;1;0;1;0;9;9;17;A. Kane
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;C. Taylor;6;6;0,1;6,1;;;;0;1;0;;;;;;;;;;;;;;5;0;0;0;0;0;1;0;0;1;4;-8;3;20;C. Taylor
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;R. Tsobgny;14;31;0,52;14,52;;;;0;1;0;;;;0;0;;;;;;;;;6;1;0;1;1;1;0;0;0;0;0;4;4;25;R. Tsobgny
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;N. Boudhil;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;N. Boudhil
+25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;T. Barbosa;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;28;T. Barbosa
 25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1/4 finale Retour;Playoff;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;26;64;0,41;16;39;0,41;;;;;;;31;28;14;10;13;7;10;70;14;16;30;19;10;9;3;3;20;17;0;79;0;TOTAUX EQUIPE

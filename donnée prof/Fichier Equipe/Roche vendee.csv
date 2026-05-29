@@ -1,4 +1,4 @@
-Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adversaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
 23-24;1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;Capitaine;Starter;A. Suarez-Utrero;28;12;0,2;28,2;5;7;0,714285714;3;4;0,75;2;3;0,666666667;2;2;1;;;;;;;;14;1;7;8;12;4;2;0;0;3;3;-6;30;1;A. Suarez-Utrero(C)
 23-24;1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;S. Wallace;25;45;0,75;25,75;2;11;0,181818182;2;5;0,4;0;6;0;0;0;;;;;;;;;4;2;1;3;4;2;1;0;0;3;2;-32;1;13;S. Wallace
 23-24;1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;A. Kone;29;2;0,03;29,03;7;9;0,777777778;7;9;0,777777778;0;0;;2;3;0,666666667;;;;;;;;16;4;6;10;1;1;0;1;0;2;3;-19;24;18;A. Kone
@@ -561,326 +561,326 @@ Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/b
 24-25;22;Championat de France;Domicile;Defaite;Basket Landes;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;95;A. Bawara
 24-25;22;Championat de France;Domicile;Defaite;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 24-25;22;Championat de France;Domicile;Defaite;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;25;65;0,38;19;38;0,5;6;27;0,22;9;13;0,69;16;26;14;3;7;2;11;65;8;28;36;16;15;8;2;2;16;18;0;68;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Domicile;;Angers;;Starter;S. Johnson;;;;;;;;;;;0;7;0,00;;;;;;;;;;;8;5;7;12;4;2;1;2;0;3;7;-10;10;4;S. Johnson
-25-26;1;Championat de France;Domicile;;Angers;;Starter;J. Landrum;;;;;;;;;;;;;;;;;;;;;;;;10;0;2;2;8;5;2;0;1;3;3;-3;10;5;J. Landrum
-25-26;1;Championat de France;Domicile;;Angers;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;;;;;;;;;;;;;;9;0;2;2;3;3;2;0;0;0;4;3;9;11;L. Evrard(C)
-25-26;1;Championat de France;Domicile;;Angers;;Starter;S. Ousfar;;;;;;;;0;0;;;;;;;;;;;;;;;4;0;5;5;0;2;1;0;0;2;3;-5;5;28;S. Ousfar
-25-26;1;Championat de France;Domicile;;Angers;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;13;2;7;9;0;6;0;0;0;3;1;0;13;32;R. Igbokwe
-25-26;1;Championat de France;Domicile;;Angers;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;1;Championat de France;Domicile;;Angers;;Banc;L. Sahie;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;1;3;4;2;1;0;0;0;4;2;-7;5;8;L. Sahie
-25-26;1;Championat de France;Domicile;;Angers;;Banc;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;11;0;1;1;0;2;0;0;1;0;0;-1;8;14;J. Loubens
-25-26;1;Championat de France;Domicile;;Angers;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;1;Championat de France;Domicile;;Angers;;Banc;L. Preneau;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;0;1;1;0;1;0;0;0;2;2;-17;3;27;L. Preneau
+25-26;1;Championat de France;Domicile;;Angers;;Starter;S. Johnson;29;54;0,9;29,9;;;;;;;0;7;0;;;;;;;;;;;8;5;7;12;4;2;1;2;0;3;7;-10;10;4;S. Johnson
+25-26;1;Championat de France;Domicile;;Angers;;Starter;J. Landrum;30;31;0,52;30,52;;;;;;;;;;;;;;;;;;;;10;0;2;2;8;5;2;0;1;3;3;-3;10;5;J. Landrum
+25-26;1;Championat de France;Domicile;;Angers;Capitaine;Starter;L. Evrard(C);29;57;0,95;29,95;;;;;;;;;;;;;;;;;;;;9;0;2;2;3;3;2;0;0;0;4;3;9;11;L. Evrard(C)
+25-26;1;Championat de France;Domicile;;Angers;;Starter;S. Ousfar;30;45;0,75;30,75;;;;0;0;;;;;;;;;;;;;;;4;0;5;5;0;2;1;0;0;2;3;-5;5;28;S. Ousfar
+25-26;1;Championat de France;Domicile;;Angers;;Starter;R. Igbokwe;24;30;0,5;24,5;;;;;;;0;0;;;;;;;;;;;;13;2;7;9;0;6;0;0;0;3;1;0;13;32;R. Igbokwe
+25-26;1;Championat de France;Domicile;;Angers;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;1;Championat de France;Domicile;;Angers;;Banc;L. Sahie;17;6;0,1;17,1;;;;;;;0;1;0;;;;;;;;;;;4;1;3;4;2;1;0;0;0;4;2;-7;5;8;L. Sahie
+25-26;1;Championat de France;Domicile;;Angers;;Banc;J. Loubens;21;13;0,22;21,22;;;;;;;;;;0;0;;;;;;;;;11;0;1;1;0;2;0;0;1;0;0;-1;8;14;J. Loubens
+25-26;1;Championat de France;Domicile;;Angers;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;1;Championat de France;Domicile;;Angers;;Banc;L. Preneau;16;4;0,07;16,07;;;;;;;0;1;0;;;;;;;;;;;5;0;1;1;0;1;0;0;0;2;2;-17;3;27;L. Preneau
 25-26;1;Championat de France;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;1;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;21;53;0,40;15;30;0,50;;;;16;24;0,67;10;28;9;5;20;6;7;64;10;31;41;17;23;6;2;2;17;22;0;67;0;TOTAUX EQUIPE
-25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;16;0;6;6;0;2;0;1;0;3;2;6;10;4;S. Johnson
-25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;C. Landrum;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;6;6;4;3;0;0;1;3;2;1;7;5;C. Landrum
-25-26;2;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;;;;;;;;;;;;;;8;0;0;0;3;4;2;0;0;2;2;-1;3;11;L. Evrard(C)
-25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;S. Ousfar;;;;;;;;;;;0;5;0,00;0;0;;;;;;;;;2;0;6;6;3;1;0;1;0;1;1;4;3;28;S. Ousfar
-25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;13;9;7;16;0;0;0;1;0;4;5;1;27;32;R. Igbokwe
-25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;11;2;3;5;0;4;0;0;0;4;1;0;10;8;A. Sahie
-25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;0;0;0;0;0;2;0;-14;4;14;J. Loubens
-25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;L. Preneau;;;;;0;5;0,00;0;3;0,00;0;2;0,00;;;;;;;;;;;3;0;1;1;2;4;2;0;0;2;3;-7;-2;27;L. Preneau
+25-26;1;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;21;53;0,4;15;30;0,5;;;;16;24;0,67;10;28;9;5;20;6;7;64;10;31;41;17;23;6;2;2;17;22;0;67;0;TOTAUX EQUIPE
+25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;S. Johnson;33;10;0,17;33,17;;;;;;;;;;;;;;;;;;;;16;0;6;6;0;2;0;1;0;3;2;6;10;4;S. Johnson
+25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;C. Landrum;31;55;0,92;31,92;;;;;;;;;;0;0;;;;;;;;;7;0;6;6;4;3;0;0;1;3;2;1;7;5;C. Landrum
+25-26;2;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;L. Evrard(C);23;45;0,75;23,75;;;;;;;;;;;;;;;;;;;;8;0;0;0;3;4;2;0;0;2;2;-1;3;11;L. Evrard(C)
+25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;S. Ousfar;15;49;0,82;15,82;;;;;;;0;5;0;0;0;;;;;;;;;2;0;6;6;3;1;0;1;0;1;1;4;3;28;S. Ousfar
+25-26;2;Championat de France;Exterieur;;Toulouse;;Starter;R. Igbokwe;29;16;0,27;29,27;;;;;;;0;0;;;;;;;;;;;;13;9;7;16;0;0;0;1;0;4;5;1;27;32;R. Igbokwe
+25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;A. Sahie;11;53;0,88;11,88;;;;;;;0;0;;;;;;;;;;;;11;2;3;5;0;4;0;0;0;4;1;0;10;8;A. Sahie
+25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;J. Loubens;17;5;0,08;17,08;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;0;0;0;0;0;2;0;-14;4;14;J. Loubens
+25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;L. Preneau;21;33;0,55;21,55;0;5;0;0;3;0;0;2;0;;;;;;;;;;;3;0;1;1;2;4;2;0;0;2;3;-7;-2;27;L. Preneau
 25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;4;7;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;2;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;23;64;0,36;17;45;0,38;;;;13;16;0,81;14;30;16;11;19;8;8;65;14;33;47;12;21;4;3;1;21;16;0;66;0;TOTAUX EQUIPE
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Johnson;;;;;;;;;;;0;7;0,00;;;;;;;;;;;18;4;9;13;2;5;2;0;1;2;7;1;17;4;S. Johnson
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;16;1;3;4;6;3;0;1;0;2;4;7;16;5;C. Landrum
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;L. Preneau;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;2;2;1;1;0;1;0;5;0;0;1;27;L. Preneau
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Ousfar;;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;3;0;3;3;1;1;0;0;0;1;4;-4;2;28;S. Ousfar
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;21;7;10;17;2;1;1;1;1;1;2;7;36;32;R. Igbokwe
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;4;5;2;3;1;1;1;2;3;-3;8;8;A. Sahie
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Banc;L. Evrard(C);;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;2;0;0;0;3;1;1;0;0;2;0;-3;1;11;L. Evrard(C)
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;J. Loubens;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;2;0;2;1;0;0;0;0;1;1;0;5;14;J. Loubens
-25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Johnson;35;1;0,02;35,02;;;;;;;0;7;0;;;;;;;;;;;18;4;9;13;2;5;2;0;1;2;7;1;17;4;S. Johnson
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;C. Landrum;29;18;0,3;29,3;;;;;;;;;;;;;;;;;;;;16;1;3;4;6;3;0;1;0;2;4;7;16;5;C. Landrum
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;L. Preneau;24;16;0,27;24,27;;;;;;;0;2;0;0;0;;;;;;;;;2;0;2;2;1;1;0;1;0;5;0;0;1;27;L. Preneau
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Ousfar;27;52;0,87;27,87;;;;0;3;0;;;;0;0;;;;;;;;;3;0;3;3;1;1;0;0;0;1;4;-4;2;28;S. Ousfar
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Starter;R. Igbokwe;30;6;0,1;30,1;;;;;;;0;0;;;;;;;;;;;;21;7;10;17;2;1;1;1;1;1;2;7;36;32;R. Igbokwe
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Sahie;23;11;0,18;23,18;;;;;;;0;0;;;;;;;;;;;;9;1;4;5;2;3;1;1;1;2;3;-3;8;8;A. Sahie
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Banc;L. Evrard(C);18;9;0,15;18,15;;;;;;;0;4;0;0;0;;;;;;;;;2;0;0;0;3;1;1;0;0;2;0;-3;1;11;L. Evrard(C)
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;J. Loubens;12;7;0,12;12,12;;;;0;0;;;;;0;0;;;;;;;;;3;2;0;2;1;0;0;0;0;1;1;0;5;14;J. Loubens
+25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;3;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;29;67;0,43;25;45;0,56;;;;;;;12;44;18;6;14;4;12;74;15;34;49;18;16;5;4;3;16;21;0;88;0;TOTAUX EQUIPE
-25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;S. Johnson;;;;;;;;;;;;;;0;1;0,00;;;;;;;;14;1;2;3;1;2;0;0;0;1;3;-9;6;4;S. Johnson
-25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;8;0;3;3;3;3;2;1;1;4;2;4;4;5;C. Landrum
-25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;L. Preneau;;;;;;;;0;1;0,00;;;;;;;;;;;;;;4;0;0;0;1;0;0;0;0;3;1;-8;3;27;L. Preneau
-25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;11;2;0;2;3;2;0;0;0;3;3;-7;10;28;S. Ousfar
-25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;3;4;2;2;0;1;1;1;3;-2;5;32;R. Igbokwe
-25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;16;5;12;17;3;3;2;0;0;4;4;7;31;8;A. Sahie
-25-26;4;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;L. Evrard(C);;;;;;;;0;1;0,00;;;;;;;;;;;;;;4;0;1;1;5;2;0;0;0;0;1;0;1;11;L. Evrard(C)
-25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;0;1;0;0;0;0;0;3;1;10;7;14;J. Loubens
-25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;S. Johnson;31;38;0,63;31,63;;;;;;;;;;0;1;0;;;;;;;;14;1;2;3;1;2;0;0;0;1;3;-9;6;4;S. Johnson
+25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;C. Landrum;27;25;0,42;27,42;;;;;;;;;;;;;;;;;;;;8;0;3;3;3;3;2;1;1;4;2;4;4;5;C. Landrum
+25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;L. Preneau;25;0;0;25;;;;0;1;0;;;;;;;;;;;;;;4;0;0;0;1;0;0;0;0;3;1;-8;3;27;L. Preneau
+25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;S. Ousfar;32;0;0;32;;;;;;;;;;;;;;;;;;;;11;2;0;2;3;2;0;0;0;3;3;-7;10;28;S. Ousfar
+25-26;4;Championat de France;Exterieur;;Landerneau;;Starter;R. Igbokwe;22;45;0,75;22,75;;;;;;;0;0;;;;;;;;;;;;5;1;3;4;2;2;0;1;1;1;3;-2;5;32;R. Igbokwe
+25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;A. Sahie;25;14;0,23;25,23;;;;;;;0;0;;;;;;;;;;;;16;5;12;17;3;3;2;0;0;4;4;7;31;8;A. Sahie
+25-26;4;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;L. Evrard(C);23;5;0,08;23,08;;;;0;1;0;;;;;;;;;;;;;;4;0;1;1;5;2;0;0;0;0;1;0;1;11;L. Evrard(C)
+25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;J. Loubens;12;52;0,87;12,87;;;;;;;;;;0;0;;;;;;;;;7;1;0;1;0;0;0;0;0;3;1;10;7;14;J. Loubens
+25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;4;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;24;62;0,39;14;34;0,41;;;;;;;19;28;15;2;27;14;11;69;14;24;38;18;17;4;2;2;19;18;0;71;0;TOTAUX EQUIPE
-25-26;5;Championat de France;Exterieur;;Bourges;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;14;0;3;3;2;6;2;0;0;1;3;-20;8;5;C. Landrum
-25-26;5;Championat de France;Exterieur;;Bourges;Capitaine;Starter;L. Evrard(C);;;;;;;;0;2;0,00;;;;;;;;;;;;;;7;0;2;2;1;1;2;0;0;1;5;-13;6;11;L. Evrard(C)
-25-26;5;Championat de France;Exterieur;;Bourges;;Starter;L. Preneau;;;;;;;;;;;;;;;;;;;;;;;;11;0;3;3;1;4;1;0;2;0;3;-15;6;27;L. Preneau
-25-26;5;Championat de France;Exterieur;;Bourges;;Starter;S. Ousfar;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;1;0;1;0;0;4;0;-17;2;28;S. Ousfar
-25-26;5;Championat de France;Exterieur;;Bourges;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;5;5;5;10;0;1;1;1;1;1;1;-15;10;32;R. Igbokwe
-25-26;5;Championat de France;Exterieur;;Bourges;;Banc;M. Diame;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;0;0;0;0;0;0;1;2;0;0;0;6;M. Diame
-25-26;5;Championat de France;Exterieur;;Bourges;;Banc;A. Sahie;;;;;;;;;;;;;;;;;;;;;;;;13;2;3;5;3;1;2;1;0;4;5;-7;12;8;A. Sahie
-25-26;5;Championat de France;Exterieur;;Bourges;;Banc;J. Loubens;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;2;1;3;2;0;0;0;0;2;0;-4;7;14;J. Loubens
-25-26;5;Championat de France;Exterieur;;Bourges;;Banc;P. Neau;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;-1;25;P. Neau
+25-26;5;Championat de France;Exterieur;;Bourges;;Starter;C. Landrum;30;54;0,9;30,9;;;;;;;;;;;;;;;;;;;;14;0;3;3;2;6;2;0;0;1;3;-20;8;5;C. Landrum
+25-26;5;Championat de France;Exterieur;;Bourges;Capitaine;Starter;L. Evrard(C);34;28;0,47;34,47;;;;0;2;0;;;;;;;;;;;;;;7;0;2;2;1;1;2;0;0;1;5;-13;6;11;L. Evrard(C)
+25-26;5;Championat de France;Exterieur;;Bourges;;Starter;L. Preneau;28;32;0,53;28,53;;;;;;;;;;;;;;;;;;;;11;0;3;3;1;4;1;0;2;0;3;-15;6;27;L. Preneau
+25-26;5;Championat de France;Exterieur;;Bourges;;Starter;S. Ousfar;20;26;0,43;20,43;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;1;0;1;0;0;4;0;-17;2;28;S. Ousfar
+25-26;5;Championat de France;Exterieur;;Bourges;;Starter;R. Igbokwe;34;57;0,95;34,95;;;;;;;0;0;;;;;;;;;;;;5;5;5;10;0;1;1;1;1;1;1;-15;10;32;R. Igbokwe
+25-26;5;Championat de France;Exterieur;;Bourges;;Banc;M. Diame;2;5;0,08;2,08;;;;;;;0;1;0;0;0;;;;;;;;;2;0;0;0;0;0;0;0;1;2;0;0;0;6;M. Diame
+25-26;5;Championat de France;Exterieur;;Bourges;;Banc;A. Sahie;28;43;0,72;28,72;;;;;;;;;;;;;;;;;;;;13;2;3;5;3;1;2;1;0;4;5;-7;12;8;A. Sahie
+25-26;5;Championat de France;Exterieur;;Bourges;;Banc;J. Loubens;16;9;0,15;16,15;;;;;;;0;0;;0;0;;;;;;;;;4;2;1;3;2;0;0;0;0;2;0;-4;7;14;J. Loubens
+25-26;5;Championat de France;Exterieur;;Bourges;;Banc;P. Neau;3;6;0,1;3,1;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;-1;25;P. Neau
 25-26;5;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;4;7;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;5;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;20;59;0,34;14;36;0,39;;;;13;21;0,62;17;22;16;6;19;1;8;59;12;25;37;10;15;9;2;4;15;17;0;55;0;TOTAUX EQUIPE
-25-26;6;Championat de France;Exterieur;;Charnay;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;24;1;5;6;6;5;2;0;0;4;5;-9;19;4;S. Johnson
-25-26;6;Championat de France;Exterieur;;Charnay;;Starter;C. Landrum;;;;;;;;;;;;;;0;3;0,00;;;;;;;;13;0;1;1;3;8;0;0;0;2;4;10;1;5;C. Landrum
-25-26;6;Championat de France;Exterieur;;Charnay;;Starter;L. Preneau;;;;;;;;;;;0;2;0,00;;;;;;;;;;;5;1;2;3;2;0;2;0;0;1;3;-7;4;27;L. Preneau
-25-26;6;Championat de France;Exterieur;;Charnay;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;13;2;6;8;1;3;0;1;1;3;3;2;16;28;S. Ousfar
-25-26;6;Championat de France;Exterieur;;Charnay;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;2;4;6;0;4;2;1;0;5;1;1;6;32;R. Igbokwe
-25-26;6;Championat de France;Exterieur;;Charnay;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;2;2;3;0;1;5;3;-6;12;8;A. Sahie
-25-26;6;Championat de France;Exterieur;;Charnay;Capitaine;Banc;L. Evrard(C);;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;1;1;2;1;2;0;0;0;3;0;-26;-1;11;L. Evrard(C)
-25-26;6;Championat de France;Exterieur;;Charnay;;Banc;J. Loubens;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;1;1;0;2;0;0;0;2;0;-5;1;14;J. Loubens
-25-26;6;Championat de France;Exterieur;;Charnay;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;6;Championat de France;Exterieur;;Charnay;;Starter;S. Johnson;35;27;0,45;35,45;;;;;;;;;;;;;;;;;;;;24;1;5;6;6;5;2;0;0;4;5;-9;19;4;S. Johnson
+25-26;6;Championat de France;Exterieur;;Charnay;;Starter;C. Landrum;29;38;0,63;29,63;;;;;;;;;;0;3;0;;;;;;;;13;0;1;1;3;8;0;0;0;2;4;10;1;5;C. Landrum
+25-26;6;Championat de France;Exterieur;;Charnay;;Starter;L. Preneau;29;19;0,32;29,32;;;;;;;0;2;0;;;;;;;;;;;5;1;2;3;2;0;2;0;0;1;3;-7;4;27;L. Preneau
+25-26;6;Championat de France;Exterieur;;Charnay;;Starter;S. Ousfar;28;55;0,92;28,92;;;;;;;;;;;;;;;;;;;;13;2;6;8;1;3;0;1;1;3;3;2;16;28;S. Ousfar
+25-26;6;Championat de France;Exterieur;;Charnay;;Starter;R. Igbokwe;19;58;0,97;19,97;;;;;;;0;0;;0;0;;;;;;;;;2;2;4;6;0;4;2;1;0;5;1;1;6;32;R. Igbokwe
+25-26;6;Championat de France;Exterieur;;Charnay;;Banc;A. Sahie;19;30;0,5;19,5;;;;;;;0;0;;;;;;;;;;;;10;1;2;3;2;2;3;0;1;5;3;-6;12;8;A. Sahie
+25-26;6;Championat de France;Exterieur;;Charnay;Capitaine;Banc;L. Evrard(C);19;21;0,35;19,35;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;1;1;2;1;2;0;0;0;3;0;-26;-1;11;L. Evrard(C)
+25-26;6;Championat de France;Exterieur;;Charnay;;Banc;J. Loubens;17;52;0,87;17,87;;;;;;;0;1;0;0;0;;;;;;;;;4;0;1;1;0;2;0;0;0;2;0;-5;1;14;J. Loubens
+25-26;6;Championat de France;Exterieur;;Charnay;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;6;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;6;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;63;0,43;19;34;0,56;;;;;;;16;36;7;4;14;9;8;71;10;25;35;15;27;9;2;2;25;19;0;62;0;TOTAUX EQUIPE
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;18;2;6;8;3;6;1;0;0;3;8;-9;18;4;S. Johnson
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;13;0;2;2;1;4;0;0;1;3;3;-13;5;5;C. Landrum
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;L. Preneau;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;0;1;0;1;1;1;0;4;0;1;4;27;L. Preneau
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;S. Ousfar;;;;;;;;;;;;;;0;2;0,00;;;;;;;;10;0;6;6;2;1;0;1;0;1;0;-13;11;28;S. Ousfar
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;4;2;6;1;1;1;0;0;2;5;7;9;32;R. Igbokwe
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;A. Sahie;;;;;;;;;;;0;1;0,00;;;;;;;;;;;11;4;5;9;1;4;2;0;0;3;3;3;15;8;A. Sahie
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Banc;L. Evrard(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;5;2;0;0;0;2;1;8;9;11;L. Evrard(C)
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;J. Loubens;;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;1;-3;14;J. Loubens
-25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;S. Johnson;29;27;0,45;29,45;;;;;;;;;;;;;;;;;;;;18;2;6;8;3;6;1;0;0;3;8;-9;18;4;S. Johnson
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;C. Landrum;26;48;0,8;26,8;;;;;;;;;;;;;;;;;;;;13;0;2;2;1;4;0;0;1;3;3;-13;5;5;C. Landrum
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;L. Preneau;17;24;0,4;17,4;;;;;;;0;1;0;0;0;;;;;;;;;4;1;0;1;0;1;1;1;0;4;0;1;4;27;L. Preneau
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;S. Ousfar;28;57;0,95;28,95;;;;;;;;;;0;2;0;;;;;;;;10;0;6;6;2;1;0;1;0;1;0;-13;11;28;S. Ousfar
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;R. Igbokwe;27;27;0,45;27,45;;;;;;;0;0;;;;;;;;;;;;9;4;2;6;1;1;1;0;0;2;5;7;9;32;R. Igbokwe
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;A. Sahie;25;10;0,17;25,17;;;;;;;0;1;0;;;;;;;;;;;11;4;5;9;1;4;2;0;0;3;3;3;15;8;A. Sahie
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Banc;L. Evrard(C);28;11;0,18;28,18;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;5;2;0;0;0;2;1;8;9;11;L. Evrard(C)
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;J. Loubens;16;36;0,6;16,6;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;1;-3;14;J. Loubens
+25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;7;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;26;58;0,45;19;34;0,56;;;;;;;19;32;12;9;16;2;7;70;11;26;37;14;21;5;2;1;20;20;0;68;0;TOTAUX EQUIPE
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;S. Johnson;;;;;;;;;;;0;3;0,00;;;;;;;;;;;4;0;3;3;1;5;1;0;0;5;4;-11;-2;4;S. Johnson
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;C. Landrum;;;;;;;;;;;0;0;;;;;;;;;;;;8;0;4;4;2;4;0;2;0;2;2;-14;8;5;C. Landrum
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;8;2;9;11;3;2;1;2;0;2;4;-16;15;8;A. Sahie
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;L. Preneau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;2;4;1;7;1;0;0;3;1;-12;-1;27;L. Preneau
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;10;0;4;4;1;1;0;1;0;1;1;-23;12;28;S. Ousfar
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-5;0;10;M. Draghicioiu
-25-26;8;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;L. Evrard(C);;;;;;;;;;;;;;;;;;;;;;;;8;0;0;0;2;3;0;0;0;2;3;-21;0;11;L. Evrard(C)
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;7;0;1;1;4;1;0;0;0;4;1;-21;7;14;J. Loubens
-25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;P. Neau;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;0;3;0;0;0;0;0;-2;-1;25;P. Neau
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;S. Johnson;20;9;0,15;20,15;;;;;;;0;3;0;;;;;;;;;;;4;0;3;3;1;5;1;0;0;5;4;-11;-2;4;S. Johnson
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;C. Landrum;25;54;0,9;25,9;;;;;;;0;0;;;;;;;;;;;;8;0;4;4;2;4;0;2;0;2;2;-14;8;5;C. Landrum
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;A. Sahie;29;33;0,55;29,55;;;;;;;0;0;;;;;;;;;;;;8;2;9;11;3;2;1;2;0;2;4;-16;15;8;A. Sahie
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;L. Preneau;16;22;0,37;16,37;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;2;4;1;7;1;0;0;3;1;-12;-1;27;L. Preneau
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Starter;S. Ousfar;32;4;0,07;32,07;;;;;;;;;;;;;;;;;;;;10;0;4;4;1;1;0;1;0;1;1;-23;12;28;S. Ousfar
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;M. Draghicioiu;4;2;0,03;4,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-5;0;10;M. Draghicioiu
+25-26;8;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;L. Evrard(C);29;40;0,67;29,67;;;;;;;;;;;;;;;;;;;;8;0;0;0;2;3;0;0;0;2;3;-21;0;11;L. Evrard(C)
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;J. Loubens;31;32;0,53;31,53;;;;;;;;;;;;;;;;;;;;7;0;1;1;4;1;0;0;0;4;1;-21;7;14;J. Loubens
+25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;P. Neau;9;4;0,07;9,07;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;0;3;0;0;0;0;0;-2;-1;25;P. Neau
 25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;5;5;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;8;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;16;42;0,38;;;;;;;;;;13;22;2;8;17;2;5;47;4;29;33;14;28;3;5;0;19;16;0;41;0;TOTAUX EQUIPE
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;19;3;5;8;4;4;2;1;1;4;9;11;17;4;S. Johnson
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;C. Landrum;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;5;5;3;2;2;0;2;4;0;3;13;5;C. Landrum
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;A. Sahie;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;12;2;8;10;1;7;0;2;0;3;1;0;14;8;A. Sahie
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;Capitaine;Starter;L. Evrard(C);;;;;;;;0;3;0,00;;;;;;;;;;;;;;6;1;3;4;6;5;2;0;0;4;6;10;8;11;L. Evrard(C)
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;18;1;1;2;0;1;1;0;0;2;3;10;14;14;J. Loubens
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;P. Sidibe
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;M. Draghicioiu
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;25;P. Neau
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Preneau;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;3;3;3;0;1;0;1;1;1;-5;6;27;L. Preneau
-25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;S. Ousfar;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;2;2;1;2;0;0;0;2;3;-7;1;28;S. Ousfar
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;S. Johnson;28;12;0,2;28,2;;;;;;;;;;;;;;;;;;;;19;3;5;8;4;4;2;1;1;4;9;11;17;4;S. Johnson
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;C. Landrum;28;37;0,62;28,62;;;;;;;;;;0;0;;;;;;;;;10;0;5;5;3;2;2;0;2;4;0;3;13;5;C. Landrum
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;A. Sahie;27;26;0,43;27,43;;;;;;;0;0;;0;1;0;;;;;;;;12;2;8;10;1;7;0;2;0;3;1;0;14;8;A. Sahie
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;Capitaine;Starter;L. Evrard(C);34;29;0,48;34,48;;;;0;3;0;;;;;;;;;;;;;;6;1;3;4;6;5;2;0;0;4;6;10;8;11;L. Evrard(C)
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Starter;J. Loubens;32;41;0,68;32,68;;;;;;;;;;;;;;;;;;;;18;1;1;2;0;1;1;0;0;2;3;10;14;14;J. Loubens
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;7;P. Sidibe
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;M. Draghicioiu;1;8;0,13;1,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;M. Draghicioiu
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;P. Neau;1;0;0;1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;25;P. Neau
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;L. Preneau;24;5;0,08;24,08;;;;;;;0;0;;0;0;;;;;;;;;2;0;3;3;3;0;1;0;1;1;1;-5;6;27;L. Preneau
+25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;S. Ousfar;22;22;0,37;22,37;;;;0;1;0;;;;0;0;;;;;;;;;3;0;2;2;1;2;0;0;0;2;3;-7;1;28;S. Ousfar
 25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;9;Championat de France;Domicile;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;25;60;0,42;17;36;0,47;;;;;;;22;34;5;12;5;13;11;70;9;31;40;18;21;8;3;4;20;23;0;79;0;TOTAUX EQUIPE
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;16;1;3;4;4;4;4;0;0;1;4;-3;14;5;C. Landrum
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Sahie;;;;;;;;;;;;;;;;;;;;;;;;19;1;7;8;2;3;4;1;0;4;2;1;24;8;A. Sahie
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;;;;0;0;;;;;;;;;11;0;0;0;8;2;4;0;0;3;1;-1;18;11;L. Evrard(C)
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;L. Preneau;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;0;0;0;0;2;2;0;0;4;2;-14;-2;27;L. Preneau
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Ousfar;;;;;;;;0;0;;;;;;;;;;;;;;;7;1;6;7;1;3;1;0;0;3;1;-3;12;28;S. Ousfar
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;S. Johnson;;;;;;;;;;;0;5;0,00;;;;;;;;;;;5;1;3;4;1;3;2;0;0;4;5;-4;2;4;S. Johnson
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;10;M. Draghicioiu
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;J. Loubens;;;;;;;;;;;;;;0;1;0,00;;;;;;;;7;0;2;2;2;1;1;0;0;1;1;1;5;14;J. Loubens
-25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;C. Landrum;35;35;0,58;35,58;;;;;;;;;;;;;;;;;;;;16;1;3;4;4;4;4;0;0;1;4;-3;14;5;C. Landrum
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Sahie;31;9;0,15;31,15;;;;;;;;;;;;;;;;;;;;19;1;7;8;2;3;4;1;0;4;2;1;24;8;A. Sahie
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Starter;L. Evrard(C);31;19;0,32;31,32;;;;;;;;;;0;0;;;;;;;;;11;0;0;0;8;2;4;0;0;3;1;-1;18;11;L. Evrard(C)
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;L. Preneau;16;54;0,9;16,9;;;;;;;0;3;0;0;0;;;;;;;;;2;0;0;0;0;2;2;0;0;4;2;-14;-2;27;L. Preneau
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Ousfar;33;23;0,38;33,38;;;;0;0;;;;;;;;;;;;;;;7;1;6;7;1;3;1;0;0;3;1;-3;12;28;S. Ousfar
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;S. Johnson;20;43;0,72;20,72;;;;;;;0;5;0;;;;;;;;;;;5;1;3;4;1;3;2;0;0;4;5;-4;2;4;S. Johnson
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;M. Draghicioiu;2;6;0,1;2,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;10;M. Draghicioiu
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;J. Loubens;28;51;0,85;28,85;;;;;;;;;;0;1;0;;;;;;;;7;0;2;2;2;1;1;0;0;1;1;1;5;14;J. Loubens
+25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;10;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;23;56;0,41;14;27;0,52;;;;;;;25;28;2;17;12;;9;67;4;22;26;18;20;18;1;0;20;16;0;72;0;TOTAUX EQUIPE
-25-26;11;Championat de France;Exterieur;;Chartres;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;16;0;0;0;2;1;1;0;0;5;2;2;14;4;S. Johnson
-25-26;11;Championat de France;Exterieur;;Chartres;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;14;0;3;3;3;3;1;1;0;2;5;7;14;5;C. Landrum
-25-26;11;Championat de France;Exterieur;;Chartres;;Starter;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;10;2;10;12;3;7;0;2;0;4;3;-2;15;8;A. Sahie
-25-26;11;Championat de France;Exterieur;;Chartres;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;;;;;;;;;;;;;;14;0;2;2;5;1;4;0;1;0;6;-2;16;11;L. Evrard(C)
-25-26;11;Championat de France;Exterieur;;Chartres;;Starter;S. Ousfar;;;;;;;;;;;;;;0;0;;;;;;;;;5;2;3;5;2;1;0;0;0;3;0;5;7;28;S. Ousfar
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;10;M. Draghicioiu
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;J. Loubens;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;2;1;0;0;4;0;4;3;14;J. Loubens
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;L. Preneau;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;6;2;0;2;3;1;1;0;0;5;2;6;8;27;L. Preneau
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;5;0;6;6;0;3;0;0;1;5;1;3;6;32;R. Igbokwe
+25-26;11;Championat de France;Exterieur;;Chartres;;Starter;S. Johnson;17;25;0,42;17,42;;;;;;;;;;;;;;;;;;;;16;0;0;0;2;1;1;0;0;5;2;2;14;4;S. Johnson
+25-26;11;Championat de France;Exterieur;;Chartres;;Starter;C. Landrum;28;8;0,13;28,13;;;;;;;;;;;;;;;;;;;;14;0;3;3;3;3;1;1;0;2;5;7;14;5;C. Landrum
+25-26;11;Championat de France;Exterieur;;Chartres;;Starter;A. Sahie;26;23;0,38;26,38;;;;;;;0;0;;;;;;;;;;;;10;2;10;12;3;7;0;2;0;4;3;-2;15;8;A. Sahie
+25-26;11;Championat de France;Exterieur;;Chartres;Capitaine;Starter;L. Evrard(C);34;21;0,35;34,35;;;;;;;;;;;;;;;;;;;;14;0;2;2;5;1;4;0;1;0;6;-2;16;11;L. Evrard(C)
+25-26;11;Championat de France;Exterieur;;Chartres;;Starter;S. Ousfar;36;11;0,18;36,18;;;;;;;;;;0;0;;;;;;;;;5;2;3;5;2;1;0;0;0;3;0;5;7;28;S. Ousfar
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;M. Draghicioiu;0;3;0,05;0,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;10;M. Draghicioiu
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;J. Loubens;20;24;0,4;20,4;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;1;2;1;0;0;4;0;4;3;14;J. Loubens
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;L. Preneau;22;43;0,72;22,72;;;;;;;0;1;0;0;0;;;;;;;;;6;2;0;2;3;1;1;0;0;5;2;6;8;27;L. Preneau
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;R. Igbokwe;13;41;0,68;13,68;;;;;;;0;0;;;;;;;;;;;;5;0;6;6;0;3;0;0;1;5;1;3;6;32;R. Igbokwe
 25-26;11;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;2;0;0;0;0;0;0;0;0;Team / Coach
-25-26;11;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;25;56;0,45;19;37;0,51;;;;16;16;1,00;16;36;8;11;13;13;7;72;9;28;37;19;21;8;3;2;28;19;0;87;0;TOTAUX EQUIPE
-25-26;12;Championat de France;Exterieur;;Angers;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;24;1;5;6;3;3;1;0;1;2;9;8;23;4;S. Johnson
-25-26;12;Championat de France;Exterieur;;Angers;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;20;0;2;2;1;3;1;0;0;4;3;13;17;5;C. Landrum
-25-26;12;Championat de France;Exterieur;;Angers;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;0;3;0,00;;;;;;;;;;;5;0;0;0;2;2;0;0;0;0;5;-8;-1;11;L. Evrard(C)
-25-26;12;Championat de France;Exterieur;;Angers;;Starter;S. Ousfar;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;2;3;0;1;0;0;0;3;0;-2;6;28;S. Ousfar
-25-26;12;Championat de France;Exterieur;;Angers;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;8;6;10;16;1;4;1;1;0;1;1;6;19;32;R. Igbokwe
-25-26;12;Championat de France;Exterieur;;Angers;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
-25-26;12;Championat de France;Exterieur;;Angers;;Banc;J. Loubens;;;;;0;3;0,00;0;0;;0;3;0,00;0;0;;;;;;;;;0;1;5;6;1;2;0;0;0;1;0;8;2;14;J. Loubens
-25-26;12;Championat de France;Exterieur;;Angers;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;12;Championat de France;Exterieur;;Angers;;Banc;L. Preneau;;;;;;;;;;;0;0;;;;;;;;;;;;12;3;4;7;0;4;0;0;1;0;2;10;12;27;L. Preneau
+25-26;11;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;25;56;0,45;19;37;0,51;;;;16;16;1;16;36;8;11;13;13;7;72;9;28;37;19;21;8;3;2;28;19;0;87;0;TOTAUX EQUIPE
+25-26;12;Championat de France;Exterieur;;Angers;;Starter;S. Johnson;35;24;0,4;35,4;;;;;;;;;;;;;;;;;;;;24;1;5;6;3;3;1;0;1;2;9;8;23;4;S. Johnson
+25-26;12;Championat de France;Exterieur;;Angers;;Starter;C. Landrum;23;13;0,22;23,22;;;;;;;;;;;;;;;;;;;;20;0;2;2;1;3;1;0;0;4;3;13;17;5;C. Landrum
+25-26;12;Championat de France;Exterieur;;Angers;Capitaine;Starter;L. Evrard(C);23;3;0,05;23,05;;;;;;;0;3;0;;;;;;;;;;;5;0;0;0;2;2;0;0;0;0;5;-8;-1;11;L. Evrard(C)
+25-26;12;Championat de France;Exterieur;;Angers;;Starter;S. Ousfar;30;38;0,63;30,63;;;;;;;;;;0;0;;;;;;;;;7;1;2;3;0;1;0;0;0;3;0;-2;6;28;S. Ousfar
+25-26;12;Championat de France;Exterieur;;Angers;;Starter;R. Igbokwe;34;2;0,03;34,03;;;;;;;0;0;;;;;;;;;;;;8;6;10;16;1;4;1;1;0;1;1;6;19;32;R. Igbokwe
+25-26;12;Championat de France;Exterieur;;Angers;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
+25-26;12;Championat de France;Exterieur;;Angers;;Banc;J. Loubens;22;31;0,52;22,52;0;3;0;0;0;;0;3;0;0;0;;;;;;;;;0;1;5;6;1;2;0;0;0;1;0;8;2;14;J. Loubens
+25-26;12;Championat de France;Exterieur;;Angers;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;12;Championat de France;Exterieur;;Angers;;Banc;L. Preneau;31;9;0,15;31,15;;;;;;;0;0;;;;;;;;;;;;12;3;4;7;0;4;0;0;1;0;2;10;12;27;L. Preneau
 25-26;12;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;3;3;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;12;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;58;0,48;23;39;0,59;;;;15;16;0,94;10;36;18;7;12;16;10;76;12;31;43;8;22;3;1;2;11;20;0;78;0;TOTAUX EQUIPE
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;34;1;4;5;4;2;2;0;0;4;5;22;37;4;S. Johnson
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Landrum;;;;;;;;;;;0;4;0,00;;;;;;;;;;;6;0;5;5;7;3;1;2;0;2;4;10;9;5;C. Landrum
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Preneau;;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;4;0;3;3;2;4;0;0;0;3;2;-6;0;27;L. Preneau
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Ousfar(C);;;;;0;5;0,00;0;2;0,00;0;3;0,00;;;;;;;;;;;2;0;2;2;1;3;0;0;0;1;3;7;-5;28;S. Ousfar(C)
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;6;2;11;13;1;0;0;1;0;1;2;13;20;32;R. Igbokwe
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;17;0;3;3;0;2;3;1;0;4;6;-1;12;8;A. Sahie
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Loubens;;;;;;;;;;;0;1;0,00;;;;;;;;;;;12;1;5;6;0;4;1;0;0;2;1;-1;14;14;J. Loubens
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Neau;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;0;0;1;0;1;0;0;2;1;1;3;25;P. Neau
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Johnson;24;13;0,22;24,22;;;;;;;;;;;;;;;;;;;;34;1;4;5;4;2;2;0;0;4;5;22;37;4;S. Johnson
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Landrum;33;46;0,77;33,77;;;;;;;0;4;0;;;;;;;;;;;6;0;5;5;7;3;1;2;0;2;4;10;9;5;C. Landrum
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Preneau;28;11;0,18;28,18;;;;;;;0;0;;0;2;0;;;;;;;;4;0;3;3;2;4;0;0;0;3;2;-6;0;27;L. Preneau
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Ousfar(C);31;59;0,98;31,98;0;5;0;0;2;0;0;3;0;;;;;;;;;;;2;0;2;2;1;3;0;0;0;1;3;7;-5;28;S. Ousfar(C)
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Igbokwe;31;34;0,57;31,57;;;;;;;0;0;;0;1;0;;;;;;;;6;2;11;13;1;0;0;1;0;1;2;13;20;32;R. Igbokwe
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Sahie;19;17;0,28;19,28;;;;;;;0;0;;;;;;;;;;;;17;0;3;3;0;2;3;1;0;4;6;-1;12;8;A. Sahie
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Loubens;20;8;0,13;20,13;;;;;;;0;1;0;;;;;;;;;;;12;1;5;6;0;4;1;0;0;2;1;-1;14;14;J. Loubens
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Neau;10;53;0,88;10,88;;;;;;;0;1;0;0;0;;;;;;;;;2;0;0;0;1;0;1;0;0;2;1;1;3;25;P. Neau
 25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;29;57;0,51;25;42;0,60;;;;21;33;0,64;12;48;7;18;31;9;11;83;7;35;42;16;19;8;4;0;19;24;0;94;0;TOTAUX EQUIPE
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;18;0;4;4;5;4;1;2;0;3;5;4;18;4;S. Johnson
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;17;1;3;4;3;0;1;0;0;0;5;-8;12;5;C. Landrum
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Preneau;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;0;3;3;2;4;1;0;0;0;1;-6;10;27;L. Preneau
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Ousfar(C);;;;;;;;;;;0;5;0,00;0;0;;;;;;;;;2;0;8;8;1;1;0;1;0;1;3;-5;5;28;S. Ousfar(C)
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;10;11;0;3;4;2;0;2;1;-1;22;32;R. Igbokwe
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Sahie;;;;;0;3;0,00;0;2;0,00;0;1;0,00;;;;;;;;;;;2;0;4;4;0;4;0;0;0;3;1;-10;-1;8;A. Sahie
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;10;0;3;3;0;3;1;0;1;2;2;10;5;14;J. Loubens
-25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Neau;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;1;0;1;0;0;0;0;1;0;0;6;0;25;P. Neau
+25-26;13;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;29;57;0,51;25;42;0,6;;;;21;33;0,64;12;48;7;18;31;9;11;83;7;35;42;16;19;8;4;0;19;24;0;94;0;TOTAUX EQUIPE
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Johnson;27;51;0,85;27,85;;;;;;;;;;;;;;;;;;;;18;0;4;4;5;4;1;2;0;3;5;4;18;4;S. Johnson
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;C. Landrum;32;39;0,65;32,65;;;;;;;;;;;;;;;;;;;;17;1;3;4;3;0;1;0;0;0;5;-8;12;5;C. Landrum
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;L. Preneau;30;30;0,5;30,5;;;;;;;0;2;0;;;;;;;;;;;10;0;3;3;2;4;1;0;0;0;1;-6;10;27;L. Preneau
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;S. Ousfar(C);34;58;0,97;34,97;;;;;;;0;5;0;0;0;;;;;;;;;2;0;8;8;1;1;0;1;0;1;3;-5;5;28;S. Ousfar(C)
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Starter;R. Igbokwe;30;13;0,22;30,22;;;;;;;0;0;;;;;;;;;;;;9;1;10;11;0;3;4;2;0;2;1;-1;22;32;R. Igbokwe
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Sahie;18;8;0,13;18,13;0;3;0;0;2;0;0;1;0;;;;;;;;;;;2;0;4;4;0;4;0;0;0;3;1;-10;-1;8;A. Sahie
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;J. Loubens;22;25;0,42;22,42;;;;;;;;;;;;;;;;;;;;10;0;3;3;0;3;1;0;1;2;2;10;5;14;J. Loubens
+25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;P. Neau;3;6;0,1;3,1;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;1;0;1;0;0;0;0;1;0;0;6;0;25;P. Neau
 25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;14;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;21;57;0,37;14;26;0,54;;;;19;23;0,83;10;26;5;8;12;10;7;68;6;35;41;11;19;8;5;2;11;18;0;74;0;TOTAUX EQUIPE
-25-26;15;Championat de France;Domicile;;Landerneau;;Starter;S. Johnson;;;;;;;;;;;0;3;0,00;;;;;;;;;;;12;0;2;2;3;4;0;1;0;4;5;20;9;4;S. Johnson
-25-26;15;Championat de France;Domicile;;Landerneau;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;14;0;3;3;5;3;0;0;0;1;1;15;9;5;C. Landrum
-25-26;15;Championat de France;Domicile;;Landerneau;;Starter;L. Preneau;;;;;;;;;;;;;;;;;;;;;;;;19;1;0;1;1;3;0;0;0;3;1;0;16;27;L. Preneau
-25-26;15;Championat de France;Domicile;;Landerneau;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;12;1;5;6;1;3;0;0;0;2;2;20;14;28;S. Ousfar
-25-26;15;Championat de France;Domicile;;Landerneau;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;6;4;9;13;2;4;0;2;0;3;3;16;17;32;R. Igbokwe
-25-26;15;Championat de France;Domicile;;Landerneau;;Banc;C. Morisset;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;-1;6;C. Morisset
-25-26;15;Championat de France;Domicile;;Landerneau;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;15;4;2;6;4;2;3;0;0;3;3;3;23;8;A. Sahie
-25-26;15;Championat de France;Domicile;;Landerneau;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;0;10;P. Sidibe
-25-26;15;Championat de France;Domicile;;Landerneau;Capitaine;Banc;L. Evrard(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;2;0;1;0;0;3;0;17;5;11;L. Evrard(C)
-25-26;15;Championat de France;Domicile;;Landerneau;;Banc;J. Loubens;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;1;0;1;0;1;0;0;0;4;0;-1;0;14;J. Loubens
-25-26;15;Championat de France;Domicile;;Landerneau;;Banc;P. Neau;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;0;0;1;0;0;0;0;1;0;6;3;25;P. Neau
+25-26;15;Championat de France;Domicile;;Landerneau;;Starter;S. Johnson;27;49;0,82;27,82;;;;;;;0;3;0;;;;;;;;;;;12;0;2;2;3;4;0;1;0;4;5;20;9;4;S. Johnson
+25-26;15;Championat de France;Domicile;;Landerneau;;Starter;C. Landrum;30;39;0,65;30,65;;;;;;;;;;;;;;;;;;;;14;0;3;3;5;3;0;0;0;1;1;15;9;5;C. Landrum
+25-26;15;Championat de France;Domicile;;Landerneau;;Starter;L. Preneau;24;33;0,55;24,55;;;;;;;;;;;;;;;;;;;;19;1;0;1;1;3;0;0;0;3;1;0;16;27;L. Preneau
+25-26;15;Championat de France;Domicile;;Landerneau;;Starter;S. Ousfar;24;54;0,9;24,9;;;;;;;;;;;;;;;;;;;;12;1;5;6;1;3;0;0;0;2;2;20;14;28;S. Ousfar
+25-26;15;Championat de France;Domicile;;Landerneau;;Starter;R. Igbokwe;23;2;0,03;23,03;;;;;;;0;0;;;;;;;;;;;;6;4;9;13;2;4;0;2;0;3;3;16;17;32;R. Igbokwe
+25-26;15;Championat de France;Domicile;;Landerneau;;Banc;C. Morisset;1;0;0;1;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;-1;6;C. Morisset
+25-26;15;Championat de France;Domicile;;Landerneau;;Banc;A. Sahie;24;6;0,1;24,1;;;;;;;0;0;;;;;;;;;;;;15;4;2;6;4;2;3;0;0;3;3;3;23;8;A. Sahie
+25-26;15;Championat de France;Domicile;;Landerneau;;Banc;P. Sidibe;1;0;0;1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;0;10;P. Sidibe
+25-26;15;Championat de France;Domicile;;Landerneau;Capitaine;Banc;L. Evrard(C);28;4;0,07;28,07;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;2;0;1;0;0;3;0;17;5;11;L. Evrard(C)
+25-26;15;Championat de France;Domicile;;Landerneau;;Banc;J. Loubens;9;1;0,02;9,02;;;;;;;0;2;0;0;0;;;;;;;;;2;1;0;1;0;1;0;0;0;4;0;-1;0;14;J. Loubens
+25-26;15;Championat de France;Domicile;;Landerneau;;Banc;P. Neau;4;2;0,03;4,03;;;;;;;0;0;;0;0;;;;;;;;;2;0;0;0;1;0;0;0;0;1;0;6;3;25;P. Neau
 25-26;15;Championat de France;Domicile;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;15;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;30;57;0,53;21;32;0,66;;;;16;19;0,84;15;38;15;2;22;27;9;85;13;26;39;19;21;4;3;0;24;15;0;99;0;TOTAUX EQUIPE
-25-26;16;Championat de France;Domicile;;Bourges;;Starter;S. Johnson;;;;;;;;;;;;;;0;1;0,00;;;;;;;;13;2;5;7;7;2;2;0;0;3;6;-8;14;4;S. Johnson
-25-26;16;Championat de France;Domicile;;Bourges;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;17;1;5;6;0;8;2;0;0;2;7;-4;9;5;C. Landrum
-25-26;16;Championat de France;Domicile;;Bourges;;Starter;L. Preneau;;;;;;;;;;;0;3;0,00;;;;;;;;;;;3;3;0;3;1;0;0;0;1;1;1;-15;1;27;L. Preneau
-25-26;16;Championat de France;Domicile;;Bourges;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;14;2;3;5;3;3;1;0;0;2;4;-3;14;28;S. Ousfar
-25-26;16;Championat de France;Domicile;;Bourges;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;2;2;0;1;0;0;0;5;0;-7;4;32;R. Igbokwe
-25-26;16;Championat de France;Domicile;;Bourges;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;15;1;4;5;2;1;3;0;0;5;3;-11;22;8;A. Sahie
-25-26;16;Championat de France;Domicile;;Bourges;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;16;Championat de France;Domicile;;Bourges;Capitaine;Banc;L. Evrard(C);;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;3;3;4;3;0;0;0;2;2;-1;4;11;L. Evrard(C)
-25-26;16;Championat de France;Domicile;;Bourges;;Banc;J. Loubens;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;1;2;3;0;1;0;0;0;4;1;4;5;14;J. Loubens
-25-26;16;Championat de France;Domicile;;Bourges;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;16;Championat de France;Domicile;;Bourges;;Starter;S. Johnson;29;20;0,33;29,33;;;;;;;;;;0;1;0;;;;;;;;13;2;5;7;7;2;2;0;0;3;6;-8;14;4;S. Johnson
+25-26;16;Championat de France;Domicile;;Bourges;;Starter;C. Landrum;31;39;0,65;31,65;;;;;;;;;;;;;;;;;;;;17;1;5;6;0;8;2;0;0;2;7;-4;9;5;C. Landrum
+25-26;16;Championat de France;Domicile;;Bourges;;Starter;L. Preneau;22;21;0,35;22,35;;;;;;;0;3;0;;;;;;;;;;;3;3;0;3;1;0;0;0;1;1;1;-15;1;27;L. Preneau
+25-26;16;Championat de France;Domicile;;Bourges;;Starter;S. Ousfar;36;18;0,3;36,3;;;;;;;;;;;;;;;;;;;;14;2;3;5;3;3;1;0;0;2;4;-3;14;28;S. Ousfar
+25-26;16;Championat de France;Domicile;;Bourges;;Starter;R. Igbokwe;18;3;0,05;18,05;;;;;;;0;0;;0;0;;;;;;;;;4;0;2;2;0;1;0;0;0;5;0;-7;4;32;R. Igbokwe
+25-26;16;Championat de France;Domicile;;Bourges;;Banc;A. Sahie;20;19;0,32;20,32;;;;;;;0;0;;;;;;;;;;;;15;1;4;5;2;1;3;0;0;5;3;-11;22;8;A. Sahie
+25-26;16;Championat de France;Domicile;;Bourges;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;16;Championat de France;Domicile;;Bourges;Capitaine;Banc;L. Evrard(C);23;45;0,75;23,75;;;;;;;0;2;0;0;0;;;;;;;;;2;0;3;3;4;3;0;0;0;2;2;-1;4;11;L. Evrard(C)
+25-26;16;Championat de France;Domicile;;Bourges;;Banc;J. Loubens;18;14;0,23;18,23;;;;;;;0;2;0;;;;;;;;;;;6;1;2;3;0;1;0;0;0;4;1;4;5;14;J. Loubens
+25-26;16;Championat de France;Domicile;;Bourges;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;16;Championat de France;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;16;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;26;60;0,43;18;31;0,58;;;;14;21;0,67;16;32;13;11;23;;5;74;10;25;35;17;20;8;0;1;24;24;0;73;0;TOTAUX EQUIPE
-25-26;17;Championat de France;Domicile;;Charnay;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;8;1;4;5;11;2;0;0;0;1;5;21;13;4;S. Johnson
-25-26;17;Championat de France;Domicile;;Charnay;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;17;1;5;6;5;5;0;0;0;2;7;12;17;5;C. Landrum
-25-26;17;Championat de France;Domicile;;Charnay;;Starter;L. Preneau;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;2;3;2;2;4;0;0;4;1;18;14;27;L. Preneau
-25-26;17;Championat de France;Domicile;;Charnay;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;11;4;6;10;2;1;1;0;0;4;4;9;19;28;S. Ousfar
-25-26;17;Championat de France;Domicile;;Charnay;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;11;1;4;5;0;1;0;0;0;3;5;13;11;32;R. Igbokwe
-25-26;17;Championat de France;Domicile;;Charnay;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;17;Championat de France;Domicile;;Charnay;;Banc;A. Sahie;;;;;;;;;;;0;2;0,00;0;2;0,00;;;;;;;;18;1;4;5;1;3;4;0;0;4;2;-1;21;8;A. Sahie
-25-26;17;Championat de France;Domicile;;Charnay;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;17;Championat de France;Domicile;;Charnay;Capitaine;Banc;L. Evrard(C);;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;0;;;;;;;;;0;0;1;1;3;4;0;0;0;3;1;-14;-4;11;L. Evrard(C)
-25-26;17;Championat de France;Domicile;;Charnay;;Banc;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;0;0;0;0;1;3;0;7;7;14;J. Loubens
-25-26;17;Championat de France;Domicile;;Charnay;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-15;0;25;P. Neau
+25-26;17;Championat de France;Domicile;;Charnay;;Starter;S. Johnson;30;51;0,85;30,85;;;;;;;;;;;;;;;;;;;;8;1;4;5;11;2;0;0;0;1;5;21;13;4;S. Johnson
+25-26;17;Championat de France;Domicile;;Charnay;;Starter;C. Landrum;33;54;0,9;33,9;;;;;;;;;;;;;;;;;;;;17;1;5;6;5;5;0;0;0;2;7;12;17;5;C. Landrum
+25-26;17;Championat de France;Domicile;;Charnay;;Starter;L. Preneau;22;5;0,08;22,08;;;;;;;0;1;0;;;;;;;;;;;8;1;2;3;2;2;4;0;0;4;1;18;14;27;L. Preneau
+25-26;17;Championat de France;Domicile;;Charnay;;Starter;S. Ousfar;30;9;0,15;30,15;;;;;;;;;;;;;;;;;;;;11;4;6;10;2;1;1;0;0;4;4;9;19;28;S. Ousfar
+25-26;17;Championat de France;Domicile;;Charnay;;Starter;R. Igbokwe;19;6;0,1;19,1;;;;;;;0;0;;;;;;;;;;;;11;1;4;5;0;1;0;0;0;3;5;13;11;32;R. Igbokwe
+25-26;17;Championat de France;Domicile;;Charnay;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;17;Championat de France;Domicile;;Charnay;;Banc;A. Sahie;20;22;0,37;20,37;;;;;;;0;2;0;0;2;0;;;;;;;;18;1;4;5;1;3;4;0;0;4;2;-1;21;8;A. Sahie
+25-26;17;Championat de France;Domicile;;Charnay;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;17;Championat de France;Domicile;;Charnay;Capitaine;Banc;L. Evrard(C);18;17;0,28;18,28;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;0;1;1;3;4;0;0;0;3;1;-14;-4;11;L. Evrard(C)
+25-26;17;Championat de France;Domicile;;Charnay;;Banc;J. Loubens;19;19;0,32;19,32;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;0;0;0;0;1;3;0;7;7;14;J. Loubens
+25-26;17;Championat de France;Domicile;;Charnay;;Banc;P. Neau;5;7;0,12;5,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-15;0;25;P. Neau
 25-26;17;Championat de France;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;5;8;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;17;Championat de France;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;58;0,47;22;35;0,63;;;;23;29;0,79;9;42;15;7;27;12;11;82;12;34;46;24;18;9;0;1;24;25;0;106;0;TOTAUX EQUIPE
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;26;0;3;3;5;2;1;0;0;4;9;0;28;4;S. Johnson
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;9;0;2;2;2;3;1;2;0;2;2;-5;7;5;C. Landrum
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Preneau;;;;;;;;;;;0;2;0,00;0;1;0,00;;;;;;;;2;1;1;2;0;1;1;0;0;2;3;-5;-3;27;L. Preneau
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Ousfar;;;;;;;;0;3;0,00;;;;;;;;;;;;;;8;1;2;3;0;3;1;0;0;2;2;-14;4;28;S. Ousfar
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;5;3;5;8;2;2;0;0;2;2;1;-2;10;32;R. Igbokwe
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Sahie;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;3;4;0;2;0;0;0;4;2;-18;8;8;A. Sahie
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Banc;L. Evrard(C);;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;1;1;2;2;3;0;0;0;4;1;-14;-2;11;L. Evrard(C)
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;7;1;3;4;1;1;1;0;0;0;1;-7;9;14;J. Loubens
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Johnson;25;32;0,53;25,53;;;;;;;;;;;;;;;;;;;;26;0;3;3;5;2;1;0;0;4;9;0;28;4;S. Johnson
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;C. Landrum;32;23;0,38;32,38;;;;;;;;;;;;;;;;;;;;9;0;2;2;2;3;1;2;0;2;2;-5;7;5;C. Landrum
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Preneau;24;47;0,78;24,78;;;;;;;0;2;0;0;1;0;;;;;;;;2;1;1;2;0;1;1;0;0;2;3;-5;-3;27;L. Preneau
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Ousfar;32;8;0,13;32,13;;;;0;3;0;;;;;;;;;;;;;;8;1;2;3;0;3;1;0;0;2;2;-14;4;28;S. Ousfar
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;R. Igbokwe;25;2;0,03;25,03;;;;;;;0;0;;;;;;;;;;;;5;3;5;8;2;2;0;0;2;2;1;-2;10;32;R. Igbokwe
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Sahie;20;42;0,7;20,7;;;;;;;0;0;;;;;;;;;;;;9;1;3;4;0;2;0;0;0;4;2;-18;8;8;A. Sahie
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Banc;L. Evrard(C);20;18;0,3;20,3;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;1;1;2;2;3;0;0;0;4;1;-14;-2;11;L. Evrard(C)
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;J. Loubens;19;8;0,13;19,13;;;;;;;;;;;;;;;;;;;;7;1;3;4;1;1;1;0;0;0;1;-7;9;14;J. Loubens
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
 25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;0;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;20;53;0,38;13;34;0,38;;;;19;21;0,90;8;26;4;4;16;7;9;66;10;20;30;12;18;5;2;2;20;21;0;62;0;TOTAUX EQUIPE
-25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;15;2;5;7;6;4;0;1;1;3;6;-8;14;4;S. Johnson
-25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;23;0;3;3;2;2;2;0;2;2;7;-4;19;5;C. Landrum
-25-26;19;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;L. Evrard(C);;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;2;1;3;2;1;0;0;0;1;0;-19;4;11;L. Evrard(C)
-25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;7;0;12;12;2;1;0;2;0;3;1;-10;20;28;S. Ousfar
-25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;0;4;4;0;6;0;1;0;5;4;-9;6;32;R. Igbokwe
-25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
-25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;7;1;1;2;1;4;0;0;0;4;2;-4;4;14;J. Loubens
-25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;L. Preneau;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;0;2;2;2;0;0;0;0;2;1;-6;3;27;L. Preneau
+25-26;18;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;20;53;0,38;13;34;0,38;;;;19;21;0,9;8;26;4;4;16;7;9;66;10;20;30;12;18;5;2;2;20;21;0;62;0;TOTAUX EQUIPE
+25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;S. Johnson;34;47;0,78;34,78;;;;;;;;;;;;;;;;;;;;15;2;5;7;6;4;0;1;1;3;6;-8;14;4;S. Johnson
+25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;C. Landrum;30;33;0,55;30,55;;;;;;;;;;;;;;;;;;;;23;0;3;3;2;2;2;0;2;2;7;-4;19;5;C. Landrum
+25-26;19;Championat de France;Domicile;;Basket Landes;Capitaine;Starter;L. Evrard(C);26;7;0,12;26,12;;;;;;;0;2;0;0;0;;;;;;;;;4;2;1;3;2;1;0;0;0;1;0;-19;4;11;L. Evrard(C)
+25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;S. Ousfar;35;24;0,4;35,4;;;;;;;;;;;;;;;;;;;;7;0;12;12;2;1;0;2;0;3;1;-10;20;28;S. Ousfar
+25-26;19;Championat de France;Domicile;;Basket Landes;;Starter;R. Igbokwe;23;53;0,88;23,88;;;;;;;0;0;;;;;;;;;;;;9;0;4;4;0;6;0;1;0;5;4;-9;6;32;R. Igbokwe
+25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Morisset
+25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;J. Loubens;23;56;0,93;23,93;;;;;;;;;;;;;;;;;;;;7;1;1;2;1;4;0;0;0;4;2;-4;4;14;J. Loubens
+25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;P. Neau;1;5;0,08;1,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;L. Preneau;23;35;0,58;23,58;;;;;;;0;3;0;0;0;;;;;;;;;2;0;2;2;2;0;0;0;0;2;1;-6;3;27;L. Preneau
 25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;19;Championat de France;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;22;50;0,44;17;31;0,55;;;;18;23;0,78;7;32;3;6;9;3;7;67;5;29;34;15;21;2;4;3;20;21;0;68;0;TOTAUX EQUIPE
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;17;0;3;3;0;5;1;1;0;4;7;-27;9;4;S. Johnson
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Landrum;;;;;;;;;;;;;;0;2;0,00;;;;;;;;17;0;1;1;1;2;0;0;1;1;1;-30;6;5;C. Landrum
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;12;1;2;3;1;2;0;0;0;2;0;-22;11;14;J. Loubens
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;L. Preneau;;;;;0;4;0,00;0;3;0,00;0;1;0,00;;;;;;;;;;;2;0;2;2;2;2;1;0;0;4;1;-4;1;27;L. Preneau
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;7;3;5;8;2;3;2;1;0;4;2;-28;13;32;R. Igbokwe
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;10;P. Sidibe
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;L. Evrard(C);;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;3;0;2;2;5;2;1;0;0;4;6;-13;5;11;L. Evrard(C)
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;S. Ousfar;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;4;4;3;2;0;0;0;3;0;-12;4;28;S. Ousfar
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;S. Johnson;32;52;0,87;32,87;;;;;;;;;;;;;;;;;;;;17;0;3;3;0;5;1;1;0;4;7;-27;9;4;S. Johnson
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;C. Landrum;26;27;0,45;26,45;;;;;;;;;;0;2;0;;;;;;;;17;0;1;1;1;2;0;0;1;1;1;-30;6;5;C. Landrum
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;J. Loubens;28;56;0,93;28,93;;;;;;;;;;0;0;;;;;;;;;12;1;2;3;1;2;0;0;0;2;0;-22;11;14;J. Loubens
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;L. Preneau;20;51;0,85;20,85;0;4;0;0;3;0;0;1;0;;;;;;;;;;;2;0;2;2;2;2;1;0;0;4;1;-4;1;27;L. Preneau
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;R. Igbokwe;30;59;0,98;30,98;;;;;;;0;0;;;;;;;;;;;;7;3;5;8;2;3;2;1;0;4;2;-28;13;32;R. Igbokwe
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;P. Sidibe;0;8;0,13;0,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;10;P. Sidibe
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;L. Evrard(C);29;7;0,12;29,12;;;;0;3;0;;;;0;0;;;;;;;;;3;0;2;2;5;2;1;0;0;4;6;-13;5;11;L. Evrard(C)
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;P. Neau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;P. Neau
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;S. Ousfar;30;30;0,5;30,5;;;;;;;;;;0;0;;;;;;;;;5;0;4;4;3;2;0;0;0;3;0;-12;4;28;S. Ousfar
 25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;23;58;0,40;;;;;;;;;;14;18;2;8;8;;7;63;5;20;25;14;19;5;2;1;22;17;0;50;0;TOTAUX EQUIPE
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;30;1;1;2;5;3;5;0;1;3;7;-11;33;4;S. Johnson
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;C. Landrum;;;;;;;;;;;0;2;0,00;;;;;;;;;;;7;0;5;5;4;2;1;0;0;2;7;-19;6;5;C. Landrum
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;L. Preneau;;;;;;;;;;;0;3;0,00;0;1;0,00;;;;;;;;8;1;2;3;0;0;2;0;0;3;1;-1;5;27;L. Preneau
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Ousfar;;;;;;;;;;;;;;;;;;;;;;;;8;1;6;7;1;4;0;0;0;2;1;-14;8;28;S. Ousfar
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;5;1;6;0;3;0;0;0;4;5;-7;3;32;R. Igbokwe
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;M. Draghicioiu
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;P. Sidibe;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Banc;L. Evrard(C);;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;1;2;3;6;2;0;0;0;3;0;-10;5;11;L. Evrard(C)
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;8;2;2;4;1;1;0;0;0;0;2;-12;6;14;J. Loubens
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;-1;1;25;P. Neau
+25-26;20;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;23;58;0,4;;;;;;;;;;14;18;2;8;8;;7;63;5;20;25;14;19;5;2;1;22;17;0;50;0;TOTAUX EQUIPE
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Johnson;33;58;0,97;33,97;;;;;;;;;;;;;;;;;;;;30;1;1;2;5;3;5;0;1;3;7;-11;33;4;S. Johnson
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;C. Landrum;31;56;0,93;31,93;;;;;;;0;2;0;;;;;;;;;;;7;0;5;5;4;2;1;0;0;2;7;-19;6;5;C. Landrum
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;L. Preneau;27;30;0,5;27,5;;;;;;;0;3;0;0;1;0;;;;;;;;8;1;2;3;0;0;2;0;0;3;1;-1;5;27;L. Preneau
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Ousfar;33;58;0,97;33,97;;;;;;;;;;;;;;;;;;;;8;1;6;7;1;4;0;0;0;2;1;-14;8;28;S. Ousfar
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Starter;R. Igbokwe;19;37;0,62;19,62;;;;;;;0;0;;;;;;;;;;;;9;5;1;6;0;3;0;0;0;4;5;-7;3;32;R. Igbokwe
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Draghicioiu;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;M. Draghicioiu
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;P. Sidibe;0;1;0,02;0,02;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Banc;L. Evrard(C);23;6;0,1;23,1;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;1;2;3;6;2;0;0;0;3;0;-10;5;11;L. Evrard(C)
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;J. Loubens;26;32;0,53;26,53;;;;;;;;;;;;;;;;;;;;8;2;2;4;1;1;0;0;0;0;2;-12;6;14;J. Loubens
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;P. Neau;3;1;0,02;3,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;0;0;-1;1;25;P. Neau
 25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;4;0;0;0;0;0;0;0;0;Team / Coach
-25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;28;58;0,48;25;42;0,60;;;;;;;14;48;9;8;8;;6;70;12;21;33;18;19;8;0;1;17;23;0;65;0;TOTAUX EQUIPE
-25-26;22;Championat de France;Domicile;;Chartres;;Starter;S. Johnson;;;;;;;;;;;0;5;0,00;;;;;;;;;;;21;0;0;0;3;5;1;0;1;4;9;-10;12;4;S. Johnson
-25-26;22;Championat de France;Domicile;;Chartres;;Starter;C. Landrum;;;;;14;22;0,64;;;;;;;;;;;;;;;;;36;0;2;2;5;3;1;0;1;0;3;-8;33;5;C. Landrum
-25-26;22;Championat de France;Domicile;;Chartres;;Starter;L. Preneau;;;;;;;;;;;;;;;;;;;;;;;;9;2;5;7;4;2;1;0;0;2;4;3;10;27;L. Preneau
-25-26;22;Championat de France;Domicile;;Chartres;Capitaine;Starter;S. Ousfar(C);;;;;;;;;;;;;;;;;;;;;;;;6;2;4;6;2;2;1;0;0;5;1;-3;10;28;S. Ousfar(C)
-25-26;22;Championat de France;Domicile;;Chartres;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;0;4;0,00;;;;;;;;6;3;7;10;1;1;0;1;0;3;3;-7;11;32;R. Igbokwe
-25-26;22;Championat de France;Domicile;;Chartres;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;C. Morisset
-25-26;22;Championat de France;Domicile;;Chartres;;Banc;M. Diame;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
-25-26;22;Championat de France;Domicile;;Chartres;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;10;P. Sidibe
-25-26;22;Championat de France;Domicile;;Chartres;;Banc;J. Loubens;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;3;1;4;0;1;0;0;0;2;0;-21;5;14;J. Loubens
-25-26;22;Championat de France;Domicile;;Chartres;;Banc;P. Neau;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;2;0;0;3;25;P. Neau
+25-26;21;Championat de France;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;28;58;0,48;25;42;0,6;;;;;;;14;48;9;8;8;;6;70;12;21;33;18;19;8;0;1;17;23;0;65;0;TOTAUX EQUIPE
+25-26;22;Championat de France;Domicile;;Chartres;;Starter;S. Johnson;35;44;0,73;35,73;;;;;;;0;5;0;;;;;;;;;;;21;0;0;0;3;5;1;0;1;4;9;-10;12;4;S. Johnson
+25-26;22;Championat de France;Domicile;;Chartres;;Starter;C. Landrum;37;28;0,47;37,47;14;22;0,64;;;;;;;;;;;;;;;;;36;0;2;2;5;3;1;0;1;0;3;-8;33;5;C. Landrum
+25-26;22;Championat de France;Domicile;;Chartres;;Starter;L. Preneau;34;39;0,65;34,65;;;;;;;;;;;;;;;;;;;;9;2;5;7;4;2;1;0;0;2;4;3;10;27;L. Preneau
+25-26;22;Championat de France;Domicile;;Chartres;Capitaine;Starter;S. Ousfar(C);30;57;0,95;30,95;;;;;;;;;;;;;;;;;;;;6;2;4;6;2;2;1;0;0;5;1;-3;10;28;S. Ousfar(C)
+25-26;22;Championat de France;Domicile;;Chartres;;Starter;R. Igbokwe;34;49;0,82;34,82;;;;;;;0;0;;0;4;0;;;;;;;;6;3;7;10;1;1;0;1;0;3;3;-7;11;32;R. Igbokwe
+25-26;22;Championat de France;Domicile;;Chartres;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;C. Morisset
+25-26;22;Championat de France;Domicile;;Chartres;;Banc;M. Diame;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;M. Diame
+25-26;22;Championat de France;Domicile;;Chartres;;Banc;P. Sidibe;2;2;0,03;2,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;10;P. Sidibe
+25-26;22;Championat de France;Domicile;;Chartres;;Banc;J. Loubens;22;9;0,15;22,15;;;;;;;0;0;;0;0;;;;;;;;;2;3;1;4;0;1;0;0;0;2;0;-21;5;14;J. Loubens
+25-26;22;Championat de France;Domicile;;Chartres;;Banc;P. Neau;2;2;0,03;2,03;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;2;0;0;3;25;P. Neau
 25-26;22;Championat de France;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;22;Championat de France;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;30;58;0,52;20;36;0,56;;;;13;19;0,68;17;38;7;7;5;4;10;83;10;21;31;15;14;4;1;2;18;20;0;86;0;TOTAUX EQUIPE
-25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;S. Johnson;;;;;;;;;;;0;5;0,00;;;;;;;;;;;14;2;6;8;3;9;3;2;0;4;6;-13;12;4;S. Johnson
-25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;21;0;3;3;2;3;2;2;1;2;1;-6;16;5;C. Landrum
-25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;L. Preneau;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;2;1;3;0;4;0;0;0;1;1;-14;4;27;L. Preneau
-25-26;P1;Playdown;Exterieur;;Toulouse;Capitaine;Starter;S. Ousfar(C);;;;;0;5;0,00;0;2;0,00;0;3;0,00;;;;;;;;;;;1;0;4;4;1;2;1;0;0;4;2;-10;-1;28;S. Ousfar(C)
-25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;8;5;7;12;1;1;1;0;0;4;3;3;15;32;R. Igbokwe
-25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;M. Diame;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;1;0;1;0;0;1;0;1;4;6;M. Diame
-25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;J. Loubens;;;;;;;;;;;;;;;;;;;;;;;;8;2;3;5;0;4;1;1;0;3;1;-10;3;14;J. Loubens
-25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;P. Neau;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-16;1;25;P. Neau
+25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;S. Johnson;35;1;0,02;35,02;;;;;;;0;5;0;;;;;;;;;;;14;2;6;8;3;9;3;2;0;4;6;-13;12;4;S. Johnson
+25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;C. Landrum;29;58;0,97;29,97;;;;;;;;;;;;;;;;;;;;21;0;3;3;2;3;2;2;1;2;1;-6;16;5;C. Landrum
+25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;L. Preneau;30;55;0,92;30,92;;;;;;;0;0;;0;0;;;;;;;;;8;2;1;3;0;4;0;0;0;1;1;-14;4;27;L. Preneau
+25-26;P1;Playdown;Exterieur;;Toulouse;Capitaine;Starter;S. Ousfar(C);34;29;0,48;34,48;0;5;0;0;2;0;0;3;0;;;;;;;;;;;1;0;4;4;1;2;1;0;0;4;2;-10;-1;28;S. Ousfar(C)
+25-26;P1;Playdown;Exterieur;;Toulouse;;Starter;R. Igbokwe;26;9;0,15;26,15;;;;;;;0;0;;;;;;;;;;;;8;5;7;12;1;1;1;0;0;4;3;3;15;32;R. Igbokwe
+25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;M. Diame;8;6;0,1;8,1;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;1;0;1;0;0;1;0;1;4;6;M. Diame
+25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;J. Loubens;26;10;0,17;26,17;;;;;;;;;;;;;;;;;;;;8;2;3;5;0;4;1;1;0;3;1;-10;3;14;J. Loubens
+25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;P. Neau;8;2;0,03;8,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-16;1;25;P. Neau
 25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P1;Playdown;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;22;62;0,35;17;41;0,41;;;;13;17;0,76;16;28;7;17;10;4;7;62;12;25;37;8;23;9;5;1;20;14;0;54;0;TOTAUX EQUIPE
-25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;18;0;6;6;3;6;0;0;0;4;8;-30;14;4;S. Johnson
-25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;C. Landrum;;;;;;;;;;;;;;;;;;;;;;;;20;1;4;5;4;3;0;0;0;0;5;-16;15;5;C. Landrum
-25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;J. Loubens;;;;;;;;;;;0;2;0,00;;;;;;;;;;;4;0;2;2;1;0;0;0;0;3;1;-24;5;14;J. Loubens
-25-26;P2;Playdown;Exterieur;;Toulouse;Capitaine;Starter;S. Ousfar(C);;;;;;;;0;2;0,00;;;;;;;;;;;;;;8;0;4;4;0;4;0;0;0;4;3;-28;2;28;S. Ousfar(C)
-25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;5;6;11;0;0;1;3;0;1;6;-37;15;32;R. Igbokwe
-25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;C. Morisset;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;C. Morisset
-25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;M. Diame;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;2;2;0;0;0;1;0;4;-2;6;M. Diame
-25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;P. Sidibe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
-25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;P. Neau;;;;;0;3;0,00;0;2;0,00;0;1;0,00;;;;;;;;;;;2;0;0;0;2;0;0;0;0;1;1;-4;1;25;P. Neau
-25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;27;M. Draghicioiu
+25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;S. Johnson;36;59;0,98;36,98;;;;;;;;;;;;;;;;;;;;18;0;6;6;3;6;0;0;0;4;8;-30;14;4;S. Johnson
+25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;C. Landrum;36;25;0,42;36,42;;;;;;;;;;;;;;;;;;;;20;1;4;5;4;3;0;0;0;0;5;-16;15;5;C. Landrum
+25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;J. Loubens;31;57;0,95;31,95;;;;;;;0;2;0;;;;;;;;;;;4;0;2;2;1;0;0;0;0;3;1;-24;5;14;J. Loubens
+25-26;P2;Playdown;Exterieur;;Toulouse;Capitaine;Starter;S. Ousfar(C);34;45;0,75;34,75;;;;0;2;0;;;;;;;;;;;;;;8;0;4;4;0;4;0;0;0;4;3;-28;2;28;S. Ousfar(C)
+25-26;P2;Playdown;Exterieur;;Toulouse;;Starter;R. Igbokwe;35;15;0,25;35,25;;;;;;;0;0;;;;;;;;;;;;9;5;6;11;0;0;1;3;0;1;6;-37;15;32;R. Igbokwe
+25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;C. Morisset;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;C. Morisset
+25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;M. Diame;9;9;0,15;9,15;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;2;2;0;0;0;1;0;4;-2;6;M. Diame
+25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;P. Sidibe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;10;P. Sidibe
+25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;P. Neau;15;20;0,33;15,33;0;3;0;0;2;0;0;1;0;;;;;;;;;;;2;0;0;0;2;0;0;0;0;1;1;-4;1;25;P. Neau
+25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;M. Draghicioiu;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;27;M. Draghicioiu
 25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;0;0;0;0;1;0;0;0;0;Team / Coach
 25-26;P2;Playdown;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;19;52;0,37;15;32;0,47;;;;19;26;0,73;5;24;6;9;2;2;9;61;7;23;30;12;15;1;3;0;15;24;0;52;0;TOTAUX EQUIPE
-25-26;P3;Playdown;Domicile;;Angers;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;26;0;0;0;3;6;0;0;0;1;4;-7;22;4;S. Johnson
-25-26;P3;Playdown;Domicile;;Angers;;Starter;M. Diame;;;;;;;;;;;;;;;;;;;;;;;;9;0;1;1;4;6;0;0;0;3;2;-9;4;6;M. Diame
-25-26;P3;Playdown;Domicile;;Angers;;Starter;J. Loubens;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;6;0;2;2;0;1;1;0;1;1;1;-16;1;14;J. Loubens
-25-26;P3;Playdown;Domicile;;Angers;Capitaine;Starter;S. Ousfar(C);;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;2;0;7;7;5;2;1;0;0;1;3;-7;8;28;S. Ousfar(C)
-25-26;P3;Playdown;Domicile;;Angers;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;18;3;6;9;0;2;0;0;0;3;2;-10;21;32;R. Igbokwe
-25-26;P3;Playdown;Domicile;;Angers;;Banc;C. Morisset;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;5;-1;0;C. Morisset
-25-26;P3;Playdown;Domicile;;Angers;;Banc;P. Sidibe;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;2;5;7;0;1;0;0;0;3;1;-8;7;10;P. Sidibe
-25-26;P3;Playdown;Domicile;;Angers;;Banc;P. Neau;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;2;2;2;3;2;0;1;0;3;-9;7;25;P. Neau
-25-26;P3;Playdown;Domicile;;Angers;;Banc;D. Maria;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;1;1;27;D. Maria
+25-26;P3;Playdown;Domicile;;Angers;;Starter;S. Johnson;26;8;0,13;26,13;;;;;;;;;;;;;;;;;;;;26;0;0;0;3;6;0;0;0;1;4;-7;22;4;S. Johnson
+25-26;P3;Playdown;Domicile;;Angers;;Starter;M. Diame;25;29;0,48;25,48;;;;;;;;;;;;;;;;;;;;9;0;1;1;4;6;0;0;0;3;2;-9;4;6;M. Diame
+25-26;P3;Playdown;Domicile;;Angers;;Starter;J. Loubens;36;7;0,12;36,12;;;;;;;0;3;0;0;0;;;;;;;;;6;0;2;2;0;1;1;0;1;1;1;-16;1;14;J. Loubens
+25-26;P3;Playdown;Domicile;;Angers;Capitaine;Starter;S. Ousfar(C);33;36;0,6;33,6;;;;;;;0;4;0;0;0;;;;;;;;;2;0;7;7;5;2;1;0;0;1;3;-7;8;28;S. Ousfar(C)
+25-26;P3;Playdown;Domicile;;Angers;;Starter;R. Igbokwe;31;8;0,13;31,13;;;;;;;0;0;;;;;;;;;;;;18;3;6;9;0;2;0;0;0;3;2;-10;21;32;R. Igbokwe
+25-26;P3;Playdown;Domicile;;Angers;;Banc;C. Morisset;7;7;0,12;7,12;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;5;-1;0;C. Morisset
+25-26;P3;Playdown;Domicile;;Angers;;Banc;P. Sidibe;12;56;0,93;12,93;;;;;;;0;0;;0;0;;;;;;;;;4;2;5;7;0;1;0;0;0;3;1;-8;7;10;P. Sidibe
+25-26;P3;Playdown;Domicile;;Angers;;Banc;P. Neau;24;29;0,48;24,48;;;;;;;;;;0;0;;;;;;;;;7;0;2;2;2;3;2;0;1;0;3;-9;7;25;P. Neau
+25-26;P3;Playdown;Domicile;;Angers;;Banc;D. Maria;2;0;0;2;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;1;1;27;D. Maria
 25-26;P3;Playdown;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P3;Playdown;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;55;0,51;21;38;0,55;;;;;;;14;40;6;8;11;3;7;72;7;25;32;14;23;4;0;2;12;16;0;71;0;TOTAUX EQUIPE
-25-26;P4;Playdown;Domicile;;Toulouse;;Starter;S. Johnson;;;;;;;;;;;0;0;;;;;;;;;;;;17;2;4;6;7;5;2;0;0;3;7;-8;21;4;S. Johnson
-25-26;P4;Playdown;Domicile;;Toulouse;;Starter;M. Diame;;;;;;;;;;;0;1;0,00;0;2;0,00;;;;;;;;4;1;3;4;2;4;0;1;0;4;1;-4;-1;6;M. Diame
-25-26;P4;Playdown;Domicile;;Toulouse;;Starter;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;14;0;4;4;2;1;1;0;0;4;2;-12;15;14;J. Loubens
-25-26;P4;Playdown;Domicile;;Toulouse;Capitaine;Starter;S. Ousfar(C);;;;;;;;;;;;;;;;;;;;;;;;12;1;6;7;3;3;0;0;1;1;2;-8;14;28;S. Ousfar(C)
-25-26;P4;Playdown;Domicile;;Toulouse;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;9;3;13;16;1;4;0;0;0;4;3;-17;14;32;R. Igbokwe
-25-26;P4;Playdown;Domicile;;Toulouse;;Banc;C. Morisset;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-8;-2;0;C. Morisset
-25-26;P4;Playdown;Domicile;;Toulouse;;Banc;P. Sidibe;;;;;0;5;0,00;0;5;0,00;0;0;;;;;;;;;;;;1;1;2;3;0;2;0;0;0;3;2;-3;-4;10;P. Sidibe
-25-26;P4;Playdown;Domicile;;Toulouse;;Banc;P. Neau;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;0;1;0;1;0;1;1;-10;4;25;P. Neau
-25-26;P4;Playdown;Domicile;;Toulouse;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;-5;1;27;M. Draghicioiu
+25-26;P4;Playdown;Domicile;;Toulouse;;Starter;S. Johnson;31;11;0,18;31,18;;;;;;;0;0;;;;;;;;;;;;17;2;4;6;7;5;2;0;0;3;7;-8;21;4;S. Johnson
+25-26;P4;Playdown;Domicile;;Toulouse;;Starter;M. Diame;29;45;0,75;29,75;;;;;;;0;1;0;0;2;0;;;;;;;;4;1;3;4;2;4;0;1;0;4;1;-4;-1;6;M. Diame
+25-26;P4;Playdown;Domicile;;Toulouse;;Starter;J. Loubens;34;20;0,33;34,33;;;;;;;;;;0;0;;;;;;;;;14;0;4;4;2;1;1;0;0;4;2;-12;15;14;J. Loubens
+25-26;P4;Playdown;Domicile;;Toulouse;Capitaine;Starter;S. Ousfar(C);32;41;0,68;32,68;;;;;;;;;;;;;;;;;;;;12;1;6;7;3;3;0;0;1;1;2;-8;14;28;S. Ousfar(C)
+25-26;P4;Playdown;Domicile;;Toulouse;;Starter;R. Igbokwe;34;30;0,5;34,5;;;;;;;0;0;;;;;;;;;;;;9;3;13;16;1;4;0;0;0;4;3;-17;14;32;R. Igbokwe
+25-26;P4;Playdown;Domicile;;Toulouse;;Banc;C. Morisset;2;8;0,13;2,13;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-8;-2;0;C. Morisset
+25-26;P4;Playdown;Domicile;;Toulouse;;Banc;P. Sidibe;14;34;0,57;14,57;0;5;0;0;5;0;0;0;;;;;;;;;;;;1;1;2;3;0;2;0;0;0;3;2;-3;-4;10;P. Sidibe
+25-26;P4;Playdown;Domicile;;Toulouse;;Banc;P. Neau;17;14;0,23;17,23;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;0;1;0;1;0;1;1;-10;4;25;P. Neau
+25-26;P4;Playdown;Domicile;;Toulouse;;Banc;M. Draghicioiu;2;6;0,1;2,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;-5;1;27;M. Draghicioiu
 25-26;P4;Playdown;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P4;Playdown;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;24;57;0,42;19;43;0,44;;;;;;;4;34;9;13;6;9;11;62;12;34;46;15;21;3;2;1;20;18;0;66;0;TOTAUX EQUIPE
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;11;1;6;7;2;2;2;0;1;2;6;-2;10;4;S. Johnson
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;M. Diame;;;;;;;;;;;0;3;0,00;;;;;;;;;;;9;2;0;2;2;4;3;0;0;1;2;-4;3;6;M. Diame
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;11;3;2;5;1;1;1;1;0;3;1;-12;12;14;J. Loubens
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;S. Ousfar(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;3;3;0;0;0;1;1;-5;3;28;S. Ousfar(C)
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;8;4;7;11;0;1;0;0;0;0;3;-20;16;32;R. Igbokwe
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;P. Sidibe;;;;;0;2;0,00;0;1;0,00;0;1;0,00;;;;;;;;;;;1;3;1;4;1;2;1;0;0;3;3;-14;2;10;P. Sidibe
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;C. Morisset;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;4;1;1;2;1;3;2;0;0;2;1;-14;0;11;C. Morisset
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;P. Neau;;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;6;1;3;4;1;2;0;1;0;2;0;-24;4;25;P. Neau
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;S. Johnson;26;46;0,77;26,77;;;;;;;;;;;;;;;;;;;;11;1;6;7;2;2;2;0;1;2;6;-2;10;4;S. Johnson
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;M. Diame;26;35;0,58;26,58;;;;;;;0;3;0;;;;;;;;;;;9;2;0;2;2;4;3;0;0;1;2;-4;3;6;M. Diame
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;J. Loubens;31;52;0,87;31,87;;;;;;;;;;0;0;;;;;;;;;11;3;2;5;1;1;1;1;0;3;1;-12;12;14;J. Loubens
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;Capitaine;Starter;S. Ousfar(C);28;52;0,87;28,87;;;;0;0;;;;;0;0;;;;;;;;;3;0;4;4;3;3;0;0;0;1;1;-5;3;28;S. Ousfar(C)
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Starter;R. Igbokwe;26;4;0,07;26,07;;;;;;;0;0;;;;;;;;;;;;8;4;7;11;0;1;0;0;0;0;3;-20;16;32;R. Igbokwe
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;P. Sidibe;21;21;0,35;21,35;0;2;0;0;1;0;0;1;0;;;;;;;;;;;1;3;1;4;1;2;1;0;0;3;3;-14;2;10;P. Sidibe
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;C. Morisset;15;35;0,58;15,58;;;;;;;0;3;0;0;0;;;;;;;;;4;1;1;2;1;3;2;0;0;2;1;-14;0;11;C. Morisset
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;P. Neau;22;55;0,92;22,92;;;;0;3;0;;;;0;0;;;;;;;;;6;1;3;4;1;2;0;1;0;2;0;-24;4;25;P. Neau
 25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;4;0;0;0;0;0;0;0;0;Team / Coach
-25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;19;63;0,30;14;35;0,40;;;;;;;12;22;11;6;11;2;6;53;17;27;44;11;22;9;2;1;14;17;0;51;0;TOTAUX EQUIPE
-25-26;P6;Playdown;Exterieur;;Angers;;Starter;S. Johnson;;;;;;;;;;;;;;;;;;;;;;;;21;0;0;0;5;2;1;0;0;2;5;-13;18;4;S. Johnson
-25-26;P6;Playdown;Exterieur;;Angers;;Starter;M. Diame;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;3;0;0;0;1;2;-6;7;6;M. Diame
-25-26;P6;Playdown;Exterieur;;Angers;;Starter;J. Loubens;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;1;2;2;0;1;0;0;3;1;-16;10;14;J. Loubens
-25-26;P6;Playdown;Exterieur;;Angers;Capitaine;Starter;S. Ousfar(C);;;;;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;2;1;0;0;0;0;1;-12;7;28;S. Ousfar(C)
-25-26;P6;Playdown;Exterieur;;Angers;;Starter;R. Igbokwe;;;;;;;;;;;0;0;;;;;;;;;;;;15;2;11;13;1;1;0;1;0;1;1;-6;23;32;R. Igbokwe
-25-26;P6;Playdown;Exterieur;;Angers;;Banc;P. Sidibe;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;0;1;3;0;-9;3;10;P. Sidibe
-25-26;P6;Playdown;Exterieur;;Angers;;Banc;C. Morisset;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;0;3;0;0;0;0;2;-9;0;11;C. Morisset
-25-26;P6;Playdown;Exterieur;;Angers;;Banc;P. Neau;;;;;0;6;0,00;0;5;0,00;0;1;0,00;;;;;;;;;;;2;1;3;4;2;4;0;0;2;1;4;-18;-2;25;P. Neau
-25-26;P6;Playdown;Exterieur;;Angers;;Banc;M. Draghicioiu;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-16;-1;27;M. Draghicioiu
+25-26;P5;Playdown;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;19;63;0,3;14;35;0,4;;;;;;;12;22;11;6;11;2;6;53;17;27;44;11;22;9;2;1;14;17;0;51;0;TOTAUX EQUIPE
+25-26;P6;Playdown;Exterieur;;Angers;;Starter;S. Johnson;26;52;0,87;26,87;;;;;;;;;;;;;;;;;;;;21;0;0;0;5;2;1;0;0;2;5;-13;18;4;S. Johnson
+25-26;P6;Playdown;Exterieur;;Angers;;Starter;M. Diame;27;18;0,3;27,3;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;3;0;0;0;1;2;-6;7;6;M. Diame
+25-26;P6;Playdown;Exterieur;;Angers;;Starter;J. Loubens;34;35;0,58;34,58;;;;;;;;;;0;0;;;;;;;;;7;1;1;2;2;0;1;0;0;3;1;-16;10;14;J. Loubens
+25-26;P6;Playdown;Exterieur;;Angers;Capitaine;Starter;S. Ousfar(C);30;37;0,62;30,62;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;2;1;0;0;0;0;1;-12;7;28;S. Ousfar(C)
+25-26;P6;Playdown;Exterieur;;Angers;;Starter;R. Igbokwe;30;9;0,15;30,15;;;;;;;0;0;;;;;;;;;;;;15;2;11;13;1;1;0;1;0;1;1;-6;23;32;R. Igbokwe
+25-26;P6;Playdown;Exterieur;;Angers;;Banc;P. Sidibe;12;14;0,23;12,23;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;0;1;3;0;-9;3;10;P. Sidibe
+25-26;P6;Playdown;Exterieur;;Angers;;Banc;C. Morisset;6;2;0,03;6,03;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;0;3;0;0;0;0;2;-9;0;11;C. Morisset
+25-26;P6;Playdown;Exterieur;;Angers;;Banc;P. Neau;23;21;0,35;23,35;0;6;0;0;5;0;0;1;0;;;;;;;;;;;2;1;3;4;2;4;0;0;2;1;4;-18;-2;25;P. Neau
+25-26;P6;Playdown;Exterieur;;Angers;;Banc;M. Draghicioiu;8;2;0,03;8,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-16;-1;27;M. Draghicioiu
 25-26;P6;Playdown;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P6;Playdown;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;24;58;0,41;17;37;0,46;;;;;;;2;32;6;10;7;9;7;67;5;28;33;16;18;2;1;3;11;16;0;66;0;TOTAUX EQUIPE

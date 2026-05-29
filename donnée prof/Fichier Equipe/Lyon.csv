@@ -1,4 +1,4 @@
-Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adversaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
 23-24;1;Championat de France;Exterieur;Defaite;Roche Vendée;;Starter;M. Fauthoux;39;26;0,43;39,43;4;8;0,5;2;5;0,4;2;3;0,666666667;7;9;0,777777778;;;;;;;;17;1;5;6;6;8;3;1;0;3;9;-8;19;4;M. Fauthoux
 23-24;1;Championat de France;Exterieur;Defaite;Roche Vendée;;Starter;L. Quevedo Canizares;39;0;0;39;4;11;0,363636364;3;5;0,6;1;6;0,166666667;0;0;;;;;;;;;9;3;3;6;4;2;2;1;0;0;1;-2;13;9;L. Quevedo Canizares
 23-24;1;Championat de France;Exterieur;Defaite;Roche Vendée;Capitaine;Starter;A. Chery;34;33;0,55;34,55;4;12;0,333333333;2;6;0,333333333;2;6;0,333333333;1;2;0,5;;;;;;;;11;1;8;9;3;2;2;0;0;4;2;-3;14;12;A. Chery(C)
@@ -608,338 +608,338 @@ Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/b
 24-25;1/4 de finale;Coupe de France;Domicile;Defaite;Basket Landes;;Banc;S. Lucet;8;3;0,05;3,05;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;0;0;0;1;0;0;0;1;0;-6;2;38;S. Lucet
 24-25;1/4 de finale;Coupe de France;Domicile;Defaite;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 24-25;1/4 de finale;Coupe de France;Domicile;Defaite;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;28;65;0,43;20;47;0,43;8;18;0,44;8;8;1;20;30;5;16;23;10;10;72;10;28;38;21;17;4;2;4;16;15;0;83;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Domicile;;Charnay;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;5;0,00;;;;;;;;;;;13;0;6;6;4;3;6;0;1;4;8;2;14;1;D. Harris(C)
-25-26;1;Championat de France;Domicile;;Charnay;;Starter;A. Risacher;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;1;1;1;1;3;0;0;5;1;-2;4;10;A. Risacher
-25-26;1;Championat de France;Domicile;;Charnay;;Starter;J. Zodia;;;;;;;;;;;0;2;0,00;;;;;;;;;;;14;1;2;3;2;2;5;0;0;3;5;-2;15;13;J. Zodia
-25-26;1;Championat de France;Domicile;;Charnay;;Starter;S. Scalia;;;;;;;;0;0;;;;;;;;;;;;;;;19;1;3;4;1;0;0;0;0;0;1;-6;19;14;S. Scalia
-25-26;1;Championat de France;Domicile;;Charnay;;Starter;A. Gulbe;;;;;;;;;;;0;3;0,00;;;;;;;;;;;9;3;0;3;0;5;1;0;2;5;2;-6;-3;23;A. Gulbe
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;L. Bentoumi;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;2;0;2;1;1;0;0;0;1;0;-8;4;9;L. Bentoumi
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;E. Peytour;;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;0;;;;;;;;;0;1;2;3;3;1;1;0;0;1;0;-6;2;11;E. Peytour
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;O. Dabo;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;18;O. Dabo
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;E. Brizard;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
-25-26;1;Championat de France;Domicile;;Charnay;;Banc;A. Trasi;;;;;;;;;;;0;0;;;;;;;;;;;;4;1;0;1;1;1;1;0;0;3;2;3;4;32;A. Trasi
+25-26;1;Championat de France;Domicile;;Charnay;Capitaine;Starter;D. Harris(C);36;17;0,28;36,28;;;;;;;0;5;0;;;;;;;;;;;13;0;6;6;4;3;6;0;1;4;8;2;14;1;D. Harris(C)
+25-26;1;Championat de France;Domicile;;Charnay;;Starter;A. Risacher;19;45;0,75;19,75;;;;0;2;0;;;;0;0;;;;;;;;;3;0;1;1;1;1;3;0;0;5;1;-2;4;10;A. Risacher
+25-26;1;Championat de France;Domicile;;Charnay;;Starter;J. Zodia;26;28;0,47;26,47;;;;;;;0;2;0;;;;;;;;;;;14;1;2;3;2;2;5;0;0;3;5;-2;15;13;J. Zodia
+25-26;1;Championat de France;Domicile;;Charnay;;Starter;S. Scalia;37;6;0,1;37,1;;;;0;0;;;;;;;;;;;;;;;19;1;3;4;1;0;0;0;0;0;1;-6;19;14;S. Scalia
+25-26;1;Championat de France;Domicile;;Charnay;;Starter;A. Gulbe;28;8;0,13;28,13;;;;;;;0;3;0;;;;;;;;;;;9;3;0;3;0;5;1;0;2;5;2;-6;-3;23;A. Gulbe
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;L. Bentoumi;6;8;0,13;6,13;;;;;;;0;0;;0;0;;;;;;;;;2;2;0;2;1;1;0;0;0;1;0;-8;4;9;L. Bentoumi
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;E. Peytour;24;0;0;24;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;1;2;3;3;1;1;0;0;1;0;-6;2;11;E. Peytour
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;O. Dabo;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;18;O. Dabo
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;E. Brizard;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
+25-26;1;Championat de France;Domicile;;Charnay;;Banc;A. Trasi;21;58;0,97;21,97;;;;;;;0;0;;;;;;;;;;;;4;1;0;1;1;1;1;0;0;3;2;3;4;32;A. Trasi
 25-26;1;Championat de France;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1;Championat de France;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;20;60;0,33;13;34;0,38;;;;17;21;0,81;21;24;5;12;6;2;5;64;12;16;28;13;16;17;0;3;22;19;0;62;0;TOTAUX EQUIPE
-25-26;2;Championat de France;Exterieur;;Angers;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;0;;;;;;;;;;;;12;2;5;7;4;4;4;0;0;4;5;-1;17;1;D. Harris(C)
-25-26;2;Championat de France;Exterieur;;Angers;;Starter;J. Zodia;;;;;;;;;;;0;0;;;;;;;;;;;;18;4;7;11;0;1;5;0;0;4;6;3;23;13;J. Zodia
-25-26;2;Championat de France;Exterieur;;Angers;;Starter;S. Scalia;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;1;0;1;1;1;1;0;0;4;0;-3;1;14;S. Scalia
-25-26;2;Championat de France;Exterieur;;Angers;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;16;4;5;9;3;2;0;1;0;4;5;3;18;23;A. Gulbe
-25-26;2;Championat de France;Exterieur;;Angers;;Starter;A. Trasi;;;;;;;;;;;0;1;0,00;0;2;0,00;;;;;;;;2;1;5;6;1;3;1;0;0;3;2;-5;2;32;A. Trasi
-25-26;2;Championat de France;Exterieur;;Angers;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;2;Championat de France;Exterieur;;Angers;;Banc;A. Risacher;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;1;1;2;1;0;0;0;2;0;4;3;10;A. Risacher
-25-26;2;Championat de France;Exterieur;;Angers;;Banc;E. Peytour;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;2;1;0;1;4;1;2;0;0;3;4;-11;2;11;E. Peytour
-25-26;2;Championat de France;Exterieur;;Angers;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;2;Championat de France;Exterieur;;Angers;Capitaine;Starter;D. Harris(C);26;57;0,95;26,95;;;;;;;0;0;;;;;;;;;;;;12;2;5;7;4;4;4;0;0;4;5;-1;17;1;D. Harris(C)
+25-26;2;Championat de France;Exterieur;;Angers;;Starter;J. Zodia;32;45;0,75;32,75;;;;;;;0;0;;;;;;;;;;;;18;4;7;11;0;1;5;0;0;4;6;3;23;13;J. Zodia
+25-26;2;Championat de France;Exterieur;;Angers;;Starter;S. Scalia;33;26;0,43;33,43;;;;0;1;0;;;;0;0;;;;;;;;;6;1;0;1;1;1;1;0;0;4;0;-3;1;14;S. Scalia
+25-26;2;Championat de France;Exterieur;;Angers;;Starter;A. Gulbe;38;43;0,72;38,72;;;;;;;;;;;;;;;;;;;;16;4;5;9;3;2;0;1;0;4;5;3;18;23;A. Gulbe
+25-26;2;Championat de France;Exterieur;;Angers;;Starter;A. Trasi;25;59;0,98;25,98;;;;;;;0;1;0;0;2;0;;;;;;;;2;1;5;6;1;3;1;0;0;3;2;-5;2;32;A. Trasi
+25-26;2;Championat de France;Exterieur;;Angers;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;2;Championat de France;Exterieur;;Angers;;Banc;A. Risacher;19;35;0,58;19,58;;;;;;;0;1;0;0;0;;;;;;;;;4;0;1;1;2;1;0;0;0;2;0;4;3;10;A. Risacher
+25-26;2;Championat de France;Exterieur;;Angers;;Banc;E. Peytour;22;35;0,58;22,58;;;;;;;0;4;0;0;0;;;;;;;;;2;1;0;1;4;1;2;0;0;3;4;-11;2;11;E. Peytour
+25-26;2;Championat de France;Exterieur;;Angers;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
 25-26;2;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;2;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;22;63;0,35;19;45;0,42;;;;13;18;0,72;20;36;9;8;6;5;8;60;15;24;39;15;14;13;1;0;24;22;0;68;0;TOTAUX EQUIPE
-25-26;3;Championat de France;Domicile;;Toulouse;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;19;4;2;6;6;4;2;0;0;3;9;16;18;1;D. Harris(C)
-25-26;3;Championat de France;Domicile;;Toulouse;;Starter;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;9;2;2;4;2;3;1;1;0;1;2;7;5;10;A. Risacher
-25-26;3;Championat de France;Domicile;;Toulouse;;Starter;J. Zodia;;;;;;;;;;;0;2;0,00;;;;;;;;;;;12;4;5;9;1;0;1;0;0;3;3;11;17;13;J. Zodia
-25-26;3;Championat de France;Domicile;;Toulouse;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;17;0;4;4;0;1;1;0;1;2;0;1;16;14;S. Scalia
-25-26;3;Championat de France;Domicile;;Toulouse;;Starter;A. Gulbe;;;;;;;;;;;0;4;0,00;;;;;;;;;;;15;2;3;5;2;3;2;0;0;5;4;6;14;23;A. Gulbe
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;2;3;1;0;1;0;0;1;1;1;5;9;L. Bentoumi
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;E. Peytour;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;0;0;2;2;1;0;0;2;0;-16;0;11;E. Peytour
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;M. Greusard;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;M. Greusard
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;A. Trasi;;;;;0;3;0,00;0;3;0,00;0;0;;;;;;;;;;;;1;1;1;2;1;1;0;0;0;3;2;-6;-1;32;A. Trasi
+25-26;3;Championat de France;Domicile;;Toulouse;Capitaine;Starter;D. Harris(C);28;48;0,8;28,8;;;;;;;0;2;0;;;;;;;;;;;19;4;2;6;6;4;2;0;0;3;9;16;18;1;D. Harris(C)
+25-26;3;Championat de France;Domicile;;Toulouse;;Starter;A. Risacher;33;8;0,13;33,13;;;;;;;;;;0;0;;;;;;;;;9;2;2;4;2;3;1;1;0;1;2;7;5;10;A. Risacher
+25-26;3;Championat de France;Domicile;;Toulouse;;Starter;J. Zodia;27;53;0,88;27,88;;;;;;;0;2;0;;;;;;;;;;;12;4;5;9;1;0;1;0;0;3;3;11;17;13;J. Zodia
+25-26;3;Championat de France;Domicile;;Toulouse;;Starter;S. Scalia;33;40;0,67;33,67;;;;;;;;;;0;0;;;;;;;;;17;0;4;4;0;1;1;0;1;2;0;1;16;14;S. Scalia
+25-26;3;Championat de France;Domicile;;Toulouse;;Starter;A. Gulbe;26;54;0,9;26,9;;;;;;;0;4;0;;;;;;;;;;;15;2;3;5;2;3;2;0;0;5;4;6;14;23;A. Gulbe
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;L. Bentoumi;8;9;0,15;8,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;2;3;1;0;1;0;0;1;1;1;5;9;L. Bentoumi
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;E. Peytour;18;13;0,22;18,22;;;;0;2;0;;;;0;0;;;;;;;;;3;0;0;0;2;2;1;0;0;2;0;-16;0;11;E. Peytour
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;M. Greusard;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;M. Greusard
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;A. Trasi;23;5;0,08;23,08;0;3;0;0;3;0;0;0;;;;;;;;;;;;1;1;1;2;1;1;0;0;0;3;2;-6;-1;32;A. Trasi
 25-26;3;Championat de France;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;3;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;26;63;0,41;19;38;0,50;;;;17;26;0,65;17;32;15;16;4;15;9;76;16;22;38;15;15;9;1;1;20;21;0;78;0;TOTAUX EQUIPE
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;14;0;1;1;4;2;3;0;0;4;9;-13;11;1;D. Harris(C)
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;6;4;2;1;1;3;0;-4;6;10;A. Risacher
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;13;0;6;6;1;1;2;1;0;3;4;-5;15;13;J. Zodia
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Scalia;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;0;4;4;1;1;3;0;0;2;0;-15;8;14;S. Scalia
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Gulbe;;;;;;;;;;;0;2;0,00;;;;;;;;;;;17;4;1;5;1;4;1;0;0;2;7;-12;9;23;A. Gulbe
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;E. Peytour;;;;;;;;0;1;0,00;;;;;;;;;;;;;;7;1;2;3;4;1;2;0;0;1;3;1;10;11;E. Peytour
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
-25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Trasi;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;1;3;4;2;1;1;0;2;3;3;3;7;32;A. Trasi
+25-26;3;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;26;63;0,41;19;38;0,5;;;;17;26;0,65;17;32;15;16;4;15;9;76;16;22;38;15;15;9;1;1;20;21;0;78;0;TOTAUX EQUIPE
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Starter;D. Harris(C);33;3;0,05;33,05;;;;;;;0;2;0;;;;;;;;;;;14;0;1;1;4;2;3;0;0;4;9;-13;11;1;D. Harris(C)
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Risacher;24;46;0,77;24,77;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;6;4;2;1;1;3;0;-4;6;10;A. Risacher
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;J. Zodia;26;3;0,05;26,05;;;;;;;0;1;0;;;;;;;;;;;13;0;6;6;1;1;2;1;0;3;4;-5;15;13;J. Zodia
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;S. Scalia;30;6;0,1;30,1;;;;;;;0;2;0;0;0;;;;;;;;;4;0;4;4;1;1;3;0;0;2;0;-15;8;14;S. Scalia
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Gulbe;35;22;0,37;35,37;;;;;;;0;2;0;;;;;;;;;;;17;4;1;5;1;4;1;0;0;2;7;-12;9;23;A. Gulbe
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;E. Peytour;19;34;0,57;19,57;;;;0;1;0;;;;;;;;;;;;;;7;1;2;3;4;1;2;0;0;1;3;1;10;11;E. Peytour
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Trasi;31;6;0,1;31,1;;;;;;;0;0;;0;0;;;;;;;;;4;1;3;4;2;1;1;0;2;3;3;3;7;32;A. Trasi
 25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;4;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;22;62;0,35;19;45;0,42;;;;17;23;0,74;19;30;7;10;11;8;7;64;11;22;33;19;16;14;2;3;18;26;0;70;0;TOTAUX EQUIPE
-25-26;5;Championat de France;Domicile;;Landerneau;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;20;1;7;8;8;4;1;0;0;4;3;16;24;1;D. Harris(C)
-25-26;5;Championat de France;Domicile;;Landerneau;;Starter;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;8;2;2;4;6;1;1;0;1;1;1;10;16;10;A. Risacher
-25-26;5;Championat de France;Domicile;;Landerneau;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;19;1;9;10;6;2;1;0;0;3;4;7;28;13;J. Zodia
-25-26;5;Championat de France;Domicile;;Landerneau;;Starter;S. Scalia;;;;;;;;0;1;0,00;;;;;;;;;;;;;;22;1;2;3;4;3;0;0;1;3;0;11;21;14;S. Scalia
-25-26;5;Championat de France;Domicile;;Landerneau;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;14;1;5;6;3;2;1;1;0;2;7;7;14;23;A. Gulbe
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;H. Scott-Grayson;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;0;0;2;0;2;0;0;1;1;-2;6;2;H. Scott-Grayson
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;E. Peytour;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;1;-9;0;11;E. Peytour
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;A. Trasi;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;1;0;1;0;4;0;-1;-2;32;A. Trasi
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;D. Balayera;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-4;0;77;D. Balayera
+25-26;5;Championat de France;Domicile;;Landerneau;Capitaine;Starter;D. Harris(C);35;17;0,28;35,28;;;;;;;;;;;;;;;;;;;;20;1;7;8;8;4;1;0;0;4;3;16;24;1;D. Harris(C)
+25-26;5;Championat de France;Domicile;;Landerneau;;Starter;A. Risacher;25;44;0,73;25,73;;;;;;;;;;0;0;;;;;;;;;8;2;2;4;6;1;1;0;1;1;1;10;16;10;A. Risacher
+25-26;5;Championat de France;Domicile;;Landerneau;;Starter;J. Zodia;30;31;0,52;30,52;;;;;;;0;1;0;;;;;;;;;;;19;1;9;10;6;2;1;0;0;3;4;7;28;13;J. Zodia
+25-26;5;Championat de France;Domicile;;Landerneau;;Starter;S. Scalia;37;4;0,07;37,07;;;;0;1;0;;;;;;;;;;;;;;22;1;2;3;4;3;0;0;1;3;0;11;21;14;S. Scalia
+25-26;5;Championat de France;Domicile;;Landerneau;;Starter;A. Gulbe;35;3;0,05;35,05;;;;;;;;;;;;;;;;;;;;14;1;5;6;3;2;1;1;0;2;7;7;14;23;A. Gulbe
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;H. Scott-Grayson;15;31;0,52;15,52;;;;0;1;0;;;;0;0;;;;;;;;;3;0;0;0;2;0;2;0;0;1;1;-2;6;2;H. Scott-Grayson
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;E. Peytour;4;3;0,05;4,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;1;-9;0;11;E. Peytour
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;A. Trasi;11;44;0,73;11,73;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;1;0;1;0;4;0;-1;-2;32;A. Trasi
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;D. Balayera;4;4;0,07;4,07;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;0;0;-4;0;77;D. Balayera
 25-26;5;Championat de France;Domicile;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;5;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;28;56;0,50;16;33;0,48;;;;18;24;0,75;15;26;11;9;3;8;10;86;7;27;34;29;15;6;2;2;20;17;0;108;0;TOTAUX EQUIPE
-25-26;6;Championat de France;Exterieur;;Bourges;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;2;4;6;6;3;1;0;0;3;7;1;11;1;D. Harris(C)
-25-26;6;Championat de France;Exterieur;;Bourges;;Starter;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;13;0;4;4;2;1;0;3;0;3;1;-6;20;10;A. Risacher
-25-26;6;Championat de France;Exterieur;;Bourges;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;12;1;5;6;2;1;0;0;0;2;4;-2;10;13;J. Zodia
-25-26;6;Championat de France;Exterieur;;Bourges;;Starter;S. Scalia;;;;;;;;0;0;;;;;;;;;;;;;;;5;0;2;2;0;0;0;0;0;1;1;-10;3;14;S. Scalia
-25-26;6;Championat de France;Exterieur;;Bourges;;Starter;A. Trasi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;14;0;0;0;0;0;1;0;0;5;6;0;5;32;A. Trasi
-25-26;6;Championat de France;Exterieur;;Bourges;;Banc;H. Scott-Grayson;;;;;;;;;;;0;0;;;;;;;;;;;;4;1;0;1;1;2;0;0;0;5;1;-2;2;2;H. Scott-Grayson
-25-26;6;Championat de France;Exterieur;;Bourges;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;6;Championat de France;Exterieur;;Bourges;;Banc;E. Peytour;;;;;0;5;0,00;0;2;0,00;0;3;0,00;0;0;;;;;;;;;0;0;1;1;1;1;0;0;0;0;3;-7;-4;11;E. Peytour
-25-26;6;Championat de France;Exterieur;;Bourges;;Banc;A. Gulbe;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;23;A. Gulbe
-25-26;6;Championat de France;Exterieur;;Bourges;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;2;1;3;1;1;0;0;1;2;1;-14;3;77;D. Balayera
+25-26;5;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;28;56;0,5;16;33;0,48;;;;18;24;0,75;15;26;11;9;3;8;10;86;7;27;34;29;15;6;2;2;20;17;0;108;0;TOTAUX EQUIPE
+25-26;6;Championat de France;Exterieur;;Bourges;Capitaine;Starter;D. Harris(C);30;32;0,53;30,53;;;;;;;0;1;0;;;;;;;;;;;10;2;4;6;6;3;1;0;0;3;7;1;11;1;D. Harris(C)
+25-26;6;Championat de France;Exterieur;;Bourges;;Starter;A. Risacher;29;17;0,28;29,28;;;;;;;;;;;;;;;;;;;;13;0;4;4;2;1;0;3;0;3;1;-6;20;10;A. Risacher
+25-26;6;Championat de France;Exterieur;;Bourges;;Starter;J. Zodia;33;52;0,87;33,87;;;;;;;;;;;;;;;;;;;;12;1;5;6;2;1;0;0;0;2;4;-2;10;13;J. Zodia
+25-26;6;Championat de France;Exterieur;;Bourges;;Starter;S. Scalia;29;45;0,75;29,75;;;;0;0;;;;;;;;;;;;;;;5;0;2;2;0;0;0;0;0;1;1;-10;3;14;S. Scalia
+25-26;6;Championat de France;Exterieur;;Bourges;;Starter;A. Trasi;26;27;0,45;26,45;;;;;;;0;2;0;;;;;;;;;;;14;0;0;0;0;0;1;0;0;5;6;0;5;32;A. Trasi
+25-26;6;Championat de France;Exterieur;;Bourges;;Banc;H. Scott-Grayson;13;23;0,38;13,38;;;;;;;0;0;;;;;;;;;;;;4;1;0;1;1;2;0;0;0;5;1;-2;2;2;H. Scott-Grayson
+25-26;6;Championat de France;Exterieur;;Bourges;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;6;Championat de France;Exterieur;;Bourges;;Banc;E. Peytour;17;3;0,05;17,05;0;5;0;0;2;0;0;3;0;0;0;;;;;;;;;0;0;1;1;1;1;0;0;0;0;3;-7;-4;11;E. Peytour
+25-26;6;Championat de France;Exterieur;;Bourges;;Banc;A. Gulbe;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;23;A. Gulbe
+25-26;6;Championat de France;Exterieur;;Bourges;;Banc;D. Balayera;19;41;0,68;19,68;;;;;;;0;1;0;;;;;;;;;;;5;2;1;3;1;1;0;0;1;2;1;-14;3;77;D. Balayera
 25-26;6;Championat de France;Exterieur;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;6;Championat de France;Exterieur;;Bourges;;Banc;TOTAUX EQUIPE;;;;;22;56;0,39;18;40;0,45;;;;15;26;0,58;14;26;10;6;9;4;8;63;8;19;27;13;11;2;3;1;21;24;0;52;0;TOTAUX EQUIPE
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;16;0;3;3;2;2;4;0;1;4;5;-13;15;1;D. Harris(C)
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Risacher;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;1;1;4;4;1;1;0;1;0;-5;6;10;A. Risacher
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;14;3;6;9;3;5;1;0;0;2;3;-9;19;13;J. Zodia
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;16;1;1;2;0;0;0;0;0;1;0;-16;13;14;S. Scalia
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Trasi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;1;2;3;2;1;1;0;0;3;2;-8;3;32;A. Trasi
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;H. Scott-Grayson;;;;;0;7;0,00;0;5;0,00;0;2;0,00;0;0;;;;;;;;;0;2;5;7;1;1;1;0;1;1;0;-7;1;2;H. Scott-Grayson
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Peytour;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;0;0;1;3;0;0;0;0;2;-1;-2;11;E. Peytour
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;A. Gulbe;;;;;;;;;;;0;3;0,00;;;;;;;;;;;8;2;3;5;0;1;0;0;1;4;2;-16;6;23;A. Gulbe
-25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;D. Balayera;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;1;2;0;1;1;0;0;0;2;5;9;77;D. Balayera
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Starter;D. Harris(C);31;7;0,12;31,12;;;;;;;0;2;0;;;;;;;;;;;16;0;3;3;2;2;4;0;1;4;5;-13;15;1;D. Harris(C)
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Risacher;30;2;0,03;30,03;;;;;;;0;1;0;0;0;;;;;;;;;4;0;1;1;4;4;1;1;0;1;0;-5;6;10;A. Risacher
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;J. Zodia;22;33;0,55;22,55;;;;;;;;;;;;;;;;;;;;14;3;6;9;3;5;1;0;0;2;3;-9;19;13;J. Zodia
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;S. Scalia;31;21;0,35;31,35;;;;;;;;;;0;0;;;;;;;;;16;1;1;2;0;0;0;0;0;1;0;-16;13;14;S. Scalia
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Trasi;26;14;0,23;26,23;;;;;;;0;1;0;;;;;;;;;;;3;1;2;3;2;1;1;0;0;3;2;-8;3;32;A. Trasi
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;H. Scott-Grayson;19;5;0,08;19,08;0;7;0;0;5;0;0;2;0;0;0;;;;;;;;;0;2;5;7;1;1;1;0;1;1;0;-7;1;2;H. Scott-Grayson
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;E. Peytour;8;5;0,08;8,08;;;;;;;0;2;0;0;0;;;;;;;;;2;0;0;0;1;3;0;0;0;0;2;-1;-2;11;E. Peytour
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;A. Gulbe;21;0;0;21;;;;;;;0;3;0;;;;;;;;;;;8;2;3;5;0;1;0;0;1;4;2;-16;6;23;A. Gulbe
+25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;D. Balayera;10;13;0,22;10,22;;;;;;;0;0;;;;;;;;;;;;7;1;1;2;0;1;1;0;0;0;2;5;9;77;D. Balayera
 25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;7;Championat de France;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;26;62;0,42;21;43;0,49;;;;13;14;0,93;18;34;9;9;17;1;7;70;11;25;36;13;19;9;1;3;16;16;0;73;0;TOTAUX EQUIPE
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;16;1;2;3;6;1;4;0;0;3;5;25;27;1;D. Harris(C)
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;11;0;3;3;3;4;1;0;1;3;2;11;5;13;J. Zodia
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;18;1;2;3;1;0;0;0;0;1;0;9;14;14;S. Scalia
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;19;1;2;3;1;2;1;2;0;4;5;18;20;23;A. Gulbe
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Trasi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;9;2;2;4;5;2;0;0;1;4;3;18;10;32;A. Trasi
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;;;;;;;;;;;6;2;1;3;1;0;0;0;0;3;2;13;9;2;H. Scott-Grayson
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;5;1;2;1;0;1;2;13;12;10;A. Risacher
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;E. Peytour;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;0;1;1;3;1;0;0;0;1;1;14;5;11;E. Peytour
-25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;B. Diana;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;0;0;2;0;0;5;1;14;8;77;B. Diana
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Starter;D. Harris(C);22;24;0,4;22,4;;;;;;;;;;;;;;;;;;;;16;1;2;3;6;1;4;0;0;3;5;25;27;1;D. Harris(C)
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;J. Zodia;25;33;0,55;25,55;;;;;;;;;;;;;;;;;;;;11;0;3;3;3;4;1;0;1;3;2;11;5;13;J. Zodia
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;S. Scalia;24;2;0,03;24,03;;;;0;0;;;;;0;0;;;;;;;;;18;1;2;3;1;0;0;0;0;1;0;9;14;14;S. Scalia
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Gulbe;23;15;0,25;23,25;;;;;;;;;;;;;;;;;;;;19;1;2;3;1;2;1;2;0;4;5;18;20;23;A. Gulbe
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Trasi;26;15;0,25;26,25;;;;;;;0;2;0;;;;;;;;;;;9;2;2;4;5;2;0;0;1;4;3;18;10;32;A. Trasi
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;H. Scott-Grayson;13;16;0,27;13,27;;;;;;;;;;;;;;;;;;;;6;2;1;3;1;0;0;0;0;3;2;13;9;2;H. Scott-Grayson
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Risacher;26;21;0,35;26,35;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;5;1;2;1;0;1;2;13;12;10;A. Risacher
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;E. Peytour;17;30;0,5;17,5;;;;0;1;0;;;;0;0;;;;;;;;;3;0;1;1;3;1;0;0;0;1;1;14;5;11;E. Peytour
+25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;B. Diana;21;24;0,4;21,4;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;0;0;2;0;0;5;1;14;8;77;B. Diana
 25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;8;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;32;63;0,51;18;32;0,56;14;31;0,45;14;18;0,78;23;32;1;8;19;27;11;92;10;22;32;25;12;10;3;2;25;21;0;115;0;TOTAUX EQUIPE
-25-26;9;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;15;4;6;10;4;1;1;0;1;5;9;-2;14;1;D. Harris(C)
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;H. Scott-Grayson;;;;;;;;;;;;;;0;1;0,00;;;;;;;;7;2;2;4;2;1;2;1;0;1;2;-12;8;2;H. Scott-Grayson
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;2;5;7;0;1;2;0;1;1;4;-8;9;13;J. Zodia
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;S. Scalia;;;;;;;;0;1;0,00;;;;;;;;;;;;;;8;0;2;2;0;0;0;0;0;1;2;1;4;14;S. Scalia
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;10;1;2;3;0;3;1;1;0;5;1;10;9;23;A. Gulbe
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;4;5;3;2;1;0;0;1;1;5;6;10;A. Risacher
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;E. Peytour;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;2;4;0;0;1;2;1;-5;3;11;E. Peytour
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Trasi;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;2;2;2;1;2;0;0;4;0;-7;7;32;A. Trasi
-25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;2;0;2;0;3;1;2;0;3;0;-2;1;77;D. Balayera
+25-26;9;Championat de France;Exterieur;;Roche Vendée;Capitaine;Starter;D. Harris(C);27;23;0,38;27,38;;;;;;;0;2;0;;;;;;;;;;;15;4;6;10;4;1;1;0;1;5;9;-2;14;1;D. Harris(C)
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;H. Scott-Grayson;21;13;0,22;21,22;;;;;;;;;;0;1;0;;;;;;;;7;2;2;4;2;1;2;1;0;1;2;-12;8;2;H. Scott-Grayson
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;J. Zodia;29;59;0,98;29,98;;;;;;;0;1;0;;;;;;;;;;;10;2;5;7;0;1;2;0;1;1;4;-8;9;13;J. Zodia
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;S. Scalia;26;17;0,28;26,28;;;;0;1;0;;;;;;;;;;;;;;8;0;2;2;0;0;0;0;0;1;2;1;4;14;S. Scalia
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Gulbe;17;37;0,62;17,62;;;;;;;;;;;;;;;;;;;;10;1;2;3;0;3;1;1;0;5;1;10;9;23;A. Gulbe
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Risacher;26;24;0,4;26,4;;;;;;;;;;0;0;;;;;;;;;5;1;4;5;3;2;1;0;0;1;1;5;6;10;A. Risacher
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;E. Peytour;15;0;0;15;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;2;4;0;0;1;2;1;-5;3;11;E. Peytour
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Trasi;21;15;0,25;21,25;;;;;;;0;0;;0;0;;;;;;;;;4;0;2;2;2;1;2;0;0;4;0;-7;7;32;A. Trasi
+25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;D. Balayera;14;52;0,87;14,87;;;;;;;0;1;0;0;0;;;;;;;;;2;2;0;2;0;3;1;2;0;3;0;-2;1;77;D. Balayera
 25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;9;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;24;72;0,33;18;46;0,39;;;;;;;16;34;12;9;16;8;11;66;17;29;46;13;18;10;4;3;23;20;0;66;0;TOTAUX EQUIPE
-25-26;10;Championat de France;Domicile;;Chartres;Capitaine;Starter;D. Harris(C);;;;;;;;0;5;0,00;;;;;;;;;;;;;;8;0;3;3;5;3;0;0;0;3;5;6;6;1;D. Harris(C)
-25-26;10;Championat de France;Domicile;;Chartres;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;21;8;3;11;1;3;2;0;1;4;2;15;23;13;J. Zodia
-25-26;10;Championat de France;Domicile;;Chartres;;Starter;S. Scalia;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;6;1;4;5;1;1;2;0;1;0;3;3;8;14;S. Scalia
-25-26;10;Championat de France;Domicile;;Chartres;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;13;2;4;6;2;5;0;1;0;1;5;17;15;23;A. Gulbe
-25-26;10;Championat de France;Domicile;;Chartres;;Starter;A. Trasi;;;;;;;;;;;0;0;;;;;;;;;;;;14;1;3;4;2;0;3;0;0;3;2;9;19;32;A. Trasi
-25-26;10;Championat de France;Domicile;;Chartres;;Banc;H. Scott-Grayson;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;2;1;3;0;2;0;1;0;2;2;-10;5;2;H. Scott-Grayson
-25-26;10;Championat de France;Domicile;;Chartres;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;10;Championat de France;Domicile;;Chartres;;Banc;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;5;3;4;7;3;4;1;1;0;1;1;17;9;10;A. Risacher
-25-26;10;Championat de France;Domicile;;Chartres;;Banc;E. Peytour;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;0;0;5;1;0;0;0;0;0;14;3;11;E. Peytour
-25-26;10;Championat de France;Domicile;;Chartres;;Banc;D. Balayera;;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;2;0;2;2;0;0;0;1;0;2;1;-1;3;77;D. Balayera
+25-26;10;Championat de France;Domicile;;Chartres;Capitaine;Starter;D. Harris(C);19;8;0,13;19,13;;;;0;5;0;;;;;;;;;;;;;;8;0;3;3;5;3;0;0;0;3;5;6;6;1;D. Harris(C)
+25-26;10;Championat de France;Domicile;;Chartres;;Starter;J. Zodia;31;0;0;31;;;;;;;0;1;0;;;;;;;;;;;21;8;3;11;1;3;2;0;1;4;2;15;23;13;J. Zodia
+25-26;10;Championat de France;Domicile;;Chartres;;Starter;S. Scalia;27;23;0,38;27,38;;;;0;1;0;;;;0;0;;;;;;;;;6;1;4;5;1;1;2;0;1;0;3;3;8;14;S. Scalia
+25-26;10;Championat de France;Domicile;;Chartres;;Starter;A. Gulbe;26;53;0,88;26,88;;;;;;;;;;;;;;;;;;;;13;2;4;6;2;5;0;1;0;1;5;17;15;23;A. Gulbe
+25-26;10;Championat de France;Domicile;;Chartres;;Starter;A. Trasi;25;28;0,47;25,47;;;;;;;0;0;;;;;;;;;;;;14;1;3;4;2;0;3;0;0;3;2;9;19;32;A. Trasi
+25-26;10;Championat de France;Domicile;;Chartres;;Banc;H. Scott-Grayson;19;12;0,2;19,2;;;;;;;0;1;0;;;;;;;;;;;6;2;1;3;0;2;0;1;0;2;2;-10;5;2;H. Scott-Grayson
+25-26;10;Championat de France;Domicile;;Chartres;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;10;Championat de France;Domicile;;Chartres;;Banc;A. Risacher;22;51;0,85;22,85;;;;;;;;;;0;0;;;;;;;;;5;3;4;7;3;4;1;1;0;1;1;17;9;10;A. Risacher
+25-26;10;Championat de France;Domicile;;Chartres;;Banc;E. Peytour;19;5;0,08;19,08;;;;0;2;0;;;;0;0;;;;;;;;;3;0;0;0;5;1;0;0;0;0;0;14;3;11;E. Peytour
+25-26;10;Championat de France;Domicile;;Chartres;;Banc;D. Balayera;9;0;0;9;;;;;;;0;0;;0;2;0;;;;;;;;2;0;2;2;0;0;0;1;0;2;1;-1;3;77;D. Balayera
 25-26;10;Championat de France;Domicile;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;10;Championat de France;Domicile;;Chartres;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;20;42;0,48;;;;17;23;0,74;13;26;11;10;16;16;10;78;17;26;43;19;21;8;4;2;16;21;0;91;0;TOTAUX EQUIPE
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;6;1;2;3;2;1;0;0;0;4;1;-6;5;10;A. Risacher
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;E. Peytour;;;;;;;;0;4;0,00;;;;0;0;;;;;;;;;3;0;2;2;0;2;2;0;0;0;1;-7;-2;11;E. Peytour
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;J. Zodia;;;;;;;;;;;0;0;;;;;;;;;;;;9;1;6;7;0;2;2;0;0;3;1;-4;10;13;J. Zodia
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;12;2;2;4;1;5;1;0;0;2;4;0;3;23;A. Gulbe
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Trasi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;0;3;3;0;2;0;0;0;0;2;-7;3;32;A. Trasi
-25-26;11;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;D. Harris(C);;;;;;;;;;;0;3;0,00;;;;;;;;;;;13;0;2;2;7;4;3;0;1;4;7;8;17;1;D. Harris(C)
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;;;;;;;;;;;6;1;1;2;0;2;2;1;0;4;3;3;3;2;H. Scott-Grayson
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;1;-6;0;9;L. Bentoumi
-25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;D. Balayera;;;;;;;;;;;0;0;;;;;;;;;;;;8;2;2;4;1;3;3;0;0;0;1;4;13;77;D. Balayera
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Risacher;17;37;0,62;17,62;;;;;;;;;;;;;;;;;;;;6;1;2;3;2;1;0;0;0;4;1;-6;5;10;A. Risacher
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;E. Peytour;25;42;0,7;25,7;;;;0;4;0;;;;0;0;;;;;;;;;3;0;2;2;0;2;2;0;0;0;1;-7;-2;11;E. Peytour
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;J. Zodia;28;0;0;28;;;;;;;0;0;;;;;;;;;;;;9;1;6;7;0;2;2;0;0;3;1;-4;10;13;J. Zodia
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Gulbe;35;47;0,78;35,78;;;;;;;;;;;;;;;;;;;;12;2;2;4;1;5;1;0;0;2;4;0;3;23;A. Gulbe
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Starter;A. Trasi;20;59;0,98;20,98;;;;;;;0;1;0;;;;;;;;;;;4;0;3;3;0;2;0;0;0;0;2;-7;3;32;A. Trasi
+25-26;11;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;D. Harris(C);33;50;0,83;33,83;;;;;;;0;3;0;;;;;;;;;;;13;0;2;2;7;4;3;0;1;4;7;8;17;1;D. Harris(C)
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;H. Scott-Grayson;21;52;0,87;21,87;;;;;;;;;;;;;;;;;;;;6;1;1;2;0;2;2;1;0;4;3;3;3;2;H. Scott-Grayson
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;L. Bentoumi;2;7;0,12;2,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;1;-6;0;9;L. Bentoumi
+25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;D. Balayera;13;16;0,27;13,27;;;;;;;0;0;;;;;;;;;;;;8;2;2;4;1;3;3;0;0;0;1;4;13;77;D. Balayera
 25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;4;7;0;2;0;0;0;1;0;0;0;0;Team / Coach
 25-26;11;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;22;57;0,39;18;39;0,46;;;;13;18;0,72;15;34;3;10;27;5;10;61;10;24;34;11;23;13;1;1;19;21;0;57;0;TOTAUX EQUIPE
-25-26;12;Championat de France;Exterieur;;Charnay;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;13;2;5;7;6;1;1;0;0;4;7;7;18;1;D. Harris(C)
-25-26;12;Championat de France;Exterieur;;Charnay;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;20;1;5;6;2;3;2;0;0;5;4;-2;22;13;J. Zodia
-25-26;12;Championat de France;Exterieur;;Charnay;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;15;1;2;3;0;2;4;0;0;1;1;-4;15;14;S. Scalia
-25-26;12;Championat de France;Exterieur;;Charnay;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;16;4;3;7;3;4;0;0;3;0;3;-9;16;23;A. Gulbe
-25-26;12;Championat de France;Exterieur;;Charnay;;Starter;A. Trasi;;;;;0;5;0,00;0;4;0,00;0;1;0,00;0;0;;;;;;;;;0;2;2;4;1;0;0;0;0;2;1;0;0;32;A. Trasi
-25-26;12;Championat de France;Exterieur;;Charnay;;Banc;H. Scott-Grayson;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;-3;0;2;H. Scott-Grayson
-25-26;12;Championat de France;Exterieur;;Charnay;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;12;Championat de France;Exterieur;;Charnay;;Banc;A. Risacher;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;1;1;3;1;0;0;0;0;0;-1;0;10;A. Risacher
-25-26;12;Championat de France;Exterieur;;Charnay;;Banc;E. Peytour;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;2;1;0;0;0;1;0;-11;-1;11;E. Peytour
-25-26;12;Championat de France;Exterieur;;Charnay;;Banc;D. Balayera;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;3;4;1;3;1;0;0;3;1;3;9;77;D. Balayera
+25-26;12;Championat de France;Exterieur;;Charnay;Capitaine;Starter;D. Harris(C);30;6;0,1;30,1;;;;;;;;;;;;;;;;;;;;13;2;5;7;6;1;1;0;0;4;7;7;18;1;D. Harris(C)
+25-26;12;Championat de France;Exterieur;;Charnay;;Starter;J. Zodia;27;10;0,17;27,17;;;;;;;;;;;;;;;;;;;;20;1;5;6;2;3;2;0;0;5;4;-2;22;13;J. Zodia
+25-26;12;Championat de France;Exterieur;;Charnay;;Starter;S. Scalia;34;26;0,43;34,43;;;;;;;;;;0;0;;;;;;;;;15;1;2;3;0;2;4;0;0;1;1;-4;15;14;S. Scalia
+25-26;12;Championat de France;Exterieur;;Charnay;;Starter;A. Gulbe;33;18;0,3;33,3;;;;;;;;;;;;;;;;;;;;16;4;3;7;3;4;0;0;3;0;3;-9;16;23;A. Gulbe
+25-26;12;Championat de France;Exterieur;;Charnay;;Starter;A. Trasi;19;38;0,63;19,63;0;5;0;0;4;0;0;1;0;0;0;;;;;;;;;0;2;2;4;1;0;0;0;0;2;1;0;0;32;A. Trasi
+25-26;12;Championat de France;Exterieur;;Charnay;;Banc;H. Scott-Grayson;6;5;0,08;6,08;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;-3;0;2;H. Scott-Grayson
+25-26;12;Championat de France;Exterieur;;Charnay;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;12;Championat de France;Exterieur;;Charnay;;Banc;A. Risacher;19;31;0,52;19,52;;;;;;;0;2;0;0;0;;;;;;;;;2;0;1;1;3;1;0;0;0;0;0;-1;0;10;A. Risacher
+25-26;12;Championat de France;Exterieur;;Charnay;;Banc;E. Peytour;9;4;0,07;9,07;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;2;1;0;0;0;1;0;-11;-1;11;E. Peytour
+25-26;12;Championat de France;Exterieur;;Charnay;;Banc;D. Balayera;19;32;0,53;19,53;;;;;;;0;0;;;;;;;;;;;;7;1;3;4;1;3;1;0;0;3;1;3;9;77;D. Balayera
 25-26;12;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;12;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;25;61;0,41;18;41;0,44;;;;16;19;0,84;7;24;14;2;9;5;8;73;12;25;37;18;17;8;0;3;16;17;0;80;0;TOTAUX EQUIPE
-25-26;13;Championat de France;Domicile;;Angers;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;20;2;1;3;2;1;2;0;1;1;7;11;18;1;D. Harris(C)
-25-26;13;Championat de France;Domicile;;Angers;;Starter;J. Zodia;;;;;;;;;;;0;0;;;;;;;;;;;;16;1;4;5;3;5;1;0;1;3;5;0;15;13;J. Zodia
-25-26;13;Championat de France;Domicile;;Angers;;Starter;S. Scalia;;;;;0;2;0,00;0;1;0,00;0;1;0,00;;;;;;;;;;;2;0;1;1;1;3;2;0;0;0;2;-9;1;14;S. Scalia
-25-26;13;Championat de France;Domicile;;Angers;;Starter;A. Gulbe;;;;;;;;0;2;0,00;;;;;;;;;;;;;;10;3;4;7;3;0;2;1;0;2;7;8;19;23;A. Gulbe
-25-26;13;Championat de France;Domicile;;Angers;;Starter;A. Trasi;;;;;;;;;;;;;;0;1;0,00;;;;;;;;9;2;5;7;1;2;0;0;1;1;3;7;12;32;A. Trasi
-25-26;13;Championat de France;Domicile;;Angers;;Banc;H. Scott-Grayson;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;0;1;0;0;0;3;0;-1;-1;2;H. Scott-Grayson
-25-26;13;Championat de France;Domicile;;Angers;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;13;Championat de France;Domicile;;Angers;;Banc;A. Risacher;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;8;2;1;3;1;2;1;0;0;2;1;14;8;10;A. Risacher
-25-26;13;Championat de France;Domicile;;Angers;;Banc;E. Peytour;;;;;0;3;0,00;0;0;;0;3;0,00;;;;;;;;;;;2;0;1;1;2;4;2;0;0;1;1;-6;0;11;E. Peytour
-25-26;13;Championat de France;Domicile;;Angers;;Banc;E. Brizard;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
-25-26;13;Championat de France;Domicile;;Angers;;Banc;D. Balayera;;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;3;0;1;1;0;1;2;0;0;0;0;1;1;77;D. Balayera
+25-26;13;Championat de France;Domicile;;Angers;Capitaine;Starter;D. Harris(C);27;48;0,8;27,8;;;;;;;0;2;0;;;;;;;;;;;20;2;1;3;2;1;2;0;1;1;7;11;18;1;D. Harris(C)
+25-26;13;Championat de France;Domicile;;Angers;;Starter;J. Zodia;29;17;0,28;29,28;;;;;;;0;0;;;;;;;;;;;;16;1;4;5;3;5;1;0;1;3;5;0;15;13;J. Zodia
+25-26;13;Championat de France;Domicile;;Angers;;Starter;S. Scalia;19;42;0,7;19,7;0;2;0;0;1;0;0;1;0;;;;;;;;;;;2;0;1;1;1;3;2;0;0;0;2;-9;1;14;S. Scalia
+25-26;13;Championat de France;Domicile;;Angers;;Starter;A. Gulbe;33;10;0,17;33,17;;;;0;2;0;;;;;;;;;;;;;;10;3;4;7;3;0;2;1;0;2;7;8;19;23;A. Gulbe
+25-26;13;Championat de France;Domicile;;Angers;;Starter;A. Trasi;29;53;0,88;29,88;;;;;;;;;;0;1;0;;;;;;;;9;2;5;7;1;2;0;0;1;1;3;7;12;32;A. Trasi
+25-26;13;Championat de France;Domicile;;Angers;;Banc;H. Scott-Grayson;8;3;0,05;8,05;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;0;1;0;0;0;3;0;-1;-1;2;H. Scott-Grayson
+25-26;13;Championat de France;Domicile;;Angers;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;13;Championat de France;Domicile;;Angers;;Banc;A. Risacher;23;25;0,42;23,42;;;;;;;0;3;0;0;0;;;;;;;;;8;2;1;3;1;2;1;0;0;2;1;14;8;10;A. Risacher
+25-26;13;Championat de France;Domicile;;Angers;;Banc;E. Peytour;14;57;0,95;14,95;0;3;0;0;0;;0;3;0;;;;;;;;;;;2;0;1;1;2;4;2;0;0;1;1;-6;0;11;E. Peytour
+25-26;13;Championat de France;Domicile;;Angers;;Banc;E. Brizard;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
+25-26;13;Championat de France;Domicile;;Angers;;Banc;D. Balayera;13;35;0,58;13,58;;;;0;3;0;;;;0;0;;;;;;;;;3;0;1;1;0;1;2;0;0;0;0;1;1;77;D. Balayera
 25-26;13;Championat de France;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;13;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;23;55;0,42;20;40;0,50;;;;23;26;0,88;22;36;17;4;15;13;13;72;14;21;35;13;20;12;1;3;13;26;0;78;0;TOTAUX EQUIPE
-25-26;14;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;10;3;7;10;4;6;3;0;0;5;6;10;15;1;D. Harris(C)
-25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;J. Zodia;;;;;;;;;;;0;0;;;;;;;;;;;;27;2;6;8;5;3;1;0;1;3;8;0;28;13;J. Zodia
-25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;8;0;1;1;0;1;2;0;0;2;1;3;5;14;S. Scalia
-25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;A. Gulbe;;;;;;;;;;;0;3;0,00;;;;;;;;;;;8;1;5;6;1;2;1;0;0;5;3;15;8;23;A. Gulbe
-25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;A. Trasi;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;2;0;1;0;2;2;0;-15;4;32;A. Trasi
-25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;0;0;;;;;;;;;7;1;0;1;0;0;1;0;0;1;0;-3;6;2;H. Scott-Grayson
-25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;A. Risacher;;;;;;;;;;;0;1;0,00;;;;;;;;;;;10;2;0;2;3;1;3;0;1;2;1;5;13;10;A. Risacher
-25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;E. Peytour;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;-11;-1;11;E. Peytour
-25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;D. Balayera;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;0;1;1;0;0;1;0;-9;2;77;D. Balayera
+25-26;13;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;23;55;0,42;20;40;0,5;;;;23;26;0,88;22;36;17;4;15;13;13;72;14;21;35;13;20;12;1;3;13;26;0;78;0;TOTAUX EQUIPE
+25-26;14;Championat de France;Exterieur;;Toulouse;Capitaine;Starter;D. Harris(C);36;17;0,28;36,28;;;;;;;;;;;;;;;;;;;;10;3;7;10;4;6;3;0;0;5;6;10;15;1;D. Harris(C)
+25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;J. Zodia;36;6;0,1;36,1;;;;;;;0;0;;;;;;;;;;;;27;2;6;8;5;3;1;0;1;3;8;0;28;13;J. Zodia
+25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;S. Scalia;23;19;0,32;23,32;;;;;;;;;;0;0;;;;;;;;;8;0;1;1;0;1;2;0;0;2;1;3;5;14;S. Scalia
+25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;A. Gulbe;26;43;0,72;26,72;;;;;;;0;3;0;;;;;;;;;;;8;1;5;6;1;2;1;0;0;5;3;15;8;23;A. Gulbe
+25-26;14;Championat de France;Exterieur;;Toulouse;;Starter;A. Trasi;17;50;0,83;17,83;;;;;;;;;;0;0;;;;;;;;;5;1;0;1;2;0;1;0;2;2;0;-15;4;32;A. Trasi
+25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;H. Scott-Grayson;18;39;0,65;18,65;;;;;;;;;;0;0;;;;;;;;;7;1;0;1;0;0;1;0;0;1;0;-3;6;2;H. Scott-Grayson
+25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;A. Risacher;26;41;0,68;26,68;;;;;;;0;1;0;;;;;;;;;;;10;2;0;2;3;1;3;0;1;2;1;5;13;10;A. Risacher
+25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;E. Peytour;4;6;0,1;4,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;-11;-1;11;E. Peytour
+25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;D. Balayera;10;18;0,3;10,3;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;2;2;0;1;1;0;0;1;0;-9;2;77;D. Balayera
 25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;25;63;0,40;20;45;0,44;;;;20;21;0,95;17;30;13;14;17;16;13;75;12;22;34;15;16;13;0;4;22;19;0;82;0;TOTAUX EQUIPE
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;3;0,00;;;;;;;;;;;3;3;4;7;10;2;3;0;2;3;6;-1;14;1;D. Harris(C)
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;5;6;3;2;0;1;0;2;0;-15;7;10;A. Risacher
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;26;2;4;6;0;4;4;0;1;4;3;-1;23;13;J. Zodia
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;0;0;0;0;0;0;1;-17;1;14;S. Scalia
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Trasi;;;;;;;;;;;;;;;;;;;;;;;;8;2;2;4;2;1;0;0;0;4;2;-2;9;32;A. Trasi
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;0;0;;;;;;;;;9;2;2;4;2;4;0;1;0;0;1;-4;10;2;H. Scott-Grayson
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Peytour;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;1;0;-3;-2;11;E. Peytour
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Gulbe;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;3;4;7;1;0;0;0;0;3;2;2;6;23;A. Gulbe
-25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;D. Balayera;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;3;2;5;2;0;0;0;0;1;0;-9;9;77;D. Balayera
+25-26;14;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;25;63;0,4;20;45;0,44;;;;20;21;0,95;17;30;13;14;17;16;13;75;12;22;34;15;16;13;0;4;22;19;0;82;0;TOTAUX EQUIPE
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Starter;D. Harris(C);32;21;0,35;32,35;;;;;;;0;3;0;;;;;;;;;;;3;3;4;7;10;2;3;0;2;3;6;-1;14;1;D. Harris(C)
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Risacher;29;30;0,5;29,5;;;;;;;;;;0;0;;;;;;;;;8;1;5;6;3;2;0;1;0;2;0;-15;7;10;A. Risacher
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;J. Zodia;27;37;0,62;27,62;;;;;;;;;;;;;;;;;;;;26;2;4;6;0;4;4;0;1;4;3;-1;23;13;J. Zodia
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;S. Scalia;27;8;0,13;27,13;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;0;0;0;0;0;0;1;-17;1;14;S. Scalia
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Starter;A. Trasi;25;23;0,38;25,38;;;;;;;;;;;;;;;;;;;;8;2;2;4;2;1;0;0;0;4;2;-2;9;32;A. Trasi
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;H. Scott-Grayson;26;5;0,08;26,08;;;;;;;;;;0;0;;;;;;;;;9;2;2;4;2;4;0;1;0;0;1;-4;10;2;H. Scott-Grayson
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;E. Peytour;4;8;0,13;4,13;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;1;0;-3;-2;11;E. Peytour
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Meilland;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;L. Meilland
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Gulbe;14;47;0,78;14,78;;;;;;;0;1;0;;;;;;;;;;;4;3;4;7;1;0;0;0;0;3;2;2;6;23;A. Gulbe
+25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;D. Balayera;12;23;0,38;12,38;;;;;;;0;0;;0;0;;;;;;;;;6;3;2;5;2;0;0;0;0;1;0;-9;9;77;D. Balayera
 25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;15;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;26;70;0,37;18;41;0,44;;;;;;;26;32;18;8;19;8;7;70;17;24;41;20;15;8;2;3;18;15;0;78;0;TOTAUX EQUIPE
-25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;H. Scott-Grayson;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;3;2;0;0;2;0;-17;1;2;H. Scott-Grayson
-25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;7;2;8;10;2;1;1;0;0;4;4;-4;11;10;A. Risacher
-25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;E. Peytour;;;;;;;;;;;0;2;0,00;;;;;;;;;;;5;1;0;1;4;2;1;0;0;1;1;-1;4;11;E. Peytour
-25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;13;2;6;8;3;2;1;1;0;2;2;-4;15;13;J. Zodia
-25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;A. Trasi;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;2;1;0;0;0;0;-11;-2;32;A. Trasi
-25-26;16;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;11;1;1;2;2;3;0;0;1;4;2;-3;5;1;D. Harris(C)
-25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;S. Scalia;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;2;2;0;0;0;0;1;1;1;2;2;14;S. Scalia
-25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;9;2;2;4;1;4;2;0;0;1;5;-7;10;23;A. Gulbe
-25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;D. Balayera;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;1;0;1;0;1;0;0;0;0;0;-10;2;77;D. Balayera
+25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;H. Scott-Grayson;20;44;0,73;20,73;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;3;2;0;0;2;0;-17;1;2;H. Scott-Grayson
+25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;A. Risacher;27;13;0,22;27,22;;;;;;;;;;;;;;;;;;;;7;2;8;10;2;1;1;0;0;4;4;-4;11;10;A. Risacher
+25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;E. Peytour;30;27;0,45;30,45;;;;;;;0;2;0;;;;;;;;;;;5;1;0;1;4;2;1;0;0;1;1;-1;4;11;E. Peytour
+25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;J. Zodia;32;13;0,22;32,22;;;;;;;;;;;;;;;;;;;;13;2;6;8;3;2;1;1;0;2;2;-4;15;13;J. Zodia
+25-26;16;Championat de France;Exterieur;;Landerneau;;Starter;A. Trasi;22;31;0,52;22,52;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;1;1;0;2;1;0;0;0;0;-11;-2;32;A. Trasi
+25-26;16;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;D. Harris(C);17;7;0,12;17,12;;;;;;;;;;;;;;;;;;;;11;1;1;2;2;3;0;0;1;4;2;-3;5;1;D. Harris(C)
+25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;S. Scalia;17;33;0,55;17,55;;;;0;2;0;;;;0;0;;;;;;;;;3;0;2;2;0;0;0;0;1;1;1;2;2;14;S. Scalia
+25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;A. Gulbe;20;26;0,43;20,43;;;;;;;;;;;;;;;;;;;;9;2;2;4;1;4;2;0;0;1;5;-7;10;23;A. Gulbe
+25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;D. Balayera;11;46;0,77;11,77;;;;0;1;0;;;;0;0;;;;;;;;;3;1;0;1;0;1;0;0;0;0;0;-10;2;77;D. Balayera
 25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;16;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;20;56;0,36;13;37;0,35;;;;;;;20;22;7;3;26;9;10;56;11;24;35;13;20;8;1;2;15;15;0;51;0;TOTAUX EQUIPE
-25-26;17;Championat de France;Domicile;;Bourges;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;0;;;;;;;;;;;;10;2;5;7;12;2;2;0;0;4;3;22;22;1;D. Harris(C)
-25-26;17;Championat de France;Domicile;;Bourges;;Starter;A. Risacher;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;1;1;1;1;3;0;0;2;0;2;1;10;A. Risacher
-25-26;17;Championat de France;Domicile;;Bourges;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;19;3;4;7;3;1;1;0;0;2;5;5;24;13;J. Zodia
-25-26;17;Championat de France;Domicile;;Bourges;;Starter;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;9;0;2;2;0;0;0;0;0;1;0;7;9;14;S. Scalia
-25-26;17;Championat de France;Domicile;;Bourges;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;14;0;3;3;0;1;0;1;0;3;2;13;11;23;A. Gulbe
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;H. Scott-Grayson;;;;;;;;;;;0;0;;;;;;;;;;;;9;0;1;1;3;0;4;0;0;3;2;-5;15;2;H. Scott-Grayson
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;E. Peytour;;;;;;;;;;;;;;0;2;0,00;;;;;;;;10;0;1;1;2;2;2;0;1;1;3;-3;9;11;E. Peytour
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;A. Trasi;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;1;3;4;3;3;0;0;0;3;1;3;4;32;A. Trasi
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;D. Balayera;;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;0;1;1;1;1;1;1;0;2;2;11;9;77;D. Balayera
+25-26;17;Championat de France;Domicile;;Bourges;Capitaine;Starter;D. Harris(C);29;17;0,28;29,28;;;;;;;0;0;;;;;;;;;;;;10;2;5;7;12;2;2;0;0;4;3;22;22;1;D. Harris(C)
+25-26;17;Championat de France;Domicile;;Bourges;;Starter;A. Risacher;14;10;0,17;14,17;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;1;1;1;1;3;0;0;2;0;2;1;10;A. Risacher
+25-26;17;Championat de France;Domicile;;Bourges;;Starter;J. Zodia;27;46;0,77;27,77;;;;;;;;;;;;;;;;;;;;19;3;4;7;3;1;1;0;0;2;5;5;24;13;J. Zodia
+25-26;17;Championat de France;Domicile;;Bourges;;Starter;S. Scalia;21;0;0;21;;;;0;0;;;;;0;0;;;;;;;;;9;0;2;2;0;0;0;0;0;1;0;7;9;14;S. Scalia
+25-26;17;Championat de France;Domicile;;Bourges;;Starter;A. Gulbe;28;28;0,47;28,47;;;;;;;;;;;;;;;;;;;;14;0;3;3;0;1;0;1;0;3;2;13;11;23;A. Gulbe
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;H. Scott-Grayson;21;7;0,12;21,12;;;;;;;0;0;;;;;;;;;;;;9;0;1;1;3;0;4;0;0;3;2;-5;15;2;H. Scott-Grayson
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;E. Peytour;20;32;0,53;20,53;;;;;;;;;;0;2;0;;;;;;;;10;0;1;1;2;2;2;0;1;1;3;-3;9;11;E. Peytour
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;A. Trasi;19;53;0,88;19,88;;;;;;;0;2;0;0;0;;;;;;;;;4;1;3;4;3;3;0;0;0;3;1;3;4;32;A. Trasi
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;D. Balayera;17;47;0,78;17,78;;;;;;;0;2;0;;;;;;;;;;;11;0;1;1;1;1;1;1;0;2;2;11;9;77;D. Balayera
 25-26;17;Championat de France;Domicile;;Bourges;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;4;4;0;3;0;0;0;0;0;0;0;0;Team / Coach
-25-26;17;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;32;64;0,50;23;43;0,53;;;;13;19;0,68;19;36;8;16;34;15;10;86;6;25;31;25;14;13;2;1;21;18;0;105;0;TOTAUX EQUIPE
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Risacher;;;;;;;;0;3;0,00;;;;;;;;;;;;;;7;2;1;3;7;4;3;1;1;4;1;-16;9;10;A. Risacher
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;E. Peytour;;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;0;;;;;;;;;0;2;0;2;5;1;2;0;0;2;3;-8;4;11;E. Peytour
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;19;0;4;4;0;2;0;0;0;3;7;-13;13;13;J. Zodia
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Scalia;;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;6;0;1;1;1;0;1;0;0;1;0;-21;3;14;S. Scalia
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Gulbe;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;1;0;1;1;2;0;1;0;2;1;-29;-2;23;A. Gulbe
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Banc;D. Harris(C);;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-8;-1;1;D. Harris(C)
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;H. Scott-Grayson;;;;;0;4;0,00;0;2;0,00;0;2;0,00;;;;;;;;;;;1;1;2;3;1;3;2;0;0;1;3;-12;-1;2;H. Scott-Grayson
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;0;0;-1;2;9;L. Bentoumi
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;A. Trasi;;;;;;;;;;;0;3;0,00;;;;;;;;;;;9;1;4;5;1;1;1;0;0;4;2;-34;9;32;A. Trasi
-25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;;;;;;;;;;;17;5;1;6;1;1;1;1;0;1;2;-23;22;77;D. Balayera
+25-26;17;Championat de France;Domicile;;Bourges;;Banc;TOTAUX EQUIPE;;;;;32;64;0,5;23;43;0,53;;;;13;19;0,68;19;36;8;16;34;15;10;86;6;25;31;25;14;13;2;1;21;18;0;105;0;TOTAUX EQUIPE
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Risacher;27;41;0,68;27,68;;;;0;3;0;;;;;;;;;;;;;;7;2;1;3;7;4;3;1;1;4;1;-16;9;10;A. Risacher
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;E. Peytour;20;16;0,27;20,27;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;2;0;2;5;1;2;0;0;2;3;-8;4;11;E. Peytour
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;J. Zodia;27;11;0,18;27,18;;;;;;;0;1;0;;;;;;;;;;;19;0;4;4;0;2;0;0;0;3;7;-13;13;13;J. Zodia
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;S. Scalia;21;1;0,02;21,02;;;;0;3;0;;;;0;0;;;;;;;;;6;0;1;1;1;0;1;0;0;1;0;-21;3;14;S. Scalia
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Gulbe;21;46;0,77;21,77;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;1;0;1;1;2;0;1;0;2;1;-29;-2;23;A. Gulbe
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Banc;D. Harris(C);4;2;0,03;4,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-8;-1;1;D. Harris(C)
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;H. Scott-Grayson;18;26;0,43;18,43;0;4;0;0;2;0;0;2;0;;;;;;;;;;;1;1;2;3;1;3;2;0;0;1;3;-12;-1;2;H. Scott-Grayson
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;L. Bentoumi;3;8;0,13;3,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;0;0;-1;2;9;L. Bentoumi
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;A. Trasi;28;14;0,23;28,23;;;;;;;0;3;0;;;;;;;;;;;9;1;4;5;1;1;1;0;0;4;2;-34;9;32;A. Trasi
+25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;D. Balayera;27;45;0,75;27,75;;;;;;;0;1;0;;;;;;;;;;;17;5;1;6;1;1;1;1;0;1;2;-23;22;77;D. Balayera
 25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;18;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;20;58;0,34;16;36;0,44;;;;15;20;0,75;10;32;12;5;27;;5;59;12;15;27;18;18;10;3;1;18;19;0;56;0;TOTAUX EQUIPE
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;9;1;4;5;9;7;3;0;0;3;8;2;11;1;D. Harris(C)
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Risacher;;;;;0;5;0,00;0;1;0,00;0;4;0,00;0;0;;;;;;;;;0;2;1;3;3;2;0;2;0;3;1;-11;1;10;A. Risacher
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;17;4;5;9;1;3;1;1;0;4;2;4;14;13;J. Zodia
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;10;1;3;4;1;2;0;0;0;1;2;-3;9;23;A. Gulbe
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Trasi;;;;;;;;;;;;;;;;;;;;;;;;13;3;2;5;1;1;2;1;0;4;4;-2;16;32;A. Trasi
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;H. Scott-Grayson;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;0;0;0;0;0;1;0;0;3;2;H. Scott-Grayson
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Peytour;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;3;3;0;0;0;2;0;-7;-1;11;E. Peytour
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;1;2;3;1;1;1;0;0;1;0;9;7;14;S. Scalia
-25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;1;4;5;1;0;1;1;0;2;1;-7;11;77;D. Balayera
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;Capitaine;Starter;D. Harris(C);26;44;0,73;26,73;;;;;;;;;;;;;;;;;;;;9;1;4;5;9;7;3;0;0;3;8;2;11;1;D. Harris(C)
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Risacher;16;20;0,33;16,33;0;5;0;0;1;0;0;4;0;0;0;;;;;;;;;0;2;1;3;3;2;0;2;0;3;1;-11;1;10;A. Risacher
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;J. Zodia;32;40;0,67;32,67;;;;;;;;;;;;;;;;;;;;17;4;5;9;1;3;1;1;0;4;2;4;14;13;J. Zodia
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Gulbe;22;24;0,4;22,4;;;;;;;;;;;;;;;;;;;;10;1;3;4;1;2;0;0;0;1;2;-3;9;23;A. Gulbe
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Starter;A. Trasi;29;1;0,02;29,02;;;;;;;;;;;;;;;;;;;;13;3;2;5;1;1;2;1;0;4;4;-2;16;32;A. Trasi
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;H. Scott-Grayson;8;0;0;8;;;;0;0;;;;;0;0;;;;;;;;;3;0;1;1;0;0;0;0;0;1;0;0;3;2;H. Scott-Grayson
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;E. Peytour;7;5;0,08;7,08;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;3;3;0;0;0;2;0;-7;-1;11;E. Peytour
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;S. Scalia;32;20;0,33;32,33;;;;0;0;;;;;0;0;;;;;;;;;6;1;2;3;1;1;1;0;0;1;0;9;7;14;S. Scalia
+25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;D. Balayera;24;56;0,93;24,93;;;;;;;0;1;0;;;;;;;;;;;6;1;4;5;1;0;1;1;0;2;1;-7;11;77;D. Balayera
 25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;3;0;0;0;0;0;0;0;0;Team / Coach
 25-26;19;Championat de France;Domicile;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;21;59;0,36;13;29;0,45;;;;14;18;0,78;17;24;17;3;15;16;12;64;16;25;41;20;22;8;5;0;21;18;0;74;0;TOTAUX EQUIPE
-25-26;20;Championat de France;Domicile;;Roche Vendée;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;13;0;1;1;9;2;2;0;0;2;6;22;20;1;D. Harris(C)
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;23;4;7;11;1;3;0;0;1;4;4;26;24;13;J. Zodia
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;S. Scalia;;;;;;;;;;;;;;;;;;;;;;;;17;0;1;1;4;3;1;1;1;0;2;26;17;14;S. Scalia
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;A. Gulbe;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;2;5;7;0;1;0;0;0;1;3;10;6;23;A. Gulbe
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;A. Trasi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;0;2;2;2;0;4;0;0;3;3;16;16;32;A. Trasi
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;H. Scott-Grayson;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;1;1;2;0;2;1;0;0;1;0;2;3;2;H. Scott-Grayson
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;-1;-1;9;L. Bentoumi
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;8;0;2;2;3;3;0;0;0;3;3;13;7;10;A. Risacher
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;E. Peytour;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;2;0;11;E. Peytour
-25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;D. Balayera;;;;;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;0;0;1;0;0;1;0;19;12;77;D. Balayera
+25-26;20;Championat de France;Domicile;;Roche Vendée;Capitaine;Starter;D. Harris(C);28;35;0,58;28,58;;;;;;;0;2;0;;;;;;;;;;;13;0;1;1;9;2;2;0;0;2;6;22;20;1;D. Harris(C)
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;J. Zodia;34;20;0,33;34,33;;;;;;;;;;;;;;;;;;;;23;4;7;11;1;3;0;0;1;4;4;26;24;13;J. Zodia
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;S. Scalia;34;32;0,53;34,53;;;;;;;;;;;;;;;;;;;;17;0;1;1;4;3;1;1;1;0;2;26;17;14;S. Scalia
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;A. Gulbe;23;4;0,07;23,07;;;;;;;0;1;0;;;;;;;;;;;7;2;5;7;0;1;0;0;0;1;3;10;6;23;A. Gulbe
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Starter;A. Trasi;24;58;0,97;24,97;;;;;;;0;2;0;;;;;;;;;;;11;0;2;2;2;0;4;0;0;3;3;16;16;32;A. Trasi
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;H. Scott-Grayson;11;39;0,65;11,65;;;;;;;0;0;;0;0;;;;;;;;;2;1;1;2;0;2;1;0;0;1;0;2;3;2;H. Scott-Grayson
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;L. Bentoumi;1;0;0;1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;-1;-1;9;L. Bentoumi
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;A. Risacher;14;17;0,28;14,28;;;;;;;;;;;;;;;;;;;;8;0;2;2;3;3;0;0;0;3;3;13;7;10;A. Risacher
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;E. Peytour;5;9;0,15;5,15;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;2;0;11;E. Peytour
+25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;D. Balayera;21;16;0,27;21,27;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;0;0;1;0;0;1;0;19;12;77;D. Balayera
 25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;7;8;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;20;Championat de France;Domicile;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;34;62;0,55;27;44;0,61;;;;15;19;0,79;23;40;14;12;19;30;9;90;10;29;39;20;16;9;1;2;17;21;0;111;0;TOTAUX EQUIPE
-25-26;21;Championat de France;Exterieur;;Chartres;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;27;3;1;4;6;6;1;0;0;2;10;-5;18;1;D. Harris(C)
-25-26;21;Championat de France;Exterieur;;Chartres;;Starter;J. Zodia;;;;;;;;;;;0;1;0,00;;;;;;;;;;;9;4;6;10;1;7;2;0;1;4;5;-9;7;13;J. Zodia
-25-26;21;Championat de France;Exterieur;;Chartres;;Starter;S. Scalia;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;0;2;1;0;0;1;0;2;1;14;S. Scalia
-25-26;21;Championat de France;Exterieur;;Chartres;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;12;1;7;8;1;1;1;0;0;4;3;-2;16;23;A. Gulbe
-25-26;21;Championat de France;Exterieur;;Chartres;;Starter;A. Trasi;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;2;3;1;2;1;0;1;5;1;-13;2;32;A. Trasi
-25-26;21;Championat de France;Exterieur;;Chartres;;Banc;H. Scott-Grayson;;;;;;;;0;1;0,00;;;;;;;;;;;;;;4;3;0;3;1;0;3;0;0;4;2;-5;8;2;H. Scott-Grayson
-25-26;21;Championat de France;Exterieur;;Chartres;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;21;Championat de France;Exterieur;;Chartres;;Banc;A. Risacher;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;6;2;4;6;1;3;2;3;0;3;0;-19;10;10;A. Risacher
-25-26;21;Championat de France;Exterieur;;Chartres;;Banc;E. Peytour;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;1;0;1;0;1;1;0;0;3;0;-6;2;11;E. Peytour
-25-26;21;Championat de France;Exterieur;;Chartres;;Banc;D. Balayera;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;1;1;0;0;0;2;0;-13;-1;77;D. Balayera
+25-26;21;Championat de France;Exterieur;;Chartres;Capitaine;Starter;D. Harris(C);25;14;0,23;25,23;;;;;;;;;;;;;;;;;;;;27;3;1;4;6;6;1;0;0;2;10;-5;18;1;D. Harris(C)
+25-26;21;Championat de France;Exterieur;;Chartres;;Starter;J. Zodia;33;38;0,63;33,63;;;;;;;0;1;0;;;;;;;;;;;9;4;6;10;1;7;2;0;1;4;5;-9;7;13;J. Zodia
+25-26;21;Championat de France;Exterieur;;Chartres;;Starter;S. Scalia;23;25;0,42;23,42;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;0;2;1;0;0;1;0;2;1;14;S. Scalia
+25-26;21;Championat de France;Exterieur;;Chartres;;Starter;A. Gulbe;33;44;0,73;33,73;;;;;;;;;;;;;;;;;;;;12;1;7;8;1;1;1;0;0;4;3;-2;16;23;A. Gulbe
+25-26;21;Championat de France;Exterieur;;Chartres;;Starter;A. Trasi;19;44;0,73;19,73;;;;;;;0;1;0;0;0;;;;;;;;;2;1;2;3;1;2;1;0;1;5;1;-13;2;32;A. Trasi
+25-26;21;Championat de France;Exterieur;;Chartres;;Banc;H. Scott-Grayson;20;13;0,22;20,22;;;;0;1;0;;;;;;;;;;;;;;4;3;0;3;1;0;3;0;0;4;2;-5;8;2;H. Scott-Grayson
+25-26;21;Championat de France;Exterieur;;Chartres;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;21;Championat de France;Exterieur;;Chartres;;Banc;A. Risacher;22;20;0,33;22,33;;;;;;;0;4;0;0;0;;;;;;;;;6;2;4;6;1;3;2;3;0;3;0;-19;10;10;A. Risacher
+25-26;21;Championat de France;Exterieur;;Chartres;;Banc;E. Peytour;12;27;0,45;12,45;;;;;;;0;2;0;0;0;;;;;;;;;4;1;0;1;0;1;1;0;0;3;0;-6;2;11;E. Peytour
+25-26;21;Championat de France;Exterieur;;Chartres;;Banc;D. Balayera;9;5;0,08;9,08;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;1;1;0;0;0;2;0;-13;-1;77;D. Balayera
 25-26;21;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;2;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;21;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;22;56;0,39;18;40;0,45;;;;18;27;0,67;14;32;14;6;14;7;6;66;17;23;40;12;24;12;3;2;28;21;0;66;0;TOTAUX EQUIPE
-25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;H. Scott-Grayson;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;3;4;2;0;2;0;1;3;2;2;8;2;H. Scott-Grayson
-25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Risacher;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;4;1;1;0;0;0;-6;-1;10;A. Risacher
-25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;17;1;7;8;1;3;1;0;0;2;4;-4;18;13;J. Zodia
-25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Gulbe;;;;;;;;;;;0;3;0,00;;;;;;;;;;;14;2;8;10;1;2;0;0;0;4;3;-7;18;23;A. Gulbe
-25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Trasi;;;;;0;6;0,00;0;4;0,00;0;2;0,00;0;0;;;;;;;;;0;1;3;4;2;1;0;0;1;3;0;-19;-1;32;A. Trasi
-25-26;22;Championat de France;Domicile;;Basket Landes;Capitaine;Banc;D. Harris(C);;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;2;2;4;8;2;2;0;2;3;1;5;10;1;D. Harris(C)
-25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;L. Bentoumi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
-25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;E. Peytour;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;0;2;0;0;0;2;0;8;-1;11;E. Peytour
-25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;S. Scalia;;;;;;;;;;;;;;;;;;;;;;;;11;0;2;2;1;1;1;0;0;2;2;-2;8;14;S. Scalia
-25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;E. Brizard;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
-25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;2;2;4;0;0;2;0;0;0;1;3;13;77;D. Balayera
+25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;H. Scott-Grayson;18;56;0,93;18,93;;;;;;;0;1;0;0;0;;;;;;;;;4;1;3;4;2;0;2;0;1;3;2;2;8;2;H. Scott-Grayson
+25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Risacher;8;1;0,02;8,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;4;1;1;0;0;0;-6;-1;10;A. Risacher
+25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;J. Zodia;30;25;0,42;30,42;;;;;;;;;;;;;;;;;;;;17;1;7;8;1;3;1;0;0;2;4;-4;18;13;J. Zodia
+25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Gulbe;33;3;0,05;33,05;;;;;;;0;3;0;;;;;;;;;;;14;2;8;10;1;2;0;0;0;4;3;-7;18;23;A. Gulbe
+25-26;22;Championat de France;Domicile;;Basket Landes;;Starter;A. Trasi;22;5;0,08;22,08;0;6;0;0;4;0;0;2;0;0;0;;;;;;;;;0;1;3;4;2;1;0;0;1;3;0;-19;-1;32;A. Trasi
+25-26;22;Championat de France;Domicile;;Basket Landes;Capitaine;Banc;D. Harris(C);26;57;0,95;26,95;;;;;;;0;1;0;0;0;;;;;;;;;4;2;2;4;8;2;2;0;2;3;1;5;10;1;D. Harris(C)
+25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;L. Bentoumi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;L. Bentoumi
+25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;E. Peytour;12;17;0,28;12,28;;;;;;;;;;0;0;;;;;;;;;5;0;0;0;0;2;0;0;0;2;0;8;-1;11;E. Peytour
+25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;S. Scalia;31;24;0,4;31,4;;;;;;;;;;;;;;;;;;;;11;0;2;2;1;1;1;0;0;2;2;-2;8;14;S. Scalia
+25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;E. Brizard;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
+25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;D. Balayera;16;32;0,53;16,53;;;;;;;0;1;0;;;;;;;;;;;8;2;2;4;0;0;2;0;0;0;1;3;13;77;D. Balayera
 25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;22;Championat de France;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;21;58;0,36;16;39;0,41;;;;16;17;0,94;17;26;11;6;28;3;12;63;11;29;40;15;15;9;1;4;19;13;0;75;0;TOTAUX EQUIPE
-25-26;P1;Playdown;Domicile;;Angers;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;10;3;2;5;6;0;3;0;0;1;2;32;18;1;D. Harris(C)
-25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;14;1;3;4;4;2;0;2;0;3;1;8;18;10;A. Risacher
-25-26;P1;Playdown;Domicile;;Angers;;Starter;J. Zodia;;;;;;;;;;;0;0;;;;;;;;;;;;14;2;11;13;2;3;1;0;0;1;2;20;23;13;J. Zodia
-25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Gulbe;;;;;;;;;;;;;;0;1;0,00;;;;;;;;5;0;2;2;2;2;0;0;0;3;2;15;3;23;A. Gulbe
-25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Trasi;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;1;1;0;2;0;0;0;1;3;18;8;32;A. Trasi
-25-26;P1;Playdown;Domicile;;Angers;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;0;1;0,00;;;;;;;;5;4;1;5;4;1;4;0;1;1;4;19;12;2;H. Scott-Grayson
-25-26;P1;Playdown;Domicile;;Angers;;Banc;E. Peytour;;;;;0;2;0,00;0;0;;0;2;0,00;0;0;;;;;;;;;0;0;3;3;3;3;0;0;0;1;2;-5;1;11;E. Peytour
-25-26;P1;Playdown;Domicile;;Angers;;Banc;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;11;0;0;0;0;1;0;0;0;1;1;-1;5;14;S. Scalia
-25-26;P1;Playdown;Domicile;;Angers;;Banc;E. Brizard;;;;;0;2;0,00;0;1;0,00;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;2;1;0;0;0;0;-10;-3;20;E. Brizard
-25-26;P1;Playdown;Domicile;;Angers;;Banc;D. Balayera;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;1;5;6;2;1;2;1;1;2;1;9;10;77;D. Balayera
+25-26;P1;Playdown;Domicile;;Angers;Capitaine;Starter;D. Harris(C);19;58;0,97;19,97;;;;;;;;;;;;;;;;;;;;10;3;2;5;6;0;3;0;0;1;2;32;18;1;D. Harris(C)
+25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Risacher;26;46;0,77;26,77;;;;;;;;;;;;;;;;;;;;14;1;3;4;4;2;0;2;0;3;1;8;18;10;A. Risacher
+25-26;P1;Playdown;Domicile;;Angers;;Starter;J. Zodia;24;48;0,8;24,8;;;;;;;0;0;;;;;;;;;;;;14;2;11;13;2;3;1;0;0;1;2;20;23;13;J. Zodia
+25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Gulbe;28;1;0,02;28,02;;;;;;;;;;0;1;0;;;;;;;;5;0;2;2;2;2;0;0;0;3;2;15;3;23;A. Gulbe
+25-26;P1;Playdown;Domicile;;Angers;;Starter;A. Trasi;15;57;0,95;15,95;;;;;;;;;;0;0;;;;;;;;;12;0;1;1;0;2;0;0;0;1;3;18;8;32;A. Trasi
+25-26;P1;Playdown;Domicile;;Angers;;Banc;H. Scott-Grayson;17;27;0,45;17,45;;;;;;;;;;0;1;0;;;;;;;;5;4;1;5;4;1;4;0;1;1;4;19;12;2;H. Scott-Grayson
+25-26;P1;Playdown;Domicile;;Angers;;Banc;E. Peytour;13;11;0,18;13,18;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;3;3;3;3;0;0;0;1;2;-5;1;11;E. Peytour
+25-26;P1;Playdown;Domicile;;Angers;;Banc;S. Scalia;24;41;0,68;24,68;;;;;;;;;;0;0;;;;;;;;;11;0;0;0;0;1;0;0;0;1;1;-1;5;14;S. Scalia
+25-26;P1;Playdown;Domicile;;Angers;;Banc;E. Brizard;3;9;0,15;3,15;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;2;1;0;0;0;0;-10;-3;20;E. Brizard
+25-26;P1;Playdown;Domicile;;Angers;;Banc;D. Balayera;26;2;0,03;26,03;;;;;;;0;2;0;;;;;;;;;;;6;1;5;6;2;1;2;1;1;2;1;9;10;77;D. Balayera
 25-26;P1;Playdown;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;4;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P1;Playdown;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;30;68;0,44;20;41;0,49;;;;;;;28;34;8;15;22;36;14;77;15;31;46;23;21;11;3;2;14;18;0;98;0;TOTAUX EQUIPE
-25-26;P2;Playdown;Exterieur;;Roche Vendée;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;0;0;;;;;;;;;16;2;3;5;4;3;2;0;0;3;3;23;19;1;D. Harris(C)
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Risacher;;;;;;;;;;;;;;;;;;;;;;;;16;6;3;9;10;2;0;0;0;2;3;38;28;10;A. Risacher
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;13;1;5;6;2;2;1;0;1;5;3;16;14;13;J. Zodia
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Gulbe;;;;;;;;;;;;;;;;;;;;;;;;16;2;5;7;0;0;1;0;1;0;1;23;20;23;A. Gulbe
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Trasi;;;;;0;4;0,00;0;1;0,00;0;3;0,00;0;0;;;;;;;;;0;0;3;3;1;1;0;0;0;5;1;19;-1;32;A. Trasi
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;;;;;;;;;;;19;1;4;5;1;0;3;0;1;4;1;23;17;2;H. Scott-Grayson
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;E. Peytour;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;-2;3;11;E. Peytour
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;S. Scalia;;;;;0;2;0,00;0;0;;0;2;0,00;;;;;;;;;;;1;0;1;1;1;0;1;0;0;2;2;-5;2;14;S. Scalia
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;M. Greusard;;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;-9;-2;20;M. Greusard
-25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;6;3;9;3;1;0;0;0;2;0;9;6;77;D. Balayera
+25-26;P2;Playdown;Exterieur;;Roche Vendée;Capitaine;Starter;D. Harris(C);22;26;0,43;22,43;;;;;;;;;;0;0;;;;;;;;;16;2;3;5;4;3;2;0;0;3;3;23;19;1;D. Harris(C)
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Risacher;32;32;0,53;32,53;;;;;;;;;;;;;;;;;;;;16;6;3;9;10;2;0;0;0;2;3;38;28;10;A. Risacher
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;J. Zodia;17;2;0,03;17,03;;;;;;;;;;;;;;;;;;;;13;1;5;6;2;2;1;0;1;5;3;16;14;13;J. Zodia
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Gulbe;22;17;0,28;22,28;;;;;;;;;;;;;;;;;;;;16;2;5;7;0;0;1;0;1;0;1;23;20;23;A. Gulbe
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Starter;A. Trasi;21;13;0,22;21,22;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;0;3;3;1;1;0;0;0;5;1;19;-1;32;A. Trasi
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;H. Scott-Grayson;24;35;0,58;24,58;;;;;;;;;;;;;;;;;;;;19;1;4;5;1;0;3;0;1;4;1;23;17;2;H. Scott-Grayson
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;E. Peytour;2;1;0,02;2,02;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;-2;3;11;E. Peytour
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;S. Scalia;18;28;0,47;18,47;0;2;0;0;0;;0;2;0;;;;;;;;;;;1;0;1;1;1;0;1;0;0;2;2;-5;2;14;S. Scalia
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;M. Greusard;10;35;0,58;10,58;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;-9;-2;20;M. Greusard
+25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;D. Balayera;28;41;0,68;28,68;;;;;;;0;1;0;0;0;;;;;;;;;4;6;3;9;3;1;0;0;0;2;0;9;6;77;D. Balayera
 25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P2;Playdown;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;32;77;0,42;20;42;0,48;;;;;;;17;32;16;14;27;28;12;88;20;28;48;23;10;8;0;3;24;14;0;108;0;TOTAUX EQUIPE
-25-26;P3;Playdown;Domicile;;Toulouse;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;2;0,00;;;;;;;;;;;11;3;3;6;5;0;3;0;1;0;3;27;22;1;D. Harris(C)
-25-26;P3;Playdown;Domicile;;Toulouse;;Starter;A. Risacher;;;;;;;;0;4;0,00;;;;0;0;;;;;;;;;6;4;8;12;6;4;0;1;0;1;0;25;15;10;A. Risacher
-25-26;P3;Playdown;Domicile;;Toulouse;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;19;3;7;10;2;4;3;1;2;3;1;26;19;13;J. Zodia
-25-26;P3;Playdown;Domicile;;Toulouse;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;2;0;0;0;2;1;10;1;14;S. Scalia
-25-26;P3;Playdown;Domicile;;Toulouse;;Starter;A. Trasi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;13;2;4;6;3;1;0;0;1;3;5;18;10;32;A. Trasi
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;H. Scott-Grayson;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;6;1;0;1;2;2;1;1;0;0;1;16;6;2;H. Scott-Grayson
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;E. Peytour;;;;;;;;;;;0;4;0,00;;;;;;;;;;;6;0;2;2;2;1;0;0;0;0;3;9;3;11;E. Peytour
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;M. Greusard;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;8;3;18;M. Greusard
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;19;L. Meilland
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;E. Brizard;;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;3;3;20;E. Brizard
-25-26;P3;Playdown;Domicile;;Toulouse;;Banc;D. Balayera;;;;;;;;;;;0;0;;;;;;;;;;;;9;3;5;8;0;2;0;1;1;1;1;20;14;77;D. Balayera
+25-26;P3;Playdown;Domicile;;Toulouse;Capitaine;Starter;D. Harris(C);25;15;0,25;25,25;;;;;;;0;2;0;;;;;;;;;;;11;3;3;6;5;0;3;0;1;0;3;27;22;1;D. Harris(C)
+25-26;P3;Playdown;Domicile;;Toulouse;;Starter;A. Risacher;29;14;0,23;29,23;;;;0;4;0;;;;0;0;;;;;;;;;6;4;8;12;6;4;0;1;0;1;0;25;15;10;A. Risacher
+25-26;P3;Playdown;Domicile;;Toulouse;;Starter;J. Zodia;29;35;0,58;29,58;;;;;;;;;;;;;;;;;;;;19;3;7;10;2;4;3;1;2;3;1;26;19;13;J. Zodia
+25-26;P3;Playdown;Domicile;;Toulouse;;Starter;S. Scalia;26;47;0,78;26,78;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;2;0;0;0;2;1;10;1;14;S. Scalia
+25-26;P3;Playdown;Domicile;;Toulouse;;Starter;A. Trasi;23;27;0,45;23,45;;;;;;;0;2;0;;;;;;;;;;;13;2;4;6;3;1;0;0;1;3;5;18;10;32;A. Trasi
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;H. Scott-Grayson;13;13;0,22;13,22;;;;;;;0;3;0;0;0;;;;;;;;;6;1;0;1;2;2;1;1;0;0;1;16;6;2;H. Scott-Grayson
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;E. Peytour;14;58;0,97;14,97;;;;;;;0;4;0;;;;;;;;;;;6;0;2;2;2;1;0;0;0;0;3;9;3;11;E. Peytour
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;M. Greusard;3;5;0,08;3,08;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;8;3;18;M. Greusard
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;L. Meilland;3;4;0,07;3,07;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;19;L. Meilland
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;E. Brizard;3;4;0,07;3,07;;;;0;0;;;;;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;3;3;20;E. Brizard
+25-26;P3;Playdown;Domicile;;Toulouse;;Banc;D. Balayera;27;38;0,63;27,63;;;;;;;0;0;;;;;;;;;;;;9;3;5;8;0;2;0;1;1;1;1;20;14;77;D. Balayera
 25-26;P3;Playdown;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;6;3;9;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P3;Playdown;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;32;75;0,43;24;47;0,51;;;;;;;18;36;17;18;27;35;13;81;22;33;55;21;17;7;4;5;10;15;0;104;0;TOTAUX EQUIPE
-25-26;P4;Playdown;Exterieur;;Angers;Capitaine;Starter;D. Harris(C);;;;;;;;;;;0;0;;;;;;;;;;;;8;1;2;3;5;1;2;0;1;3;3;7;14;1;D. Harris(C)
-25-26;P4;Playdown;Exterieur;;Angers;;Starter;A. Risacher;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;1;4;5;3;6;3;0;0;2;1;14;9;10;A. Risacher
-25-26;P4;Playdown;Exterieur;;Angers;;Starter;J. Zodia;;;;;;;;;;;0;3;0,00;;;;;;;;;;;20;1;8;9;2;4;1;0;0;2;8;19;21;13;J. Zodia
-25-26;P4;Playdown;Exterieur;;Angers;;Starter;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;2;0;0;0;0;0;0;-2;3;14;S. Scalia
-25-26;P4;Playdown;Exterieur;;Angers;;Starter;A. Trasi;;;;;;;;;;;0;0;;;;;;;;;;;;5;1;2;3;1;0;0;0;0;0;2;-4;7;32;A. Trasi
-25-26;P4;Playdown;Exterieur;;Angers;;Banc;H. Scott-Grayson;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;8;1;4;5;4;1;4;0;0;1;0;5;14;2;H. Scott-Grayson
-25-26;P4;Playdown;Exterieur;;Angers;;Banc;E. Peytour;;;;;;;;;;;;;;0;1;0,00;;;;;;;;10;1;1;2;2;1;2;0;0;4;2;19;11;11;E. Peytour
-25-26;P4;Playdown;Exterieur;;Angers;;Banc;E. Brizard;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
-25-26;P4;Playdown;Exterieur;;Angers;;Banc;D. Balayera;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;10;1;2;3;0;1;0;1;0;2;0;17;8;77;D. Balayera
+25-26;P4;Playdown;Exterieur;;Angers;Capitaine;Starter;D. Harris(C);27;42;0,7;27,7;;;;;;;0;0;;;;;;;;;;;;8;1;2;3;5;1;2;0;1;3;3;7;14;1;D. Harris(C)
+25-26;P4;Playdown;Exterieur;;Angers;;Starter;A. Risacher;27;49;0,82;27,82;;;;;;;0;0;;0;0;;;;;;;;;6;1;4;5;3;6;3;0;0;2;1;14;9;10;A. Risacher
+25-26;P4;Playdown;Exterieur;;Angers;;Starter;J. Zodia;31;43;0,72;31,72;;;;;;;0;3;0;;;;;;;;;;;20;1;8;9;2;4;1;0;0;2;8;19;21;13;J. Zodia
+25-26;P4;Playdown;Exterieur;;Angers;;Starter;S. Scalia;23;21;0,35;23,35;;;;0;0;;;;;0;0;;;;;;;;;6;0;0;0;2;0;0;0;0;0;0;-2;3;14;S. Scalia
+25-26;P4;Playdown;Exterieur;;Angers;;Starter;A. Trasi;21;26;0,43;21,43;;;;;;;0;0;;;;;;;;;;;;5;1;2;3;1;0;0;0;0;0;2;-4;7;32;A. Trasi
+25-26;P4;Playdown;Exterieur;;Angers;;Banc;H. Scott-Grayson;20;23;0,38;20,38;;;;;;;0;3;0;0;0;;;;;;;;;8;1;4;5;4;1;4;0;0;1;0;5;14;2;H. Scott-Grayson
+25-26;P4;Playdown;Exterieur;;Angers;;Banc;E. Peytour;20;30;0,5;20,5;;;;;;;;;;0;1;0;;;;;;;;10;1;1;2;2;1;2;0;0;4;2;19;11;11;E. Peytour
+25-26;P4;Playdown;Exterieur;;Angers;;Banc;E. Brizard;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;20;E. Brizard
+25-26;P4;Playdown;Exterieur;;Angers;;Banc;D. Balayera;26;16;0,27;26,27;;;;;;;0;1;0;0;0;;;;;;;;;10;1;2;3;0;1;0;1;0;2;0;17;8;77;D. Balayera
 25-26;P4;Playdown;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;1;0;0;0;0;Team / Coach
 25-26;P4;Playdown;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;58;0,48;24;41;0,59;;;;13;17;0,76;20;40;8;10;28;17;9;73;9;26;35;19;15;12;1;1;15;16;0;91;0;TOTAUX EQUIPE
-25-26;P5;Playdown;Domicile;;Roche Vendée;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;15;2;5;7;6;1;2;0;0;3;1;18;26;1;D. Harris(C)
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;A. Risacher;;;;;;;;;;;;;;0;3;0,00;;;;;;;;9;2;2;4;4;3;0;0;0;2;2;10;5;10;A. Risacher
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;13;3;6;9;0;3;3;0;0;2;2;21;18;13;J. Zodia
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;S. Scalia;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;0;1;0;0;0;0;0;12;2;14;S. Scalia
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;A. Trasi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;3;4;7;3;2;0;1;0;3;2;-1;8;32;A. Trasi
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;H. Scott-Grayson;;;;;;;;;;;;;;;;;;;;;;;;8;1;0;1;2;2;3;0;0;0;2;16;8;2;H. Scott-Grayson
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;L. Bentoumi;;;;;0;6;0,00;0;5;0,00;0;1;0,00;0;0;;;;;;;;;0;1;1;2;1;1;0;0;1;0;0;8;-4;9;L. Bentoumi
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;E. Peytour;;;;;;;;;;;0;3;0,00;;;;;;;;;;;10;1;3;4;2;1;2;0;1;2;3;12;11;11;E. Peytour
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;M. Greusard;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;-8;0;18;M. Greusard
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;L. Meilland;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-1;1;19;L. Meilland
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;E. Brizard;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;20;E. Brizard
-25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;D. Balayera;;;;;;;;;;;;;;0;0;;;;;;;;;9;1;1;2;0;0;1;0;0;3;2;10;11;77;D. Balayera
+25-26;P5;Playdown;Domicile;;Roche Vendée;Capitaine;Starter;D. Harris(C);21;55;0,92;21,92;;;;;;;;;;;;;;;;;;;;15;2;5;7;6;1;2;0;0;3;1;18;26;1;D. Harris(C)
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;A. Risacher;28;22;0,37;28,37;;;;;;;;;;0;3;0;;;;;;;;9;2;2;4;4;3;0;0;0;2;2;10;5;10;A. Risacher
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;J. Zodia;26;16;0,27;26,27;;;;;;;;;;;;;;;;;;;;13;3;6;9;0;3;3;0;0;2;2;21;18;13;J. Zodia
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;S. Scalia;20;22;0,37;20,37;;;;;;;;;;0;0;;;;;;;;;5;1;3;4;0;1;0;0;0;0;0;12;2;14;S. Scalia
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Starter;A. Trasi;24;46;0,77;24,77;;;;;;;0;1;0;;;;;;;;;;;3;3;4;7;3;2;0;1;0;3;2;-1;8;32;A. Trasi
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;H. Scott-Grayson;18;26;0,43;18,43;;;;;;;;;;;;;;;;;;;;8;1;0;1;2;2;3;0;0;0;2;16;8;2;H. Scott-Grayson
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;L. Bentoumi;11;14;0,23;11,23;0;6;0;0;5;0;0;1;0;0;0;;;;;;;;;0;1;1;2;1;1;0;0;1;0;0;8;-4;9;L. Bentoumi
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;E. Peytour;19;28;0,47;19,47;;;;;;;0;3;0;;;;;;;;;;;10;1;3;4;2;1;2;0;1;2;3;12;11;11;E. Peytour
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;M. Greusard;8;6;0,1;8,1;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;2;0;-8;0;18;M. Greusard
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;L. Meilland;2;7;0,12;2,12;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-1;1;19;L. Meilland
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;E. Brizard;0;4;0,07;0,07;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;20;E. Brizard
+25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;D. Balayera;17;44;0,73;17,73;;;;;;;;;;0;0;;;;;;;;;9;1;1;2;0;0;1;0;0;3;2;10;11;77;D. Balayera
 25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;2;2;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P5;Playdown;Domicile;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;29;69;0,42;23;43;0,53;;;;;;;21;36;14;12;27;27;11;72;15;28;43;19;15;11;1;2;17;14;0;86;0;TOTAUX EQUIPE
-25-26;P6;Playdown;Exterieur;;Toulouse;Capitaine;Starter;D. Harris(C);;;;;;;;;;;;;;;;;;;;;;;;10;3;2;5;11;6;2;0;1;3;4;14;21;1;D. Harris(C)
-25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;A. Risacher;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;1;0;0;1;0;5;0;-3;4;10;A. Risacher
-25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;J. Zodia;;;;;;;;;;;;;;;;;;;;;;;;20;2;12;14;2;3;4;0;2;2;4;8;32;13;J. Zodia
-25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;S. Scalia;;;;;;;;0;0;;;;;0;0;;;;;;;;;15;1;2;3;2;1;1;0;0;2;1;8;9;14;S. Scalia
-25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;A. Trasi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;2;1;3;1;0;2;0;0;3;3;8;12;32;A. Trasi
-25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;H. Scott-Grayson;;;;;;;;0;2;0,00;;;;;;;;;;;;;;5;1;2;3;3;4;2;1;0;2;2;7;6;2;H. Scott-Grayson
-25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;L. Bentoumi;;;;;0;1;0,00;0;0;;0;1;0,00;0;1;0,00;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-8;-2;9;L. Bentoumi
-25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;E. Peytour;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;4;0;1;1;2;1;0;0;1;0;0;-5;1;11;E. Peytour
-25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;D. Balayera;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;0;2;2;0;1;1;0;0;0;1;6;8;77;D. Balayera
+25-26;P6;Playdown;Exterieur;;Toulouse;Capitaine;Starter;D. Harris(C);24;36;0,6;24,6;;;;;;;;;;;;;;;;;;;;10;3;2;5;11;6;2;0;1;3;4;14;21;1;D. Harris(C)
+25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;A. Risacher;21;10;0,17;21,17;;;;;;;;;;0;0;;;;;;;;;5;0;3;3;1;0;0;1;0;5;0;-3;4;10;A. Risacher
+25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;J. Zodia;33;29;0,48;33,48;;;;;;;;;;;;;;;;;;;;20;2;12;14;2;3;4;0;2;2;4;8;32;13;J. Zodia
+25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;S. Scalia;36;0;0;36;;;;0;0;;;;;0;0;;;;;;;;;15;1;2;3;2;1;1;0;0;2;1;8;9;14;S. Scalia
+25-26;P6;Playdown;Exterieur;;Toulouse;;Starter;A. Trasi;27;16;0,27;27,27;;;;;;;0;2;0;;;;;;;;;;;10;2;1;3;1;0;2;0;0;3;3;8;12;32;A. Trasi
+25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;H. Scott-Grayson;24;33;0,55;24,55;;;;0;2;0;;;;;;;;;;;;;;5;1;2;3;3;4;2;1;0;2;2;7;6;2;H. Scott-Grayson
+25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;L. Bentoumi;2;5;0,08;2,08;0;1;0;0;0;;0;1;0;0;1;0;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-8;-2;9;L. Bentoumi
+25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;E. Peytour;13;41;0,68;13,68;;;;;;;0;3;0;0;0;;;;;;;;;4;0;1;1;2;1;0;0;1;0;0;-5;1;11;E. Peytour
+25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;D. Balayera;17;0;0;17;;;;;;;0;0;;0;0;;;;;;;;;6;0;2;2;0;1;1;0;0;0;1;6;8;77;D. Balayera
 25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;P6;Playdown;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;26;62;0,42;15;27;0,56;;;;;;;19;24;6;15;15;22;10;75;12;25;37;22;17;12;2;4;17;15;0;93;0;TOTAUX EQUIPE

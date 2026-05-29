@@ -1,4 +1,4 @@
-Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adversaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Charnay;;Starter;K. Nanacickaite Vd Horst;21;2;0,03;21,03;2;5;0,4;1;1;1;1;4;0,25;0;0;;;;;;;;;5;0;4;4;2;2;0;0;0;4;0;7;6;6;K. Nanacickaite Vd Horst
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Charnay;;Starter;P. Astier;27;46;0,77;27,77;4;8;0,5;3;7;0,428571429;1;1;1;4;4;1;;;;;;;;13;1;1;2;3;2;2;1;1;2;3;13;15;18;P. Astier
 23-24;1/8 de finale;Coupe de France;Exterieur;Victoire;Charnay;Capitaine;Starter;A. Spanou;23;13;0,22;23,22;3;5;0,6;3;5;0,6;0;0;;2;2;1;;;;;;;;8;0;0;0;0;1;1;0;0;4;1;11;6;25;A. Spanou(C)
@@ -664,365 +664,365 @@ Saison;Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/b
 24-25;22;Championat de France;Exterieur;Victoire;Angers;;Banc;T. Pouye;18;25;0,42;25,42;3;9;0,33;2;6;0,33;1;3;0,33;1;2;0,5;;;;;;;;8;0;3;3;1;2;0;0;2;5;2;-2;3;32;T. Pouye
 24-25;22;Championat de France;Exterieur;Victoire;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;0;0;0;Team / Coach
 24-25;22;Championat de France;Exterieur;Victoire;Angers;;Banc;TOTAUX EQUIPE;;;;;28;63;0,44;21;42;0,5;7;21;0,33;6;8;0,75;11;38;14;4;13;10;15;69;10;24;34;16;15;4;0;3;18;15;0;71;0;TOTAUX EQUIPE
-25-26;1;Championat de France;Exterieur;;Chartres;;Starter;M. Foppossi-Dally;;;;;;;;;;;;;;;;;;;;;;;;12;0;3;3;1;1;2;0;0;4;1;-3;10;2;M. Foppossi-Dally
-25-26;1;Championat de France;Exterieur;;Chartres;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;11;5;4;9;1;4;1;2;0;1;7;3;16;22;K. Diaby
-25-26;1;Championat de France;Exterieur;;Chartres;Capitaine;Starter;E. Naigre(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;1;3;1;0;0;4;0;2;1;25;E. Naigre(C)
-25-26;1;Championat de France;Exterieur;;Chartres;;Starter;T. Pouye;;;;;;;;;;;0;6;0,00;;;;;;;;;;;4;2;4;6;2;2;1;0;1;2;2;-2;2;32;T. Pouye
-25-26;1;Championat de France;Exterieur;;Chartres;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;8;0;5;5;6;2;0;0;0;0;2;10;9;39;A. Duchet
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;M. Djadi-Tabdi;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;M. Djadi-Tabdi
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;M. Selle;;;;;0;1;0,00;0;1;0,00;0;0;;0;2;0,00;;;;;;;;0;1;0;1;0;0;0;0;0;1;1;3;-2;11;M. Selle
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;A. Tournebize;;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;4;1;4;5;0;1;1;2;0;4;1;0;6;13;A. Tournebize
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;L. Guapo;;;;;0;5;0,00;0;4;0,00;0;1;0,00;0;0;;;;;;;;;0;2;1;3;0;1;0;0;0;3;1;7;-3;21;L. Guapo
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;I. Pitarch-Granel;;;;;;;;;;;;;;;;;;;;;;;;9;1;3;4;1;0;1;0;0;3;3;10;12;26;I. Pitarch-Granel
-25-26;1;Championat de France;Exterieur;;Chartres;;Banc;N. Fora;;;;;;;;;;;;;;;;;;;;;;;;11;0;1;1;0;2;1;0;0;2;3;-10;7;45;N. Fora
+25-26;1;Championat de France;Exterieur;;Chartres;;Starter;M. Foppossi-Dally;19;57;0,95;19,95;;;;;;;;;;;;;;;;;;;;12;0;3;3;1;1;2;0;0;4;1;-3;10;2;M. Foppossi-Dally
+25-26;1;Championat de France;Exterieur;;Chartres;;Starter;K. Diaby;32;59;0,98;32,98;;;;;;;0;0;;;;;;;;;;;;11;5;4;9;1;4;1;2;0;1;7;3;16;22;K. Diaby
+25-26;1;Championat de France;Exterieur;;Chartres;Capitaine;Starter;E. Naigre(C);24;29;0,48;24,48;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;1;3;1;0;0;4;0;2;1;25;E. Naigre(C)
+25-26;1;Championat de France;Exterieur;;Chartres;;Starter;T. Pouye;30;49;0,82;30,82;;;;;;;0;6;0;;;;;;;;;;;4;2;4;6;2;2;1;0;1;2;2;-2;2;32;T. Pouye
+25-26;1;Championat de France;Exterieur;;Chartres;;Starter;A. Duchet;27;0;0;27;;;;;;;;;;;;;;;;;;;;8;0;5;5;6;2;0;0;0;0;2;10;9;39;A. Duchet
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;M. Djadi-Tabdi;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;M. Djadi-Tabdi
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;M. Selle;4;8;0,13;4,13;0;1;0;0;1;0;0;0;;0;2;0;;;;;;;;0;1;0;1;0;0;0;0;0;1;1;3;-2;11;M. Selle
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;A. Tournebize;17;28;0,47;17,47;;;;;;;0;0;;0;2;0;;;;;;;;4;1;4;5;0;1;1;2;0;4;1;0;6;13;A. Tournebize
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;L. Guapo;14;0;0;14;0;5;0;0;4;0;0;1;0;0;0;;;;;;;;;0;2;1;3;0;1;0;0;0;3;1;7;-3;21;L. Guapo
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;I. Pitarch-Granel;12;8;0,13;12,13;;;;;;;;;;;;;;;;;;;;9;1;3;4;1;0;1;0;0;3;3;10;12;26;I. Pitarch-Granel
+25-26;1;Championat de France;Exterieur;;Chartres;;Banc;N. Fora;16;12;0,2;16,2;;;;;;;;;;;;;;;;;;;;11;0;1;1;0;2;1;0;0;2;3;-10;7;45;N. Fora
 25-26;1;Championat de France;Exterieur;;Chartres;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;4;8;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1;Championat de France;Exterieur;;Chartres;;Banc;TOTAUX EQUIPE;;;;;19;62;0,31;;;;;;;17;25;0,68;13;20;9;4;24;11;7;62;16;31;47;12;16;8;4;1;24;21;0;66;0;TOTAUX EQUIPE
-25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;M. Fopossy-Dally;;;;;;;;;;;0;2;0,00;;;;;;;;;;;8;0;5;5;0;3;1;0;1;1;3;-2;8;2;M. Fopossy-Dally
-25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;4;2;5;7;1;3;2;0;0;3;0;-5;6;3;M. Djaldi-Tabdi
-25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;K. Diaby;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;0;2;2;1;0;1;0;0;4;4;-9;3;22;K. Diaby
-25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;7;3;4;7;0;4;2;0;1;1;1;1;4;32;T. Pouye
-25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;3;0;0;0;1;1;-8;5;39;A. Duchet
-25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;11;M. Selle
-25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;0;0;13;A. Tournebize
-25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;L. Guapo;;;;;;;;;;;0;0;;;;;;;;;;;;7;3;1;4;1;2;0;0;0;0;1;-3;7;21;L. Guapo
-25-26;2;Championat de France;Domicile;;Basket Landes;Capitaine;Banc;E. Naigre(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;6;6;3;1;0;0;0;3;0;3;9;25;E. Naigre(C)
-25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;I. Pitarch-Granel;;;;;;;;;;;0;0;;;;;;;;;;;;3;2;1;3;0;1;1;1;0;0;2;-5;3;26;I. Pitarch-Granel
-25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;N. Fora;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;1;3;0;0;0;1;0;2;3;45;N. Fora
+25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;M. Fopossy-Dally;23;53;0,88;23,88;;;;;;;0;2;0;;;;;;;;;;;8;0;5;5;0;3;1;0;1;1;3;-2;8;2;M. Fopossy-Dally
+25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;M. Djaldi-Tabdi;32;44;0,73;32,73;;;;;;;0;4;0;0;0;;;;;;;;;4;2;5;7;1;3;2;0;0;3;0;-5;6;3;M. Djaldi-Tabdi
+25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;K. Diaby;20;2;0,03;20,03;;;;;;;0;1;0;;;;;;;;;;;5;0;2;2;1;0;1;0;0;4;4;-9;3;22;K. Diaby
+25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;T. Pouye;28;6;0,1;28,1;;;;;;;;;;;;;;;;;;;;7;3;4;7;0;4;2;0;1;1;1;1;4;32;T. Pouye
+25-26;2;Championat de France;Domicile;;Basket Landes;;Starter;A. Duchet;28;47;0,78;28,78;;;;;;;;;;0;0;;;;;;;;;12;0;2;2;0;3;0;0;0;1;1;-8;5;39;A. Duchet
+25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;M. Selle;0;1;0,02;0,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;11;M. Selle
+25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;A. Tournebize;2;8;0,13;2,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;0;0;13;A. Tournebize
+25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;L. Guapo;16;7;0,12;16,12;;;;;;;0;0;;;;;;;;;;;;7;3;1;4;1;2;0;0;0;0;1;-3;7;21;L. Guapo
+25-26;2;Championat de France;Domicile;;Basket Landes;Capitaine;Banc;E. Naigre(C);24;45;0,75;24,75;;;;0;0;;;;;0;0;;;;;;;;;3;0;6;6;3;1;0;0;0;3;0;3;9;25;E. Naigre(C)
+25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;I. Pitarch-Granel;9;4;0,07;9,07;;;;;;;0;0;;;;;;;;;;;;3;2;1;3;0;1;1;1;0;0;2;-5;3;26;I. Pitarch-Granel
+25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;N. Fora;13;13;0,22;13,22;;;;;;;0;0;;0;0;;;;;;;;;4;0;1;1;1;3;0;0;0;1;0;2;3;45;N. Fora
 25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;2;Championat de France;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;20;54;0,37;16;36;0,44;;;;;;;18;24;8;6;17;14;7;53;10;28;38;7;20;7;1;2;15;12;0;49;0;TOTAUX EQUIPE
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Foppossi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;1;3;4;1;4;1;0;1;3;3;-17;3;2;M. Foppossi
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;4;0,00;;;;;;;;;;;14;4;4;8;2;3;0;0;1;1;3;-9;14;3;M. Djaldi-Tabdi
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;10;6;2;8;1;3;1;0;1;2;3;-11;15;22;K. Diaby
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;10;2;5;7;2;3;1;0;1;3;1;-8;12;32;T. Pouye
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;3;1;0;0;1;0;-10;4;39;A. Duchet
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;3;0;3;2;3;5;0;0;4;6;-4;10;21;L. Guapo
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;6;0;3;3;2;2;1;0;0;2;0;-10;2;25;E. Naigre(C)
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;I. Pitarch Granel;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;2;1;-1;-2;26;I. Pitarch Granel
-25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;N. Fora;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;1;1;2;2;2;1;0;0;3;1;-5;0;45;N. Fora
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Foppossi;28;47;0,78;28,78;;;;;;;0;2;0;;;;;;;;;;;6;1;3;4;1;4;1;0;1;3;3;-17;3;2;M. Foppossi
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;27;38;0,63;27,63;;;;;;;0;4;0;;;;;;;;;;;14;4;4;8;2;3;0;0;1;1;3;-9;14;3;M. Djaldi-Tabdi
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;K. Diaby;29;12;0,2;29,2;;;;;;;0;0;;;;;;;;;;;;10;6;2;8;1;3;1;0;1;2;3;-11;15;22;K. Diaby
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;T. Pouye;22;10;0,17;22,17;;;;;;;;;;0;0;;;;;;;;;10;2;5;7;2;3;1;0;1;3;1;-8;12;32;T. Pouye
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Starter;A. Duchet;29;36;0,6;29,6;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;3;1;0;0;1;0;-10;4;39;A. Duchet
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;A. Tournebize;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;L. Guapo;23;25;0,42;23,42;;;;;;;0;1;0;;;;;;;;;;;7;3;0;3;2;3;5;0;0;4;6;-4;10;21;L. Guapo
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);20;47;0,78;20,78;;;;0;2;0;;;;0;0;;;;;;;;;6;0;3;3;2;2;1;0;0;2;0;-10;2;25;E. Naigre(C)
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;I. Pitarch Granel;8;1;0,02;8,02;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;2;1;-1;-2;26;I. Pitarch Granel
+25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;N. Fora;10;24;0,4;10,4;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;1;1;2;2;2;1;0;0;3;1;-5;0;45;N. Fora
 25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;3;Championat de France;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;23;66;0,35;18;40;0,45;;;;;;;14;28;22;11;13;2;7;62;21;22;43;16;24;11;0;4;21;18;0;64;0;TOTAUX EQUIPE
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Foppossi;;;;;0;8;0,00;0;3;0,00;0;5;0,00;;;;;;;;;;;5;0;1;1;3;1;2;1;0;0;4;-14;2;2;M. Foppossi
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;3;0,00;;;;;;;;;;;9;2;0;2;0;2;0;0;0;5;2;-10;2;3;M. Djaldi-Tabdi
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Guapo;;;;;;;;0;4;0,00;;;;;;;;;;;;;;4;3;5;8;0;2;3;1;1;4;5;-8;8;21;L. Guapo
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;13;0;1;1;1;4;4;0;0;3;3;-13;10;32;T. Pouye
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Duchet;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;1;2;3;6;1;0;0;0;0;2;-13;9;39;A. Duchet
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Selle;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;5;0;11;M. Selle
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Tournebize;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;0;0;0;0;1;1;0;-5;2;13;A. Tournebize
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;0;0;0;1;0;0;0;4;1;-15;-2;25;E. Naigre(C)
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;I. Pitarch Granel;;;;;;;;;;;;;;;;;;;;;;;;6;3;2;5;1;3;1;0;0;3;1;-13;8;26;I. Pitarch Granel
-25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;N. Fora;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;1;1;0;2;1;0;0;1;0;-9;0;45;N. Fora
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Foppossi;29;38;0,63;29,63;0;8;0;0;3;0;0;5;0;;;;;;;;;;;5;0;1;1;3;1;2;1;0;0;4;-14;2;2;M. Foppossi
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;M. Djaldi-Tabdi;23;17;0,28;23,28;;;;;;;0;3;0;;;;;;;;;;;9;2;0;2;0;2;0;0;0;5;2;-10;2;3;M. Djaldi-Tabdi
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;L. Guapo;30;35;0,58;30,58;;;;0;4;0;;;;;;;;;;;;;;4;3;5;8;0;2;3;1;1;4;5;-8;8;21;L. Guapo
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;T. Pouye;28;57;0,95;28,95;;;;;;;;;;;;;;;;;;;;13;0;1;1;1;4;4;0;0;3;3;-13;10;32;T. Pouye
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Starter;A. Duchet;29;22;0,37;29,37;;;;;;;0;2;0;0;0;;;;;;;;;4;1;2;3;6;1;0;0;0;0;2;-13;9;39;A. Duchet
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;M. Selle;1;4;0,07;1,07;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;5;0;11;M. Selle
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;A. Tournebize;6;6;0,1;6,1;;;;;;;0;0;;0;0;;;;;;;;;4;0;0;0;0;0;0;0;1;1;0;-5;2;13;A. Tournebize
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;Capitaine;Banc;E. Naigre(C);21;40;0,67;21,67;;;;;;;0;1;0;0;0;;;;;;;;;2;0;0;0;0;1;0;0;0;4;1;-15;-2;25;E. Naigre(C)
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;I. Pitarch Granel;12;32;0,53;12,53;;;;;;;;;;;;;;;;;;;;6;3;2;5;1;3;1;0;0;3;1;-13;8;26;I. Pitarch Granel
+25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;N. Fora;14;1;0,02;14,02;;;;0;2;0;;;;0;0;;;;;;;;;3;0;1;1;0;2;1;0;0;1;0;-9;0;45;N. Fora
 25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;4;Championat de France;Exterieur;;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;17;54;0,31;;;;;;;;;;15;20;5;2;15;1;6;50;10;16;26;11;18;11;2;2;21;18;0;41;0;TOTAUX EQUIPE
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;15;0;1;1;1;0;1;2;0;2;3;20;14;2;M. Foppossi
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;2;7;9;1;1;0;1;1;4;3;21;9;3;M. Djaldi-Tabdi
-25-26;5;Championat de France;Domicile;;Roche Vendée;Capitaine;Starter;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;14;1;3;4;2;2;2;0;0;2;0;10;18;25;E. Naigre(C)
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;T. Pouye;;;;;;;;;;;0;2;0,00;;;;;;;;;;;12;1;5;6;2;1;0;0;0;3;1;15;11;32;T. Pouye
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;14;2;3;5;3;2;2;0;0;0;0;18;16;39;A. Duchet
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;0;0;11;M. Selle
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;0;2;0;1;0;0;0;2;0;-6;1;13;A. Tournebize
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;R. Bamba;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;R. Bamba
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;L. Guapo;;;;;;;;0;2;0,00;;;;;;;;;;;;;;5;2;1;3;2;1;0;0;1;1;5;-1;2;21;L. Guapo
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;I. Pitarch Granel;;;;;;;;;;;;;;;;;;;;;;;;9;3;1;4;1;1;0;1;0;0;2;5;12;26;I. Pitarch Granel
-25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;N. Fora;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;4;0;0;0;4;2;0;0;0;2;1;8;1;45;N. Fora
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;M. Foppossi;25;16;0,27;25,27;;;;;;;;;;;;;;;;;;;;15;0;1;1;1;0;1;2;0;2;3;20;14;2;M. Foppossi
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;M. Djaldi-Tabdi;27;9;0,15;27,15;;;;;;;0;2;0;0;0;;;;;;;;;4;2;7;9;1;1;0;1;1;4;3;21;9;3;M. Djaldi-Tabdi
+25-26;5;Championat de France;Domicile;;Roche Vendée;Capitaine;Starter;E. Naigre(C);22;42;0,7;22,7;;;;;;;;;;0;0;;;;;;;;;14;1;3;4;2;2;2;0;0;2;0;10;18;25;E. Naigre(C)
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;T. Pouye;31;54;0,9;31,9;;;;;;;0;2;0;;;;;;;;;;;12;1;5;6;2;1;0;0;0;3;1;15;11;32;T. Pouye
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Starter;A. Duchet;28;21;0,35;28,35;;;;;;;;;;0;0;;;;;;;;;14;2;3;5;3;2;2;0;0;0;0;18;16;39;A. Duchet
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;M. Selle;2;5;0,08;2,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;0;0;11;M. Selle
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;A. Tournebize;6;4;0,07;6,07;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;2;0;2;0;1;0;0;0;2;0;-6;1;13;A. Tournebize
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;R. Bamba;0;1;0,02;0,02;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;R. Bamba
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;L. Guapo;24;11;0,18;24,18;;;;0;2;0;;;;;;;;;;;;;;5;2;1;3;2;1;0;0;1;1;5;-1;2;21;L. Guapo
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;I. Pitarch Granel;13;57;0,95;13,95;;;;;;;;;;;;;;;;;;;;9;3;1;4;1;1;0;1;0;0;2;5;12;26;I. Pitarch Granel
+25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;N. Fora;16;29;0,48;16,48;;;;;;;0;2;0;0;0;;;;;;;;;4;0;0;0;4;2;0;0;0;2;1;8;1;45;N. Fora
 25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;7;7;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;5;Championat de France;Domicile;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;28;65;0,43;19;41;0,46;;;;;;;16;24;12;10;18;21;8;77;13;28;41;16;11;5;4;2;17;15;0;91;0;TOTAUX EQUIPE
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;15;0;1;1;4;1;1;0;0;3;2;7;17;2;M. Foppossi
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;7;2;5;7;2;0;1;0;0;4;2;13;12;3;M. Djaldi-Tabdi
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;K. Diaby;;;;;;;;;;;0;0;;0;0;;;;;;;;;10;3;8;11;3;6;0;0;0;4;5;1;16;22;K. Diaby
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;1;4;0;0;0;2;1;3;2;32;T. Pouye
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;11;0;2;2;7;1;2;0;1;2;1;10;18;39;A. Duchet
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;0;-1;0;13;A. Tournebize
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;14;2;5;7;0;1;1;0;1;1;5;6;17;21;L. Guapo
-25-26;6;Championat de France;Exterieur;;Roche Vendée;Capitaine;Banc;E. Naigre(C);;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;0;3;3;0;1;0;1;0;5;2;3;0;25;E. Naigre(C)
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;I. Pitarch Granel;;;;;0;3;0,00;0;3;0,00;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;1;0;0;0;-1;26;I. Pitarch Granel
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;N. Fora;;;;;0;1;0,00;0;1;0,00;0;0;;;;;;;;;;;;3;0;1;1;1;1;0;0;0;1;2;-2;2;45;N. Fora
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Foppossi;23;31;0,52;23,52;;;;;;;;;;;;;;;;;;;;15;0;1;1;4;1;1;0;0;3;2;7;17;2;M. Foppossi
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Djaldi-Tabdi;26;59;0,98;26,98;;;;;;;0;2;0;;;;;;;;;;;7;2;5;7;2;0;1;0;0;4;2;13;12;3;M. Djaldi-Tabdi
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;K. Diaby;28;13;0,22;28,22;;;;;;;0;0;;0;0;;;;;;;;;10;3;8;11;3;6;0;0;0;4;5;1;16;22;K. Diaby
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Pouye;30;35;0,58;30,58;;;;;;;;;;0;0;;;;;;;;;11;1;3;4;1;4;0;0;0;2;1;3;2;32;T. Pouye
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Duchet;29;32;0,53;29,53;;;;;;;;;;;;;;;;;;;;11;0;2;2;7;1;2;0;1;2;1;10;18;39;A. Duchet
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;A. Tournebize;1;2;0,03;1,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;0;-1;0;13;A. Tournebize
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;L. Guapo;25;43;0,72;25,72;;;;;;;0;1;0;;;;;;;;;;;14;2;5;7;0;1;1;0;1;1;5;6;17;21;L. Guapo
+25-26;6;Championat de France;Exterieur;;Roche Vendée;Capitaine;Banc;E. Naigre(C);16;43;0,72;16,72;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;0;3;3;0;1;0;1;0;5;2;3;0;25;E. Naigre(C)
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;I. Pitarch Granel;6;4;0,07;6,07;0;3;0;0;3;0;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;1;0;0;0;-1;26;I. Pitarch Granel
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;N. Fora;10;28;0,47;10,47;0;1;0;0;1;0;0;0;;;;;;;;;;;;3;0;1;1;1;1;0;0;0;1;2;-2;2;45;N. Fora
 25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;3;6;0;2;0;0;0;0;0;0;0;0;Team / Coach
-25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;25;56;0,45;20;38;0,53;;;;16;20;0,80;14;34;11;6;17;9;9;71;12;32;44;18;17;5;1;3;24;20;0;87;0;TOTAUX EQUIPE
-25-26;7;Championat de France;Domicile;;Landerneau;;Starter;M. Foppossi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;1;3;4;3;1;0;1;0;2;3;-5;11;2;M. Foppossi
-25-26;7;Championat de France;Domicile;;Landerneau;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;6;8;5;13;0;3;1;2;1;3;4;7;12;3;M. Djaldi-Tabdi
-25-26;7;Championat de France;Domicile;;Landerneau;;Starter;K. Diaby;;;;;;;;;;;0;0;;0;0;;;;;;;;;4;1;7;8;4;2;0;1;0;1;3;11;14;22;K. Diaby
-25-26;7;Championat de France;Domicile;;Landerneau;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;22;1;4;5;3;0;2;0;1;4;3;25;21;32;T. Pouye
-25-26;7;Championat de France;Domicile;;Landerneau;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;0;1;4;1;0;0;0;3;1;18;3;39;A. Duchet
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;12;2;1;3;4;2;3;1;0;2;4;3;18;21;L. Guapo
-25-26;7;Championat de France;Domicile;;Landerneau;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;18;2;4;6;1;4;1;0;0;3;0;10;14;25;E. Naigre(C)
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;I. Pitarch Granel;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;1;0;2;1;2;1;26;I. Pitarch Granel
-25-26;7;Championat de France;Domicile;;Landerneau;;Banc;N. Fora;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;2;2;1;0;0;0;0;1;0;-1;3;45;N. Fora
+25-26;6;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;25;56;0,45;20;38;0,53;;;;16;20;0,8;14;34;11;6;17;9;9;71;12;32;44;18;17;5;1;3;24;20;0;87;0;TOTAUX EQUIPE
+25-26;7;Championat de France;Domicile;;Landerneau;;Starter;M. Foppossi;23;57;0,95;23,95;;;;;;;0;2;0;;;;;;;;;;;10;1;3;4;3;1;0;1;0;2;3;-5;11;2;M. Foppossi
+25-26;7;Championat de France;Domicile;;Landerneau;;Starter;M. Djaldi-Tabdi;29;29;0,48;29,48;;;;;;;0;2;0;;;;;;;;;;;6;8;5;13;0;3;1;2;1;3;4;7;12;3;M. Djaldi-Tabdi
+25-26;7;Championat de France;Domicile;;Landerneau;;Starter;K. Diaby;24;9;0,15;24,15;;;;;;;0;0;;0;0;;;;;;;;;4;1;7;8;4;2;0;1;0;1;3;11;14;22;K. Diaby
+25-26;7;Championat de France;Domicile;;Landerneau;;Starter;T. Pouye;32;45;0,75;32,75;;;;;;;;;;;;;;;;;;;;22;1;4;5;3;0;2;0;1;4;3;25;21;32;T. Pouye
+25-26;7;Championat de France;Domicile;;Landerneau;;Starter;A. Duchet;32;4;0,07;32,07;;;;;;;;;;0;0;;;;;;;;;8;1;0;1;4;1;0;0;0;3;1;18;3;39;A. Duchet
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;A. Tournebize;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;L. Guapo;25;15;0,25;25,25;;;;;;;;;;;;;;;;;;;;12;2;1;3;4;2;3;1;0;2;4;3;18;21;L. Guapo
+25-26;7;Championat de France;Domicile;;Landerneau;Capitaine;Banc;E. Naigre(C);36;22;0,37;36,37;;;;;;;;;;0;0;;;;;;;;;18;2;4;6;1;4;1;0;0;3;0;10;14;25;E. Naigre(C)
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;I. Pitarch Granel;8;9;0,15;8,15;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;1;0;2;1;2;1;26;I. Pitarch Granel
+25-26;7;Championat de France;Domicile;;Landerneau;;Banc;N. Fora;12;0;0;12;;;;;;;0;1;0;0;0;;;;;;;;;2;0;2;2;1;0;0;0;0;1;0;-1;3;45;N. Fora
 25-26;7;Championat de France;Domicile;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;7;Championat de France;Domicile;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;31;75;0,41;20;43;0,47;;;;;;;20;34;10;19;32;14;11;82;18;29;47;20;14;7;6;2;21;19;0;100;0;TOTAUX EQUIPE
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;9;2;1;3;2;1;4;0;1;4;5;2;11;2;M. Foppossi
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;;;;;;;;;;;13;5;2;7;0;1;2;0;1;3;3;-11;17;3;M. Djaldi-Tabdi
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;4;0;11;11;3;4;0;0;0;4;4;-3;12;22;K. Diaby
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;12;1;4;5;0;1;1;1;1;1;3;-3;10;32;T. Pouye
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;1;1;5;3;1;0;1;0;1;-14;6;39;A. Duchet
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Tournebize;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Guapo;;;;;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;0;0;1;0;0;1;0;-7;5;21;L. Guapo
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Akoa Makani;;;;;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;1;3;1;0;0;1;1;-7;-1;24;M. Akoa Makani
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Banc;E. Naigre(C);;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;2;0,00;;;;;;;;0;0;1;1;1;3;2;0;0;1;2;-10;-4;25;E. Naigre(C)
-25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;I. Pitarch Granel;;;;;0;4;0,00;0;3;0,00;0;1;0,00;0;0;;;;;;;;;0;1;0;1;2;0;1;1;0;1;0;-12;1;26;I. Pitarch Granel
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Foppossi;28;32;0,53;28,53;;;;;;;;;;;;;;;;;;;;9;2;1;3;2;1;4;0;1;4;5;2;11;2;M. Foppossi
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;M. Djaldi-Tabdi;21;37;0,62;21,62;;;;;;;;;;;;;;;;;;;;13;5;2;7;0;1;2;0;1;3;3;-11;17;3;M. Djaldi-Tabdi
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;K. Diaby;26;56;0,93;26,93;;;;;;;0;0;;;;;;;;;;;;4;0;11;11;3;4;0;0;0;4;4;-3;12;22;K. Diaby
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;T. Pouye;22;56;0,93;22,93;;;;;;;;;;;;;;;;;;;;12;1;4;5;0;1;1;1;1;1;3;-3;10;32;T. Pouye
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Starter;A. Duchet;27;46;0,77;27,77;;;;;;;;;;0;0;;;;;;;;;9;0;1;1;5;3;1;0;1;0;1;-14;6;39;A. Duchet
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;A. Tournebize;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;A. Tournebize
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;L. Guapo;11;30;0,5;11,5;;;;;;;;;;0;0;;;;;;;;;5;1;2;3;0;0;1;0;0;1;0;-7;5;21;L. Guapo
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;M. Akoa Makani;24;4;0,07;24,07;;;;;;;;;;0;0;;;;;;;;;7;0;1;1;1;3;1;0;0;1;1;-7;-1;24;M. Akoa Makani
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;Capitaine;Banc;E. Naigre(C);23;59;0,98;23,98;0;3;0;0;1;0;0;2;0;0;2;0;;;;;;;;0;0;1;1;1;3;2;0;0;1;2;-10;-4;25;E. Naigre(C)
+25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;I. Pitarch Granel;12;39;0,65;12,65;0;4;0;0;3;0;0;1;0;0;0;;;;;;;;;0;1;0;1;2;0;1;1;0;1;0;-12;1;26;I. Pitarch Granel
 25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;8;Championat de France;Exterieur;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;21;63;0,33;14;42;0,33;;;;;;;22;28;8;6;12;3;9;59;12;24;36;14;16;13;2;4;16;19;0;60;0;TOTAUX EQUIPE
-25-26;9;Championat de France;Domicile;;Toulouse;;Starter;M. Foppossi;;;;;;;;;;;0;0;;;;;;;;;;;;8;2;2;4;2;1;0;0;0;2;3;4;11;2;M. Foppossi
-25-26;9;Championat de France;Domicile;;Toulouse;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;14;1;5;6;2;1;2;0;0;0;3;10;19;22;K. Diaby
-25-26;9;Championat de France;Domicile;;Toulouse;;Starter;M. Akoa Makani;;;;;;;;0;1;0,00;;;;0;0;;;;;;;;;3;1;0;1;4;2;2;0;0;3;0;7;5;24;M. Akoa Makani
-25-26;9;Championat de France;Domicile;;Toulouse;Capitaine;Starter;E. Naigre(C);;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;9;1;1;2;3;0;2;0;0;1;0;11;11;25;E. Naigre(C)
-25-26;9;Championat de France;Domicile;;Toulouse;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;5;1;0;0;0;1;0;10;7;39;A. Duchet
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-2;1;1;M. Poilvé
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Djaldi-Tabdi;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;0;3;0;0;0;0;1;13;7;3;M. Djaldi-Tabdi
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Selle;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;0;0;2;0;0;0;0;1;0;-5;1;11;M. Selle
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;A. Tournebize;;;;;;;;;;;0;0;;;;;;;;;;;;12;1;2;3;2;0;1;0;0;3;2;18;16;13;A. Tournebize
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;1;5;6;3;1;2;0;0;2;6;16;9;21;L. Guapo
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;0;3;3;1;1;1;0;0;3;3;15;7;26;I. Pitarch Granel
-25-26;9;Championat de France;Domicile;;Toulouse;;Banc;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;16;0;0;0;3;0;1;0;1;1;0;18;15;32;T. Pouye
+25-26;9;Championat de France;Domicile;;Toulouse;;Starter;M. Foppossi;18;14;0,23;18,23;;;;;;;0;0;;;;;;;;;;;;8;2;2;4;2;1;0;0;0;2;3;4;11;2;M. Foppossi
+25-26;9;Championat de France;Domicile;;Toulouse;;Starter;K. Diaby;25;57;0,95;25,95;;;;;;;0;0;;;;;;;;;;;;14;1;5;6;2;1;2;0;0;0;3;10;19;22;K. Diaby
+25-26;9;Championat de France;Domicile;;Toulouse;;Starter;M. Akoa Makani;22;15;0,25;22,25;;;;0;1;0;;;;0;0;;;;;;;;;3;1;0;1;4;2;2;0;0;3;0;7;5;24;M. Akoa Makani
+25-26;9;Championat de France;Domicile;;Toulouse;Capitaine;Starter;E. Naigre(C);20;55;0,92;20,92;;;;0;2;0;;;;0;0;;;;;;;;;9;1;1;2;3;0;2;0;0;1;0;11;11;25;E. Naigre(C)
+25-26;9;Championat de France;Domicile;;Toulouse;;Starter;A. Duchet;25;30;0,5;25,5;;;;;;;;;;0;0;;;;;;;;;5;0;2;2;5;1;0;0;0;1;0;10;7;39;A. Duchet
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Poilvé;2;5;0,08;2,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;1;0;-2;1;1;M. Poilvé
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Djaldi-Tabdi;15;24;0,4;15,4;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;0;3;0;0;0;0;1;13;7;3;M. Djaldi-Tabdi
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;M. Selle;5;4;0,07;5,07;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;2;0;0;0;0;1;0;-5;1;11;M. Selle
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;A. Tournebize;12;16;0,27;12,27;;;;;;;0;0;;;;;;;;;;;;12;1;2;3;2;0;1;0;0;3;2;18;16;13;A. Tournebize
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;L. Guapo;19;5;0,08;19,08;;;;;;;0;1;0;;;;;;;;;;;4;1;5;6;3;1;2;0;0;2;6;16;9;21;L. Guapo
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;I. Pitarch Granel;13;45;0,75;13,75;;;;;;;0;1;0;;;;;;;;;;;6;0;3;3;1;1;1;0;0;3;3;15;7;26;I. Pitarch Granel
+25-26;9;Championat de France;Domicile;;Toulouse;;Banc;T. Pouye;19;10;0,17;19,17;;;;;;;;;;0;0;;;;;;;;;16;0;0;0;3;0;1;0;1;1;0;18;15;32;T. Pouye
 25-26;9;Championat de France;Domicile;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;0;4;4;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;9;Championat de France;Domicile;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;29;60;0,48;19;37;0,51;;;;18;23;0,78;20;36;6;12;47;25;11;86;8;27;35;27;10;11;0;1;18;18;0;113;0;TOTAUX EQUIPE
-25-26;10;Championat de France;Exterieur;;Charnay;;Starter;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;1;3;4;2;3;1;0;0;4;5;5;7;21;L. Guapo
-25-26;10;Championat de France;Exterieur;;Charnay;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;14;3;3;6;2;3;2;0;0;2;6;10;16;22;K. Diaby
-25-26;10;Championat de France;Exterieur;;Charnay;;Starter;M. Akoa Makani;;;;;;;;0;2;0,00;;;;0;0;;;;;;;;;3;0;3;3;2;3;1;0;1;0;0;-1;4;24;M. Akoa Makani
-25-26;10;Championat de France;Exterieur;;Charnay;Capitaine;Starter;E. Naigre(C);;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;2;0;1;1;1;1;0;0;0;5;1;-1;-2;25;E. Naigre(C)
-25-26;10;Championat de France;Exterieur;;Charnay;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;14;0;2;2;6;1;1;0;0;2;3;2;14;39;A. Duchet
-25-26;10;Championat de France;Exterieur;;Charnay;;Banc;M. Djaldi-Tabdi;;;;;;;;;;;;;;;;;;;;;;;;11;6;6;12;1;2;1;1;2;4;2;10;19;3;M. Djaldi-Tabdi
-25-26;10;Championat de France;Exterieur;;Charnay;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;10;Championat de France;Exterieur;;Charnay;;Banc;A. Tournebize;;;;;0;1;0,00;0;1;0,00;0;0;;0;0;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;-5;1;13;A. Tournebize
-25-26;10;Championat de France;Exterieur;;Charnay;;Banc;I. Pitarch Granel;;;;;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;3;0;0;0;0;0;7;2;26;I. Pitarch Granel
-25-26;10;Championat de France;Exterieur;;Charnay;;Banc;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;18;1;4;5;2;3;2;0;2;3;4;8;16;32;T. Pouye
+25-26;10;Championat de France;Exterieur;;Charnay;;Starter;L. Guapo;26;32;0,53;26,53;;;;;;;0;1;0;;;;;;;;;;;6;1;3;4;2;3;1;0;0;4;5;5;7;21;L. Guapo
+25-26;10;Championat de France;Exterieur;;Charnay;;Starter;K. Diaby;32;29;0,48;32,48;;;;;;;0;0;;;;;;;;;;;;14;3;3;6;2;3;2;0;0;2;6;10;16;22;K. Diaby
+25-26;10;Championat de France;Exterieur;;Charnay;;Starter;M. Akoa Makani;11;10;0,17;11,17;;;;0;2;0;;;;0;0;;;;;;;;;3;0;3;3;2;3;1;0;1;0;0;-1;4;24;M. Akoa Makani
+25-26;10;Championat de France;Exterieur;;Charnay;Capitaine;Starter;E. Naigre(C);15;59;0,98;15,98;;;;;;;0;2;0;0;0;;;;;;;;;2;0;1;1;1;1;0;0;0;5;1;-1;-2;25;E. Naigre(C)
+25-26;10;Championat de France;Exterieur;;Charnay;;Starter;A. Duchet;33;38;0,63;33,63;;;;;;;;;;;;;;;;;;;;14;0;2;2;6;1;1;0;0;2;3;2;14;39;A. Duchet
+25-26;10;Championat de France;Exterieur;;Charnay;;Banc;M. Djaldi-Tabdi;25;39;0,65;25,65;;;;;;;;;;;;;;;;;;;;11;6;6;12;1;2;1;1;2;4;2;10;19;3;M. Djaldi-Tabdi
+25-26;10;Championat de France;Exterieur;;Charnay;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;10;Championat de France;Exterieur;;Charnay;;Banc;A. Tournebize;5;5;0,08;5,08;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;2;2;0;0;0;0;0;0;0;-5;1;13;A. Tournebize
+25-26;10;Championat de France;Exterieur;;Charnay;;Banc;I. Pitarch Granel;17;27;0,45;17,45;;;;;;;;;;0;0;;;;;;;;;5;0;1;1;1;3;0;0;0;0;0;7;2;26;I. Pitarch Granel
+25-26;10;Championat de France;Exterieur;;Charnay;;Banc;T. Pouye;31;31;0,52;31,52;;;;;;;;;;;;;;;;;;;;18;1;4;5;2;3;2;0;2;3;4;8;16;32;T. Pouye
 25-26;10;Championat de France;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;0;3;0;4;0;0;0;0;0;0;0;0;Team / Coach
 25-26;10;Championat de France;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;26;60;0,43;20;44;0,45;;;;15;20;0,75;25;34;11;6;34;9;8;73;14;25;39;17;23;8;1;5;20;21;0;76;0;TOTAUX EQUIPE
-25-26;11;Championat de France;Domicile;;Angers;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;0;0;;;;;;;;;10;3;5;8;1;9;0;0;0;4;0;-2;5;3;M. Djaldi-Tabdi
-25-26;11;Championat de France;Domicile;;Angers;;Starter;L. Guapo;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;3;2;3;0;1;2;1;16;3;21;L. Guapo
-25-26;11;Championat de France;Domicile;;Angers;Capitaine;Starter;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;1;5;6;3;3;0;0;0;5;1;13;8;25;E. Naigre(C)
-25-26;11;Championat de France;Domicile;;Angers;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;21;1;6;7;2;1;0;0;1;1;3;11;21;32;T. Pouye
-25-26;11;Championat de France;Domicile;;Angers;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;20;0;1;1;6;1;1;0;0;1;2;17;23;39;A. Duchet
-25-26;11;Championat de France;Domicile;;Angers;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;1;M. Poilvé
-25-26;11;Championat de France;Domicile;;Angers;;Banc;C. Rousseliere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;4;C. Rousseliere
-25-26;11;Championat de France;Domicile;;Angers;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;6;1;11;M. Selle
-25-26;11;Championat de France;Domicile;;Angers;;Banc;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;18;5;4;9;4;1;1;1;0;1;7;10;27;22;K. Diaby
-25-26;11;Championat de France;Domicile;;Angers;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;;;;;;;;;;;3;2;1;3;1;1;0;0;0;1;3;0;3;26;I. Pitarch Granel
+25-26;11;Championat de France;Domicile;;Angers;;Starter;M. Djaldi-Tabdi;22;12;0,2;22,2;;;;;;;0;2;0;0;0;;;;;;;;;10;3;5;8;1;9;0;0;0;4;0;-2;5;3;M. Djaldi-Tabdi
+25-26;11;Championat de France;Domicile;;Angers;;Starter;L. Guapo;31;17;0,28;31,28;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;3;2;3;0;1;2;1;16;3;21;L. Guapo
+25-26;11;Championat de France;Domicile;;Angers;Capitaine;Starter;E. Naigre(C);28;30;0,5;28,5;;;;;;;;;;0;0;;;;;;;;;5;1;5;6;3;3;0;0;0;5;1;13;8;25;E. Naigre(C)
+25-26;11;Championat de France;Domicile;;Angers;;Starter;T. Pouye;35;8;0,13;35,13;;;;;;;;;;;;;;;;;;;;21;1;6;7;2;1;0;0;1;1;3;11;21;32;T. Pouye
+25-26;11;Championat de France;Domicile;;Angers;;Starter;A. Duchet;34;6;0,1;34,1;;;;;;;;;;;;;;;;;;;;20;0;1;1;6;1;1;0;0;1;2;17;23;39;A. Duchet
+25-26;11;Championat de France;Domicile;;Angers;;Banc;M. Poilvé;0;3;0,05;0,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;1;M. Poilvé
+25-26;11;Championat de France;Domicile;;Angers;;Banc;C. Rousseliere;0;9;0,15;0,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;4;C. Rousseliere
+25-26;11;Championat de France;Domicile;;Angers;;Banc;M. Selle;1;5;0,08;1,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;6;1;11;M. Selle
+25-26;11;Championat de France;Domicile;;Angers;;Banc;K. Diaby;27;40;0,67;27,67;;;;;;;0;0;;;;;;;;;;;;18;5;4;9;4;1;1;1;0;1;7;10;27;22;K. Diaby
+25-26;11;Championat de France;Domicile;;Angers;;Banc;I. Pitarch Granel;19;20;0,33;19,33;;;;;;;0;1;0;;;;;;;;;;;3;2;1;3;1;1;0;0;0;1;3;0;3;26;I. Pitarch Granel
 25-26;11;Championat de France;Domicile;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;6;8;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;11;Championat de France;Domicile;;Angers;;Banc;TOTAUX EQUIPE;;;;;28;59;0,47;22;43;0,51;;;;17;18;0,94;15;28;8;6;21;24;16;79;14;30;44;20;19;5;1;2;16;17;0;98;0;TOTAUX EQUIPE
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Foppossi;;;;;;;;;;;0;0;;0;0;;;;;;;;;6;0;5;5;3;0;0;0;0;2;1;10;13;2;M. Foppossi
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;3;0,00;0;2;0,00;;;;;;;;6;3;8;11;0;3;0;1;1;1;2;18;7;3;M. Djaldi-Tabdi
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;10;4;3;7;2;2;0;0;0;3;3;16;15;22;K. Diaby
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Pouye;;;;;;;;;;;0;4;0,00;;;;;;;;;;;8;0;5;5;5;3;0;0;0;3;1;11;8;32;T. Pouye
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;13;0;1;1;5;0;1;0;0;0;1;16;14;39;A. Duchet
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;0;1;1;M. Poilvé
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Selle;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;1;0;1;0;7;5;11;M. Selle
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;9;3;2;5;2;3;2;1;0;3;5;10;13;21;L. Guapo
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Akoa Makani;;;;;;;;;;;;;;;;;;;;;;;;16;0;0;0;5;4;2;0;0;2;1;22;16;24;M. Akoa Makani
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;E. Naigre(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;6;0;4;4;2;1;1;0;0;2;1;17;8;25;E. Naigre(C)
-25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;;;;;;;;;;;6;0;1;1;0;1;0;0;0;0;2;23;3;26;I. Pitarch Granel
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Foppossi;18;56;0,93;18,93;;;;;;;0;0;;0;0;;;;;;;;;6;0;5;5;3;0;0;0;0;2;1;10;13;2;M. Foppossi
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Djaldi-Tabdi;26;15;0,25;26,25;;;;;;;0;3;0;0;2;0;;;;;;;;6;3;8;11;0;3;0;1;1;1;2;18;7;3;M. Djaldi-Tabdi
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;K. Diaby;19;39;0,65;19,65;;;;;;;0;0;;;;;;;;;;;;10;4;3;7;2;2;0;0;0;3;3;16;15;22;K. Diaby
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;T. Pouye;22;33;0,55;22,55;;;;;;;0;4;0;;;;;;;;;;;8;0;5;5;5;3;0;0;0;3;1;11;8;32;T. Pouye
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;A. Duchet;21;13;0,22;21,22;;;;;;;;;;;;;;;;;;;;13;0;1;1;5;0;1;0;0;0;1;16;14;39;A. Duchet
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Poilvé;5;5;0,08;5,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;0;1;1;M. Poilvé
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Selle;10;35;0,58;10,58;;;;;;;0;0;;0;0;;;;;;;;;2;0;2;2;0;0;0;1;0;1;0;7;5;11;M. Selle
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;L. Guapo;19;42;0,7;19,7;;;;;;;;;;;;;;;;;;;;9;3;2;5;2;3;2;1;0;3;5;10;13;21;L. Guapo
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Akoa Makani;19;12;0,2;19,2;;;;;;;;;;;;;;;;;;;;16;0;0;0;5;4;2;0;0;2;1;22;16;24;M. Akoa Makani
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;E. Naigre(C);21;4;0,07;21,07;;;;0;0;;;;;0;0;;;;;;;;;6;0;4;4;2;1;1;0;0;2;1;17;8;25;E. Naigre(C)
+25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;I. Pitarch Granel;15;26;0,43;15,43;;;;;;;0;1;0;;;;;;;;;;;6;0;1;1;0;1;0;0;0;0;2;23;3;26;I. Pitarch Granel
 25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;1;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;12;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;30;63;0,48;21;36;0,58;;;;13;17;0,76;15;34;12;2;39;32;12;82;13;32;45;24;17;6;3;1;17;17;0;106;0;TOTAUX EQUIPE
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;M. Foppossi;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;1;1;0;1;0;0;2;2;0;-4;-5;2;M. Foppossi
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;4;2;6;0;5;2;0;1;3;1;-2;4;3;M. Djaldi-Tabdi
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;10;2;13;15;1;6;3;1;0;4;6;15;20;22;K. Diaby
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;16;2;2;4;1;3;0;0;0;2;1;3;14;32;T. Pouye
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;A. Duchet;;;;;;;;;;;0;3;0,00;;;;;;;;;;;10;1;1;2;6;0;0;0;0;1;2;9;10;39;A. Duchet
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;3;0;3;1;2;2;0;0;2;4;10;4;21;L. Guapo
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;M. Akoa Makani;;;;;;;;;;;;;;;;;;;;;;;;15;0;1;1;3;1;1;0;0;2;2;-2;17;24;M. Akoa Makani
-25-26;13;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);;;;;;;;0;3;0,00;;;;;;;;;;;;;;5;0;6;6;3;0;1;0;0;3;2;8;9;25;E. Naigre(C)
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;1;2;0;0;0;1;1;3;0;8;1;26;I. Pitarch Granel
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;M. Foppossi;23;55;0,92;23,92;;;;;;;0;1;0;0;0;;;;;;;;;2;0;1;1;0;1;0;0;2;2;0;-4;-5;2;M. Foppossi
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;24;24;0,4;24,4;;;;;;;0;1;0;0;0;;;;;;;;;4;4;2;6;0;5;2;0;1;3;1;-2;4;3;M. Djaldi-Tabdi
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;K. Diaby;30;42;0,7;30,7;;;;;;;0;0;;;;;;;;;;;;10;2;13;15;1;6;3;1;0;4;6;15;20;22;K. Diaby
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;T. Pouye;23;54;0,9;23,9;;;;;;;;;;0;0;;;;;;;;;16;2;2;4;1;3;0;0;0;2;1;3;14;32;T. Pouye
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Starter;A. Duchet;26;51;0,85;26,85;;;;;;;0;3;0;;;;;;;;;;;10;1;1;2;6;0;0;0;0;1;2;9;10;39;A. Duchet
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;L. Guapo;15;54;0,9;15,9;;;;;;;0;1;0;;;;;;;;;;;5;3;0;3;1;2;2;0;0;2;4;10;4;21;L. Guapo
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;M. Akoa Makani;24;14;0,23;24,23;;;;;;;;;;;;;;;;;;;;15;0;1;1;3;1;1;0;0;2;2;-2;17;24;M. Akoa Makani
+25-26;13;Championat de France;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);21;7;0,12;21,12;;;;0;3;0;;;;;;;;;;;;;;5;0;6;6;3;0;1;0;0;3;2;8;9;25;E. Naigre(C)
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;8;9;0,15;8,15;;;;;;;0;1;0;0;0;;;;;;;;;2;1;1;2;0;0;0;1;1;3;0;8;1;26;I. Pitarch Granel
 25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;4;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;25;62;0,40;20;47;0,43;;;;14;20;0,70;8;28;21;6;27;20;10;69;15;31;46;15;18;9;2;4;22;18;0;80;0;TOTAUX EQUIPE
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Foppossi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;2;3;5;1;0;1;0;0;4;3;19;11;2;M. Foppossi
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;0;;;;;;;;;;;;6;2;2;4;5;2;2;1;1;1;4;10;13;3;M. Djaldi-Tabdi
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;K. Diaby;;;;;;;;;;;0;0;;0;2;0,00;;;;;;;;14;1;11;12;3;1;0;0;0;3;3;19;25;22;K. Diaby
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;12;1;3;4;3;5;0;0;1;4;0;21;8;32;T. Pouye
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;22;0;1;1;3;2;3;0;2;0;1;6;19;39;A. Duchet
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;C. Rousseliere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;3;0;3;1;11;M. Selle
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;L. Guapo;;;;;;;;;;;0;0;;;;;;;;;;;;7;1;2;3;2;4;1;1;0;2;2;1;9;21;L. Guapo
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;4;4;0;0;0;4;0;-4;3;25;E. Naigre(C)
-25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;;;;;;;;;;;8;0;2;2;0;0;0;0;0;1;2;-5;8;26;I. Pitarch Granel
+25-26;13;Championat de France;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;25;62;0,4;20;47;0,43;;;;14;20;0,7;8;28;21;6;27;20;10;69;15;31;46;15;18;9;2;4;22;18;0;80;0;TOTAUX EQUIPE
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Foppossi;26;42;0,7;26,7;;;;;;;0;1;0;;;;;;;;;;;8;2;3;5;1;0;1;0;0;4;3;19;11;2;M. Foppossi
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;29;36;0,6;29,6;;;;;;;0;0;;;;;;;;;;;;6;2;2;4;5;2;2;1;1;1;4;10;13;3;M. Djaldi-Tabdi
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;K. Diaby;27;59;0,98;27,98;;;;;;;0;0;;0;2;0;;;;;;;;14;1;11;12;3;1;0;0;0;3;3;19;25;22;K. Diaby
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;T. Pouye;30;50;0,83;30,83;;;;;;;;;;0;0;;;;;;;;;12;1;3;4;3;5;0;0;1;4;0;21;8;32;T. Pouye
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Starter;A. Duchet;30;39;0,65;30,65;;;;;;;;;;;;;;;;;;;;22;0;1;1;3;2;3;0;2;0;1;6;19;39;A. Duchet
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;C. Rousseliere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;M. Selle;1;3;0,05;1,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;3;0;3;1;11;M. Selle
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;L. Guapo;20;48;0,8;20,8;;;;;;;0;0;;;;;;;;;;;;7;1;2;3;2;4;1;1;0;2;2;1;9;21;L. Guapo
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);21;22;0,37;21,37;;;;0;0;;;;;0;0;;;;;;;;;3;0;2;2;4;4;0;0;0;4;0;-4;3;25;E. Naigre(C)
+25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;I. Pitarch Granel;11;1;0,02;11,02;;;;;;;0;0;;;;;;;;;;;;8;0;2;2;0;0;0;0;0;1;2;-5;8;26;I. Pitarch Granel
 25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;14;Championat de France;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;29;54;0,54;22;37;0,59;;;;15;19;0,79;14;32;6;4;18;16;11;80;8;26;34;22;18;7;2;4;22;15;0;98;0;TOTAUX EQUIPE
-25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;M. Foppossi;;;;;;;;;;;0;4;0,00;;;;;;;;;;;8;0;3;3;1;3;1;0;0;3;7;-2;3;2;M. Foppossi
-25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;9;4;3;7;0;2;0;1;0;3;2;0;9;3;M. Djaldi-Tabdi
-25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;K. Diaby;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;9;10;2;3;1;1;0;5;4;10;13;22;K. Diaby
-25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;22;0;4;4;3;3;0;0;0;3;3;9;23;32;T. Pouye
-25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;3;0;0;0;0;1;0;-4;8;39;A. Duchet
-25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-3;0;1;M. Poilvé
-25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;R. Bamba;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;R. Bamba
-25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;8;2;4;6;1;4;0;1;1;2;4;1;8;21;L. Guapo
-25-26;15;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;E. Naigre(C);;;;;0;5;0,00;0;1;0,00;0;4;0,00;0;0;;;;;;;;;0;0;2;2;0;3;0;0;0;1;0;1;-6;25;E. Naigre(C)
-25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;I. Pitarch Granel;;;;;0;4;0,00;0;3;0,00;0;1;0,00;0;0;;;;;;;;;0;1;1;2;2;0;0;1;0;0;0;3;1;26;I. Pitarch Granel
+25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;M. Foppossi;27;37;0,62;27,62;;;;;;;0;4;0;;;;;;;;;;;8;0;3;3;1;3;1;0;0;3;7;-2;3;2;M. Foppossi
+25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;M. Djaldi-Tabdi;27;38;0,63;27,63;;;;;;;0;2;0;;;;;;;;;;;9;4;3;7;0;2;0;1;0;3;2;0;9;3;M. Djaldi-Tabdi
+25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;K. Diaby;28;27;0,45;28,45;;;;;;;0;1;0;;;;;;;;;;;8;1;9;10;2;3;1;1;0;5;4;10;13;22;K. Diaby
+25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;T. Pouye;22;0;0;22;;;;;;;;;;;;;;;;;;;;22;0;4;4;3;3;0;0;0;3;3;9;23;32;T. Pouye
+25-26;15;Championat de France;Exterieur;;Landerneau;;Starter;A. Duchet;30;15;0,25;30,25;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;3;0;0;0;0;1;0;-4;8;39;A. Duchet
+25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;M. Poilvé;0;2;0,03;0,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-3;0;1;M. Poilvé
+25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;R. Bamba;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;19;R. Bamba
+25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;L. Guapo;24;21;0,35;24,35;;;;;;;;;;;;;;;;;;;;8;2;4;6;1;4;0;1;1;2;4;1;8;21;L. Guapo
+25-26;15;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;E. Naigre(C);22;5;0,08;22,08;0;5;0;0;1;0;0;4;0;0;0;;;;;;;;;0;0;2;2;0;3;0;0;0;1;0;1;-6;25;E. Naigre(C)
+25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;I. Pitarch Granel;17;5;0,08;17,08;0;4;0;0;3;0;0;1;0;0;0;;;;;;;;;0;1;1;2;2;0;0;1;0;0;0;3;1;26;I. Pitarch Granel
 25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;3;2;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;15;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;21;58;0,36;14;32;0,44;;;;16;21;0,76;10;24;19;8;8;16;12;65;11;30;41;12;19;2;4;1;19;20;0;63;0;TOTAUX EQUIPE
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Foppossi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;13;4;3;7;0;0;2;0;0;2;6;16;10;2;M. Foppossi
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;;;;;;;;;;;20;1;3;4;4;3;1;1;0;1;7;2;25;3;M. Djaldi-Tabdi
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;12;2;3;5;0;1;0;0;0;4;4;15;12;22;K. Diaby
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;10;1;7;8;6;1;1;0;0;3;2;8;18;32;T. Pouye
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;18;0;1;1;5;1;2;0;0;1;0;10;15;39;A. Duchet
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;2;0;-7;-1;11;M. Selle
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Akoa Makani;;;;;0;2;0,00;0;2;0,00;0;0;;;;;;;;;;;;2;1;3;4;6;6;3;0;0;3;2;1;7;24;M. Akoa Makani
-25-26;16;Championat de France;Exterieur;;Roche Vendée;Capitaine;Banc;E. Naigre(C);;;;;0;2;0,00;0;0;;0;2;0,00;;;;;;;;;;;2;0;0;0;2;0;1;0;0;4;1;6;3;25;E. Naigre(C)
-25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;;;;;;;;;;;6;0;2;2;0;3;0;0;0;4;2;-6;3;26;I. Pitarch Granel
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Foppossi;22;55;0,92;22,92;;;;;;;0;1;0;;;;;;;;;;;13;4;3;7;0;0;2;0;0;2;6;16;10;2;M. Foppossi
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;M. Djaldi-Tabdi;28;42;0,7;28,7;;;;;;;;;;;;;;;;;;;;20;1;3;4;4;3;1;1;0;1;7;2;25;3;M. Djaldi-Tabdi
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;K. Diaby;22;11;0,18;22,18;;;;;;;0;0;;;;;;;;;;;;12;2;3;5;0;1;0;0;0;4;4;15;12;22;K. Diaby
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;T. Pouye;29;46;0,77;29,77;;;;;;;;;;;;;;;;;;;;10;1;7;8;6;1;1;0;0;3;2;8;18;32;T. Pouye
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Starter;A. Duchet;32;32;0,53;32,53;;;;;;;;;;0;0;;;;;;;;;18;0;1;1;5;1;2;0;0;1;0;10;15;39;A. Duchet
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Selle;3;0;0;3;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;2;0;-7;-1;11;M. Selle
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;M. Akoa Makani;24;22;0,37;24,37;0;2;0;0;2;0;0;0;;;;;;;;;;;;2;1;3;4;6;6;3;0;0;3;2;1;7;24;M. Akoa Makani
+25-26;16;Championat de France;Exterieur;;Roche Vendée;Capitaine;Banc;E. Naigre(C);20;48;0,8;20,8;0;2;0;0;0;;0;2;0;;;;;;;;;;;2;0;0;0;2;0;1;0;0;4;1;6;3;25;E. Naigre(C)
+25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;I. Pitarch Granel;15;43;0,72;15,72;;;;;;;0;0;;;;;;;;;;;;6;0;2;2;0;3;0;0;0;4;2;-6;3;26;I. Pitarch Granel
 25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;5;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;16;Championat de France;Exterieur;;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;21;46;0,46;;;;23;29;0,79;23;34;8;9;10;14;6;83;10;27;37;23;16;10;1;0;24;24;0;98;0;TOTAUX EQUIPE
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;16;0;1;1;1;0;1;0;1;4;4;-1;12;2;M. Foppossi
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;0;;0;1;0,00;;;;;;;;6;3;2;5;0;1;0;0;0;4;1;-7;7;3;M. Djaldi-Tabdi
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;18;4;8;12;2;3;0;0;0;2;6;2;25;22;K. Diaby
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Akoa Makani;;;;;;;;;;;0;5;0,00;;;;;;;;;;;9;1;6;7;10;6;1;1;1;3;8;1;13;24;M. Akoa Makani
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;I. Pitarch Granel;;;;;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;1;4;1;0;0;1;1;-17;7;26;I. Pitarch Granel
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Poilvé;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;-2;0;1;M. Poilvé
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;0;11;M. Selle
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;0;4;0,00;;;;;;;;;;;3;0;5;5;7;2;1;0;0;3;1;-10;9;25;E. Naigre(C)
-25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;14;0;0;0;2;2;0;0;0;0;0;-14;8;39;A. Duchet
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Foppossi;29;17;0,28;29,28;;;;;;;;;;;;;;;;;;;;16;0;1;1;1;0;1;0;1;4;4;-1;12;2;M. Foppossi
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Djaldi-Tabdi;15;41;0,68;15,68;;;;;;;0;0;;0;1;0;;;;;;;;6;3;2;5;0;1;0;0;0;4;1;-7;7;3;M. Djaldi-Tabdi
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;K. Diaby;31;27;0,45;31,45;;;;;;;0;0;;;;;;;;;;;;18;4;8;12;2;3;0;0;0;2;6;2;25;22;K. Diaby
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;M. Akoa Makani;32;0;0;32;;;;;;;0;5;0;;;;;;;;;;;9;1;6;7;10;6;1;1;1;3;8;1;13;24;M. Akoa Makani
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Starter;I. Pitarch Granel;27;26;0,43;27,43;;;;;;;;;;0;0;;;;;;;;;9;2;3;5;1;4;1;0;0;1;1;-17;7;26;I. Pitarch Granel
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Poilvé;4;5;0,08;4,08;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;-2;0;1;M. Poilvé
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;M. Selle;3;0;0;3;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;0;11;M. Selle
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;Capitaine;Banc;E. Naigre(C);29;2;0,03;29,03;;;;;;;0;4;0;;;;;;;;;;;3;0;5;5;7;2;1;0;0;3;1;-10;9;25;E. Naigre(C)
+25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;A. Duchet;27;2;0,03;27,03;;;;;;;;;;0;0;;;;;;;;;14;0;0;0;2;2;0;0;0;0;0;-14;8;39;A. Duchet
 25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;0;2;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;17;Championat de France;Exterieur;;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;23;41;0,56;;;;17;23;0,74;16;38;12;9;17;1;9;75;12;26;38;23;18;4;1;2;18;21;0;83;0;TOTAUX EQUIPE
-25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;M. Foppossi;;;;;;;;0;4;0,00;;;;;;;;;;;;;;5;0;3;3;2;0;1;0;1;0;4;26;4;2;M. Foppossi
-25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;0;0;;;;;;;;;11;5;3;8;0;4;0;0;0;4;1;0;12;3;M. Djaldi-Tabdi
-25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;20;5;5;10;3;1;0;0;0;1;6;12;24;22;K. Diaby
-25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;T. Pouye;;;;;;;;0;2;0,00;;;;;;;;;;;;;;6;1;2;3;1;2;1;0;0;4;3;3;1;32;T. Pouye
-25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;3;3;5;2;3;0;0;1;0;9;10;39;A. Duchet
-25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;1;M. Poilvé
-25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-2;0;11;M. Selle
-25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Akoa Makani;;;;;;;;0;0;;;;;;;;;;;;;;;8;1;2;3;4;2;1;0;0;2;2;8;14;24;M. Akoa Makani
-25-26;18;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;;;;;;;;;;;16;1;3;4;5;0;2;1;0;4;1;14;24;25;E. Naigre(C)
-25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;1;1;2;1;3;0;0;0;5;1;-8;0;26;I. Pitarch Granel
+25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;M. Foppossi;28;0;0;28;;;;0;4;0;;;;;;;;;;;;;;5;0;3;3;2;0;1;0;1;0;4;26;4;2;M. Foppossi
+25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;M. Djaldi-Tabdi;27;15;0,25;27,25;;;;;;;;;;0;0;;;;;;;;;11;5;3;8;0;4;0;0;0;4;1;0;12;3;M. Djaldi-Tabdi
+25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;K. Diaby;31;53;0,88;31,88;;;;;;;0;0;;;;;;;;;;;;20;5;5;10;3;1;0;0;0;1;6;12;24;22;K. Diaby
+25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;T. Pouye;18;46;0,77;18,77;;;;0;2;0;;;;;;;;;;;;;;6;1;2;3;1;2;1;0;0;4;3;3;1;32;T. Pouye
+25-26;18;Championat de France;Exterieur;;Landerneau;;Starter;A. Duchet;31;15;0,25;31,25;;;;;;;;;;0;0;;;;;;;;;10;0;3;3;5;2;3;0;0;1;0;9;10;39;A. Duchet
+25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Poilvé;0;2;0,03;0,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;1;M. Poilvé
+25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Selle;0;2;0,03;0,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-2;0;11;M. Selle
+25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;M. Akoa Makani;26;59;0,98;26,98;;;;0;0;;;;;;;;;;;;;;;8;1;2;3;4;2;1;0;0;2;2;8;14;24;M. Akoa Makani
+25-26;18;Championat de France;Exterieur;;Landerneau;Capitaine;Banc;E. Naigre(C);20;36;0,6;20,6;;;;;;;;;;;;;;;;;;;;16;1;3;4;5;0;2;1;0;4;1;14;24;25;E. Naigre(C)
+25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;I. Pitarch Granel;14;50;0,83;14,83;;;;;;;0;1;0;0;0;;;;;;;;;2;1;1;2;1;3;0;0;0;5;1;-8;0;26;I. Pitarch Granel
 25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;3;7;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;18;Championat de France;Exterieur;;Landerneau;;Banc;TOTAUX EQUIPE;;;;;26;66;0,39;15;34;0,44;;;;15;16;0,94;11;22;18;2;26;14;8;78;18;25;43;21;14;8;1;1;22;18;0;96;0;TOTAUX EQUIPE
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;10;1;3;4;3;1;2;1;0;5;2;2;10;2;M. Foppossi
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;3;8;11;1;2;0;2;0;4;1;1;17;3;M. Djaldi-Tabdi
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;18;5;6;11;4;1;1;0;2;2;6;10;28;22;K. Diaby
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Akoa Makani;;;;;;;;0;3;0,00;;;;0;0;;;;;;;;;3;1;5;6;7;4;0;0;1;2;4;12;5;24;M. Akoa Makani
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;26;1;5;6;4;2;1;0;0;2;4;-2;25;32;T. Pouye
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;0;1;M. Poilvé
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Guapo;;;;;;;;;;;0;3;0,00;0;1;0,00;;;;;;;;6;0;1;1;3;1;0;0;0;3;2;-3;3;21;L. Guapo
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;14;0;0;0;2;1;1;0;0;0;0;-7;14;25;E. Naigre(C)
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;I. Pitarch Granel;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;1;2;3;2;2;0;1;0;1;0;-2;1;26;I. Pitarch Granel
-25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Couble;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;42;A. Couble
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Foppossi;32;52;0,87;32,87;;;;;;;;;;;;;;;;;;;;10;1;3;4;3;1;2;1;0;5;2;2;10;2;M. Foppossi
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Djaldi-Tabdi;30;5;0,08;30,08;;;;;;;0;2;0;;;;;;;;;;;10;3;8;11;1;2;0;2;0;4;1;1;17;3;M. Djaldi-Tabdi
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;K. Diaby;36;3;0,05;36,05;;;;;;;0;0;;;;;;;;;;;;18;5;6;11;4;1;1;0;2;2;6;10;28;22;K. Diaby
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;M. Akoa Makani;30;40;0,67;30,67;;;;0;3;0;;;;0;0;;;;;;;;;3;1;5;6;7;4;0;0;1;2;4;12;5;24;M. Akoa Makani
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Starter;T. Pouye;39;24;0,4;39,4;;;;;;;;;;;;;;;;;;;;26;1;5;6;4;2;1;0;0;2;4;-2;25;32;T. Pouye
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Poilvé;1;6;0,1;1,1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;0;1;M. Poilvé
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;L. Guapo;16;23;0,38;16,38;;;;;;;0;3;0;0;1;0;;;;;;;;6;0;1;1;3;1;0;0;0;3;2;-3;3;21;L. Guapo
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;Capitaine;Banc;E. Naigre(C);22;56;0,93;22,93;;;;;;;;;;0;0;;;;;;;;;14;0;0;0;2;1;1;0;0;0;0;-7;14;25;E. Naigre(C)
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;I. Pitarch Granel;12;52;0,87;12,87;;;;;;;0;3;0;0;0;;;;;;;;;2;1;2;3;2;2;0;1;0;1;0;-2;1;26;I. Pitarch Granel
+25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;A. Couble;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;42;A. Couble
 25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;2;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;19;Championat de France;Domicile;;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;35;79;0,44;25;46;0,54;;;;;;;15;40;23;4;22;5;7;89;16;32;48;26;14;5;4;3;19;19;0;109;0;TOTAUX EQUIPE
-25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;M. Foppossi;;;;;;;;;;;0;1;0,00;;;;;;;;;;;13;0;2;2;4;3;0;0;0;3;3;19;12;2;M. Foppossi
-25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;0;1;0,00;;;;;;;;8;0;4;4;1;3;2;0;0;0;1;15;7;3;M. Djaldi-Tabdi
-25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;11;2;5;7;0;1;1;0;0;1;2;16;16;22;K. Diaby
-25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;7;0;4;4;2;7;0;0;1;1;1;9;3;32;T. Pouye
-25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;4;1;2;0;0;0;0;26;12;39;A. Duchet
-25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;M. Selle;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;3;3;1;2;0;1;0;1;1;7;2;11;M. Selle
-25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;6;2;1;3;3;1;0;2;1;2;1;-1;9;21;L. Guapo
-25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;M. Akoa Makani;;;;;;;;;;;;;;0;0;;;;;;;;;11;0;4;4;8;4;3;0;0;3;2;16;20;24;M. Akoa Makani
-25-26;20;Championat de France;Exterieur;;Toulouse;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;;;;;;;;;;;9;0;4;4;2;3;3;1;0;1;2;20;14;25;E. Naigre(C)
-25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;I. Pitarch Granel;;;;;;;;0;0;;;;;;;;;;;;;;;10;0;2;2;0;1;1;0;0;1;2;18;11;26;I. Pitarch Granel
+25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;M. Foppossi;18;0;0;18;;;;;;;0;1;0;;;;;;;;;;;13;0;2;2;4;3;0;0;0;3;3;19;12;2;M. Foppossi
+25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;M. Djaldi-Tabdi;19;25;0,42;19,42;;;;;;;0;2;0;0;1;0;;;;;;;;8;0;4;4;1;3;2;0;0;0;1;15;7;3;M. Djaldi-Tabdi
+25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;K. Diaby;23;52;0,87;23,87;;;;;;;0;0;;;;;;;;;;;;11;2;5;7;0;1;1;0;0;1;2;16;16;22;K. Diaby
+25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;T. Pouye;21;33;0,55;21,55;;;;;;;;;;;;;;;;;;;;7;0;4;4;2;7;0;0;1;1;1;9;3;32;T. Pouye
+25-26;20;Championat de France;Exterieur;;Toulouse;;Starter;A. Duchet;24;12;0,2;24,2;;;;;;;;;;0;0;;;;;;;;;9;0;3;3;4;1;2;0;0;0;0;26;12;39;A. Duchet
+25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;M. Selle;12;59;0,98;12,98;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;3;3;1;2;0;1;0;1;1;7;2;11;M. Selle
+25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;L. Guapo;14;33;0,55;14,55;;;;;;;;;;;;;;;;;;;;6;2;1;3;3;1;0;2;1;2;1;-1;9;21;L. Guapo
+25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;M. Akoa Makani;22;25;0,42;22,42;;;;;;;;;;0;0;;;;;;;;;11;0;4;4;8;4;3;0;0;3;2;16;20;24;M. Akoa Makani
+25-26;20;Championat de France;Exterieur;;Toulouse;Capitaine;Banc;E. Naigre(C);23;44;0,73;23,73;;;;;;;;;;;;;;;;;;;;9;0;4;4;2;3;3;1;0;1;2;20;14;25;E. Naigre(C)
+25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;I. Pitarch Granel;19;18;0,3;19,3;;;;0;0;;;;;;;;;;;;;;;10;0;2;2;0;1;1;0;0;1;2;18;11;26;I. Pitarch Granel
 25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;32;56;0,57;21;30;0,70;;;;;;;25;36;4;12;36;29;7;84;6;35;41;25;27;12;4;2;13;15;0;110;0;TOTAUX EQUIPE
-25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;18;2;4;6;4;3;2;0;0;0;2;12;18;2;M. Foppossi
-25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;1;6;7;3;0;1;0;1;1;1;-1;11;3;M. Djaldi-Tabdi
-25-26;21;Championat de France;Domicile;;Charnay;;Starter;K. Diaby;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;3;5;8;0;3;1;0;0;4;2;5;7;22;K. Diaby
-25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Akoa Makani;;;;;;;;;;;;;;;;;;;;;;;;9;0;1;1;6;4;1;0;0;2;2;0;8;24;M. Akoa Makani
-25-26;21;Championat de France;Domicile;;Charnay;Capitaine;Starter;A. Duchet(C);;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;6;0;3;3;8;2;4;0;1;1;0;8;13;39;A. Duchet(C)
-25-26;21;Championat de France;Domicile;;Charnay;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;21;Championat de France;Domicile;;Charnay;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;-1;11;M. Selle
-25-26;21;Championat de France;Domicile;;Charnay;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;9;0;2;2;1;0;2;0;0;4;4;4;11;21;L. Guapo
-25-26;21;Championat de France;Domicile;;Charnay;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;;;;;;;;;;;16;0;2;2;3;2;1;1;0;2;2;16;20;26;I. Pitarch Granel
-25-26;21;Championat de France;Domicile;;Charnay;;Banc;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;20;1;1;2;2;3;2;0;1;0;3;21;10;32;T. Pouye
+25-26;20;Championat de France;Exterieur;;Toulouse;;Banc;TOTAUX EQUIPE;;;;;32;56;0,57;21;30;0,7;;;;;;;25;36;4;12;36;29;7;84;6;35;41;25;27;12;4;2;13;15;0;110;0;TOTAUX EQUIPE
+25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Foppossi;33;9;0,15;33,15;;;;;;;;;;;;;;;;;;;;18;2;4;6;4;3;2;0;0;0;2;12;18;2;M. Foppossi
+25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Djaldi-Tabdi;26;34;0,57;26,57;;;;;;;0;1;0;0;0;;;;;;;;;4;1;6;7;3;0;1;0;1;1;1;-1;11;3;M. Djaldi-Tabdi
+25-26;21;Championat de France;Domicile;;Charnay;;Starter;K. Diaby;21;15;0,25;21,25;;;;;;;0;0;;0;0;;;;;;;;;2;3;5;8;0;3;1;0;0;4;2;5;7;22;K. Diaby
+25-26;21;Championat de France;Domicile;;Charnay;;Starter;M. Akoa Makani;22;55;0,92;22,92;;;;;;;;;;;;;;;;;;;;9;0;1;1;6;4;1;0;0;2;2;0;8;24;M. Akoa Makani
+25-26;21;Championat de France;Domicile;;Charnay;Capitaine;Starter;A. Duchet(C);29;38;0,63;29,63;;;;;;;0;3;0;0;0;;;;;;;;;6;0;3;3;8;2;4;0;1;1;0;8;13;39;A. Duchet(C)
+25-26;21;Championat de France;Domicile;;Charnay;;Banc;M. Poilvé;0;9;0,15;0,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;21;Championat de France;Domicile;;Charnay;;Banc;M. Selle;1;9;0,15;1,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;-1;11;M. Selle
+25-26;21;Championat de France;Domicile;;Charnay;;Banc;L. Guapo;13;36;0,6;13,6;;;;;;;;;;;;;;;;;;;;9;0;2;2;1;0;2;0;0;4;4;4;11;21;L. Guapo
+25-26;21;Championat de France;Domicile;;Charnay;;Banc;I. Pitarch Granel;22;42;0,7;22,7;;;;;;;0;0;;;;;;;;;;;;16;0;2;2;3;2;1;1;0;2;2;16;20;26;I. Pitarch Granel
+25-26;21;Championat de France;Domicile;;Charnay;;Banc;T. Pouye;28;23;0,38;28,38;;;;;;;;;;;;;;;;;;;;20;1;1;2;2;3;2;0;1;0;3;21;10;32;T. Pouye
 25-26;21;Championat de France;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;6;3;9;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;21;Championat de France;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;32;68;0,47;23;43;0,53;;;;;;;37;40;7;32;45;15;22;84;13;27;40;27;19;14;1;3;14;16;0;105;0;TOTAUX EQUIPE
-25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;14;1;6;7;2;1;1;1;0;3;5;26;21;2;M. Foppossi
-25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;8;2;6;8;1;1;0;0;0;2;3;25;13;3;M. Djaldi-Tabdi
-25-26;22;Championat de France;Exterieur;;Angers;;Starter;K. Diaby;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;4;2;6;3;0;0;0;0;1;3;27;15;22;K. Diaby
-25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Akoa Makani;;;;;;;;;;;0;3;0,00;0;0;;;;;;;;;2;0;1;1;4;2;0;0;1;1;1;41;0;24;M. Akoa Makani
-25-26;22;Championat de France;Exterieur;;Angers;;Starter;T. Pouye;;;;;;;;;;;;;;;;;;;;;;;;22;0;1;1;4;1;0;0;0;2;4;21;21;32;T. Pouye
-25-26;22;Championat de France;Exterieur;;Angers;;Banc;M. Poilvé;;;;;0;3;0,00;0;2;0,00;0;1;0,00;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;2;0;7;-1;1;M. Poilvé
-25-26;22;Championat de France;Exterieur;;Angers;;Banc;M. Selle;;;;;;;;;;;0;0;;;;;;;;;;;;6;0;5;5;1;0;1;0;0;0;2;14;11;11;M. Selle
-25-26;22;Championat de France;Exterieur;;Angers;;Banc;L. Guapo;;;;;;;;;;;;;;0;0;;;;;;;;;18;1;3;4;2;1;1;0;0;1;1;16;23;21;L. Guapo
-25-26;22;Championat de France;Exterieur;;Angers;Capitaine;Banc;E. Naigre(C);;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;0;2;2;3;2;0;0;0;4;0;22;0;25;E. Naigre(C)
-25-26;22;Championat de France;Exterieur;;Angers;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;0;0;;;;;;;;;8;0;1;1;0;0;2;0;1;2;0;21;10;26;I. Pitarch Granel
+25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Foppossi;21;28;0,47;21,47;;;;;;;;;;;;;;;;;;;;14;1;6;7;2;1;1;1;0;3;5;26;21;2;M. Foppossi
+25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Djaldi-Tabdi;19;20;0,33;19,33;;;;;;;0;2;0;;;;;;;;;;;8;2;6;8;1;1;0;0;0;2;3;25;13;3;M. Djaldi-Tabdi
+25-26;22;Championat de France;Exterieur;;Angers;;Starter;K. Diaby;21;9;0,15;21,15;;;;;;;0;0;;0;0;;;;;;;;;8;4;2;6;3;0;0;0;0;1;3;27;15;22;K. Diaby
+25-26;22;Championat de France;Exterieur;;Angers;;Starter;M. Akoa Makani;24;1;0,02;24,02;;;;;;;0;3;0;0;0;;;;;;;;;2;0;1;1;4;2;0;0;1;1;1;41;0;24;M. Akoa Makani
+25-26;22;Championat de France;Exterieur;;Angers;;Starter;T. Pouye;23;19;0,32;23,32;;;;;;;;;;;;;;;;;;;;22;0;1;1;4;1;0;0;0;2;4;21;21;32;T. Pouye
+25-26;22;Championat de France;Exterieur;;Angers;;Banc;M. Poilvé;10;10;0,17;10,17;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;2;0;7;-1;1;M. Poilvé
+25-26;22;Championat de France;Exterieur;;Angers;;Banc;M. Selle;14;9;0,15;14,15;;;;;;;0;0;;;;;;;;;;;;6;0;5;5;1;0;1;0;0;0;2;14;11;11;M. Selle
+25-26;22;Championat de France;Exterieur;;Angers;;Banc;L. Guapo;20;53;0,88;20,88;;;;;;;;;;0;0;;;;;;;;;18;1;3;4;2;1;1;0;0;1;1;16;23;21;L. Guapo
+25-26;22;Championat de France;Exterieur;;Angers;Capitaine;Banc;E. Naigre(C);25;22;0,37;25,37;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;0;2;2;3;2;0;0;0;4;0;22;0;25;E. Naigre(C)
+25-26;22;Championat de France;Exterieur;;Angers;;Banc;I. Pitarch Granel;20;9;0,15;20,15;;;;;;;0;0;;0;0;;;;;;;;;8;0;1;1;0;0;2;0;1;2;0;21;10;26;I. Pitarch Granel
 25-26;22;Championat de France;Exterieur;;Angers;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;3;4;0;2;0;0;0;0;0;0;0;0;Team / Coach
-25-26;22;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;34;57;0,60;29;39;0,74;;;;13;18;0,72;14;48;10;11;32;46;14;86;9;31;40;21;10;5;1;2;18;19;0;115;0;TOTAUX EQUIPE
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;24;0;4;4;2;2;2;0;0;1;9;14;19;2;M. Foppossi
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Djaldi-Tabdi;;;;;0;3;0,00;0;1;0,00;0;2;0,00;0;0;;;;;;;;;0;3;4;7;0;4;2;2;0;3;0;-1;4;3;M. Djaldi-Tabdi
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;16;1;2;3;2;0;0;0;0;2;9;-6;17;22;K. Diaby
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Akoa Makani;;;;;;;;;;;0;3;0,00;;;;;;;;;;;8;1;3;4;1;2;1;0;0;5;2;-9;4;24;M. Akoa Makani
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;15;0;4;4;8;4;3;0;0;2;0;5;21;39;A. Duchet
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;;;;;;;;;;;5;0;2;2;1;1;1;1;0;5;3;0;5;21;L. Guapo
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;Capitaine;Banc;E. Naigre(C);;;;;;;;0;0;;;;;0;0;;;;;;;;;9;1;2;3;2;0;0;0;0;5;0;11;11;25;E. Naigre(C)
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;;;;;;;;;;;4;1;2;3;0;1;0;0;2;3;1;-4;2;26;I. Pitarch Granel
+25-26;22;Championat de France;Exterieur;;Angers;;Banc;TOTAUX EQUIPE;;;;;34;57;0,6;29;39;0,74;;;;13;18;0,72;14;48;10;11;32;46;14;86;9;31;40;21;10;5;1;2;18;19;0;115;0;TOTAUX EQUIPE
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Foppossi;29;27;0,45;29,45;;;;;;;;;;;;;;;;;;;;24;0;4;4;2;2;2;0;0;1;9;14;19;2;M. Foppossi
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Djaldi-Tabdi;22;20;0,33;22,33;0;3;0;0;1;0;0;2;0;0;0;;;;;;;;;0;3;4;7;0;4;2;2;0;3;0;-1;4;3;M. Djaldi-Tabdi
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;K. Diaby;29;56;0,93;29,93;;;;;;;0;0;;;;;;;;;;;;16;1;2;3;2;0;0;0;0;2;9;-6;17;22;K. Diaby
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;M. Akoa Makani;23;18;0,3;23,3;;;;;;;0;3;0;;;;;;;;;;;8;1;3;4;1;2;1;0;0;5;2;-9;4;24;M. Akoa Makani
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Starter;A. Duchet;34;40;0,67;34,67;;;;;;;;;;0;0;;;;;;;;;15;0;4;4;8;4;3;0;0;2;0;5;21;39;A. Duchet
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;L. Guapo;15;59;0,98;15,98;;;;;;;0;1;0;;;;;;;;;;;5;0;2;2;1;1;1;1;0;5;3;0;5;21;L. Guapo
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;Capitaine;Banc;E. Naigre(C);26;28;0,47;26,47;;;;0;0;;;;;0;0;;;;;;;;;9;1;2;3;2;0;0;0;0;5;0;11;11;25;E. Naigre(C)
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;I. Pitarch Granel;17;52;0,87;17,87;;;;;;;0;1;0;;;;;;;;;;;4;1;2;3;0;1;0;0;2;3;1;-4;2;26;I. Pitarch Granel
 25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;5;6;0;0;0;0;0;0;0;0;0;0;Team / Coach
-25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;19;35;0,54;;;;19;27;0,70;13;32;7;13;18;10;9;81;8;28;36;16;14;9;3;2;26;24;0;89;0;TOTAUX EQUIPE
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Foppossi;;;;;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;0;0;1;2;1;2;31;13;2;M. Foppossi
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;;;;;;;;;;;16;4;5;9;0;4;2;0;1;1;1;10;16;3;M. Djaldi-Tabdi
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;K. Diaby;;;;;;;;;;;;;;;;;;;;;;;;10;1;4;5;1;0;2;0;0;2;3;17;15;22;K. Diaby
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Akoa Makani;;;;;;;;0;2;0,00;;;;;;;;;;;;;;9;0;4;4;9;3;3;0;0;2;4;14;16;24;M. Akoa Makani
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;A. Duchet;;;;;;;;;;;;;;0;0;;;;;;;;;10;0;1;1;3;0;1;0;0;0;0;25;9;39;A. Duchet
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-4;0;1;M. Poilvé
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;M. Selle;;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;2;0;0;0;1;1;0;0;0;1;0;-1;1;11;M. Selle
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;L. Guapo;;;;;;;;;;;;;;;;;;;;;;;;17;4;3;7;4;4;2;1;1;2;5;17;22;21;L. Guapo
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;3;0;0;0;0;2;0;23;11;25;E. Naigre(C)
-25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;I. Pitarch Granel;;;;;;;;;;;0;1;0,00;;;;;;;;;;;12;3;5;8;2;1;2;0;1;2;1;23;19;26;I. Pitarch Granel
+25-26;1/4 finale Aller;Playoff;Exterieur;;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;61;0,44;19;35;0,54;;;;19;27;0,7;13;32;7;13;18;10;9;81;8;28;36;16;14;9;3;2;26;24;0;89;0;TOTAUX EQUIPE
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Foppossi;22;54;0,9;22,9;;;;;;;;;;0;0;;;;;;;;;9;0;2;2;4;0;0;1;2;1;2;31;13;2;M. Foppossi
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Djaldi-Tabdi;29;20;0,33;29,33;;;;;;;;;;;;;;;;;;;;16;4;5;9;0;4;2;0;1;1;1;10;16;3;M. Djaldi-Tabdi
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;K. Diaby;19;5;0,08;19,08;;;;;;;;;;;;;;;;;;;;10;1;4;5;1;0;2;0;0;2;3;17;15;22;K. Diaby
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;M. Akoa Makani;29;44;0,73;29,73;;;;0;2;0;;;;;;;;;;;;;;9;0;4;4;9;3;3;0;0;2;4;14;16;24;M. Akoa Makani
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Starter;A. Duchet;25;3;0,05;25,05;;;;;;;;;;0;0;;;;;;;;;10;0;1;1;3;0;1;0;0;0;0;25;9;39;A. Duchet
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;M. Poilvé;1;0;0;1;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-4;0;1;M. Poilvé
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;M. Selle;6;9;0,15;6,15;;;;;;;0;1;0;0;0;;;;;;;;;2;0;0;0;1;1;0;0;0;1;0;-1;1;11;M. Selle
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;L. Guapo;27;52;0,87;27,87;;;;;;;;;;;;;;;;;;;;17;4;3;7;4;4;2;1;1;2;5;17;22;21;L. Guapo
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;Capitaine;Banc;E. Naigre(C);19;31;0,52;19,52;;;;;;;;;;0;0;;;;;;;;;8;0;5;5;3;0;0;0;0;2;0;23;11;25;E. Naigre(C)
+25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;I. Pitarch Granel;18;32;0,53;18,53;;;;;;;0;1;0;;;;;;;;;;;12;3;5;8;2;1;2;0;1;2;1;23;19;26;I. Pitarch Granel
 25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1/4 finale Retour;Playoff;Domicile;;Charnay;;Banc;TOTAUX EQUIPE;;;;;34;71;0,48;24;50;0,48;;;;15;18;0,83;23;40;13;18;39;35;10;93;13;31;44;27;14;12;2;5;13;16;0;124;0;TOTAUX EQUIPE
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;9;0;1;1;2;1;0;1;0;3;3;14;8;2;M. Foppossi
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;0;2;0,00;;;;;;;;5;4;1;5;2;3;0;0;1;2;2;8;3;3;M. Djaldi-Tabdi
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;15;5;8;13;2;2;3;0;0;2;4;18;25;22;K. Diaby
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Akoa Makani;;;;;;;;;;;;;;0;0;;;;;;;;;12;1;3;4;3;2;2;0;0;3;0;19;16;24;M. Akoa Makani
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;A. Duchet;;;;;;;;;;;;;;;;;;;;;;;;18;0;1;1;7;1;0;0;0;1;1;10;19;39;A. Duchet
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;L. Guapo;;;;;;;;0;2;0,00;;;;;;;;;;;;;;6;1;3;4;2;1;3;0;0;3;3;4;9;21;L. Guapo
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);;;;;;;;;;;;;;0;0;;;;;;;;;5;2;4;6;2;3;1;0;0;3;2;0;6;25;E. Naigre(C)
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;;;;;;;;;;;9;0;2;2;1;3;2;1;0;1;1;-1;11;26;I. Pitarch Granel
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;T. Pouye;;;;;0;5;0,00;0;3;0,00;0;2;0,00;;;;;;;;;;;1;2;3;5;0;0;0;0;0;2;1;-7;0;32;T. Pouye
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Foppossi;24;8;0,13;24,13;;;;;;;;;;;;;;;;;;;;9;0;1;1;2;1;0;1;0;3;3;14;8;2;M. Foppossi
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;28;14;0,23;28,23;;;;;;;;;;0;2;0;;;;;;;;5;4;1;5;2;3;0;0;1;2;2;8;3;3;M. Djaldi-Tabdi
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;K. Diaby;28;15;0,25;28,25;;;;;;;0;0;;;;;;;;;;;;15;5;8;13;2;2;3;0;0;2;4;18;25;22;K. Diaby
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;M. Akoa Makani;25;8;0,13;25,13;;;;;;;;;;0;0;;;;;;;;;12;1;3;4;3;2;2;0;0;3;0;19;16;24;M. Akoa Makani
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Starter;A. Duchet;29;24;0,4;29,4;;;;;;;;;;;;;;;;;;;;18;0;1;1;7;1;0;0;0;1;1;10;19;39;A. Duchet
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;L. Guapo;19;24;0,4;19,4;;;;0;2;0;;;;;;;;;;;;;;6;1;3;4;2;1;3;0;0;3;3;4;9;21;L. Guapo
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;Capitaine;Banc;E. Naigre(C);23;31;0,52;23,52;;;;;;;;;;0;0;;;;;;;;;5;2;4;6;2;3;1;0;0;3;2;0;6;25;E. Naigre(C)
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;I. Pitarch Granel;9;1;0,02;9,02;;;;;;;0;0;;;;;;;;;;;;9;0;2;2;1;3;2;1;0;1;1;-1;11;26;I. Pitarch Granel
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;T. Pouye;12;46;0,77;12,77;0;5;0;0;3;0;0;2;0;;;;;;;;;;;1;2;3;5;0;0;0;0;0;2;1;-7;0;32;T. Pouye
 25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;4;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
-25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;28;66;0,42;20;47;0,43;;;;16;20;0,80;17;28;16;10;21;16;9;80;16;30;46;21;17;11;2;1;20;17;0;101;0;TOTAUX EQUIPE
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;19;4;7;11;2;3;1;1;0;2;9;-13;17;2;M. Foppossi
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;3;0,00;0;1;0,00;;;;;;;;2;2;3;5;1;2;1;1;0;4;2;-11;3;3;M. Djaldi-Tabdi
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;K. Diaby;;;;;;;;;;;0;1;0,00;;;;;;;;;;;7;8;4;12;0;4;2;1;0;3;3;-13;10;22;K. Diaby
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Akoa Makani;;;;;;;;;;;0;2;0,00;;;;;;;;;;;10;2;3;5;3;5;1;1;0;3;2;-13;7;24;M. Akoa Makani
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;Capitaine;Starter;A. Duchet(C);;;;;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;5;0;2;0;0;0;2;9;12;39;A. Duchet(C)
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;C. Rousseliere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;11;M. Selle
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;L. Guapo;;;;;;;;;;;0;1;0,00;0;2;0,00;;;;;;;;2;0;5;5;1;2;1;0;0;0;1;1;2;21;L. Guapo
-25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;T. Pouye;;;;;;;;0;6;0,00;;;;;;;;;;;;;;11;3;3;6;1;1;3;1;0;3;3;-1;10;32;T. Pouye
+25-26;1/2 finale Aller;Playoff;Exterieur;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;28;66;0,42;20;47;0,43;;;;16;20;0,8;17;28;16;10;21;16;9;80;16;30;46;21;17;11;2;1;20;17;0;101;0;TOTAUX EQUIPE
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Foppossi;31;3;0,05;31,05;;;;;;;;;;;;;;;;;;;;19;4;7;11;2;3;1;1;0;2;9;-13;17;2;M. Foppossi
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Djaldi-Tabdi;21;20;0,33;21,33;;;;;;;0;3;0;0;1;0;;;;;;;;2;2;3;5;1;2;1;1;0;4;2;-11;3;3;M. Djaldi-Tabdi
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;K. Diaby;32;12;0,2;32,2;;;;;;;0;1;0;;;;;;;;;;;7;8;4;12;0;4;2;1;0;3;3;-13;10;22;K. Diaby
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Starter;M. Akoa Makani;30;0;0;30;;;;;;;0;2;0;;;;;;;;;;;10;2;3;5;3;5;1;1;0;3;2;-13;7;24;M. Akoa Makani
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;Capitaine;Starter;A. Duchet(C);32;12;0,2;32,2;;;;;;;;;;0;0;;;;;;;;;10;0;2;2;5;0;2;0;0;0;2;9;12;39;A. Duchet(C)
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;C. Rousseliere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;M. Selle;1;9;0,15;1,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;11;M. Selle
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;L. Guapo;19;18;0,3;19,3;;;;;;;0;1;0;0;2;0;;;;;;;;2;0;5;5;1;2;1;0;0;0;1;1;2;21;L. Guapo
+25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;T. Pouye;32;16;0,27;32,27;;;;0;6;0;;;;;;;;;;;;;;11;3;3;6;1;1;3;1;0;3;3;-1;10;32;T. Pouye
 25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;2;3;0;0;0;0;0;0;0;0;0;0;Team / Coach
 25-26;1/2 finale Retour;Playoff;Domicile;;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;20;68;0,29;;;;;;;13;23;0,57;12;22;13;2;13;;10;61;20;29;49;13;17;11;5;0;15;22;0;64;0;TOTAUX EQUIPE
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Foppossi;;;;;;;;;;;0;0;;;;;;;;;;;;11;0;4;4;0;1;3;0;2;3;5;12;7;2;M. Foppossi
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;;;;0;0;;;;;;;;;11;6;9;15;3;1;0;1;0;1;0;18;25;3;M. Djaldi-Tabdi
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;8;1;6;7;0;2;0;0;0;4;4;13;12;22;K. Diaby
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Akoa Makani;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;10;0;4;4;2;1;2;0;1;0;0;19;7;24;M. Akoa Makani
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;Capitaine;Starter;A. Duchet(C);;;;;;;;;;;0;1;0,00;0;0;;;;;;;;;4;0;3;3;4;3;2;0;1;0;1;18;7;39;A. Duchet(C)
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;C. Rousseliere;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;M. Selle;;;;;0;1;0,00;0;0;;0;1;0,00;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;-1;11;M. Selle
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;L. Guapo;;;;;;;;;;;0;0;;;;;;;;;;;;5;3;4;7;0;1;1;1;0;2;3;10;10;21;L. Guapo
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;I. Pitarch Granel;;;;;;;;;;;;;;;;;;;;;;;;7;0;1;1;0;1;1;0;0;3;2;2;4;26;I. Pitarch Granel
-25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;11;1;2;3;1;1;1;0;2;3;1;-1;6;32;T. Pouye
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Foppossi;32;35;0,58;32,58;;;;;;;0;0;;;;;;;;;;;;11;0;4;4;0;1;3;0;2;3;5;12;7;2;M. Foppossi
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Djaldi-Tabdi;29;17;0,28;29,28;;;;;;;;;;0;0;;;;;;;;;11;6;9;15;3;1;0;1;0;1;0;18;25;3;M. Djaldi-Tabdi
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;K. Diaby;17;57;0,95;17,95;;;;;;;0;0;;;;;;;;;;;;8;1;6;7;0;2;0;0;0;4;4;13;12;22;K. Diaby
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Starter;M. Akoa Makani;30;51;0,85;30,85;;;;;;;0;4;0;0;0;;;;;;;;;10;0;4;4;2;1;2;0;1;0;0;19;7;24;M. Akoa Makani
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;Capitaine;Starter;A. Duchet(C);28;8;0,13;28,13;;;;;;;0;1;0;0;0;;;;;;;;;4;0;3;3;4;3;2;0;1;0;1;18;7;39;A. Duchet(C)
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;C. Rousseliere;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Rousseliere
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;M. Selle;2;1;0,02;2,02;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;-1;11;M. Selle
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;L. Guapo;25;13;0,22;25,22;;;;;;;0;0;;;;;;;;;;;;5;3;4;7;0;1;1;1;0;2;3;10;10;21;L. Guapo
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;I. Pitarch Granel;12;17;0,28;12,28;;;;;;;;;;;;;;;;;;;;7;0;1;1;0;1;1;0;0;3;2;2;4;26;I. Pitarch Granel
+25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;T. Pouye;21;1;0,02;21,02;;;;;;;;;;0;0;;;;;;;;;11;1;2;3;1;1;1;0;2;3;1;-1;6;32;T. Pouye
 25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;4;1;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;Finale Aller;Playoff;Domicile;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;28;67;0,42;25;49;0,51;;;;;;;12;34;9;0;23;19;13;67;15;34;49;10;12;10;2;6;16;16;0;81;0;TOTAUX EQUIPE
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Foppossi;;;;;;;;;;;0;1;0,00;0;1;0,00;;;;;;;;2;1;4;5;0;0;0;1;0;1;4;-12;3;2;M. Foppossi
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;2;0,00;;;;;;;;;;;7;5;9;14;2;2;0;0;0;1;1;5;18;3;M. Djaldi-Tabdi
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;K. Diaby;;;;;;;;;;;0;1;0,00;;;;;;;;;;;8;1;3;4;0;2;0;0;2;4;5;-5;4;22;K. Diaby
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Akoa Makani;;;;;;;;;;;;;;;;;;;;;;;;13;0;4;4;1;1;0;0;1;4;4;-6;10;24;M. Akoa Makani
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;A. Duchet;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;4;0;2;2;1;1;0;0;0;1;0;-15;2;39;A. Duchet
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;L. Guapo;;;;;;;;;;;0;5;0,00;;;;;;;;;;;10;2;2;4;1;4;2;0;0;4;4;11;2;21;L. Guapo
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;E. Naigre(C)
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;1;2;0;1;1;0;6;1;26;I. Pitarch Granel
-25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;T. Pouye;;;;;;;;;;;;;;0;0;;;;;;;;;8;1;3;4;1;2;1;0;0;3;1;-9;3;32;T. Pouye
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Foppossi;25;58;0,97;25,97;;;;;;;0;1;0;0;1;0;;;;;;;;2;1;4;5;0;0;0;1;0;1;4;-12;3;2;M. Foppossi
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;29;2;0,03;29,03;;;;;;;0;2;0;;;;;;;;;;;7;5;9;14;2;2;0;0;0;1;1;5;18;3;M. Djaldi-Tabdi
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;K. Diaby;27;58;0,97;27,97;;;;;;;0;1;0;;;;;;;;;;;8;1;3;4;0;2;0;0;2;4;5;-5;4;22;K. Diaby
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;M. Akoa Makani;25;25;0,42;25,42;;;;;;;;;;;;;;;;;;;;13;0;4;4;1;1;0;0;1;4;4;-6;10;24;M. Akoa Makani
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Starter;A. Duchet;26;48;0,8;26,8;;;;;;;0;4;0;0;0;;;;;;;;;4;0;2;2;1;1;0;0;0;1;0;-15;2;39;A. Duchet
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;M. Selle;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;11;M. Selle
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;L. Guapo;23;21;0,35;23,35;;;;;;;0;5;0;;;;;;;;;;;10;2;2;4;1;4;2;0;0;4;4;11;2;21;L. Guapo
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;E. Naigre(C)
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;14;48;0,8;14,8;;;;;;;0;0;;0;0;;;;;;;;;2;0;1;1;0;1;2;0;1;1;0;6;1;26;I. Pitarch Granel
+25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;T. Pouye;26;40;0,67;26,67;;;;;;;;;;0;0;;;;;;;;;8;1;3;4;1;2;1;0;0;3;1;-9;3;32;T. Pouye
 25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;2;3;5;0;1;0;0;0;0;0;0;0;0;Team / Coach
 25-26;Finale Retour;Playoff;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;19;62;0,31;15;38;0,39;;;;;;;17;20;9;8;20;2;11;54;12;31;43;6;14;5;1;4;19;19;0;47;0;TOTAUX EQUIPE
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Foppossi;;;;;;;;;;;;;;;;;;;;;;;;7;1;4;5;0;1;1;0;1;3;5;-8;3;2;M. Foppossi
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;;;;;;;;;;;0;3;0,00;;;;;;;;;;;7;0;4;4;2;1;1;0;0;1;3;11;9;3;M. Djaldi-Tabdi
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;K. Diaby;;;;;;;;;;;0;0;;;;;;;;;;;;12;3;6;9;0;4;0;0;1;4;3;-4;13;22;K. Diaby
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Akoa Makani;;;;;;;;;;;0;2;0,00;;;;;;;;;;;7;0;5;5;3;4;4;0;1;2;2;-7;9;24;M. Akoa Makani
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;A. Duchet;;;;;;;;;;;0;4;0,00;0;0;;;;;;;;;6;0;0;0;0;2;2;0;1;0;1;-4;-1;39;A. Duchet
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;M. Poilvé;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;M. Selle;;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;0;-3;0;11;M. Selle
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;L. Guapo;;;;;;;;;;;0;0;;;;;;;;;;;;3;2;4;6;1;1;0;0;1;3;1;1;6;21;L. Guapo
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);;;;;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;E. Naigre(C)
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;;;;;;;;;;;0;0;;;;;;;;;;;;6;4;2;6;1;1;2;0;0;1;1;1;11;26;I. Pitarch Granel
-25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;T. Pouye;;;;;;;;;;;0;5;0,00;0;0;;;;;;;;;2;0;5;5;3;2;0;0;2;2;3;-2;-1;32;T. Pouye
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Foppossi;29;40;0,67;29,67;;;;;;;;;;;;;;;;;;;;7;1;4;5;0;1;1;0;1;3;5;-8;3;2;M. Foppossi
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Djaldi-Tabdi;23;56;0,93;23,93;;;;;;;0;3;0;;;;;;;;;;;7;0;4;4;2;1;1;0;0;1;3;11;9;3;M. Djaldi-Tabdi
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;K. Diaby;30;1;0,02;30,02;;;;;;;0;0;;;;;;;;;;;;12;3;6;9;0;4;0;0;1;4;3;-4;13;22;K. Diaby
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;M. Akoa Makani;32;33;0,55;32,55;;;;;;;0;2;0;;;;;;;;;;;7;0;5;5;3;4;4;0;1;2;2;-7;9;24;M. Akoa Makani
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Starter;A. Duchet;25;51;0,85;25,85;;;;;;;0;4;0;0;0;;;;;;;;;6;0;0;0;0;2;2;0;1;0;1;-4;-1;39;A. Duchet
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;M. Poilvé;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Poilvé
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;M. Selle;0;9;0,15;0,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;0;-3;0;11;M. Selle
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;L. Guapo;16;35;0,58;16,58;;;;;;;0;0;;;;;;;;;;;;3;2;4;6;1;1;0;0;1;3;1;1;6;21;L. Guapo
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;Capitaine;Banc;E. Naigre(C);0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;25;E. Naigre(C)
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;I. Pitarch Granel;12;35;0,58;12,58;;;;;;;0;0;;;;;;;;;;;;6;4;2;6;1;1;2;0;0;1;1;1;11;26;I. Pitarch Granel
+25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;T. Pouye;27;50;0,83;27,83;;;;;;;0;5;0;0;0;;;;;;;;;2;0;5;5;3;2;0;0;2;2;3;-2;-1;32;T. Pouye
 25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;Team / Coach;;;;;;;;;;;;;;;;;;;;;;;;0;1;1;2;0;2;0;0;0;0;0;0;0;0;Team / Coach
 25-26;Finale Belle;Playoff;Exterieur;;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;16;58;0,28;15;42;0,36;;;;17;20;0,85;9;22;5;2;11;6;8;50;11;31;42;10;18;10;0;7;18;19;0;49;0;TOTAUX EQUIPE
