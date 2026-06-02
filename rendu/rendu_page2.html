@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fiche du parieur, LFB (V0)</title>
+<title>Fiche du parieur, LFB (V1)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -123,21 +123,21 @@
     <!-- Galerie de radars -->
     <div class="gallery-h">
       <h2>Le profil de chaque équipe sur 2 saisons</h2>
-      <span>radars provisoires (Angers dupliqué), à remplacer par l'export de chaque équipe</span>
+      <span>radars par équipe (version intermédiaire, à remplacer par l'export final)</span>
     </div>
     <div class="gallery">
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Angers</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Basket Landes</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Bourges</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Charleville</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Charnay</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Chartres</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Landerneau</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Lyon</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Montpellier</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Roche Vendée</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Toulouse</div></div>
-      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Villeneuve d'Ascq</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar Angers"><div class="cap">Angers</div></div>
+      <div class="radar"><img src="radars/basket_landes.png" alt="radar Basket Landes"><div class="cap">Basket Landes</div></div>
+      <div class="radar"><img src="radars/bourges.png" alt="radar Bourges"><div class="cap">Bourges</div></div>
+      <div class="radar"><img src="radars/charleville.png" alt="radar Charleville"><div class="cap">Charleville</div></div>
+      <div class="radar"><img src="radars/charnay.png" alt="radar Charnay"><div class="cap">Charnay</div></div>
+      <div class="radar"><img src="radars/chartres.png" alt="radar Chartres"><div class="cap">Chartres</div></div>
+      <div class="radar"><img src="radars/landerneau.png" alt="radar Landerneau"><div class="cap">Landerneau</div></div>
+      <div class="radar"><img src="radars/lyon.png" alt="radar Lyon"><div class="cap">Lyon</div></div>
+      <div class="radar"><img src="radars/montpellier.png" alt="radar Montpellier"><div class="cap">Montpellier</div></div>
+      <div class="radar"><img src="radars/roche_vendee.png" alt="radar Roche Vendée"><div class="cap">Roche Vendée</div></div>
+      <div class="radar"><img src="radars/toulouse.png" alt="radar Toulouse"><div class="cap">Toulouse</div></div>
+      <div class="radar"><img src="radars/villeneuve_ascq.png" alt="radar Villeneuve d'Ascq"><div class="cap">Villeneuve d'Ascq</div></div>
     </div>
   </div>
   <div class="foot"><div><b>Fiche du parieur</b> · Le profil de l'équipe qui gagne</div><div>Constat sur 264 matchs, saisons 23-24 et 24-25</div></div>
@@ -152,6 +152,14 @@
   </div>
 
   <div class="wrap">
+
+    <!-- Bandeau définitions -->
+    <div class="note" style="margin:0 0 18px; display:flex; gap:26px; flex-wrap:wrap;">
+      <span><b>Différentiel</b> = (points marqués − encaissés) ÷ matchs joués. <i>Ex. +5 : l'équipe gagne en moyenne avec 5 points d'écart de plus que l'autre.</i></span>
+      <span><b>eFG%</b> = efficacité au tir (les paniers à 3 points y comptent davantage).</span>
+      <span><b>INT + CT</b> = interceptions + contres, la pression défensive.</span>
+    </div>
+
     <div class="cols">
 
       <!-- Colonne 1 : AVANT -->
@@ -159,36 +167,37 @@
         <h2>Avant le match</h2>
         <div class="formula">
           <div class="f">Écart prévu = <span class="hl">3 + 0,65 × (diff. A − diff. B)</span></div>
-          <div class="ex">A = équipe qui reçoit. Différentiel = (points marqués − encaissés) ÷ matchs joués. Le « 3 » est l'avantage du terrain.</div>
+          <div class="ex">Environ deux tiers de l'écart de niveau, plus 3 points parce que A reçoit.</div>
         </div>
         <table>
           <tr><th>Diff. A − diff. B</th><th class="r">Proba victoire de A</th></tr>
-          <tr><td>0 (forces égales)</td><td class="r win">64%</td></tr>
+          <tr><td>0 (forces égales)</td><td class="r win">65%</td></tr>
           <tr><td>+5</td><td class="r win">74%</td></tr>
           <tr><td>+10</td><td class="r win">82%</td></tr>
-          <tr><td>+15</td><td class="r win">88%</td></tr>
           <tr><td>−5</td><td class="r loss">53%</td></tr>
         </table>
-        <h3>Les signaux connus avant match</h3>
-        <p><b>Différentiel de points</b> (le n°1, lié à +0,94 au classement). <b>Forme des 5 derniers</b> : meilleure forme de +10 fait passer de 64 à 68 %, elle départage les matchs serrés. <b>Ratio de victoires</b> en confirmation. <b>Domicile</b> : 65 % à forces égales. <b>Derby</b> : l'avantage du terrain disparaît, ramène vers 50/50. <b>Jour</b> : la fatigue n'est pas mesurable ici (pas de dates).</p>
+        <h3>Ce qu'on connaît avant le match</h3>
+        <ul class="seethrough">
+          <li><b>Le différentiel</b> : le signal n°1, presque collé au classement.</li>
+          <li><b>La forme</b> des 5 derniers matchs : elle départage les matchs serrés.</li>
+          <li><b>Le terrain</b> : recevoir vaut environ 3 points — sauf en derby, où l'avantage s'efface.</li>
+        </ul>
       </div>
 
       <!-- Colonne 2 : PENDANT -->
       <div class="col">
         <h2>Pendant le match</h2>
-        <p class="muted">On regarde l'écart entre les deux équipes sur les mêmes stats que le profil. Ce que vaut un écart :</p>
+        <p class="muted">On suit l'écart entre les deux équipes sur les stats de la page 1. Ce que vaut un écart :</p>
         <table>
           <tr><th>Domination de A</th><th class="r">Gagner</th><th class="r">Pts d'écart</th></tr>
-          <tr><td>~12 pts d'efficacité au tir</td><td class="r win">+32%</td><td class="r">+13</td></tr>
-          <tr><td>~11 pts de % de tirs</td><td class="r win">+30%</td><td class="r">+13</td></tr>
-          <tr><td>~7 passes décisives</td><td class="r win">+24%</td><td class="r">+12</td></tr>
-          <tr><td>~16 pts de % à 3 points</td><td class="r win">+22%</td><td class="r">+9</td></tr>
-          <tr><td>~7 rebonds défensifs</td><td class="r win">+20%</td><td class="r">+11</td></tr>
+          <tr><td>+12 pts d'efficacité (eFG)</td><td class="r win">+32%</td><td class="r">+13</td></tr>
+          <tr><td>+7 passes décisives</td><td class="r win">+24%</td><td class="r">+12</td></tr>
+          <tr><td>+16 pts à 3 points</td><td class="r win">+22%</td><td class="r">+9</td></tr>
+          <tr><td>+7 rebonds défensifs</td><td class="r win">+20%</td><td class="r">+11</td></tr>
         </table>
+        <p class="note" style="margin-top:8px;">Ces écarts <b>se recoupent</b> : une équipe forte en coche plusieurs à la fois. On ne les additionne pas.</p>
         <h3>Avance solide ou en sursis</h3>
-        <p>Bâtie sur l'efficacité, le rebond et les passes : solide, elle tient et se creuse. Bâtie sur un bon soir à 3 points ou des interceptions : fragile, elle peut fondre.</p>
-        <h3>Parier l'écart (handicap)</h3>
-        <p>Repère : environ 18 points par quart-temps et par équipe. Projection : écart final ≈ écart actuel + écart prévu × temps restant. Une avance se reporte presque 1 pour 1, mais l'écart final dévie de ±16 points et le favori perd 1 fois sur 3.</p>
+        <p>Bâtie sur l'efficacité et le rebond : solide, elle tient. Bâtie sur un bon soir à 3 points ou des interceptions : fragile, elle peut fondre.</p>
       </div>
 
       <!-- Colonne 3 : RENTABLE + exemple + verdict -->
@@ -200,18 +209,15 @@
           <tr><td>50%</td><td class="r">2,00</td></tr>
           <tr><td>65%</td><td class="r">1,54</td></tr>
           <tr><td>75%</td><td class="r">1,33</td></tr>
-          <tr><td>85%</td><td class="r">1,18</td></tr>
         </table>
-        <p class="muted">Le bookmaker connaît tout ça et prend ~6 % de marge, donc la cote d'un favori est presque toujours trop basse. En simulation, parier les favoris rend −5,5 %.</p>
-
+        <p class="muted">Le bookmaker prend ~6 % de marge : la cote d'un favori est presque toujours trop basse. En simulation, parier les favoris rend −5,5 %.</p>
         <h3>Exemple : Montpellier reçoit Tarbes</h3>
-        <p>Différentiels +6,6 et −1,3, différence +7,9, proba ≈ 79 %, écart prévu = 3 + 0,65 × 7,9 = <b>+8</b>. Résultat réel : Montpellier a gagné de <b>9 points</b>. À la pause, si son avance vient de l'efficacité et du rebond, elle est solide et devrait tenir.</p>
-
-        <div class="ribbon" style="margin-top:12px;">Verdict : excellent pour <b>pronostiquer</b>, pas pour <b>gagner de l'argent</b>. Croise toujours plusieurs signaux, et mise petit.</div>
+        <p>Différentiels* +6,6 et −1,3 → écart prévu = 3 + 0,65 × 7,9 = <b>+8</b>. Résultat réel : Montpellier gagne de <b>9 points</b>.<br><span class="muted">*différentiels connus avant le match.</span></p>
+        <div class="ribbon" style="margin-top:12px;">Verdict : excellent pour <b>pronostiquer</b>, pas pour <b>gagner de l'argent</b>. Mise petit.</div>
       </div>
     </div>
   </div>
-  <div class="foot"><div><b>Fiche du parieur</b> · Prédire et suivre</div><div>R6.06 · Domaines d'application de la statistique · V0</div></div>
+  <div class="foot"><div><b>Fiche du parieur</b> · Prédire et suivre</div><div><b style="color:#FFD9A6;">Jeu = risque · interdit aux moins de 18 ans</b> · à but pédagogique</div><div>R6.06 · Domaines d'application de la statistique · V1</div></div>
 </div>
 
 </body>
