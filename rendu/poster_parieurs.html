@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LFB — Peut-on parier ? | 2 pages</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --green:#0E7A53; --green-soft:#16A36E; --felt:#0A2A1E; --felt-2:#0F3A29;
+    --paper:#F4F1E9; --paper-2:#FFFFFF; --ink:#15211C; --gold:#E8B23A; --gold-2:#F4CF6A;
+    --red:#D6453D; --teal:#1FA186; --line:#DAD6C9; --muted:#6A7568;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body{ margin:0; background:#2c3a33; color:var(--ink); font-family:'Inter',system-ui,sans-serif; line-height:1.5; padding:28px 14px;}
+  h1,h2,h3{ font-family:'Anton',Impact,sans-serif; font-weight:400; letter-spacing:.5px;}
+  .page{ width:900px; max-width:100%; margin:0 auto 26px; background:var(--paper); box-shadow:0 20px 60px rgba(0,0,0,.45); overflow:hidden; position:relative;}
+  .head{ background: radial-gradient(900px 320px at 85% -20%, rgba(232,178,58,.28), transparent 60%), linear-gradient(135deg,#0A2A1E,#0F3A29 60%,#13503a); color:#fff; padding:30px 40px 24px; position:relative;}
+  .badge{ display:inline-block; background:var(--gold); color:#2a2000; font-family:'Barlow Condensed',sans-serif; font-weight:700; letter-spacing:2px; text-transform:uppercase; font-size:13px; padding:5px 14px; border-radius:20px;}
+  .head h1{ font-size:42px; line-height:.98; margin:12px 0 6px; color:#fff;}
+  .head h1 em{ color:var(--gold-2); font-style:normal;}
+  .head .sub{ color:#CDE3D7; font-size:15px; max-width:700px;}
+  .pageno{ position:absolute; right:34px; bottom:18px; font-family:'Anton',sans-serif; font-size:15px; color:rgba(255,255,255,.5);}
+  .wrap{ padding:26px 40px 34px;}
+  section{ margin-top:24px;}
+  .sec-head{ display:flex; align-items:center; gap:12px; margin-bottom:14px;}
+  .sec-num{ font-family:'Anton',sans-serif; font-size:24px; color:#fff; background:var(--felt); width:42px; height:42px; display:flex; align-items:center; justify-content:center; flex:0 0 auto;}
+  .sec-head h2{ font-size:25px; color:var(--felt); line-height:1;}
+  .sec-head .tag{ margin-left:auto; font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; font-size:11.5px; color:#fff; background:var(--green); padding:4px 11px; border-radius:20px;}
+  .tag.warn{ background:var(--gold); color:#2a2000;} .tag.neg{ background:var(--red);}
+  .grid2{ display:grid; grid-template-columns:1fr 1fr; gap:20px;}
+  .grid3{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px;}
+  .card{ background:var(--paper-2); border:1px solid var(--line); border-radius:13px; padding:18px 20px; box-shadow:0 3px 12px rgba(15,40,30,.06);}
+  .card h3{ font-size:17px; color:var(--felt); margin:0 0 8px;}
+  .card p{ margin:7px 0; font-size:13.5px; color:#33413a;} .card .small{ font-size:12px; color:var(--muted);}
+  .lead{ font-size:15px; color:#2f3d36;} .lead b{ color:var(--green);}
+  .figure{ border:1px solid var(--line); border-radius:12px; overflow:hidden; background:#fff;}
+  .figure img{ width:100%; display:block;}
+  .figure .cap{ font-size:11.5px; color:var(--muted); padding:8px 12px; background:#F7F4EC; border-top:1px solid var(--line);}
+  .figure .cap b{ color:var(--felt);}
+  .callout{ display:flex; align-items:baseline; gap:11px; margin:4px 0;}
+  .callout .big{ font-family:'Anton',sans-serif; font-size:46px; line-height:.9; color:var(--green);}
+  .callout .big.gold{color:var(--gold);} .callout .big.red{color:var(--red);} .callout .big.teal{color:var(--teal);}
+  .callout .txt{ font-size:12.5px; color:#33413a;}
+  table.t{ width:100%; border-collapse:collapse; font-size:12.5px; margin-top:4px;}
+  table.t th{ background:var(--felt); color:#fff; font-family:'Barlow Condensed',sans-serif; font-weight:600; text-transform:uppercase; font-size:11.5px; padding:6px 8px; text-align:left;}
+  table.t td{ padding:5px 8px; border-bottom:1px solid var(--line);} table.t td.r{text-align:right; font-variant-numeric:tabular-nums;}
+  table.t tr:nth-child(even) td{ background:#F7F4EC;}
+  .pos{color:var(--teal); font-weight:700;}
+  .eq{ background:var(--felt); color:#E7F0EA; border-radius:12px; padding:14px 18px; font-family:'Barlow Condensed',monospace; font-size:14.5px; line-height:1.6; margin-top:4px;}
+  .eq .c{ color:var(--gold-2); font-weight:700;}
+  .note{ font-size:11.5px; color:var(--muted); font-style:italic; margin-top:8px;}
+  .why{ background:var(--felt); color:#E7F0EA; border-radius:14px; padding:20px 24px; margin-top:24px;}
+  .why h2{ color:#fff; font-size:21px; margin:0 0 10px;}
+  .why .grid3{ gap:14px;}
+  .why .mcard{ background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.12); border-radius:10px; padding:13px 15px;}
+  .why .mcard h4{ font-family:'Barlow Condensed',sans-serif; font-size:14px; color:var(--gold-2); margin:0 0 5px; text-transform:uppercase; letter-spacing:.5px;}
+  .why .mcard p{ font-size:12px; color:#CDE3D7; margin:0;}
+  .verdict{ display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:6px;}
+  .vbox{ border-radius:12px; padding:16px 18px;}
+  .vbox.yes{ background:rgba(31,161,134,.12); border:1px solid var(--teal);}
+  .vbox.no{ background:rgba(214,69,61,.10); border:1px solid var(--red);}
+  .vbox h3{ margin:0 0 6px;} .vbox.yes h3{color:var(--teal);} .vbox.no h3{color:var(--red);}
+  .vbox p{ font-size:13px; margin:5px 0; color:#33413a;}
+  .foot{ background:var(--felt-2); color:#9FB4A6; padding:14px 40px; font-size:11.5px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;}
+  .foot b{color:#fff;}
+  @media print{ body{ background:#fff; padding:0;} .page{ box-shadow:none; width:100%; margin:0; page-break-after:always;} }
+  @media (max-width:920px){ .grid2,.grid3,.verdict{ grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+
+<!-- ========================= PAGE 1 ========================= -->
+<div class="page">
+  <div class="head">
+    <span class="badge">Pour les parieurs · 1/2</span>
+    <h1>Peut-on <em>prédire</em> les matchs de LFB&nbsp;?</h1>
+    <p class="sub">Spoiler&nbsp;: oui, à <b>70 %</b>, et avec des probabilités <b>honnêtes</b>. On a construit un modèle qui ne
+      voit jamais le futur (évaluation <b>walk-forward</b>), puis on l'a confronté à la réalité. Voici ce qu'il sait faire.</p>
+    <div class="pageno">01</div>
+  </div>
+  <div class="wrap">
+    <p class="lead">La règle d'or&nbsp;: pour pronostiquer, on n'utilise <b>que l'info connue avant le match</b> — l'<b>ELO</b>
+      (force relative qui se met à jour à chaque match), la <b>forme récente</b> et le <b>derby</b>. Pas de triche avec les stats du match.</p>
+
+    <section>
+      <div class="sec-head"><div class="sec-num">1</div><h2>Le moteur de prédiction</h2><span class="tag">AUC 0.76 · 70 % de réussite</span></div>
+      <div class="grid2">
+        <div class="card">
+          <h3>L'équation (transparente)</h3>
+          <div class="eq">
+            logit(P&nbsp;victoire&nbsp;domicile) = 0.610<br>
+            &nbsp;+ <span class="c">0.0047</span> × (écart d'ELO)<br>
+            &nbsp;+ <span class="c">0.0365</span> × (écart de forme)<br>
+            &nbsp;− <span class="c">0.599</span> × (derby)
+          </div>
+          <p class="small" style="margin-top:10px;">
+            • <b>Avantage du terrain</b> (forces égales)&nbsp;: ~<b>65 %</b> pour le receveur.<br>
+            • <b>+100 ELO</b> d'avance → ~<b>75 %</b> de victoire, et +4,4 pts d'écart attendus.<br>
+            • <b>Derby</b>&nbsp;: l'avantage du terrain <b>s'efface</b> — derbys = matchs à éviter de surjouer.</p>
+        </div>
+        <div class="card">
+          <h3>Le modèle bat-il le réflexe naïf&nbsp;?</h3>
+          <div class="callout"><div class="big teal">70,5 %</div><div class="txt">de bons pronostics en <b>walk-forward</b> (entraîné uniquement sur les matchs passés).</div></div>
+          <table class="t">
+            <tr><th>Stratégie</th><th class="r">Réussite</th></tr>
+            <tr><td>« Le domicile gagne » (naïf)</td><td class="r">59,8 %</td></tr>
+            <tr><td>Favori ELO seul</td><td class="r">68,2 %</td></tr>
+            <tr><td><b>Modèle ELO + forme</b></td><td class="r pos">70,5 %</td></tr>
+          </table>
+          <p class="small">La <b>forme récente</b> (5 derniers matchs) est le 2ᵉ facteur le plus utile après l'ELO&nbsp;: +3 pts de réussite.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="sec-head"><div class="sec-num">2</div><h2>Des probabilités honnêtes (le point clé pour parier)</h2><span class="tag">bien calibré</span></div>
+      <div class="grid2">
+        <div class="figure">
+          <img src="../analyse/resultats/paris/1_calibration.png" alt="Calibration et séparation">
+          <div class="cap"><b>À gauche</b>&nbsp;: les points suivent la diagonale → quand le modèle dit « X % », ça arrive ~X % du temps.
+            <b>À droite</b>&nbsp;: il sépare bien victoires (droite) et défaites (gauche), sauf la zone 40-60 % = matchs indécis.</div>
+        </div>
+        <div class="card">
+          <h3>Prédit ≈ observé</h3>
+          <p class="small">On regroupe les matchs par proba annoncée et on compare au réel&nbsp;:</p>
+          <table class="t">
+            <tr><th>Proba dite</th><td class="r">~26%</td><td class="r">~43%</td><td class="r">~58%</td><td class="r">~72%</td><td class="r">~87%</td></tr>
+            <tr><th>Observé</th><td class="r pos">30%</td><td class="r pos">42%</td><td class="r pos">51%</td><td class="r pos">75%</td><td class="r pos">89%</td></tr>
+          </table>
+          <p class="small" style="margin-top:10px;">Brier score <b>0.194</b> (réf. « toujours 50 % » = 0.250). Des probas calibrées, c'est exactement
+            ce qu'il faut pour <b>comparer une cote à sa vraie valeur</b>.</p>
+          <div class="callout" style="margin-top:8px;"><div class="big gold">±10</div><div class="txt">points&nbsp;: la précision sur l'<b>écart de score</b> prédit (handicap). L'aléa fait le reste.</div></div>
+        </div>
+      </div>
+      <p class="note">Bonus&nbsp;: dès la mi-saison (J11), le modèle reconstitue le <b>classement final</b> à moins d'1 rang d'erreur et trouve le champion les 2 saisons testées. Idéal pour les paris « vainqueur du championnat ».</p>
+    </section>
+  </div>
+  <div class="foot"><div><b>Spécial parieurs</b> · Le modèle de prédiction</div><div>Évaluation walk-forward · 224 matchs hors-échantillon</div></div>
+</div>
+
+<!-- ========================= PAGE 2 ========================= -->
+<div class="page">
+  <div class="head">
+    <span class="badge">Pour les parieurs · 2/2</span>
+    <h1>Peut-on en <em>vivre</em>&nbsp;? La réponse honnête.</h1>
+    <p class="sub">Bien prédire (70 %) et <b>gagner de l'argent</b> sont deux choses différentes. On a simulé. Le résultat va
+      à l'encontre de ce qu'on aimerait entendre — mais c'est précisément ça, parier intelligemment.</p>
+    <div class="pageno">02</div>
+  </div>
+  <div class="wrap">
+
+    <section>
+      <div class="sec-head"><div class="sec-num">3</div><h2>Le piège&nbsp;: prédire ≠ battre le bookmaker</h2><span class="tag neg">ROI négatif</span></div>
+      <div class="grid2">
+        <div class="card">
+          <div class="callout"><div class="big red">−5,5 %</div><div class="txt">de rendement (ROI) si l'on parie le favori du modèle face à un book aussi bon que nous.</div></div>
+          <p class="small">Le bookmaker ajoute une <b>marge (~6 %)</b> dans ses cotes. Mécaniquement, à long terme, elle nous fait perdre —
+            même avec 70 % de bonnes prédictions.</p>
+          <div class="callout" style="margin-top:6px;"><div class="big teal">+31,5 %</div><div class="txt">… <b>seulement si</b> on avait un vrai edge de 7 pts sur le book (value betting). Très improbable&nbsp;: il connaît déjà l'ELO.</div></div>
+        </div>
+        <div class="figure">
+          <img src="../analyse/resultats/paris/2_matchs.png" alt="Prédiction match par match">
+          <div class="cap"><b>Chaque point = un match.</b> Bleu = domicile gagne, rouge = perd. Bonne prédiction = bleus en haut, rouges en bas.
+            Les « erreurs » (bleus bas / rouges hauts) sont les <b>upsets</b> — environ <b>30 %</b> des matchs.</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="sec-head"><div class="sec-num">4</div><h2>Les 4 obstacles réels du pari LFB</h2></div>
+      <div class="grid2">
+        <div class="card"><h3>1 · La marge du book</h3><p>~5-8 % intégrés aux cotes. Il faut d'abord la <b>battre</b> avant de gagner un centime.</p></div>
+        <div class="card"><h3>2 · Le book connaît l'ELO</h3><p>Notre principale info n'est <b>pas un avantage</b>&nbsp;: lui intègre l'ELO… <b>et plus</b> (blessures, compos, live).</p></div>
+        <div class="card"><h3>3 · Marché de niche</h3><p>Le basket féminin français&nbsp;: cotes rares, plafonds bas, peu de liquidité → un edge théorique reste <b>inexploitable</b>.</p></div>
+        <div class="card"><h3>4 · La variance</h3><p>~30 % de surprises → forte variance. Il faudrait des <b>centaines</b> de paris pour que l'espérance se réalise, avec risque de ruine.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="sec-head"><div class="sec-num">5</div><h2>Le verdict</h2></div>
+      <div class="verdict">
+        <div class="vbox yes">
+          <h3>✅ Un excellent outil de pronostic</h3>
+          <p>Qui va gagner (<b>70 %</b>), avec quelle probabilité (<b>calibrée</b>), de combien de points (<b>±10</b>), et le classement final dès la mi-saison.</p>
+          <p class="small">Parfait pour <b>s'amuser</b>, comparer ses intuitions, ou repérer une cote aberrante.</p>
+        </div>
+        <div class="vbox no">
+          <h3>❌ Pas un système rentable</h3>
+          <p>Prédire le sport <b>≠</b> battre un marché qui prédit déjà aussi bien, marge en plus. Le ROI simulé est <b>négatif</b>.</p>
+          <p class="small">Un modèle peut être <b>juste sans être profitable</b> — le savoir t'évite de perdre ta mise.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="why">
+      <h2>Pourquoi ce verdict est crédible (et pas juste un avis)</h2>
+      <div class="grid3">
+        <div class="mcard"><h4>Walk-forward strict</h4><p>Pour prédire un match, le modèle n'est entraîné que sur les matchs <b>antérieurs</b>. Zéro fuite du futur — exactement les conditions d'un vrai pari.</p></div>
+        <div class="mcard"><h4>Probas calibrées</h4><p>« 72 % annoncé » = ~75 % observé. Ce n'est pas qu'un classement&nbsp;: les probabilités sont <b>exploitables telles quelles</b>.</p></div>
+        <div class="mcard"><h4>ROI simulé, pas promis</h4><p>On chiffre le rendement avec la marge réelle du book. <b>Corrélation ≠ profit</b>&nbsp;: on assume le résultat négatif.</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><div><b>Spécial parieurs</b> · Peut-on en vivre ?</div><div>R6.06 — Domaines d'application de la Statistique</div></div>
+</div>
+
+</body>
+</html>

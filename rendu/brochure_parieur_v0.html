@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fiche du parieur, LFB (V0)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#A41E22; --red-dark:#7E1419; --slate:#2B2F36; --slate-2:#373C44;
+    --ink:#23272E; --paper:#F4F2ED; --paper-2:#FFFFFF; --line:#E2DDD2; --muted:#6E6A62;
+    --win:#1F8F5F; --loss:#C0392B;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body{ margin:0; background:#3a3f47; color:var(--ink); font-family:'Inter',system-ui,sans-serif; line-height:1.42; padding:26px 12px; font-size:13px;}
+  h1,h2,h3{ font-family:'Anton',Impact,sans-serif; font-weight:400; letter-spacing:.4px;}
+  .page{ width:1080px; max-width:100%; margin:0 auto 24px; background:var(--paper); box-shadow:0 18px 55px rgba(0,0,0,.45); overflow:hidden; position:relative;}
+  /* header band */
+  .band{ background:linear-gradient(120deg,var(--red-dark),var(--red)); color:#fff; padding:20px 30px; position:relative;}
+  .band:after{ content:""; position:absolute; right:0; top:0; bottom:0; width:200px;
+    background:repeating-linear-gradient(125deg, rgba(255,255,255,.06) 0 10px, transparent 10px 22px);}
+  .band .kick{ font-family:'Barlow Condensed',sans-serif; font-weight:700; letter-spacing:3px; text-transform:uppercase; font-size:12px; opacity:.9;}
+  .band h1{ font-size:34px; line-height:1; margin:5px 0 4px;}
+  .band p{ margin:0; font-size:13px; color:#F3D9D6; max-width:760px;}
+  .wrap{ padding:22px 30px 26px;}
+  .cols{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}
+  .col h2{ font-size:18px; color:var(--red); margin:0 0 9px; border-bottom:2px solid var(--red); padding-bottom:5px;}
+  .col h3{ font-size:14px; color:var(--slate); margin:14px 0 6px; text-transform:uppercase; letter-spacing:.5px; font-family:'Barlow Condensed',sans-serif; font-weight:700;}
+  .col p{ margin:6px 0; font-size:12.5px;} .muted{ color:var(--muted); font-size:11.5px;}
+  /* checklist */
+  .check{ list-style:none; margin:0; padding:0;}
+  .check li{ display:flex; align-items:center; gap:9px; padding:7px 0; border-bottom:1px solid var(--line); font-size:12.5px;}
+  .check li .box{ width:16px; height:16px; border:2px solid var(--slate); border-radius:3px; flex:0 0 auto;}
+  .check li .pc{ margin-left:auto; font-family:'Anton',sans-serif; font-size:16px; color:var(--win); flex:0 0 auto;}
+  .check li.loss .pc{ color:var(--loss);}
+  .check li .t b{ color:var(--slate);}
+  .check li.with-note{ display:block; padding-top:7px;}
+  .check li.with-note .row{ display:flex; align-items:center; gap:9px;}
+  .fine{ display:block; font-size:10px; line-height:1.35; color:var(--muted); font-style:italic; margin:5px 0 2px 25px;}
+  .ribbon{ background:var(--slate); color:#fff; border-radius:9px; padding:12px 15px; margin-top:6px;}
+  .ribbon b{ color:#FFD9A6;}
+  .seethrough li{ font-size:12.5px; padding:5px 0; color:#33373d;}
+  .steps{ counter-reset:s; list-style:none; padding:0; margin:0;}
+  .steps li{ position:relative; padding:6px 0 6px 30px; font-size:12px; border-bottom:1px solid var(--line);}
+  .steps li:before{ counter-increment:s; content:counter(s); position:absolute; left:0; top:6px; width:21px; height:21px; background:var(--red); color:#fff; border-radius:50%; font-family:'Anton',sans-serif; font-size:12px; display:flex; align-items:center; justify-content:center;}
+  .formula{ background:var(--slate); color:#fff; border-radius:10px; padding:13px 15px; text-align:center; border-left:5px solid var(--red);}
+  .formula .f{ font-family:'Anton',sans-serif; font-size:16px;} .formula .f .hl{ color:#FFD9A6;}
+  .formula .ex{ font-size:11.5px; color:#cfd3d8; margin-top:6px;}
+  table{ width:100%; border-collapse:collapse; font-size:11.5px; margin-top:6px;}
+  th{ background:var(--slate); color:#fff; font-family:'Barlow Condensed',sans-serif; font-weight:600; text-transform:uppercase; font-size:10.5px; padding:5px 6px; text-align:left;}
+  td{ padding:4px 6px; border-bottom:1px solid var(--line);} td.r{ text-align:right; font-variant-numeric:tabular-nums;}
+  tr:nth-child(even) td{ background:#FAF8F3;}
+  .win{ color:var(--win); font-weight:700;} .loss{ color:var(--loss); font-weight:700;}
+  .note{ background:#FBF4E8; border:1px solid #E8D8B8; border-radius:9px; padding:10px 13px; font-size:11px; color:#6a5320; margin-top:12px;}
+  /* radar gallery */
+  .gallery-h{ margin:24px 0 6px; display:flex; align-items:baseline; gap:12px;}
+  .gallery-h h2{ font-size:19px; color:var(--red); margin:0;}
+  .gallery-h span{ font-size:11.5px; font-style:italic; color:var(--muted);}
+  .gallery{ display:grid; grid-template-columns:repeat(6,1fr); gap:8px;}
+  .radar{ background:var(--paper-2); border:1px solid var(--line); border-radius:8px; padding:5px; text-align:center;}
+  .radar img{ width:100%; display:block;}
+  .radar .cap{ font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:12px; color:var(--slate); text-transform:uppercase; letter-spacing:.5px; margin-top:2px;}
+  .foot{ background:var(--slate-2); color:#AEB4BC; padding:11px 30px; font-size:11px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;}
+  .foot b{ color:#fff;}
+  @media print{ body{ background:#fff; padding:0;} .page{ box-shadow:none; width:100%; margin:0; page-break-after:always;} }
+  @media (max-width:1100px){ .cols{ grid-template-columns:1fr;} .gallery{ grid-template-columns:repeat(3,1fr);} }
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1 : CONSTAT A FROID ================= -->
+<div class="page">
+  <div class="band">
+    <div class="kick">Fiche du parieur · basketball féminin (LFB) · page 1 sur 2</div>
+    <h1>Le profil de l'équipe qui gagne</h1>
+    <p>Constat à froid sur les deux dernières saisons (23-24 et 24-25). Chaque pourcentage est la part de victoires (ou de défaites) parmi les matchs où le critère était rempli. C'est une photo du passé, pas une garantie pour l'avenir.</p>
+  </div>
+
+  <div class="wrap">
+    <div class="cols">
+
+      <!-- Colonne 1 : check-list -->
+      <div class="col">
+        <h2>Les critères à cocher</h2>
+        <ul class="check">
+          <li class="with-note">
+            <div class="row"><span class="box"></span><span class="t"><b>Bonne adresse au tir.</b> Elle marque ses paniers.</span><span class="pc">82%</span></div>
+            <span class="fine">Les 82 % sont calculés sur la base des deux saisons, on a gardé les matchs où les équipes ont le mieux tiré (le tiers le plus adroit). Sur 100 de ces matchs, 82 des équipes ont gagné. Même lecture pour les lignes suivantes.</span>
+          </li>
+          <li><span class="box"></span><span class="t"><b>Beaucoup de passes décisives.</b> Elle fait circuler la balle.</span><span class="pc">79%</span></li>
+          <li><span class="box"></span><span class="t"><b>Peu de ballons perdus.</b> Elle protège la balle.</span><span class="pc">66%</span></li>
+          <li><span class="box"></span><span class="t"><b>Joue à domicile.</b></span><span class="pc">62%</span></li>
+          <li><span class="box"></span><span class="t"><b>Peu de 3 points manqués.</b> Critère secondaire.</span><span class="pc">60%</span></li>
+        </ul>
+      </div>
+
+      <!-- Colonne 2 : signaux d'alerte -->
+      <div class="col">
+        <h2>Les signaux d'alerte</h2>
+        <p class="muted">Côté défaite : part de défaites quand le critère défavorable est rempli.</p>
+        <ul class="check">
+          <li class="loss"><span class="t">Peu de passes décisives</span><span class="pc">75%</span></li>
+          <li class="loss"><span class="t">Adresse au tir faible</span><span class="pc">74%</span></li>
+          <li class="loss"><span class="t">Beaucoup de ballons perdus</span><span class="pc">63%</span></li>
+          <li class="loss"><span class="t">Joue à l'extérieur</span><span class="pc">56%</span></li>
+        </ul>
+      </div>
+
+      <!-- Colonne 3 : ce qu'on voit -->
+      <div class="col">
+        <h2>Ce qu'on voit en la regardant jouer</h2>
+        <ul class="seethrough">
+          <li>Elle marque beaucoup de paniers à 3 points, souvent sa marque de fabrique.</li>
+          <li>Elle récupère beaucoup de ballons sur l'adversaire (interceptions).</li>
+          <li>Elle rate peu de tirs, alors qu'une équipe qui perd accumule les tirs manqués.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Galerie de radars -->
+    <div class="gallery-h">
+      <h2>Le profil de chaque équipe sur 2 saisons</h2>
+      <span>radars provisoires (Angers dupliqué), à remplacer par l'export de chaque équipe</span>
+    </div>
+    <div class="gallery">
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Angers</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Basket Landes</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Bourges</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Charleville</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Charnay</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Chartres</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Landerneau</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Lyon</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Montpellier</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Roche Vendée</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Toulouse</div></div>
+      <div class="radar"><img src="radars/angers.png" alt="radar"><div class="cap">Villeneuve d'Ascq</div></div>
+    </div>
+  </div>
+  <div class="foot"><div><b>Fiche du parieur</b> · Le profil de l'équipe qui gagne</div><div>Constat sur 264 matchs, saisons 23-24 et 24-25</div></div>
+</div>
+
+<!-- ================= PAGE 2 : PREDIRE & SUIVRE ================= -->
+<div class="page">
+  <div class="band">
+    <div class="kick">Fiche du parieur · basketball féminin (LFB) · page 2 sur 2</div>
+    <h1>Avant le match, prédire. Pendant, suivre.</h1>
+    <p>Avant le coup d'envoi, on ne connaît pas encore l'adresse du match. On prédit donc avec ce qui est déjà connu. Pendant le match, on surveille les mêmes signaux que le profil de la page 1, qui se confirment au fil du jeu.</p>
+  </div>
+
+  <div class="wrap">
+    <div class="cols">
+
+      <!-- Colonne 1 : AVANT -->
+      <div class="col">
+        <h2>Avant le match</h2>
+        <div class="formula">
+          <div class="f">Écart prévu = <span class="hl">3 + 0,65 × (diff. A − diff. B)</span></div>
+          <div class="ex">A = équipe qui reçoit. Différentiel = (points marqués − encaissés) ÷ matchs joués. Le « 3 » est l'avantage du terrain.</div>
+        </div>
+        <table>
+          <tr><th>Diff. A − diff. B</th><th class="r">Proba victoire de A</th></tr>
+          <tr><td>0 (forces égales)</td><td class="r win">64%</td></tr>
+          <tr><td>+5</td><td class="r win">74%</td></tr>
+          <tr><td>+10</td><td class="r win">82%</td></tr>
+          <tr><td>+15</td><td class="r win">88%</td></tr>
+          <tr><td>−5</td><td class="r loss">53%</td></tr>
+        </table>
+        <h3>Les signaux connus avant match</h3>
+        <p><b>Différentiel de points</b> (le n°1, lié à +0,94 au classement). <b>Forme des 5 derniers</b> : meilleure forme de +10 fait passer de 64 à 68 %, elle départage les matchs serrés. <b>Ratio de victoires</b> en confirmation. <b>Domicile</b> : 65 % à forces égales. <b>Derby</b> : l'avantage du terrain disparaît, ramène vers 50/50. <b>Jour</b> : la fatigue n'est pas mesurable ici (pas de dates).</p>
+      </div>
+
+      <!-- Colonne 2 : PENDANT -->
+      <div class="col">
+        <h2>Pendant le match</h2>
+        <p class="muted">On regarde l'écart entre les deux équipes sur les mêmes stats que le profil. Ce que vaut un écart :</p>
+        <table>
+          <tr><th>Domination de A</th><th class="r">Gagner</th><th class="r">Pts d'écart</th></tr>
+          <tr><td>~12 pts d'efficacité au tir</td><td class="r win">+32%</td><td class="r">+13</td></tr>
+          <tr><td>~11 pts de % de tirs</td><td class="r win">+30%</td><td class="r">+13</td></tr>
+          <tr><td>~7 passes décisives</td><td class="r win">+24%</td><td class="r">+12</td></tr>
+          <tr><td>~16 pts de % à 3 points</td><td class="r win">+22%</td><td class="r">+9</td></tr>
+          <tr><td>~7 rebonds défensifs</td><td class="r win">+20%</td><td class="r">+11</td></tr>
+        </table>
+        <h3>Avance solide ou en sursis</h3>
+        <p>Bâtie sur l'efficacité, le rebond et les passes : solide, elle tient et se creuse. Bâtie sur un bon soir à 3 points ou des interceptions : fragile, elle peut fondre.</p>
+        <h3>Parier l'écart (handicap)</h3>
+        <p>Repère : environ 18 points par quart-temps et par équipe. Projection : écart final ≈ écart actuel + écart prévu × temps restant. Une avance se reporte presque 1 pour 1, mais l'écart final dévie de ±16 points et le favori perd 1 fois sur 3.</p>
+      </div>
+
+      <!-- Colonne 3 : RENTABLE + exemple + verdict -->
+      <div class="col">
+        <h2>Est-ce rentable ?</h2>
+        <p>La méthode tombe juste <b>~72 %</b> du temps (contre 59 % pour « le receveur gagne »). Mais bien prédire ne suffit pas à gagner de l'argent.</p>
+        <table>
+          <tr><th>Ta proba</th><th class="r">Cote minimale rentable</th></tr>
+          <tr><td>50%</td><td class="r">2,00</td></tr>
+          <tr><td>65%</td><td class="r">1,54</td></tr>
+          <tr><td>75%</td><td class="r">1,33</td></tr>
+          <tr><td>85%</td><td class="r">1,18</td></tr>
+        </table>
+        <p class="muted">Le bookmaker connaît tout ça et prend ~6 % de marge, donc la cote d'un favori est presque toujours trop basse. En simulation, parier les favoris rend −5,5 %.</p>
+
+        <h3>Exemple : Montpellier reçoit Tarbes</h3>
+        <p>Différentiels +6,6 et −1,3, différence +7,9, proba ≈ 79 %, écart prévu = 3 + 0,65 × 7,9 = <b>+8</b>. Résultat réel : Montpellier a gagné de <b>9 points</b>. À la pause, si son avance vient de l'efficacité et du rebond, elle est solide et devrait tenir.</p>
+
+        <div class="ribbon" style="margin-top:12px;">Verdict : excellent pour <b>pronostiquer</b>, pas pour <b>gagner de l'argent</b>. Croise toujours plusieurs signaux, et mise petit.</div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><div><b>Fiche du parieur</b> · Prédire et suivre</div><div>R6.06 · Domaines d'application de la statistique · V0</div></div>
+</div>
+
+</body>
+</html>
