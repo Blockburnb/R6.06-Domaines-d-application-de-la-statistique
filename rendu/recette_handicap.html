@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La recette de l'écart final — pari handicap LFB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Caveat:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --green:#0E7A53; --green-soft:#16A36E; --felt:#0A2A1E; --felt-2:#0F3A29;
+    --paper:#FBF7EE; --paper-2:#FFFFFF; --ink:#15211C; --gold:#E8B23A; --gold-2:#F4CF6A;
+    --red:#D6453D; --teal:#1FA186; --line:#E4DCC9; --muted:#6A7568;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body{ margin:0; background:#2c3a33; color:var(--ink); font-family:'Inter',system-ui,sans-serif; line-height:1.45; padding:28px 14px;}
+  h1,h2,h3{ font-family:'Anton',Impact,sans-serif; font-weight:400; letter-spacing:.5px;}
+  .hand{ font-family:'Caveat',cursive; }
+  .page{ width:880px; max-width:100%; margin:0 auto 26px; background:var(--paper); box-shadow:0 20px 60px rgba(0,0,0,.45); overflow:hidden; position:relative;
+    background-image: linear-gradient(rgba(14,122,83,.045) 1px, transparent 1px); background-size: 100% 30px;}
+  .head{ background: linear-gradient(135deg,#0A2A1E,#0F3A29 60%,#13503a); color:#fff; padding:24px 38px 20px; position:relative; border-bottom:4px solid var(--gold);}
+  .head .badge{ display:inline-block; background:var(--gold); color:#2a2000; font-family:'Barlow Condensed',sans-serif; font-weight:700; letter-spacing:2px; text-transform:uppercase; font-size:12px; padding:4px 13px; border-radius:20px;}
+  .head h1{ font-size:38px; line-height:1; margin:9px 0 4px; color:#fff;}
+  .head h1 em{ color:var(--gold-2); font-style:normal;}
+  .head .sub{ color:#CDE3D7; font-size:13.5px; max-width:620px;}
+  .meta{ display:flex; border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--paper-2);}
+  .meta div{ flex:1; text-align:center; padding:11px 6px; border-right:1px solid var(--line);}
+  .meta div:last-child{ border-right:none;}
+  .meta .v{ font-family:'Anton',sans-serif; font-size:20px; color:var(--green);}
+  .meta .l{ font-size:10.5px; text-transform:uppercase; letter-spacing:1px; color:var(--muted); font-family:'Barlow Condensed',sans-serif; font-weight:600;}
+  .wrap{ padding:22px 38px 30px;}
+  .cols{ display:grid; grid-template-columns:0.92fr 1.25fr; gap:26px;}
+  h2.block{ font-size:21px; color:var(--felt); margin:0 0 12px; display:flex; align-items:center; gap:9px;}
+  h2.block .e{ font-size:22px;}
+  .ing{ list-style:none; padding:0; margin:0;}
+  .ing li{ display:flex; align-items:flex-start; gap:10px; padding:9px 0; border-bottom:1px dashed var(--line); font-size:13.5px;}
+  .ing li .q{ font-family:'Anton',sans-serif; color:var(--gold); font-size:13px; background:var(--felt); border-radius:6px; padding:3px 7px; flex:0 0 auto; min-width:42px; text-align:center;}
+  .ing li b{ color:var(--felt);}
+  .ing li .ex{ display:block; color:var(--green); font-weight:700; font-size:12.5px; margin-top:2px;}
+  .ing li .opt{ color:var(--muted); font-style:italic;}
+  .step{ display:flex; gap:13px; margin-bottom:13px;}
+  .step .n{ font-family:'Anton',sans-serif; font-size:18px; color:#fff; background:var(--green); width:34px; height:34px; border-radius:50%; display:flex; align-items:center; justify-content:center; flex:0 0 auto;}
+  .step .body{ font-size:13.5px; padding-top:2px;}
+  .step .body b{ color:var(--felt);}
+  .step .calc{ display:inline-block; background:#fff; border:1px solid var(--line); border-left:4px solid var(--gold); border-radius:6px; padding:5px 10px; margin-top:5px; font-variant-numeric:tabular-nums; font-weight:700; color:var(--felt); font-size:13.5px;}
+  .result{ margin-top:18px; background:linear-gradient(135deg,var(--green),var(--green-soft)); color:#fff; border-radius:14px; padding:18px 22px; display:flex; align-items:center; gap:20px;}
+  .result .pic{ font-size:46px; flex:0 0 auto;}
+  .result .big{ font-family:'Anton',sans-serif; font-size:28px; line-height:1;}
+  .result .chk{ margin-top:6px; font-size:13px; background:rgba(0,0,0,.18); display:inline-block; padding:4px 12px; border-radius:20px;}
+  .result .chk b{ color:var(--gold-2);}
+  .chef{ margin-top:16px; background:rgba(232,178,58,.13); border:1.5px solid var(--gold); border-radius:13px; padding:15px 19px;}
+  .chef h3{ font-size:16px; color:#8a6a00; margin:0 0 9px; display:flex; align-items:center; gap:8px;}
+  .chef ul{ margin:0; padding:0; list-style:none; display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px;}
+  .chef li{ font-size:12.5px; color:#5c4a10;}
+  .chef li .t{ font-weight:800; color:#7a5d00; display:block; font-size:13px;}
+  .foot{ background:var(--felt-2); color:#9FB4A6; padding:12px 38px; font-size:11px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;}
+  .foot b{color:#fff;}
+  /* points-table */
+  table.t{ width:100%; border-collapse:collapse; font-size:12.5px;}
+  table.t th{ background:var(--felt); color:#fff; font-family:'Barlow Condensed',sans-serif; font-weight:600; text-transform:uppercase; font-size:11px; padding:6px 9px; text-align:left;}
+  table.t td{ padding:6px 9px; border-bottom:1px solid var(--line); background:var(--paper-2);} table.t td.r{text-align:right; font-variant-numeric:tabular-nums;}
+  .pos{color:var(--teal); font-weight:700;}
+  /* solide / fragile */
+  .sf{ display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:6px;}
+  .sfbox{ border-radius:13px; padding:15px 18px;}
+  .sfbox.ok{ background:rgba(31,161,134,.10); border:1.5px solid var(--teal);}
+  .sfbox.ko{ background:rgba(232,178,58,.13); border:1.5px solid var(--gold);}
+  .sfbox h3{ margin:0 0 8px; font-size:16px;} .sfbox.ok h3{ color:var(--teal);} .sfbox.ko h3{ color:#8a6a00;}
+  .sfbox ul{ margin:0; padding-left:2px; list-style:none;}
+  .sfbox li{ font-size:13px; padding:5px 0; border-bottom:1px dashed var(--line); display:flex; justify-content:space-between; gap:10px;}
+  .sfbox li:last-child{ border-bottom:none;}
+  .sfbox li b{ color:var(--felt);} .sfbox .pts{ font-family:'Anton',sans-serif; font-size:14px; color:var(--green);}
+  .sfbox.ko .pts{ color:var(--gold);}
+  .sfbox .tag{ font-size:11px; font-style:italic; color:var(--muted);}
+  .formula{ background:linear-gradient(135deg,var(--felt),var(--felt-2)); color:#fff; border-radius:13px; padding:14px 18px; text-align:center; border:2px solid var(--gold);}
+  .formula .f{ font-family:'Anton',sans-serif; font-size:18px; letter-spacing:.3px; line-height:1.25;}
+  .formula .f .hl{ color:var(--gold-2);}
+  .formula .ex{ font-size:11.5px; color:#CDE3D7; margin-top:7px;}
+  .illus{ font-size:11px; color:var(--muted); font-style:italic; margin-top:7px;}
+  @media print{ body{ background:#fff; padding:0;} .page{ box-shadow:none; width:100%; margin:0; page-break-after:always;} }
+  @media (max-width:900px){ .cols,.sf,.chef ul{ grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1 — L'ÉCART ATTENDU (avant match) ============ -->
+<div class="page">
+  <div class="head">
+    <span class="badge">🍳 Recette du parieur · pari handicap</span>
+    <h1>De <em>combien</em> de points&nbsp;?</h1>
+    <p class="sub">Ne plus parier « qui gagne », mais <b>l'écart final</b> (le pari handicap). On la cuisine sur un vrai match&nbsp;:
+      <b>Montpellier reçoit Tarbes</b>.</p>
+  </div>
+
+  <div class="meta">
+    <div><div class="v">3 min</div><div class="l">préparation</div></div>
+    <div><div class="v">Moyen</div><div class="l">difficulté</div></div>
+    <div><div class="v">± 10 pts</div><div class="l">marge d'erreur</div></div>
+    <div><div class="v">±16,5</div><div class="l">variabilité d'un match</div></div>
+  </div>
+
+  <div class="wrap">
+    <div class="cols">
+      <!-- INGREDIENTS -->
+      <div>
+        <h2 class="block"><span class="e">🧺</span> Les ingrédients</h2>
+        <ul class="ing">
+          <li><span class="q">1</span><div><b>Différentiel — équipe qui reçoit</b><span class="ex">Montpellier&nbsp;: +6,6 /match</span></div></li>
+          <li><span class="q">1</span><div><b>Différentiel — l'adversaire</b><span class="ex">Tarbes&nbsp;: −1,3 /match</span></div></li>
+          <li><span class="q">+3</span><div><b>Avantage du terrain</b> <span class="opt">(offert)</span><span class="ex">+3 points au score</span></div></li>
+          <li><span class="q">qs</span><div><b>La ligne du bookmaker</b> <span class="opt">(le handicap proposé, au goût)</span></div></li>
+        </ul>
+        <div class="formula" style="margin-top:8px;">
+          <div class="f">Écart prévu = <span class="hl">(diff. maison − diff. adverse)</span> + <span class="hl">3</span></div>
+          <div class="ex">6,6 − (−1,3) + 3 = <b>≈ +11 points</b> pour Montpellier</div>
+        </div>
+      </div>
+
+      <!-- PREPARATION -->
+      <div>
+        <h2 class="block"><span class="e">👩‍🍳</span> La préparation</h2>
+        <div class="step"><div class="n">1</div><div class="body"><b>Soustrais les différentiels.</b>
+          <div class="calc">+6,6 − (−1,3) = +7,9</div></div></div>
+        <div class="step"><div class="n">2</div><div class="body"><b>Ajoute le terrain</b> (+3) → l'écart prévu avant match.
+          <div class="calc">+7,9 + 3 ≈ +11 points</div></div></div>
+        <div class="step"><div class="n">3</div><div class="body"><b>Compare au handicap du bookmaker.</b> S'il propose « Montpellier −6,5 » et que tu prévois +11, le pari a du sens&nbsp;; s'il propose −12,5, c'est trop.</div></div>
+        <div class="step"><div class="n">4</div><div class="body"><b>Reste humble&nbsp;:</b> l'écart réel d'un match dévie de <b>±10 à 16 pts</b>. Vise large, jamais au point près.</div></div>
+      </div>
+    </div>
+
+    <!-- DRESSAGE -->
+    <div class="result">
+      <div class="pic">📏</div>
+      <div>
+        <div class="hand" style="font-size:18px;color:var(--gold-2);">Le dressage…</div>
+        <div class="big">Montpellier par ≈ 11 points</div>
+        <div class="chk">✅ Vérifié&nbsp;: ce soir-là, <b>Montpellier l'a emporté de 9 points.</b> À 2 points près.</div>
+      </div>
+    </div>
+
+    <div class="chef">
+      <h3>👨‍🍳 Le conseil du chef</h3>
+      <ul>
+        <li><span class="t">📐 Le book vise le 50/50.</span>Il place sa ligne pile là où c'est indécis → bien plus dur que « qui gagne ».</li>
+        <li><span class="t">🎲 Forte variabilité.</span>Un match dévie de ±16 pts&nbsp;: même bien prévu, l'écart peut basculer.</li>
+        <li><span class="t">💸 Toujours pas rentable.</span>Marge du book en plus → pour comprendre le match, pas pour gagner.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot"><div><b>Recette du parieur</b> · L'écart attendu (avant match)</div><div>Exemple réel · LFB 24-25, J18</div></div>
+</div>
+
+<!-- ============ PAGE 2 — SOLIDE vs FRAGILE (pendant le match) ============ -->
+<div class="page">
+  <div class="head">
+    <span class="badge">🔪 Recette du parieur · en direct</span>
+    <h1>L'avance va-t-elle <em>tenir</em>&nbsp;?</h1>
+    <p class="sub">En cours de match, une avance ne se vaut pas selon <b>ce qui la construit</b>. La même feuille de stats te dit si l'écart est <b>solide</b> (il se creuse) ou <b>en sursis</b> (il fond).</p>
+  </div>
+
+  <div class="wrap">
+    <h2 class="block"><span class="e">🔥</span> La projection en direct</h2>
+    <div class="cols">
+      <div class="formula">
+        <div class="f"><span class="hl">Écart final</span> ≈ écart actuel<br>+ <span class="hl">écart prévu × temps restant</span></div>
+        <div class="ex">Mi-temps, Montpellier mène +10 (prévu +11) → ≈ 10 + 11×½ ≈ <b>+15</b></div>
+      </div>
+      <div style="font-size:13px;color:#33413a;">
+        <p style="margin:0 0 8px;">👉 Une avance se <b>reporte presque 1 pour 1</b> au score final&nbsp;: c'est déjà des points en banque. On y ajoute ce qu'il reste à jouer, à la vitesse du niveau des deux équipes.</p>
+        <p class="illus">⚠️ Exemple illustratif&nbsp;: nos données n'ont pas le détail par quart-temps, donc cette projection est un <b>principe</b>, pas un chiffre garanti.</p>
+      </div>
+    </div>
+
+    <h2 class="block" style="margin-top:22px;"><span class="e">⚖️</span> Avance solide ou en sursis&nbsp;?</h2>
+    <p style="font-size:12.5px;color:var(--muted);margin:0 0 10px;">Combien de points d'écart final « pèse » une domination sur tout le match — et à quel point on peut s'y fier&nbsp;:</p>
+    <div class="sf">
+      <div class="sfbox ok">
+        <h3>✅ Avance SOLIDE — elle tient</h3>
+        <ul>
+          <li><span><b>Efficacité au tir</b> <span class="tag">domination ~12 pts</span></span><span class="pts">+13 pts</span></li>
+          <li><span><b>% de tirs réussis</b> <span class="tag">~11 pts</span></span><span class="pts">+13 pts</span></li>
+          <li><span><b>Passes décisives</b> <span class="tag">~7 de plus</span></span><span class="pts">+12 pts</span></li>
+          <li><span><b>Rebonds défensifs</b> <span class="tag">~7 de plus</span></span><span class="pts">+11 pts</span></li>
+        </ul>
+        <p class="tag" style="margin:8px 0 0;">Bâtie sur le jeu de fond → se reproduit, l'écart se creuse.</p>
+      </div>
+      <div class="sfbox ko">
+        <h3>⚠️ Avance EN SURSIS — méfiance</h3>
+        <ul>
+          <li><span><b>% à 3 points</b> <span class="tag">bon soir de loin</span></span><span class="pts">+9 pts</span></li>
+          <li><span><b>Interceptions</b> <span class="tag">coups de chaud</span></span><span class="pts">+6 pts</span></li>
+        </ul>
+        <p class="tag" style="margin:8px 0 0;">Dépend de la réussite du moment → ça retombe vite. Une avance bâtie là-dessus peut fondre.</p>
+      </div>
+    </div>
+
+    <div class="chef" style="margin-top:18px;">
+      <h3>👨‍🍳 La règle d'or du handicap</h3>
+      <ul style="grid-template-columns:1fr 1fr;">
+        <li><span class="t">🔎 Lis le « pourquoi ».</span>Une équipe devant grâce à son efficacité + rebond → mise sur l'écart qui tient. Devant grâce à un festival à 3 pts → attends qu'il retombe.</li>
+        <li><span class="t">🧂 Sans saveur.</span>Le rythme du jeu et la dépendance à une joueuse ne changent pas l'écart final.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot"><div><b>Recette du parieur</b> · L'écart en direct — solide vs en sursis</div><div>R6.06 — Domaines d'application de la Statistique</div></div>
+</div>
+
+</body>
+</html>

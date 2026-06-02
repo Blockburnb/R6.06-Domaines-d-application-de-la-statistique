@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LFB — Qu'est-ce qui fait gagner ? | Poster data</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --orange:#F25C05;      /* ballon */
+    --orange-soft:#FF8A3D;
+    --navy:#0E1B2A;
+    --navy-2:#16293E;
+    --paper:#F7F3EC;
+    --paper-2:#FFFFFF;
+    --ink:#16222E;
+    --teal:#1FA186;        /* positif */
+    --red:#D6453D;         /* negatif */
+    --gold:#F2B705;
+    --line:#E0D8CA;
+    --muted:#6A7785;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body{
+    margin:0; background:#3a4658; color:var(--ink);
+    font-family:'Inter',system-ui,Segoe UI,sans-serif; line-height:1.5;
+    padding:32px 16px;
+  }
+  .poster{
+    width:1240px; max-width:100%; margin:0 auto; background:var(--paper);
+    box-shadow:0 24px 80px rgba(0,0,0,.45);
+    overflow:hidden; position:relative;
+  }
+  h1,h2,h3,.display{ font-family:'Anton',Impact,sans-serif; font-weight:400; letter-spacing:.5px; }
+  .cond{ font-family:'Barlow Condensed',sans-serif; }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    background:
+      radial-gradient(1200px 400px at 80% -10%, rgba(242,92,5,.28), transparent 60%),
+      linear-gradient(135deg,#0E1B2A 0%, #16293E 60%, #1d3a55 100%);
+    color:#fff; padding:46px 54px 40px; position:relative;
+  }
+  .hero::after{ /* ligne de terrain */
+    content:""; position:absolute; right:42px; top:42px; width:150px; height:150px;
+    border:3px solid rgba(255,255,255,.18); border-radius:50%;
+  }
+  .kicker{ font-family:'Barlow Condensed',sans-serif; font-weight:700; letter-spacing:3px;
+    text-transform:uppercase; color:var(--orange-soft); font-size:16px; }
+  .hero h1{ font-size:62px; line-height:.96; margin:10px 0 6px; color:#fff; max-width:880px; }
+  .hero h1 em{ color:var(--orange); font-style:normal; }
+  .hero .sub{ font-size:18px; color:#C9D6E3; max-width:760px; margin-top:14px; }
+  .hero .meta{ margin-top:22px; font-size:13.5px; color:#90A2B4; font-family:'Barlow Condensed',sans-serif;
+    letter-spacing:1px; text-transform:uppercase; }
+
+  /* ---------- bande chiffres clés ---------- */
+  .keystats{ display:grid; grid-template-columns:repeat(5,1fr); background:var(--orange); color:#fff; }
+  .keystats div{ padding:18px 14px; text-align:center; border-right:1px solid rgba(255,255,255,.25); }
+  .keystats div:last-child{ border-right:none; }
+  .keystats .num{ font-family:'Anton',sans-serif; font-size:38px; line-height:1; }
+  .keystats .lab{ font-size:12px; text-transform:uppercase; letter-spacing:1.2px; margin-top:6px; opacity:.95;
+    font-family:'Barlow Condensed',sans-serif; font-weight:600; }
+
+  /* ---------- layout sections ---------- */
+  .wrap{ padding:34px 54px 50px; }
+  .lead{ font-size:16.5px; color:#33414e; max-width:920px; }
+  .lead b{ color:var(--orange); }
+
+  section{ margin-top:38px; }
+  .sec-head{ display:flex; align-items:center; gap:14px; margin-bottom:18px; }
+  .sec-num{ font-family:'Anton',sans-serif; font-size:30px; color:#fff; background:var(--navy);
+    width:50px; height:50px; display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+  .sec-head h2{ font-size:30px; color:var(--navy); line-height:1; }
+  .sec-head .tag{ margin-left:auto; font-family:'Barlow Condensed',sans-serif; font-weight:700;
+    text-transform:uppercase; letter-spacing:1.5px; font-size:12px; color:#fff; background:var(--teal);
+    padding:5px 12px; border-radius:20px; }
+  .tag.warn{ background:var(--gold); color:#3a2c00; }
+  .tag.neg{ background:var(--red); }
+
+  .grid2{ display:grid; grid-template-columns:1fr 1fr; gap:26px; }
+  .grid3{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+
+  .card{ background:var(--paper-2); border:1px solid var(--line); border-radius:14px; padding:22px 24px;
+    box-shadow:0 4px 14px rgba(20,30,45,.05); }
+  .card h3{ font-size:19px; color:var(--navy); margin:0 0 10px; letter-spacing:.3px;}
+  .card p{ margin:8px 0; font-size:14px; color:#3a4754; }
+  .card .small{ font-size:12.5px; color:var(--muted); }
+
+  /* bar chart facteurs */
+  .bars{ margin-top:6px; }
+  .bar-row{ display:flex; align-items:center; gap:10px; margin:7px 0; font-size:13.5px; }
+  .bar-row .name{ width:175px; text-align:right; color:#2c3742; font-weight:600; flex:0 0 auto;}
+  .bar-track{ flex:1; background:#EFEAE0; border-radius:6px; height:22px; position:relative; overflow:hidden;}
+  .bar-fill{ height:100%; background:linear-gradient(90deg,var(--orange-soft),var(--orange)); border-radius:6px;
+    display:flex; align-items:center; justify-content:flex-end; padding-right:8px; color:#fff; font-weight:700;
+    font-size:12px; }
+  .bar-fill.neg{ background:linear-gradient(90deg,#e8746c,var(--red)); }
+  .axis-note{ font-size:11.5px; color:var(--muted); margin-top:8px; display:flex; justify-content:space-between; }
+
+  /* enseignements list */
+  .lessons{ display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:4px;}
+  .lesson{ display:flex; gap:12px; align-items:flex-start; }
+  .lesson .ico{ font-family:'Anton',sans-serif; font-size:22px; color:var(--orange); width:34px; flex:0 0 auto;}
+  .lesson b{ color:var(--navy); }
+  .lesson span{ font-size:13.5px; color:#3a4754; }
+
+  /* big number callout */
+  .callout{ display:flex; align-items:baseline; gap:12px; margin:4px 0 2px;}
+  .callout .big{ font-family:'Anton',sans-serif; font-size:54px; color:var(--orange); line-height:.9;}
+  .callout .big.teal{ color:var(--teal);} .callout .big.red{ color:var(--red);} .callout .big.navy{color:var(--navy);}
+  .callout .txt{ font-size:13.5px; color:#3a4754; }
+
+  table.t{ width:100%; border-collapse:collapse; font-size:13px; margin-top:6px;}
+  table.t th{ background:var(--navy); color:#fff; font-family:'Barlow Condensed',sans-serif; font-weight:600;
+    text-transform:uppercase; letter-spacing:.5px; font-size:12px; padding:7px 9px; text-align:left;}
+  table.t td{ padding:6px 9px; border-bottom:1px solid var(--line); }
+  table.t tr:nth-child(even) td{ background:#FAF7F1; }
+  table.t td.r{ text-align:right; font-variant-numeric:tabular-nums; }
+  .pos{ color:var(--teal); font-weight:700;} .negv{ color:var(--red); font-weight:700;}
+
+  .eq{ background:var(--navy); color:#E7EEF5; border-radius:12px; padding:16px 20px; font-family:'Barlow Condensed',monospace;
+    font-size:15px; line-height:1.6; margin-top:6px; }
+  .eq .c{ color:var(--orange-soft); font-weight:700; }
+
+  .pill{ display:inline-block; background:#EFEAE0; color:#3a4754; border-radius:20px; padding:3px 11px;
+    font-size:12px; margin:3px 4px 0 0; font-weight:600;}
+
+  /* methodo / why correct */
+  .why{ background:var(--navy); color:#E7EEF5; border-radius:16px; padding:30px 34px; }
+  .why h2{ color:#fff; font-size:28px; margin:0 0 4px; }
+  .why .grid3{ margin-top:18px; }
+  .why .mcard{ background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.12); border-radius:12px; padding:16px 18px;}
+  .why .mcard h4{ font-family:'Barlow Condensed',sans-serif; font-size:16px; letter-spacing:.5px; color:var(--orange-soft);
+    margin:0 0 6px; text-transform:uppercase;}
+  .why .mcard p{ font-size:13px; color:#C9D6E3; margin:0; }
+
+  /* footer */
+  .footer{ background:var(--navy-2); color:#9FB0C0; padding:22px 54px; font-size:12.5px;
+    display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;}
+  .footer b{ color:#fff; }
+
+  .flowstep{ text-align:center; flex:1; position:relative; }
+  .flow{ display:flex; gap:6px; align-items:stretch; margin-top:8px; }
+  .flowstep .box{ background:var(--paper-2); border:1px solid var(--line); border-radius:10px; padding:12px 8px; height:100%;}
+  .flowstep .n{ font-family:'Anton',sans-serif; color:var(--orange); font-size:20px;}
+  .flowstep .b{ font-weight:700; color:var(--navy); font-size:13px; margin:4px 0 2px;}
+  .flowstep .d{ font-size:11.5px; color:var(--muted); }
+  .flowstep .arrow{ position:absolute; right:-9px; top:50%; transform:translateY(-50%); color:var(--orange);
+    font-size:20px; z-index:2;}
+
+  .note{ font-size:12px; color:var(--muted); font-style:italic; margin-top:10px;}
+  @media print{ body{ background:#fff; padding:0;} .poster{ box-shadow:none; width:100%;} }
+  @media (max-width:1000px){ .grid2,.grid3,.lessons{ grid-template-columns:1fr;} .keystats{grid-template-columns:repeat(2,1fr);} .hero h1{font-size:44px;} }
+</style>
+</head>
+<body>
+<div class="poster">
+
+  <!-- ===================== HERO ===================== -->
+  <header class="hero">
+    <div class="kicker">R6.06 · Domaines d'application de la statistique · Data mining</div>
+    <h1>Qu'est-ce qui fait <em>gagner</em> un match&nbsp;?<br>Et peut-on le <em>prédire</em>&nbsp;?</h1>
+    <p class="sub">Enquête statistique sur la Ligue Féminine de Basket (LFB) : on dissèque 264 matchs et
+      11 saisons pour séparer ce qui <b>fait vraiment gagner</b> de ce qui n'est qu'un <b>style de jeu</b>,
+      puis on construit un modèle qui prédit le classement final… dès la mi-saison.</p>
+    <div class="meta">12 équipes · Saisons 2015 → 2026 · Championnat de France · Méthodes : régression · forêt aléatoire · PCA · k-means</div>
+  </header>
+
+  <!-- ===================== CHIFFRES CLÉS ===================== -->
+  <div class="keystats">
+    <div><div class="num">12</div><div class="lab">équipes suivies</div></div>
+    <div><div class="num">264</div><div class="lab">matchs analysés</div></div>
+    <div><div class="num">11</div><div class="lab">saisons (2015→26)</div></div>
+    <div><div class="num">~10 000</div><div class="lab">lignes joueuse × match</div></div>
+    <div><div class="num">70 %</div><div class="lab">de matchs bien prédits</div></div>
+  </div>
+
+  <div class="wrap">
+
+    <p class="lead">Le basket regorge de chiffres, mais lesquels comptent&nbsp;? Marquer beaucoup&nbsp;?
+      Courir vite&nbsp;? Avoir une superstar&nbsp;? Pour répondre <b>sans se tromper</b>, on n'a jamais
+      regardé une statistique seule&nbsp;: on a toujours mesuré <b>l'écart avec l'adversaire sur le match</b>
+      — tirer à 45 % ne fait gagner que si l'autre tire moins bien. Voici les résultats, expliqués pour tous.</p>
+
+    <!-- ===================== LA DÉMARCHE ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">⚙</div><h2>La démarche, en 5 étapes</h2>
+        <span class="tag">100 % reproductible</span>
+      </div>
+      <div class="flow">
+        <div class="flowstep"><div class="box"><div class="n">1</div><div class="b">Rassembler</div><div class="d">12 fichiers équipes + calendrier Excel fusionnés</div></div><span class="arrow">➜</span></div>
+        <div class="flowstep"><div class="box"><div class="n">2</div><div class="b">Nettoyer</div><div class="d">noms harmonisés, doublons, valeurs manquantes</div></div><span class="arrow">➜</span></div>
+        <div class="flowstep"><div class="box"><div class="n">3</div><div class="b">Enrichir (ELO)</div><div class="d">force relative recalculée après chaque match</div></div><span class="arrow">➜</span></div>
+        <div class="flowstep"><div class="box"><div class="n">4</div><div class="b">Analyser</div><div class="d">facteurs, styles, profils de joueuses</div></div><span class="arrow">➜</span></div>
+        <div class="flowstep"><div class="box"><div class="n">5</div><div class="b">Prédire</div><div class="d">vainqueur, écart, classement final</div></div></div>
+      </div>
+      <p class="note">L'<b>ELO</b> (issu des échecs) attribue à chaque équipe un score de force qui monte si elle gagne,
+        baisse si elle perd, et d'autant plus que l'adversaire était coté&nbsp;: <code>P = 1 / (1 + 10^((ELOadv − ELOeq)/400))</code>.</p>
+    </section>
+
+    <!-- ===================== RÉSULTAT 1 : FACTEURS ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">1</div><h2>Ce qui fait gagner un match</h2>
+        <span class="tag">AUC 0.86 → 0.95</span>
+      </div>
+      <div class="grid2">
+        <div class="card">
+          <h3>Le classement des facteurs</h3>
+          <p class="small">Gain de probabilité de victoire pour <b>+1 écart-type d'avantage</b> sur l'adversaire,
+            depuis un match à 50/50.</p>
+          <div class="bars">
+            <div class="bar-row"><div class="name">Efficacité au tir (eFG%)</div><div class="bar-track"><div class="bar-fill" style="width:96%">+32%</div></div></div>
+            <div class="bar-row"><div class="name">% de tirs réussis</div><div class="bar-track"><div class="bar-fill" style="width:90%">+30%</div></div></div>
+            <div class="bar-row"><div class="name">Passes décisives</div><div class="bar-track"><div class="bar-fill" style="width:72%">+24%</div></div></div>
+            <div class="bar-row"><div class="name">% à 3 points</div><div class="bar-track"><div class="bar-fill" style="width:66%">+22%</div></div></div>
+            <div class="bar-row"><div class="name">Rebonds défensifs</div><div class="bar-track"><div class="bar-fill" style="width:60%">+20%</div></div></div>
+            <div class="bar-row"><div class="name">Avantage du terrain</div><div class="bar-track"><div class="bar-fill" style="width:42%">+14%</div></div></div>
+            <div class="bar-row"><div class="name">Pression défensive</div><div class="bar-track"><div class="bar-fill" style="width:36%">+12%</div></div></div>
+            <div class="bar-row"><div class="name">Taux de pertes de balle</div><div class="bar-track"><div class="bar-fill neg" style="width:30%">−10%</div></div></div>
+          </div>
+          <div class="axis-note"><span>← favorise la défaite</span><span>favorise la victoire →</span></div>
+        </div>
+
+        <div class="card">
+          <h3>Les 4 enseignements</h3>
+          <div class="lessons">
+            <div class="lesson"><div class="ico">①</div><span><b>Être efficace, pas rapide.</b> La possession ne compte pas (les 2 équipes en ont autant) — ce qui compte, c'est ce qu'on en fait.</span></div>
+            <div class="lesson"><div class="ico">②</div><span><b>Le tir à 3 points départage.</b> La forêt aléatoire le classe n°1 (importance 0.32)&nbsp;: c'est lui qui sépare le plus nets gagnants et perdants.</span></div>
+            <div class="lesson"><div class="ico">③</div><span><b>Le collectif bat l'individuel.</b> Passes décisives dans le top&nbsp;; la dépendance à une star a un effet <b>nul</b> sur la victoire.</span></div>
+            <div class="lesson"><div class="ico">④</div><span><b>La défense compte.</b> Rebond défensif + interceptions + contres pèsent autant que des pans entiers de l'attaque.</span></div>
+          </div>
+          <p class="small" style="margin-top:14px;border-top:1px dashed var(--line);padding-top:12px;">
+            ⚠️ <b>Style ≠ levier de victoire.</b> « Part de tirs à 3pts tentés », « apport du banc »,
+            « dépendance à la star » ont un effet ≈ 0 → ce sont des <b>choix de jeu</b>, pas des leviers de résultat.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== RÉSULTAT 2 : STYLE NE PRÉDIT PAS ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">2</div><h2>Le style de jeu prédit-il la victoire&nbsp;?</h2>
+        <span class="tag neg">Résultat négatif assumé</span>
+      </div>
+      <div class="grid3">
+        <div class="card">
+          <h3>Le test décisif</h3>
+          <div class="callout"><div class="big red">−0.03</div><div class="txt">gain d'AUC quand on ajoute le <b>style</b> à l'ELO. Autrement dit&nbsp;: <b>le style n'aide pas</b> à prédire, il ajoute du bruit.</div></div>
+          <p class="small">On a comparé deux modèles&nbsp;: « écart d'ELO seul » (AUC 0.80) vs « ELO + style » (AUC 0.77).
+            Une fois le <b>niveau</b> connu, savoir <i>comment</i> une équipe joue n'apporte rien.</p>
+        </div>
+        <div class="card">
+          <h3>Même style, résultats opposés</h3>
+          <p>Dans <b>chaque</b> style de jeu, le taux de victoires va de <b>15 %</b> à <b>86 %</b>.
+            Bourges et Roche Vendée jouent le <b>même</b> style « intérieur »… mais gagnent 86 % vs 19 %.</p>
+          <p class="small">Les scores de silhouette restent faibles (~0.17)&nbsp;: il n'existe pas de « familles » de
+            style tranchées en LFB — les équipes forment un <b>continuum</b>.</p>
+        </div>
+        <div class="card">
+          <h3>La seule vraie « pierre-feuille-ciseaux »</h3>
+          <p>Test d'interaction&nbsp;: le <b>rebond défensif adverse neutralise l'adresse à 3 points</b>
+            (coef −0.40). Un tir raté est récupéré → pas de seconde chance.</p>
+          <p class="small">C'est pourquoi les équipes « dominatrices au rebond » écrasent les équipes « tout-3-points »
+            (85 % de victoires dans ce duel). Mais globalement&nbsp;: <b>mieux vaut être bon que d'avoir le bon style.</b></p>
+        </div>
+      </div>
+      <p class="note">Démarche critique valorisée&nbsp;: une 1ʳᵉ version clusterait sur des mesures de <i>qualité</i> (elle séparait juste forts/faibles).
+        La v2 sépare explicitement <b>NIVEAU</b> et <b>STYLE</b> et prouve que le style ne pronostique pas.</p>
+    </section>
+
+    <!-- ===================== RÉSULTAT 3 : JOUEUSES ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">3</div><h2>La carte des joueuses (PCA + clustering)</h2>
+        <span class="tag">204 joueuses · 60 % de variance expliquée</span>
+      </div>
+      <div class="grid2">
+        <div class="card">
+          <h3>Deux familles que les données retrouvent seules</h3>
+          <p>Sans qu'on le leur dise, les statistiques séparent les joueuses sur <b>l'axe fondamental du basket</b> :</p>
+          <table class="t">
+            <tr><th>Archétype</th><th class="r">n</th><th class="r">Taille</th><th>Marqueurs</th></tr>
+            <tr><td><b>Intérieures</b></td><td class="r">77</td><td class="r">1,89 m</td><td>rebonds, contres, jeu près du panier</td></tr>
+            <tr><td><b>Extérieures</b></td><td class="r">102</td><td class="r">1,77 m</td><td>tirs à 3 points, passes, plus petites</td></tr>
+          </table>
+          <p class="small" style="margin-top:10px;">L'axe 1 oppose <b>intérieures ↔ extérieures</b>, l'axe 2 sépare le <b>volume de jeu</b>.
+            Que les données <b>retrouvent</b> les postes réels = preuve de validité.</p>
+        </div>
+        <div class="card">
+          <h3>Étrangères = les cadres recrutées pour performer</h3>
+          <div class="grid2" style="gap:14px;">
+            <div><div class="callout"><div class="big">×1,5</div><div class="txt">de temps de jeu pour les étrangères vs françaises</div></div></div>
+            <div><div class="callout"><div class="big teal">×2</div><div class="txt">d'impact (EVAL&nbsp;: 10,1 vs 5,3)</div></div></div>
+          </div>
+          <p class="small">Lien part d'étrangères ↔ victoires&nbsp;: <b>+0.39</b> (modéré). Les meilleures sont souvent
+            étrangères, mais ce sont les <b>gros budgets</b> qui les recrutent ET gagnent.</p>
+          <p class="small" style="border-top:1px dashed var(--line);padding-top:10px;">
+            ❌ Théorie infirmée&nbsp;: « plus d'étrangères = jeu moins collectif » est <b>faux</b> ici
+            (corrélation au contraire légèrement positive, +0.23).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== RÉSULTAT 4 : PRÉDICTION ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">4</div><h2>Le modèle qui prédit le classement</h2>
+        <span class="tag">AUC 0.76 · bien calibré</span>
+      </div>
+      <div class="grid2">
+        <div class="card">
+          <h3>L'équation, lisible et défendable</h3>
+          <div class="eq">
+            logit(P&nbsp;victoire&nbsp;domicile) = 0.610<br>
+            &nbsp;&nbsp;+ <span class="c">0.0047</span> × (écart d'ELO)<br>
+            &nbsp;&nbsp;+ <span class="c">0.0365</span> × (écart de forme récente)<br>
+            &nbsp;&nbsp;− <span class="c">0.599</span> × (derby)
+          </div>
+          <p class="small" style="margin-top:12px;">
+            • <b>Avantage du terrain</b> (forces égales)&nbsp;: P ≈ <b>65 %</b> pour le receveur.<br>
+            • <b>+100 points d'ELO</b> → la proba monte de 65 % à ~<b>75 %</b>, et <b>+4,4 pts</b> d'écart attendus.<br>
+            • <b>Derby</b>&nbsp;: l'avantage du terrain <b>s'efface</b> (les derbys sont indécis).</p>
+        </div>
+        <div class="card">
+          <h3>Classement prédit dès la mi-saison (J11)</h3>
+          <p class="small">Victoires déjà acquises + espérance de victoires sur les matchs restants → classement.
+            Saison 25-26&nbsp;: <b>erreur moyenne 1,0 rang</b>, corrélation <b>0.91</b>, <b>champion trouvé ✅</b>.</p>
+          <table class="t">
+            <tr><th>#prédit</th><th>Équipe</th><th class="r">V prédites</th><th class="r">V réelles</th><th class="r">#réel</th></tr>
+            <tr><td>1</td><td><b>Basket Landes</b></td><td class="r">16.9</td><td class="r">19</td><td class="r pos">1</td></tr>
+            <tr><td>2</td><td>Bourges</td><td class="r">15.5</td><td class="r">17</td><td class="r pos">2</td></tr>
+            <tr><td>3</td><td>Charleville</td><td class="r">14.4</td><td class="r">15</td><td class="r pos">3</td></tr>
+            <tr><td>4</td><td>Montpellier</td><td class="r">14.0</td><td class="r">13</td><td class="r">5</td></tr>
+            <tr><td>5</td><td>Landerneau</td><td class="r">12.4</td><td class="r">14</td><td class="r">4</td></tr>
+            <tr><td>12</td><td>Chartres</td><td class="r">5.3</td><td class="r">7</td><td class="r">8</td></tr>
+          </table>
+          <p class="small" style="margin-top:8px;">Le <b>haut et le bas</b> du tableau sont quasi acquis dès la mi-saison&nbsp;;
+            le <b>milieu</b> reste incertain (matchs serrés) — c'est l'aléa irréductible.</p>
+        </div>
+      </div>
+      <div class="card" style="margin-top:22px;">
+        <h3>Les probabilités sont honnêtes (calibration)</h3>
+        <p class="small">Quand le modèle annonce X %, l'équipe gagne effectivement ~X % du temps. C'est ce qui rend les probas exploitables.</p>
+        <table class="t">
+          <tr><th>Proba prédite</th><td class="r">~26 %</td><td class="r">~43 %</td><td class="r">~58 %</td><td class="r">~72 %</td><td class="r">~87 %</td></tr>
+          <tr><th>Victoires observées</th><td class="r pos">30 %</td><td class="r pos">42 %</td><td class="r pos">51 %</td><td class="r pos">75 %</td><td class="r pos">89 %</td></tr>
+        </table>
+      </div>
+    </section>
+
+    <!-- ===================== RÉSULTAT 5 : PARIS ===================== -->
+    <section>
+      <div class="sec-head">
+        <div class="sec-num">5</div><h2>Pourrait-on parier avec ce modèle&nbsp;?</h2>
+        <span class="tag warn">Prédire ≠ gagner de l'argent</span>
+      </div>
+      <div class="grid3">
+        <div class="card">
+          <div class="callout"><div class="big teal">70,5 %</div><div class="txt">de bons pronostics en <b>walk-forward</b> (entraîné uniquement sur le passé — zéro triche).</div></div>
+          <p class="small">vs 59,8 % en pariant trivialement « le domicile gagne ». Le modèle prédit donc <b>vraiment</b>.</p>
+        </div>
+        <div class="card">
+          <div class="callout"><div class="big red">−5,5 %</div><div class="txt">de rendement (ROI) si l'on parie le favori du modèle face à un bookmaker aussi bon.</div></div>
+          <p class="small">Sa <b>marge (~6 %)</b> nous fait perdre à long terme. Bien prédire ne suffit pas&nbsp;:
+            il faut être <b>plus précis que le book</b>, qui connaît déjà l'ELO… <b>et plus</b>.</p>
+        </div>
+        <div class="card">
+          <h3>Le verdict honnête</h3>
+          <p>✅ <b>Excellent outil de pronostic</b> (qui gagne, avec quelle proba, le classement).</p>
+          <p>❌ <b>Pas</b> un système de paris rentable. Un modèle peut être <b>juste sans être profitable</b> —
+            et le distinguer est un résultat en soi.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== POURQUOI C'EST STATISTIQUEMENT CORRECT ===================== -->
+    <section>
+      <div class="why">
+        <h2>Pourquoi ces conclusions sont statistiquement solides</h2>
+        <p style="color:#C9D6E3;max-width:900px;margin:6px 0 0;font-size:14px;">
+          La rigueur ne se voit pas dans les chiffres mais dans la méthode qui les produit. Six garde-fous&nbsp;:</p>
+        <div class="grid3">
+          <div class="mcard"><h4>Différentiel vs adversaire</h4><p>On ne juge jamais une stat dans l'absolu&nbsp;: seul compte l'<b>écart avec l'adversaire</b> sur le match. Sinon on confond niveau du championnat et performance.</p></div>
+          <div class="mcard"><h4>Explication ≠ prédiction</h4><p>Les facteurs (eFG, 3pts…) sont mesurés <b>pendant</b> le match&nbsp;: ils l'expliquent mais ne se connaissent pas à l'avance. Pour prédire, on n'utilise que l'<b>info connue avant</b> (ELO, forme).</p></div>
+          <div class="mcard"><h4>Validation hors-échantillon</h4><p>Validation croisée 5-fold + <b>walk-forward</b> strict pour les paris&nbsp;: le modèle ne voit jamais le futur. C'est la seule évaluation crédible.</p></div>
+          <div class="mcard"><h4>Trois lectures croisées</h4><p>Univarié, multivarié et <b>forêt aléatoire</b> se confirment mutuellement — on n'est pas piégé par la corrélation entre statistiques.</p></div>
+          <div class="mcard"><h4>Nombre de groupes validé</h4><p>Le nombre d'archétypes (joueuses, styles) n'est pas choisi à la main mais par <b>score de silhouette</b>. Si les groupes sont flous, on le dit.</p></div>
+          <div class="mcard"><h4>Limites & résultats négatifs</h4><p><b>Corrélation ≠ causalité.</b> On assume ce qui ne marche pas&nbsp;: style non prédictif, paris non rentables, « étrangères = moins collectif » infirmé. ~1 match/3 reste une surprise.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== CONCLUSION ===================== -->
+    <section>
+      <div class="sec-head"><div class="sec-num">✓</div><h2>Conclusion</h2></div>
+      <div class="grid3">
+        <div class="card" style="border-top:4px solid var(--orange);">
+          <h3>Pour gagner</h3>
+          <p>Être <b>efficace au tir</b> (surtout à 3 pts), <b>jouer collectif</b> (passes décisives),
+            <b>dominer le rebond défensif</b> et <b>limiter les pertes</b>. La vitesse et la star ne suffisent pas.</p>
+        </div>
+        <div class="card" style="border-top:4px solid var(--teal);">
+          <h3>Pour prédire</h3>
+          <p>L'<b>ELO fait l'essentiel</b>, la <b>forme récente</b> affine, le <b>derby</b> annule l'avantage du terrain.
+            Résultat&nbsp;: <b>~70 %</b> de bons pronostics et le classement final fiable <b>dès la J11</b>.</p>
+        </div>
+        <div class="card" style="border-top:4px solid var(--gold);">
+          <h3>La limite</h3>
+          <p>Le basket reste <b>variable</b>&nbsp;: écart prédit à ±10 pts, ~30 % de surprises.
+            Le style <b>décrit</b> une équipe (utile au recrutement) mais ne <b>pronostique</b> pas&nbsp;: en LFB, <b>le niveau prime</b>.</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <footer class="footer">
+    <div><b>R6.06 — Domaines d'application de la Statistique</b> · Analyse data mining de la Ligue Féminine de Basket</div>
+    <div>Pipeline Python · pandas · scikit-learn · matplotlib &nbsp;|&nbsp; <b>v0 — poster de synthèse</b></div>
+  </footer>
+
+</div>
+</body>
+</html>
