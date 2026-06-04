@@ -99,6 +99,13 @@
   .dcard tr:nth-child(even) td{ background:#FAF8F3;}
   .dcard .cap{ font-size:11px; color:var(--muted); margin-top:7px; font-style:italic;}
 
+  .radars3{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-top:18px;}
+  .radars3 .rc{ background:#fff; border-radius:12px; padding:8px; text-align:center;}
+  .radars3 .rc img{ width:100%; display:block; border-radius:6px;}
+  .radars3 .rc .cap{ font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:.5px; color:var(--slate); font-size:clamp(11px,1.3vw,16px); margin-top:5px;}
+  .brochure-prev{ margin-top:14px; height:54vh; overflow:hidden; border:1px solid var(--line); border-radius:10px; background:#3a3f47;}
+  .brochure-prev iframe{ width:1080px; height:1560px; border:0; transform:scale(.46); transform-origin:top center; display:block; margin:0 auto;}
+
   .foot{ position:absolute; left:0; right:0; bottom:0; display:flex; justify-content:space-between;
          padding:13px 24px; font-size:12px; color:#7d828a; pointer-events:none;}
   .foot b{ color:#aeb4bc;}
@@ -111,9 +118,9 @@
 
 <!-- 1 — TITRE -->
 <section class="slide red on">
-  <div class="kick" style="color:#F3D9D6;">R6.06 · Domaines d'application de la statistique · LFB</div>
-  <h1>Qu'est-ce qui fait<br>gagner ? Et peut-on<br>le prédire ?</h1>
-  <p class="lead" style="color:#F3D9D6;">Ligue Féminine de Basket · 12 équipes · 3 saisons (23-24 à 25-26)<br><b style="color:#fff;">Ma partie : facteurs de victoire et prédiction</b>, par Loïc</p>
+  <div class="kick" style="color:#F3D9D6;">R6.06 - Domaines d'application de la statistique - Wonderligue</div>
+  <h1>Qu'est-ce qui fait gagner ?<br>Et peut-on le prédire ?</h1>
+  <p class="lead" style="color:#F3D9D6;">La Boulangère Wonderligue - 12 équipes - 2 saisons (23-24, 24-25)</p>
 </section>
 
 <!-- 2 — BESOIN, ENJEUX, PROBLEMATIQUE -->
@@ -121,8 +128,8 @@
   <span class="tag">Comprendre le besoin</span>
   <h2 style="margin-top:12px;">À qui ça sert, et pour répondre à quoi ?</h2>
   <div class="two">
-    <div class="card"><div class="h">Un coach</div><p>Connaître ses forces et faiblesses, préparer un adversaire.</p></div>
-    <div class="card"><div class="h">Un recruteur</div><p>Combler ce qui manque à l'équipe, pas signer la meilleure.</p></div>
+    <div class="card"><div class="h">Un coach</div><p>Se préparer à un adversaire.</p></div>
+    <div class="card"><div class="h">Un recruteur</div><p>Combler ce qui manque à l'équipe.</p></div>
     <div class="card"><div class="h">Un parieur</div><p>Anticiper un résultat avant le coup d'envoi.</p></div>
     <div class="card"><div class="h">L'enjeu commun</div><p>Transformer des stats brutes en décisions.</p></div>
   </div>
@@ -138,7 +145,7 @@
       <ul class="big" style="margin-top:2px;">
         <li><span class="num">①</span> <span>Stats <b>joueuse × match</b> (23-24, 24-25).</span></li>
         <li><span class="num">②</span> <span>Calendrier + <b>ELO</b> avant match.</span></li>
-        <li><span class="num">③</span> <span>Joueuses sur <b>11 saisons</b> (taille, âge, nationalité).</span></li>
+        <li><span class="num">③</span> <span>Joueuses sur <b>11 saisons</b> (2015-2026 : taille, âge, nationalité).</span></li>
       </ul>
       <div class="stat-row" style="margin-top:16px;">
         <div class="s"><span class="v">10 008</span><span class="k">lignes joueuses</span></div>
@@ -162,13 +169,12 @@
   <span class="tag">Qualité · traitement des données</span>
   <h2 style="margin-top:12px;">Un pipeline vérifié à chaque étape</h2>
   <div class="flow">
-    <div class="st"><div class="n">1 · Fusion équipes</div><div class="d">Fichiers par équipe → 1 jeu unifié.</div><div class="ok">✓ 10 008 = 10 008</div></div>
+    <div class="st"><div class="n">1 · Fusion équipes</div><div class="d">Fichiers par équipe → 1 jeu unifié.</div><div class="ok">✓ vérifié</div></div>
     <div class="st"><div class="n">2 · Fusion calendrier</div><div class="d">Extraction du classeur Excel.</div><div class="ok">✓ 264 matchs</div></div>
     <div class="st"><div class="n">3 · Enrichissement ELO</div><div class="d">ELO initial par équipe.</div><div class="ok">✓ 12 équipes</div></div>
     <div class="st"><div class="n">4 · Calcul ELO</div><div class="d">ELO mis à jour après chaque match.</div><div class="ok">contrôle visuel</div></div>
   </div>
   <div class="callout"><b>0 perte, 0 doublon :</b> après chaque étape, un script recompte les lignes (source vs sortie), par équipe, par saison, ligne par ligne.</div>
-  <p class="lead muted">Changements clés : 48 en-têtes harmonisés · noms d'équipes unifiés (<i>Lattes Montpellier → Montpellier</i>) · multi-encodage (UTF-8/CP1252/Latin-1) · totaux d'équipe reconstruits · ELO calculé (formule + ajustement domicile/derby).</p>
 </section>
 
 <!-- 4 — METHODOLOGIE -->
@@ -178,9 +184,9 @@
   <div class="callout" style="background:var(--red); border-color:#fff;"><b style="color:#fff;">Principe :</b> on raisonne en <b style="color:#FFD9A6;">différentiel équipe − adversaire</b>. Une stat ne compte que comparée à celle d'en face.</div>
   <ul class="big">
     <li><span class="num">1</span> <span><b>Pouvoir discriminant</b> de chaque facteur seul (courbe AUC).</span></li>
-    <li><span class="num">2</span> <span>Modèle <b>logistique multivarié</b> + <b>Random Forest</b> en garde-fou.</span></li>
+    <li><span class="num">2</span> <span>Modèle <b>logistique multivarié</b> + <b>Random Forest</b>.</span></li>
     <li><span class="num">3</span> <span><b>Significativité</b> : Mann-Whitney, intervalle bootstrap, taille d'effet de Cohen.</span></li>
-    <li><span class="num">4</span> <span>Prédiction validée en <b>walk-forward</b> : on n'entraîne que sur le passé.</span></li>
+    <li><span class="num">4</span> <span>Prédiction validée en <b>walk-forward</b>.</span></li>
   </ul>
 </section>
 
@@ -192,19 +198,19 @@
     <div class="c keep">
       <h3>On a retenu</h3>
       <ul>
-        <li><b>eFG%</b> : pondère les paniers à 3 points (vrai pouvoir du tir)</li>
-        <li><b>Différentiel</b> vs l'adversaire (et non la stat absolue)</li>
-        <li><b>Points / possession</b> : neutralise le rythme de jeu</li>
-        <li><b>Un seul indicateur par concept</b> (anti-redondance)</li>
+        <li><b>eFG%</b></li>
+        <li><b>Écart avec l'adversaire</b></li>
+        <li><b>Points par possession</b></li>
+        <li><b>Un seul indicateur par concept</b></li>
       </ul>
     </div>
     <div class="c drop">
       <h3>On a écarté</h3>
       <ul>
-        <li>Points bruts : dépendent du rythme, pas de l'efficacité</li>
-        <li>Stats absolues : sans l'adversaire, elles ne disent rien</li>
-        <li>Doublons (eFG + %tirs) : multicolinéarité</li>
-        <li>Lancers francs : testés → faibles et aléatoires ici</li>
+        <li>Points bruts</li>
+        <li>Stats absolues</li>
+        <li>Doublons (eFG + %tirs)</li>
+        <li>Lancers francs</li>
       </ul>
     </div>
   </div>
@@ -216,26 +222,25 @@
   <h2 style="margin-top:12px;">Ce qui fait gagner</h2>
   <div class="grid2" style="margin-top:14px;">
     <ul class="big">
-      <li><span class="num">1</span> <span><b>L'efficacité au tir</b>, de loin le 1ᵉʳ facteur (AUC 0,92).</span></li>
+      <li><span class="num">1</span> <span><b>L'efficacité au tir</b> (AUC 0,92).</span></li>
       <li><span class="num">2</span> <span>Le <b>collectif</b> (passes) et le <b>rebond défensif</b> suivent.</span></li>
-      <li><span class="num">+3</span> <span>Jouer <b>à domicile</b> vaut ≈ 3 points, à niveau égal.</span></li>
-      <li><span class="num">68%</span> <span>Un <b>cinq plus grand</b> que l'adversaire → 68% de victoires.</span></li>
+      <li><span class="num">3</span> <span>Jouer <b>à domicile</b> vaut ≈ 3 points, à niveau égal.</span></li>
+      <li><span class="num">4</span> <span>Un <b>cinq plus grand</b> que l'adversaire → 68% de victoires.</span></li>
     </ul>
     <img src="../analyse/resultats/facteurs/facteurs_victoire.png" alt="facteurs de victoire">
   </div>
-  <p class="lead muted">On gagne en étant <b style="color:var(--red);">efficace</b>, pas en jouant vite.</p>
 </section>
 
 <!-- 7 — DU FACTEUR AU PROFIL -> PAGE 1 BROCHURE -->
 <section class="slide dark">
   <span class="tag">Le livrable · page 1 de la brochure</span>
-  <h2 style="margin-top:12px;">Du facteur au profil concret</h2>
-  <p class="lead">Ces facteurs deviennent <b style="color:var(--gold);">deux outils</b> directement lisibles :</p>
-  <div class="two">
-    <div class="card" style="background:#22262c; border-color:#3b4048;"><div class="h" style="color:var(--gold);">Le profil gagnant</div><p style="color:#dfe3e8;">Une checklist : bonne adresse (82% de victoires), passes (79%), peu de pertes (66%), domicile (62%).</p></div>
-    <div class="card" style="background:#22262c; border-color:#3b4048;"><div class="h" style="color:var(--gold);">Le radar par équipe</div><p style="color:#dfe3e8;">Forces et faiblesses de chaque équipe en un coup d'œil, pour préparer un match.</p></div>
+  <h2 style="margin-top:12px;">Le radar de chaque équipe</h2>
+  <p class="lead">Forces et faiblesses en un coup d'œil. Exemple du haut, du milieu et du bas de classement :</p>
+  <div class="radars3">
+    <div class="rc"><img src="radars/bourges.png" alt="radar Bourges"><div class="cap">Bourges (1ᵉʳ)</div></div>
+    <div class="rc"><img src="radars/lyon.png" alt="radar Lyon"><div class="cap">Lyon (milieu)</div></div>
+    <div class="rc"><img src="radars/chartres.png" alt="radar Chartres"><div class="cap">Chartres (12ᵉ)</div></div>
   </div>
-  <p class="lead muted">C'est la <b style="color:var(--gold);">page 1</b> de la brochure : « le profil de l'équipe qui gagne ».</p>
 </section>
 
 <!-- 8 — PRISE DE RECUL #1 -->
@@ -251,12 +256,12 @@
   <span class="tag">Question 7 · prédiction</span>
   <h2 style="margin-top:12px;">Prédire avant le match</h2>
   <div class="stat-row">
-    <div class="s"><span class="v">72%</span><span class="k">bons pronostics (hors-échantillon)</span></div>
+    <div class="s"><span class="v">72%</span><span class="k">bons pronostics (hors échantillon d'entraînement)</span></div>
     <div class="s"><span class="v">+12 pts</span><span class="k">vs « le receveur gagne » (60%)</span></div>
     <div class="s"><span class="v">&lt; 1 rang</span><span class="k">erreur de classement dès la mi-saison</span></div>
   </div>
-  <p class="lead">Avec le seul <b style="color:var(--red);">niveau</b> (différentiel ou ELO) + la <b style="color:var(--red);">forme</b> récente. Validé en <b>walk-forward</b> : aucune fuite du futur.</p>
-  <p class="lead muted">Le différentiel de points, <b>public</b>, fait aussi bien que l'ELO propriétaire.</p>
+  <p class="lead">Notre hypothèse de parieur : on prédit avec le <b style="color:var(--red);">différentiel de points</b> (public) et la <b style="color:var(--red);">forme</b> récente, sans l'ELO qui n'est pas accessible. Validé en <b>walk-forward</b>.</p>
+  <p class="lead muted">Résultat : aussi fiable que l'ELO propriétaire.</p>
 </section>
 
 <!-- 9b — ZOOM METHODE : walk-forward (detail / backup) -->
@@ -264,11 +269,11 @@
   <span class="tag">Zoom méthode · validation</span>
   <h2 style="margin-top:12px;">D'où sort ce 72% ?</h2>
   <div class="grid2" style="margin-top:14px; grid-template-columns:1.15fr .85fr;">
-    <div class="code"><span class="c"># walk-forward : hors-échantillon strict</span>
+    <div class="code"><span class="c"># walk-forward sans ELO : différentiel + forme</span>
 <span class="k">for</span> i <span class="k">in</span> range(40, n):        <span class="c"># on amorce sur 40 matchs</span>
     passe  = matchs[:i]      <span class="c"># UNIQUEMENT le passé</span>
     modele = LogisticRegression().fit(
-                 passe[[<span class="c">"d_elo"</span>, <span class="c">"d_forme"</span>]],
+                 passe[[<span class="c">"d_diff"</span>, <span class="c">"d_forme"</span>]],   <span class="c"># public, pas l'ELO</span>
                  passe[<span class="c">"victoire_dom"</span>])
 <span class="hl">    proba[i] = modele.predict(matchs[i])</span>  <span class="c"># jamais vu</span></div>
     <ol class="steps">
@@ -277,7 +282,7 @@
       <li>On compare prédiction vs réalité sur <b>224 matchs</b>.</li>
     </ol>
   </div>
-  <p class="lead muted">Aucune fuite du futur : c'est la seule validation crédible pour parler de pari. <span class="muted">(<i>analyse/scripts_originaux/paris.py</i>)</span></p>
+  <p class="lead muted">On teste chaque match sans jamais regarder le futur : la seule validation honnête pour un pronostic de pari. <span class="muted">(<i>analyse/scripts_originaux/sans_elo.py</i>)</span></p>
 </section>
 
 <!-- 10 — LE PARI -> PAGE 2 BROCHURE -->
@@ -292,9 +297,8 @@
         <tr><td>ROI en pariant les favoris</td><td class="v">−5,5%</td></tr>
       </table>
     </div>
-    <img src="../analyse/resultats/paris/1_calibration.png" alt="calibration">
+    <img src="../analyse/resultats/paris/1_calibration.png" alt="calibration" style="max-height:46vh; width:auto;">
   </div>
-  <p class="lead">Bien prédire ne suffit pas à <b style="color:var(--gold);">gagner de l'argent</b> : le marché connaît déjà l'ELO et prend sa marge.</p>
 </section>
 
 <!-- 11 — CE QUI NE MARCHE PAS -->
@@ -302,11 +306,10 @@
   <span class="tag">Prise de recul · résultats négatifs</span>
   <h2 style="margin-top:12px;">Ce qui ne fait <i>pas</i> gagner</h2>
   <ul class="big">
-    <li><span class="num">✗</span> <span>Le <b>style de jeu</b> : l'ajouter au niveau <b>dégrade</b> la prédiction (0,80 → 0,77).</span></li>
-    <li><span class="num">✗</span> <span>Dépendre d'une <b>star</b> : marqueur de <b>faiblesse</b> (corrélation −0,69), pas de force.</span></li>
-    <li><span class="num">✗</span> <span>Les <b>lancers francs</b> (4ᵉ facteur d'Oliver) : faibles et imprévisibles ici (AUC 0,57), donc du <b>hasard</b>.</span></li>
+    <li><span class="num">✗</span> <span>Le <b>style de jeu</b></span></li>
+    <li><span class="num">✗</span> <span>Dépendre d'une <b>star</b></span></li>
+    <li><span class="num">✗</span> <span>Les <b>lancers francs</b></span></li>
   </ul>
-  <p class="lead muted">Tester ce qui ne marche pas fait partie de la réponse.</p>
 </section>
 
 <!-- 12 — CONCLUSION -->
@@ -315,8 +318,16 @@
   <h2 style="margin-top:12px; color:#fff;">En LFB…</h2>
   <p class="lead" style="color:#fff; font-size:clamp(17px,2.3vw,29px);">
   On gagne par l'<b>efficacité</b>, à domicile, avec un cinq plus grand.<br><br>
-  On <b>pronostique 2 matchs sur 3</b> avec le seul niveau. Mais 1 sur 3 reste une surprise, et prédire ne suffit pas à <b>battre le marché</b>.</p>
+  Rien qu'en regardant le niveau des équipes, on devine le bon gagnant <b>2 fois sur 3</b>. Mais 1 fois sur 3, c'est la surprise qui gagne, et même en visant juste, on ne bat pas les sites de paris.</p>
   <p class="lead" style="color:#F3D9D6;">Le basket garde une part d'aléa qu'aucun modèle ne capture.</p>
+</section>
+
+<!-- 15 — BROCHURE (livrable final) -->
+<section class="slide">
+  <span class="tag">Le livrable final</span>
+  <h2 style="margin-top:12px;">La brochure du parieur (2 pages)</h2>
+  <div class="brochure-prev"><iframe src="rendu_page2.html" title="brochure du parieur"></iframe></div>
+  <p class="lead muted">Document remis au jury. <a href="rendu_page2.html" target="_blank" onclick="event.stopPropagation()" style="color:var(--gold); font-weight:700;">Ouvrir la brochure</a> (rendu_page2.html).</p>
 </section>
 
 <div class="foot"><div><b>Loïc</b> · Facteurs et prédiction · LFB</div><div>← → pour naviguer · <span id="cnt"></span></div></div>
