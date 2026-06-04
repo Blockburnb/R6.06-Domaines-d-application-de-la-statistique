@@ -183,10 +183,10 @@
   <h2 style="margin-top:12px;">Comment on mesure un facteur</h2>
   <div class="callout" style="background:var(--red); border-color:#fff;"><b style="color:#fff;">Principe :</b> on raisonne en <b style="color:#FFD9A6;">différentiel équipe − adversaire</b>. Une stat ne compte que comparée à celle d'en face.</div>
   <ul class="big">
-    <li><span class="num">1</span> <span><b>Pouvoir discriminant</b> de chaque facteur seul (courbe AUC).</span></li>
-    <li><span class="num">2</span> <span>Modèle <b>logistique multivarié</b> + <b>Random Forest</b>.</span></li>
-    <li><span class="num">3</span> <span><b>Significativité</b> : Mann-Whitney, intervalle bootstrap, taille d'effet de Cohen.</span></li>
-    <li><span class="num">4</span> <span>Prédiction validée en <b>walk-forward</b>.</span></li>
+    <li><span class="num">1</span> <span><b>Pouvoir discriminant</b> (courbe AUC). <span style="opacity:.6; font-size:.82em;">Un facteur seul suffit-il à deviner le gagnant ?</span></span></li>
+    <li><span class="num">2</span> <span><b>Modèle logistique multivarié</b> + <b>Random Forest</b>. <span style="opacity:.6; font-size:.82em;">On pèse tous les facteurs ensemble ; deux méthodes qui se recoupent.</span></span></li>
+    <li><span class="num">3</span> <span><b>Tests de significativité</b> (Mann-Whitney, bootstrap, Cohen). <span style="opacity:.6; font-size:.82em;">L'écart est-il réel et grand, ou un hasard ?</span></span></li>
+    <li><span class="num">4</span> <span><b>Walk-forward</b>. <span style="opacity:.6; font-size:.82em;">On prédit des matchs jamais vus à l'entraînement.</span></span></li>
   </ul>
 </section>
 
@@ -282,7 +282,7 @@
       <li>On compare prédiction vs réalité sur <b>224 matchs</b>.</li>
     </ol>
   </div>
-  <p class="lead muted">On teste chaque match sans jamais regarder le futur : la seule validation honnête pour un pronostic de pari. <span class="muted">(<i>analyse/scripts_originaux/sans_elo.py</i>)</span></p>
+  <p class="lead muted">On teste chaque match sans jamais regarder le futur : la seule validation logique pour un pronostic de pari. <span class="muted">(<i>analyse/scripts_originaux/sans_elo.py</i>)</span></p>
 </section>
 
 <!-- 10 — LE PARI -> PAGE 2 BROCHURE -->
