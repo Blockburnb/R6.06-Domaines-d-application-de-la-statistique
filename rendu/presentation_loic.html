@@ -87,6 +87,18 @@
                     width:24px; height:24px; background:var(--red); color:#fff; border-radius:50%;
                     font-family:'Anton',sans-serif; font-size:13px; display:flex; align-items:center; justify-content:center;}
 
+  .flow{ display:flex; gap:10px; flex-wrap:wrap; margin-top:16px;}
+  .flow .st{ flex:1; min-width:150px; background:var(--paper-2); border:1px solid var(--line); border-radius:10px; padding:11px 13px;}
+  .flow .st .n{ font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:.5px; color:var(--red); font-size:clamp(11px,1.2vw,14px);}
+  .flow .st .d{ font-size:clamp(12px,1.3vw,17px); margin-top:4px; line-height:1.25;}
+  .flow .st .ok{ color:var(--win); font-weight:700; font-size:clamp(11px,1.1vw,14px); margin-top:7px;}
+  .dcard{ background:#fff; border-radius:12px; padding:13px 15px; box-shadow:0 12px 40px rgba(0,0,0,.3);}
+  .dcard table{ border-collapse:collapse; width:100%; font-size:clamp(10px,1.05vw,15px);}
+  .dcard th{ font-family:'Barlow Condensed',sans-serif; text-transform:uppercase; letter-spacing:.4px; color:#fff; background:var(--slate); padding:5px 7px; text-align:left; font-size:clamp(9px,.95vw,12px);}
+  .dcard td{ padding:5px 7px; border-bottom:1px solid var(--line); color:var(--ink); font-variant-numeric:tabular-nums;}
+  .dcard tr:nth-child(even) td{ background:#FAF8F3;}
+  .dcard .cap{ font-size:11px; color:var(--muted); margin-top:7px; font-style:italic;}
+
   .foot{ position:absolute; left:0; right:0; bottom:0; display:flex; justify-content:space-between;
          padding:13px 24px; font-size:12px; color:#7d828a; pointer-events:none;}
   .foot b{ color:#aeb4bc;}
@@ -117,21 +129,46 @@
   <div class="callout"><b>Problématique :</b> quels facteurs font gagner en LFB, et lesquels permettent de <b>prédire</b> avant le match ?</div>
 </section>
 
-<!-- 3 — LES DONNEES -->
+<!-- 3 — PRESENTATION DES DONNEES (+ extrait) -->
 <section class="slide dark">
-  <span class="tag">Les données · qualité</span>
-  <h2 style="margin-top:12px;">Ce qu'on a, et comment on l'a fiabilisé</h2>
-  <ul class="big">
-    <li><span class="num">①</span> <span>Stats <b>joueuse × match</b> (saisons 23-24 et 24-25).</span></li>
-    <li><span class="num">②</span> <span>Calendrier des matchs avec <b>classement ELO</b> avant match.</span></li>
-    <li><span class="num">③</span> <span>Liste des joueuses sur <b>11 saisons</b> (nationalité, taille, âge).</span></li>
-  </ul>
-  <div class="stat-row">
-    <div class="s"><span class="v">438</span><span class="k">équipe-matchs</span></div>
-    <div class="s"><span class="v">264</span><span class="k">matchs avec ELO</span></div>
-    <div class="s"><span class="v">1 927</span><span class="k">joueuses-saisons</span></div>
+  <span class="tag">Présentation des données</span>
+  <h2 style="margin-top:12px;">Trois sources, un extrait</h2>
+  <div class="grid2" style="margin-top:14px; grid-template-columns:.82fr 1.18fr; align-items:start;">
+    <div>
+      <ul class="big" style="margin-top:2px;">
+        <li><span class="num">①</span> <span>Stats <b>joueuse × match</b> (23-24, 24-25).</span></li>
+        <li><span class="num">②</span> <span>Calendrier + <b>ELO</b> avant match.</span></li>
+        <li><span class="num">③</span> <span>Joueuses sur <b>11 saisons</b> (taille, âge, nationalité).</span></li>
+      </ul>
+      <div class="stat-row" style="margin-top:16px;">
+        <div class="s"><span class="v">10 008</span><span class="k">lignes joueuses</span></div>
+        <div class="s"><span class="v">264</span><span class="k">matchs</span></div>
+      </div>
+    </div>
+    <div class="dcard">
+      <table>
+        <tr><th>Équipe</th><th>Joueuse</th><th>Min</th><th>Pts</th><th>Tirs</th><th>3pts</th><th>RD</th><th>PD</th><th>EVAL</th></tr>
+        <tr><td>Angers</td><td>J. Bailey</td><td>33</td><td>19</td><td>6/13</td><td>1</td><td>4</td><td>7</td><td>28</td></tr>
+        <tr><td>Angers</td><td>M. Kaba</td><td>36</td><td>16</td><td>6/13</td><td>0</td><td>7</td><td>2</td><td>9</td></tr>
+        <tr><td>Angers</td><td>J. Wojta</td><td>22</td><td>8</td><td>2/8</td><td>0</td><td>3</td><td>3</td><td>8</td></tr>
+      </table>
+      <div class="cap">extrait de equipes_fusionnees.csv — 48 colonnes par ligne</div>
+    </div>
   </div>
-  <p class="lead muted">Nettoyage <b style="color:var(--gold);">scripté et reproductible</b> : fusion des sources, noms d'équipes harmonisés, valeurs manquantes gérées, ELO et différentiels calculés.</p>
+</section>
+
+<!-- 3b — QUALITE & PIPELINE VERIFIE -->
+<section class="slide">
+  <span class="tag">Qualité · traitement des données</span>
+  <h2 style="margin-top:12px;">Un pipeline vérifié à chaque étape</h2>
+  <div class="flow">
+    <div class="st"><div class="n">1 · Fusion équipes</div><div class="d">Fichiers par équipe → 1 jeu unifié.</div><div class="ok">✓ 10 008 = 10 008</div></div>
+    <div class="st"><div class="n">2 · Fusion calendrier</div><div class="d">Extraction du classeur Excel.</div><div class="ok">✓ 264 matchs</div></div>
+    <div class="st"><div class="n">3 · Enrichissement ELO</div><div class="d">ELO initial par équipe.</div><div class="ok">✓ 12 équipes</div></div>
+    <div class="st"><div class="n">4 · Calcul ELO</div><div class="d">ELO mis à jour après chaque match.</div><div class="ok">contrôle visuel</div></div>
+  </div>
+  <div class="callout"><b>0 perte, 0 doublon :</b> après chaque étape, un script recompte les lignes (source vs sortie), par équipe, par saison, ligne par ligne.</div>
+  <p class="lead muted">Changements clés : 48 en-têtes harmonisés · noms d'équipes unifiés (<i>Lattes Montpellier → Montpellier</i>) · multi-encodage (UTF-8/CP1252/Latin-1) · totaux d'équipe reconstruits · ELO calculé (formule + ajustement domicile/derby).</p>
 </section>
 
 <!-- 4 — METHODOLOGIE -->
