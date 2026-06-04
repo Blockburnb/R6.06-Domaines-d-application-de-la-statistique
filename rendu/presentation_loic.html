@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#A41E22; --red-dark:#7E1419; --slate:#2B2F36; --slate-2:#373C44;
+    --ink:#23272E; --paper:#F4F2ED; --paper-2:#FFFFFF; --line:#E2DDD2; --muted:#6E6A62;
+    --win:#1F8F5F; --loss:#C0392B; --gold:#E0A23C;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{height:100%;}
+  body{ background:#15171b; color:var(--ink); font-family:'Inter',system-ui,sans-serif; overflow:hidden;}
+  h1,h2,h3{ font-family:'Anton',Impact,sans-serif; font-weight:400; letter-spacing:.4px; line-height:1.04;}
+  .kick{ font-family:'Barlow Condensed',sans-serif; font-weight:700; letter-spacing:3px; text-transform:uppercase; color:var(--red); font-size:clamp(12px,1.4vw,16px);}
+
+  .slide{ position:absolute; inset:0; display:none; flex-direction:column; justify-content:center;
+          padding:5.5vh 7vw; background:var(--paper); animation:fade .35s ease;}
+  .slide.on{ display:flex;}
+  @keyframes fade{ from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;} }
+  .slide.dark{ background:linear-gradient(135deg,var(--slate),#1d2026); color:#fff;}
+  .slide.red{ background:linear-gradient(125deg,var(--red-dark),var(--red)); color:#fff;}
+
+  h1{ font-size:clamp(32px,5.6vw,72px);}
+  h2{ font-size:clamp(24px,4vw,48px); color:var(--red);}
+  .slide.dark h2,.slide.red h2{ color:#fff;}
+  .lead{ font-size:clamp(15px,1.85vw,23px); max-width:52ch; margin-top:16px; line-height:1.4;}
+  .muted{ color:var(--muted);} .slide.dark .muted{ color:#aeb4bc;}
+
+  ul.big{ list-style:none; margin-top:20px;}
+  ul.big li{ font-size:clamp(15px,1.95vw,25px); padding:9px 0; border-bottom:1px solid var(--line);
+             display:flex; align-items:baseline; gap:13px;}
+  .slide.dark ul.big li{ border-color:#3b4048;}
+  ul.big li b{ color:var(--red);} .slide.dark ul.big li b{ color:var(--gold);}
+  .num{ font-family:'Anton',sans-serif; color:var(--red); min-width:2.2ch;}
+  .slide.dark .num{ color:var(--gold);}
+
+  .grid2{ display:grid; grid-template-columns:1.1fr .9fr; gap:4.5vw; align-items:center;}
+  .grid2 img{ width:100%; border-radius:10px; box-shadow:0 12px 40px rgba(0,0,0,.35); background:#fff;}
+
+  .stat-row{ display:flex; gap:5vw; flex-wrap:wrap; margin-top:18px;}
+  .stat-row .s{ display:flex; flex-direction:column;}
+  .stat-row .s .v{ font-family:'Anton',sans-serif; font-size:clamp(30px,5.4vw,64px); color:var(--red); line-height:1;}
+  .slide.dark .stat-row .s .v,.slide.red .stat-row .s .v{ color:var(--gold);}
+  .stat-row .s .k{ font-size:clamp(11px,1.2vw,15px); text-transform:uppercase; letter-spacing:1px; color:var(--muted); margin-top:6px; max-width:18ch;}
+  .slide.dark .stat-row .s .k,.slide.red .stat-row .s .k{ color:#cdd2d8;}
+
+  .punch{ font-size:clamp(21px,3.2vw,42px); font-family:'Barlow Condensed',sans-serif; font-weight:700; line-height:1.15; max-width:26ch;}
+  .tag{ display:inline-block; background:var(--slate); color:#fff; font-family:'Barlow Condensed',sans-serif;
+        font-weight:700; letter-spacing:1px; text-transform:uppercase; padding:6px 13px; border-radius:6px; font-size:clamp(11px,1.25vw,15px); align-self:flex-start;}
+  .slide.red .tag{ background:#fff; color:var(--red);}
+
+  .callout{ background:var(--slate); color:#fff; border-left:6px solid var(--gold); border-radius:10px;
+            padding:14px 20px; margin-top:20px; font-size:clamp(16px,2vw,26px); max-width:46ch;}
+  .callout b{ color:var(--gold);}
+
+  table.t{ border-collapse:collapse; margin-top:18px; font-size:clamp(13px,1.55vw,20px);}
+  table.t td{ padding:7px 22px 7px 0;} table.t .v{ font-family:'Anton',sans-serif; color:var(--red);}
+  .slide.dark table.t .v{ color:var(--gold);}
+
+  .compare{ display:grid; grid-template-columns:1fr 1fr; gap:4vw; margin-top:20px;}
+  .compare h3{ font-size:clamp(15px,1.8vw,22px); margin-bottom:6px;}
+  .compare .keep h3{ color:var(--win);} .compare .drop h3{ color:var(--loss);}
+  .compare ul{ list-style:none;}
+  .compare li{ font-size:clamp(13px,1.45vw,18px); padding:6px 0; border-bottom:1px solid var(--line); line-height:1.3;}
+  .compare .keep li:before{ content:"✓  "; color:var(--win); font-weight:800;}
+  .compare .drop li:before{ content:"✗  "; color:var(--loss); font-weight:800;}
+
+  .two{ display:grid; grid-template-columns:1fr 1fr; gap:4vw; margin-top:18px;}
+  .two .card{ background:var(--paper-2); border:1px solid var(--line); border-radius:12px; padding:16px 20px;}
+  .two .card .h{ font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--red); font-size:clamp(13px,1.5vw,18px);}
+  .two .card p{ font-size:clamp(13px,1.5vw,19px); margin-top:6px; line-height:1.35;}
+
+  .code{ background:#1d2026; color:#e6e9ed; border-radius:10px; padding:16px 18px; margin-top:4px;
+         font-family:'Consolas','SF Mono',Monaco,monospace; font-size:clamp(11px,1.15vw,16px);
+         line-height:1.55; white-space:pre; overflow:auto; border-left:5px solid var(--gold);}
+  .code .c{ color:#86a981;} .code .k{ color:#d9a05b;} .code .hl{ background:#3a2f1a; border-radius:3px;}
+  .steps{ list-style:none; counter-reset:s; margin-top:6px;}
+  .steps li{ position:relative; padding:8px 0 8px 36px; font-size:clamp(13px,1.55vw,20px); border-bottom:1px solid var(--line);}
+  .slide.dark .steps li{ border-color:#3b4048;}
+  .steps li:before{ counter-increment:s; content:counter(s); position:absolute; left:0; top:7px;
+                    width:24px; height:24px; background:var(--red); color:#fff; border-radius:50%;
+                    font-family:'Anton',sans-serif; font-size:13px; display:flex; align-items:center; justify-content:center;}
+
+  .flow{ display:flex; gap:10px; flex-wrap:wrap; margin-top:16px;}
+  .flow .st{ flex:1; min-width:150px; background:var(--paper-2); border:1px solid var(--line); border-radius:10px; padding:11px 13px;}
+  .flow .st .n{ font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:.5px; color:var(--red); font-size:clamp(11px,1.2vw,14px);}
+  .flow .st .d{ font-size:clamp(12px,1.3vw,17px); margin-top:4px; line-height:1.25;}
+  .flow .st .ok{ color:var(--win); font-weight:700; font-size:clamp(11px,1.1vw,14px); margin-top:7px;}
+  .dcard{ background:#fff; border-radius:12px; padding:13px 15px; box-shadow:0 12px 40px rgba(0,0,0,.3);}
+  .dcard table{ border-collapse:collapse; width:100%; font-size:clamp(10px,1.05vw,15px);}
+  .dcard th{ font-family:'Barlow Condensed',sans-serif; text-transform:uppercase; letter-spacing:.4px; color:#fff; background:var(--slate); padding:5px 7px; text-align:left; font-size:clamp(9px,.95vw,12px);}
+  .dcard td{ padding:5px 7px; border-bottom:1px solid var(--line); color:var(--ink); font-variant-numeric:tabular-nums;}
+  .dcard tr:nth-child(even) td{ background:#FAF8F3;}
+  .dcard .cap{ font-size:11px; color:var(--muted); margin-top:7px; font-style:italic;}
+
+  .radars3{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-top:18px;}
+  .radars3 .rc{ background:#fff; border-radius:12px; padding:8px; text-align:center;}
+  .radars3 .rc img{ width:100%; display:block; border-radius:6px;}
+  .radars3 .rc .cap{ font-family:'Barlow Condensed',sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:.5px; color:var(--slate); font-size:clamp(11px,1.3vw,16px); margin-top:5px;}
+  .brochure-prev{ margin-top:14px; height:54vh; overflow:hidden; border:1px solid var(--line); border-radius:10px; background:#3a3f47;}
+  .brochure-prev iframe{ width:1080px; height:1560px; border:0; transform:scale(.46); transform-origin:top center; display:block; margin:0 auto;}
+
+  .foot{ position:absolute; left:0; right:0; bottom:0; display:flex; justify-content:space-between;
+         padding:13px 24px; font-size:12px; color:#7d828a; pointer-events:none;}
+  .foot b{ color:#aeb4bc;}
+  .bar{ position:absolute; left:0; bottom:0; height:4px; background:var(--red); transition:width .3s;}
+  .hint{ position:absolute; right:18px; top:14px; font-size:11px; color:#7d828a;}
+  @media print{ .slide{ display:flex !important; position:relative; height:100vh; page-break-after:always;} .foot,.bar,.hint{ display:none;} body{overflow:visible;} }
+</style>
+</head>
+<body>
+
+<!-- 1 — TITRE -->
+<section class="slide red on">
+  <div class="kick" style="color:#F3D9D6;">R6.06 - Domaines d'application de la statistique - Wonderligue</div>
+  <h1>Qu'est-ce qui fait gagner ?<br>Et peut-on le prédire ?</h1>
+  <p class="lead" style="color:#F3D9D6;">La Boulangère Wonderligue - 12 équipes<br>2 saisons de stats (23-24, 24-25) + calendrier 24-25 et 25-26</p>
+</section>
+
+<!-- 2 — BESOIN, ENJEUX, PROBLEMATIQUE -->
+<section class="slide">
+  <span class="tag">Comprendre le besoin</span>
+  <h2 style="margin-top:12px;">À qui ça sert, et pour répondre à quoi ?</h2>
+  <div class="two">
+    <div class="card"><div class="h">Un coach</div><p>Se préparer à un adversaire.</p></div>
+    <div class="card"><div class="h">Un recruteur</div><p>Combler ce qui manque à l'équipe.</p></div>
+    <div class="card"><div class="h">Un parieur</div><p>Anticiper un résultat avant le coup d'envoi.</p></div>
+    <div class="card"><div class="h">L'enjeu commun</div><p>Transformer des stats brutes en décisions.</p></div>
+  </div>
+  <div class="callout"><b>Problématique :</b> quels facteurs font gagner en LFB, et lesquels permettent de <b>prédire</b> avant le match ?</div>
+</section>
+
+<!-- 3 — PRESENTATION DES DONNEES (+ extrait) -->
+<section class="slide dark">
+  <span class="tag">Présentation des données</span>
+  <h2 style="margin-top:12px;">Trois sources, un extrait</h2>
+  <div class="grid2" style="margin-top:14px; grid-template-columns:.82fr 1.18fr; align-items:start;">
+    <div>
+      <ul class="big" style="margin-top:2px;">
+        <li><span class="num">①</span> <span>Stats <b>joueuse × match</b> (23-24, 24-25).</span></li>
+        <li><span class="num">②</span> <span>Calendrier + <b>ELO</b> avant match.</span></li>
+        <li><span class="num">③</span> <span>Joueuses sur <b>11 saisons</b> (2015-2026 : taille, âge, nationalité).</span></li>
+      </ul>
+      <div class="stat-row" style="margin-top:16px;">
+        <div class="s"><span class="v">10 008</span><span class="k">lignes joueuses</span></div>
+        <div class="s"><span class="v">264</span><span class="k">matchs</span></div>
+      </div>
+    </div>
+    <div class="dcard">
+      <table>
+        <tr><th>Équipe</th><th>Joueuse</th><th>Min</th><th>Pts</th><th>Tirs</th><th>3pts</th><th>RD</th><th>PD</th><th>EVAL</th></tr>
+        <tr><td>Angers</td><td>J. Bailey</td><td>33</td><td>19</td><td>6/13</td><td>1</td><td>4</td><td>7</td><td>28</td></tr>
+        <tr><td>Angers</td><td>M. Kaba</td><td>36</td><td>16</td><td>6/13</td><td>0</td><td>7</td><td>2</td><td>9</td></tr>
+        <tr><td>Angers</td><td>J. Wojta</td><td>22</td><td>8</td><td>2/8</td><td>0</td><td>3</td><td>3</td><td>8</td></tr>
+      </table>
+      <div class="cap">extrait de equipes_fusionnees.csv (48 colonnes par ligne)</div>
+    </div>
+  </div>
+</section>
+
+<!-- 3b — QUALITE & PIPELINE VERIFIE -->
+<section class="slide">
+  <span class="tag">Qualité · traitement des données</span>
+  <h2 style="margin-top:12px;">Un pipeline vérifié à chaque étape</h2>
+  <div class="flow">
+    <div class="st"><div class="n">1 · Fusion équipes</div><div class="d">Fichiers par équipe → 1 jeu unifié.</div><div class="ok">✓ vérifié</div></div>
+    <div class="st"><div class="n">2 · Fusion calendrier</div><div class="d">Extraction du classeur Excel.</div><div class="ok">✓ 264 matchs</div></div>
+    <div class="st"><div class="n">3 · Enrichissement ELO</div><div class="d">ELO initial par équipe.</div><div class="ok">✓ 12 équipes</div></div>
+    <div class="st"><div class="n">4 · Calcul ELO</div><div class="d">ELO mis à jour après chaque match.</div><div class="ok">contrôle visuel</div></div>
+  </div>
+  <div class="callout"><b>0 perte, 0 doublon :</b> après chaque étape, un script recompte les lignes (source vs sortie), par équipe, par saison, ligne par ligne.</div>
+</section>
+
+<!-- 4 — METHODOLOGIE -->
+<section class="slide">
+  <span class="tag">Méthodologie · d'où sortent les résultats</span>
+  <h2 style="margin-top:12px;">Comment on mesure un facteur</h2>
+  <div class="callout" style="background:var(--red); border-color:#fff;"><b style="color:#fff;">Principe :</b> on raisonne en <b style="color:#FFD9A6;">différentiel équipe − adversaire</b>. Une stat ne compte que comparée à celle d'en face.</div>
+  <ul class="big">
+    <li><span class="num">1</span> <span><b>Pouvoir discriminant</b> (courbe AUC). <span style="opacity:.6; font-size:.82em;">Un facteur seul suffit-il à deviner le gagnant ?</span></span></li>
+    <li><span class="num">2</span> <span><b>Modèle logistique multivarié</b> + <b>Random Forest</b>. <span style="opacity:.6; font-size:.82em;">On pèse tous les facteurs ensemble ; deux méthodes qui se recoupent.</span></span></li>
+    <li><span class="num">3</span> <span><b>Tests de significativité</b> (Mann-Whitney, bootstrap, Cohen). <span style="opacity:.6; font-size:.82em;">L'écart est-il réel et grand, ou un hasard ?</span></span></li>
+    <li><span class="num">4</span> <span><b>Walk-forward</b>. <span style="opacity:.6; font-size:.82em;">On prédit des matchs jamais vus à l'entraînement.</span></span></li>
+  </ul>
+</section>
+
+<!-- 5 — POURQUOI CES INDICATEURS -->
+<section class="slide">
+  <span class="tag">Choix d'indicateurs · prise de recul</span>
+  <h2 style="margin-top:12px;">Pourquoi celui-ci, pas un autre</h2>
+  <div class="compare">
+    <div class="c keep">
+      <h3>On a retenu</h3>
+      <ul>
+        <li><b>eFG%</b></li>
+        <li><b>Écart avec l'adversaire</b></li>
+        <li><b>Points par possession</b></li>
+        <li><b>Un seul indicateur par concept</b></li>
+      </ul>
+    </div>
+    <div class="c drop">
+      <h3>On a écarté</h3>
+      <ul>
+        <li>Points bruts</li>
+        <li>Stats absolues</li>
+        <li>Doublons (eFG + %tirs)</li>
+        <li>Lancers francs</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- 6 — CE QUI FAIT GAGNER -->
+<section class="slide">
+  <span class="tag">Résultat · les facteurs</span>
+  <h2 style="margin-top:12px;">Ce qui fait gagner</h2>
+  <div class="grid2" style="margin-top:14px;">
+    <ul class="big">
+      <li><span class="num">1</span> <span><b>L'efficacité au tir</b> (AUC 0,92).</span></li>
+      <li><span class="num">2</span> <span>Le <b>collectif</b> (passes) et le <b>rebond défensif</b> suivent.</span></li>
+      <li><span class="num">3</span> <span>Jouer <b>à domicile</b> vaut ≈ 3 points, à niveau égal.</span></li>
+      <li><span class="num">4</span> <span>Un <b>cinq plus grand</b> que l'adversaire → 68% de victoires.</span></li>
+    </ul>
+    <img src="../analyse/resultats/facteurs/facteurs_victoire.png" alt="facteurs de victoire">
+  </div>
+</section>
+
+<!-- 7 — DU FACTEUR AU PROFIL -> PAGE 1 BROCHURE -->
+<section class="slide dark">
+  <span class="tag">Le livrable · page 1 de la brochure</span>
+  <h2 style="margin-top:12px;">Le radar de chaque équipe</h2>
+  <p class="lead">Forces et faiblesses en un coup d'œil. Exemple du haut, du milieu et du bas de classement :</p>
+  <div class="radars3">
+    <div class="rc"><img src="radars/bourges.png" alt="radar Bourges"><div class="cap">Bourges (1ᵉʳ)</div></div>
+    <div class="rc"><img src="radars/lyon.png" alt="radar Lyon"><div class="cap">Lyon (milieu)</div></div>
+    <div class="rc"><img src="radars/chartres.png" alt="radar Chartres"><div class="cap">Chartres (12ᵉ)</div></div>
+  </div>
+</section>
+
+<!-- 8 — PRISE DE RECUL #1 -->
+<section class="slide dark">
+  <span class="tag">Prise de recul</span>
+  <p class="punch" style="margin-top:18px;">Ces facteurs sont mesurés <span style="color:var(--gold);">pendant</span> le match.</p>
+  <p class="lead">« L'équipe qui a mieux tiré a gagné » est presque une <b style="color:var(--gold);">tautologie</b>.<br>
+  Expliquer la victoire, ce n'est pas la prédire. Pronostiquer <b>avant</b> le coup d'envoi, c'est autre chose : on n'a alors ni l'adresse ni le score.</p>
+</section>
+
+<!-- 9 — PREDIRE AVANT -->
+<section class="slide">
+  <span class="tag">Question 7 · prédiction</span>
+  <h2 style="margin-top:12px;">Prédire avant le match</h2>
+  <div class="stat-row">
+    <div class="s"><span class="v">72%</span><span class="k">bons pronostics (hors échantillon d'entraînement)</span></div>
+    <div class="s"><span class="v">+12 pts</span><span class="k">vs « le receveur gagne » (60%)</span></div>
+    <div class="s"><span class="v">&lt; 1 rang</span><span class="k">erreur de classement dès la mi-saison</span></div>
+  </div>
+  <p class="lead">Notre hypothèse de parieur : on prédit avec le <b style="color:var(--red);">différentiel de points</b> (public) et la <b style="color:var(--red);">forme</b> récente, sans l'ELO qui n'est pas accessible. Validé en <b>walk-forward</b>.</p>
+  <p class="lead muted">Résultat : aussi fiable que l'ELO propriétaire.</p>
+</section>
+
+<!-- 9b — ZOOM METHODE : walk-forward (detail / backup) -->
+<section class="slide">
+  <span class="tag">Zoom méthode · validation</span>
+  <h2 style="margin-top:12px;">D'où sort ce 72% ?</h2>
+  <div class="grid2" style="margin-top:14px; grid-template-columns:1.15fr .85fr;">
+    <div class="code"><span class="c"># walk-forward sans ELO : différentiel + forme</span>
+<span class="k">for</span> i <span class="k">in</span> range(40, n):        <span class="c"># on amorce sur 40 matchs</span>
+    passe  = matchs[:i]      <span class="c"># UNIQUEMENT le passé</span>
+    modele = LogisticRegression().fit(
+                 passe[[<span class="c">"d_diff"</span>, <span class="c">"d_forme"</span>]],   <span class="c"># public, pas l'ELO</span>
+                 passe[<span class="c">"victoire_dom"</span>])
+<span class="hl">    proba[i] = modele.predict(matchs[i])</span>  <span class="c"># jamais vu</span></div>
+    <ol class="steps">
+      <li>Pour chaque match, on entraîne le modèle <b>uniquement sur les matchs précédents</b>.</li>
+      <li>On prédit le match suivant, qu'il <b>n'a jamais vu</b>.</li>
+      <li>On compare prédiction vs réalité sur <b>224 matchs</b>.</li>
+    </ol>
+  </div>
+  <p class="lead muted">On teste chaque match sans jamais regarder le futur : la seule validation logique pour un pronostic de pari. <span class="muted">(<i>analyse/scripts_originaux/sans_elo.py</i>)</span></p>
+</section>
+
+<!-- 10 — LE PARI -> PAGE 2 BROCHURE -->
+<section class="slide dark">
+  <span class="tag">Le livrable · page 2</span>
+  <div class="grid2" style="margin-top:14px;">
+    <div>
+      <p class="punch">72% de réussite, et pourtant <span style="color:var(--gold);">non rentable</span>.</p>
+      <table class="t">
+        <tr><td>Cote minimale rentable (proba 65%)</td><td class="v">1,54</td></tr>
+        <tr><td>Marge du bookmaker</td><td class="v">~6%</td></tr>
+        <tr><td>ROI en pariant les favoris</td><td class="v">−5,5%</td></tr>
+      </table>
+    </div>
+    <img src="../analyse/resultats/paris/1_calibration.png" alt="calibration" style="max-height:46vh; width:auto;">
+  </div>
+</section>
+
+<!-- 11 — CE QUI NE MARCHE PAS -->
+<section class="slide">
+  <span class="tag">Prise de recul · résultats négatifs</span>
+  <h2 style="margin-top:12px;">Ce qui ne fait <i>pas</i> gagner</h2>
+  <ul class="big">
+    <li><span class="num">✗</span> <span>Le <b>style de jeu</b></span></li>
+    <li><span class="num">✗</span> <span>Dépendre d'une <b>star</b></span></li>
+    <li><span class="num">✗</span> <span>Les <b>lancers francs</b></span></li>
+  </ul>
+</section>
+
+<!-- 12 — CONCLUSION -->
+<section class="slide red">
+  <span class="tag">Conclusion</span>
+  <h2 style="margin-top:12px; color:#fff;">En LFB…</h2>
+  <p class="lead" style="color:#fff; font-size:clamp(17px,2.3vw,29px);">
+  On gagne par l'<b>efficacité</b>, à domicile, avec un cinq plus grand.<br><br>
+  Rien qu'en regardant le niveau des équipes, on devine le bon gagnant <b>2 fois sur 3</b>. Mais 1 fois sur 3, c'est la surprise qui gagne, et même en visant juste, on ne bat pas les sites de paris.</p>
+  <p class="lead" style="color:#F3D9D6;">Le basket garde une part d'aléa qu'aucun modèle ne capture.</p>
+</section>
+
+<!-- 15 — BROCHURE (livrable final) -->
+<section class="slide">
+  <span class="tag">Le livrable final</span>
+  <h2 style="margin-top:12px;">La brochure du parieur (2 pages)</h2>
+  <div class="brochure-prev"><iframe src="rendu_page2.html" title="brochure du parieur"></iframe></div>
+  <p class="lead muted">Document remis au jury. <a href="rendu_page2.html" target="_blank" onclick="event.stopPropagation()" style="color:var(--gold); font-weight:700;">Ouvrir la brochure</a> (rendu_page2.html).</p>
+</section>
+
+<div class="foot"><div><b>Loïc</b> · Facteurs et prédiction · LFB</div><div>← → pour naviguer · <span id="cnt"></span></div></div>
+<div class="bar" id="bar"></div>
+<div class="hint">← → naviguer · F plein écran · P imprimer</div>
+
+<script>
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  let i = 0;
+  function show(n){
+    i = Math.max(0, Math.min(slides.length-1, n));
+    slides.forEach((s,k)=>s.classList.toggle('on', k===i));
+    document.getElementById('cnt').textContent = (i+1)+' / '+slides.length;
+    document.getElementById('bar').style.width = ((i+1)/slides.length*100)+'%';
+  }
+  function next(){ show(i+1); } function prev(){ show(i-1); }
+  document.addEventListener('keydown', e=>{
+    if(['ArrowRight','ArrowDown',' ','PageDown'].includes(e.key)){ e.preventDefault(); next(); }
+    else if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){ e.preventDefault(); prev(); }
+    else if(e.key==='Home'){ show(0); } else if(e.key==='End'){ show(slides.length-1); }
+    else if(e.key.toLowerCase()==='f'){ if(!document.fullscreenElement) document.documentElement.requestFullscreen(); else document.exitFullscreen(); }
+    else if(e.key.toLowerCase()==='p'){ window.print(); }
+  });
+  document.addEventListener('click', e=>{ if(e.clientX < window.innerWidth*0.25) prev(); else next(); });
+  show(0);
+</script>
+</body>
+</html>
